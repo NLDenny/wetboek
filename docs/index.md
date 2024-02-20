@@ -1,6 +1,6 @@
 # Wettenbundel Los Santos
 
-**Geachte lezer**,, 
+**Geachte lezer**,
 
 Hartelijk welkom op deze pagina ontworpen door het United States Department of Justice. <br />
 Alle wetten zijn gebaseerd op het Nederlandse recht en toepasbaar gemaakt voor Los Santos. 
@@ -14,5 +14,8 @@ Mochten er onjuistheden worden geconstateerd neem dan contact op met het het Uni
 !!! info "Wijzigingen per 26 januari 2024"
 
     - Doxing is vanaf vandaag strafbaar gesteld. Zie hiervoor [artikel 285d](http://localhost:8000/sr/#artikel-285d-doxing) Wetboek van Strafrecht. 
+
+
+Dit is een test    
 
     
