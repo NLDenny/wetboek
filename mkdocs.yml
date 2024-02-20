@@ -44,10 +44,10 @@ theme:
 extra:
   social:
     - icon: fontawesome/brands/discord
-      link: https://discord.gg/xlroleplay
+      link: https://discord.gg/igniteroleplay
   generator: false    
 copyright: |
-  &copy; 2023-2024 <a href="https://www.youtube.com/watch?v=B9EH_nJ1kqY"  target="_blank" rel="noopener">Ignite Roleplay</a>
+  &copy; 2023-2024 <a href="https://www.igniteroleplay.nl/"  target="_blank" rel="noopener">Ignite Roleplay</a>
 markdown_extensions:
   - pymdownx.highlight:
       anchor_linenums: true
