@@ -74,6 +74,9 @@ In deze wet wordt verstaan onder:
 
 #####Artikel 3 | Onderdelen en hulpstukken
 ```
-1. De bepalingen betreffende wapens zijn mede van toepassing op hulpstukken die specifiek bestemd zijn voor die wapens, de essentiële onderdelen van vuurwapens en op de onderdelen van wapens die van wezenlijke aard zijn.
-2. De bepalingen betreffende munitie zijn mede van toepassing op onderdelen van die munitie, voorzover geschikt om munitie van te maken.
+1. De bepalingen betreffende wapens zijn mede van toepassing op hulpstukken die 
+   specifiek bestemd zijn voor die wapens, de essentiële onderdelen van 
+   vuurwapens en op de onderdelen van wapens die van wezenlijke aard zijn.
+2. De bepalingen betreffende munitie zijn mede van toepassing op onderdelen van 
+   die munitie, voorzover geschikt om munitie van te maken.
 ```
