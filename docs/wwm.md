@@ -5,27 +5,26 @@
 #####Artikel 1 | Begripsbepaling
 ```
 In deze wet wordt verstaan onder:
-1° Onze Minister: Onze Minister van Justitie en Veiligheid;
-2° vuurwapen: een voorwerp bestemd of geschikt om projectielen of stoffen door 
+1° vuurwapen: een voorwerp bestemd of geschikt om projectielen of stoffen door 
    een loop af te schieten, waarvan de werking berust op het teweegbrengen van 
    een scheikundige ontploffing of een andere scheikundige reactie;
-3° munitie: patronen en andere voorwerpen, bestemd of geschikt om een 
+2° munitie: patronen en andere voorwerpen, bestemd of geschikt om een 
    projectiel of een giftige, verstikkende, weerloosmakende, traanverwekkende 
    of soortgelijke stof door middel van een vuurwapen af te schieten of te 
    verspreiden, alsmede projectielen, bestemd om afgeschoten te worden door 
    middel van een vuurwapen;
-4° binnenkomen en uitgaan: het binnen het grondgebied van Los Santos komen, 
+3° binnenkomen en uitgaan: het binnen het grondgebied van Los Santos komen, 
    respectievelijk het verlaten van het grondgebied van Los Santos;
-5° doorvoer: binnenkomen gevolgd door uitgaan;
-6° vervoer van een wapen: het op de openbare weg of andere voor het publiek 
+4° doorvoer: binnenkomen gevolgd door uitgaan;
+5° vervoer van een wapen: het op de openbare weg of andere voor het publiek 
    toegankelijke plaatsen bij zich hebben van een wapen dat zodanig is verpakt, 
    dat het niet voor onmiddellijk gebruik kan worden aangewend; vervoer van 
    munitie: het op de openbare weg of andere voor het publiek toegankelijke 
    plaatsen bij zich hebben van munitie;
-7° dragen van een wapen: het op de openbare weg of andere voor het publiek 
+6° dragen van een wapen: het op de openbare weg of andere voor het publiek 
    toegankelijke plaatsen bij zich hebben van een wapen anders dan voor vervoer 
    in de onder 6° bedoelde zin;
-8° overdragen: het aan een ander doen overgaan van de feitelijke macht.
+7° overdragen: het aan een ander doen overgaan van de feitelijke macht.
 ```
 
 #####Artikel 2 | Categorieën wapens & munitie
@@ -104,7 +103,7 @@ In deze wet wordt verstaan onder:
 
 ### § 3 | Bepalingen voor wapens van categorie I
 
-#####Artikel 13 | Vervaardigen etc.
+#####Artikel 13 | Categorie I
 ```
 1. Het is verboden een wapen van categorie I te vervaardigen, te transformeren, 
    voor derden te herstellen, over te dragen, voorhanden te hebben, te dragen, 
@@ -113,39 +112,45 @@ In deze wet wordt verstaan onder:
    of meer verboden genoemd in het eerste lid, met het oog op:
    a. gebruik door de politie en de overige openbare dienst;
    b. onderwijs ten behoeve van de politie en de overige openbare dienst.
-3. Met [STRAFMAAT] wordt gestraft hij die handelt in strijd met het eerste lid.
+3. Met [STRAFMAAT] wordt gestraft hij die handelt in strijd met het 
+   eerste lid.
 ```
 
 ### § 5 | Vervoer van wapens en munitie van de categorieën II en III
 
-#####Artikel 22 | Vervoer
+#####Artikel 22 | Vervoer categorie II en III
 ```
-1. Het is verboden een wapen of munitie van de categorieën II en III te vervoeren.
-2. Met [STRAFMAAT] wordt gestraft hij die handelt in strijd met het eerste lid.
+1. Het is verboden een wapen of munitie van de categorieën II en III te 
+   vervoeren.
+2. Met [STRAFMAAT] wordt gestraft hij die handelt in strijd met het 
+   eerste lid.
 ```
 
 ### § 6 | Voorhanden hebben en dragen van wapens en munitie van de categorieën II, III en IV
 
-#####Artikel 26 | Verbodsbepaling
+#####Artikel 26 | Voorhanden hebben categorie II en III
 ```
 1. Het is verboden een wapen of munitie van de categorieën II en III voorhanden 
    te hebben.
-2. Met [STRAFMAAT] wordt gestraft hij die handelt in strijd met het eerste lid.   
+2. Met [STRAFMAAT] wordt gestraft hij die handelt in strijd met het 
+   eerste lid.   
 ```
 
-#####Artikel 27 | Dragen
+#####Artikel 27 | Dragen categorie II, III en IV
 ```
 1. Het is verboden een wapen van de categorieën II, III en IV te dragen.
-2. Met [STRAFMAAT] wordt gestraft hij die handelt in strijd met het eerste lid.
+2. Met [STRAFMAAT] wordt gestraft hij die handelt in strijd met het 
+   eerste lid.
 ```
 
 ### § 7 | Overdracht en verkrijging van wapens en munitie van de categorieën II, III en IV
 
-#####Artikel 31 | Verbodsbepaling
+#####Artikel 31 | Overdragen categorie II en III
 ```
 1. Het is verboden een wapen of munitie van de categorieën II en III over 
    te dragen.
-2. Met [STRAFMAAT] wordt gestraft hij die handelt in strijd met het eerste lid.   
+2. Met [STRAFMAAT] wordt gestraft hij die handelt in strijd met het 
+   eerste lid.   
 ```
 
 ### § 11A | Opsporing
@@ -199,5 +204,3 @@ ter inbeslagneming doorzoeking doen.
    c. aanwijzingen dat een strafbaar feit als bedoeld onder a of b zal worden 
       gepleegd.
 ```
-
-### § 12 | Strafbepalingen

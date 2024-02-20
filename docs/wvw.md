@@ -45,9 +45,11 @@ Het CBR is belast met de volgende taken:
 
 #####Artikel 5 | Gevaar/hinder
 ```
-Het is een ieder verboden zich zodanig te gedragen dat gevaar op de weg wordt 
-veroorzaakt of kan worden veroorzaakt of dat het verkeer op de weg wordt 
-gehinderd of kan worden gehinderd.
+1. Het is een ieder verboden zich zodanig te gedragen dat gevaar op de weg 
+   wordt veroorzaakt of kan worden veroorzaakt of dat het verkeer op de weg 
+   wordt gehinderd of kan worden gehinderd.
+2. Met [STRAFMAAT] wordt gestraft hij die handelt in strijd met het 
+   eerste lid.      
 ```
 
 #####Artikel 5a | Levensgevaar of gevaar voor zwaar lichamelijk letsel
@@ -74,15 +76,20 @@ gehinderd of kan worden gehinderd.
 2. Bij de toepassing van het eerste lid wordt mede in aanmerking genomen de 
    mate waarin de verdachte verkeerde in de toestand, bedoeld in artikel 8, 
    eerste, tweede, derde, vierde of vijfde lid.   
+3. Met [STRAFMAAT] wordt gestraft hij die handelt in strijd met het 
+   eerste lid.      
 ```
 
 #####Artikel 6 | Veroorzaken verkeersongeval
 ```
-Het is een ieder die aan het verkeer deelneemt verboden zich zodanig te 
-gedragen dat een aan zijn schuld te wijten verkeersongeval plaatsvindt 
-waardoor een ander wordt gedood of waardoor een ander zwaar lichamelijk 
-letsel wordt toegebracht of zodanig lichamelijk letsel dat daaruit tijdelijke 
-ziekte of verhindering in de uitoefening van de normale bezigheden ontstaat.
+1. Het is een ieder die aan het verkeer deelneemt verboden zich zodanig te 
+   gedragen dat een aan zijn schuld te wijten verkeersongeval plaatsvindt 
+   waardoor een ander wordt gedood of waardoor een ander zwaar lichamelijk 
+   letsel wordt toegebracht of zodanig lichamelijk letsel dat daaruit 
+   tijdelijke ziekte of verhindering in de uitoefening van de normale 
+   bezigheden ontstaat.
+2. Met [STRAFMAAT] wordt gestraft hij die handelt in strijd met het 
+   eerste lid.      
 ```
 
 #####Artikel 7 | Verlaten plaats ongeval
@@ -101,6 +108,8 @@ ziekte of verhindering in de uitoefening van de normale bezigheden ontstaat.
    degene die op de plaats van het ongeval behoorlijk de gelegenheid heeft 
    geboden tot vaststelling van zijn identiteit en, voor zover hij een 
    motorrijtuig bestuurde, tevens van de identiteit van dat motorrijtuig.   
+3. Met [STRAFMAAT] wordt gestraft hij die handelt in strijd met het 
+   eerste lid.      
 ```
 
 #####Artikel 8 | Besturen onder invloed
@@ -125,7 +134,25 @@ ziekte of verhindering in de uitoefening van de normale bezigheden ontstaat.
    a. het alcoholgehalte van zijn adem bij een onderzoek hoger blijkt te zijn 
       dan 88 microgram alcohol per liter uitgeademde lucht, dan wel
    b. het alcoholgehalte van zijn bloed bij een onderzoek hoger blijkt te zijn 
-      dan 0,2 milligram per milliliter bloed,   
+      dan 0,2 milligram per milliliter bloed, 
+4. Het is een ieder verboden een voertuig te besturen, als bestuurder te doen 
+   besturen na gebruik van een of meer van de bij algemene maatregel van 
+   bestuur aangewezen stoffen als bedoeld in het eerste lid, waardoor het 
+   gehalte in zijn bloed van de bij de stof vermelde meetbare stof, of in geval 
+   van gebruik van meer stoffen als bedoeld in het eerste lid die bij algemene 
+   maatregel van bestuur aangewezen zijn als groep, het totale gehalte in zijn 
+   bloed van de bij die stoffen vermelde meetbare stoffen, bij een onderzoek 
+   hoger blijkt te zijn dan de daarbij vermelde grenswaarde. Indien een van de 
+   bij algemene maatregel van bestuur aangewezen stoffen of alcohol in 
+   combinatie wordt gebruikt met een of meer andere van deze aangewezen stoffen 
+   of met een van de stoffen als bedoeld in het eerste lid die niet bij deze 
+   algemene maatregel van bestuur zijn aangewezen, geldt voor iedere aangewezen 
+   stof of alcohol afzonderlijk een bij algemene maatregel van bestuur vast te 
+   stellen grenswaarde. Die grenswaarde is gelijk aan de laagst meetbare 
+   hoeveelheid van die stof of alcohol die niet op natuurlijke wijze in het 
+   bloed aanwezig kan zijn.
+5. Met [STRAFMAAT] wordt gestraft hij die handelt in strijd met het 
+   eerste, tweede, derde of vierde lid.              
 ```
 
 #####Artikel 10 | Wedstrijdverbod
@@ -139,10 +166,109 @@ ziekte of verhindering in de uitoefening van de normale bezigheden ontstaat.
 3. Als deelnemer wordt beschouwd de bestuurder van een voertuig waarmee aan een 
    wedstrijd wordt deelgenomen, en de eigenaar of houder van een voertuig, die 
    daarmee aan een wedstrijd doet of laat deelnemen.
+4. Met [STRAFMAAT] wordt gestraft hij die handelt in strijd met het 
+   eerste lid.      
 ```
 
 #####Artikel 11 | Joyriding
 ```
-Het is verboden opzettelijk wederrechtelijk een aan een ander toebehorend 
-motorrijtuig op de weg te gebruiken.
+1. Het is verboden opzettelijk wederrechtelijk een aan een ander toebehorend 
+   motorrijtuig op de weg te gebruiken.
+2. Met [STRAFMAAT] wordt gestraft hij die handelt in strijd met het 
+   eerste lid.      
+```
+
+#### HOOFDSTUK IV. Kentekens
+
+#####Artikel 40 | Zichtbaarheid
+```
+1. Het kenteken dient behoorlijk zichtbaar op of aan het motorrijtuig aanwezig 
+   te zijn.
+2. Voor overtreding van het eerste lid zijn aansprakelijk:
+   a. voor zover het betreft een motorrijtuig, de eigenaar of houder die het 
+      motorrijtuig op de weg laat staan of daarmee over de weg laat rijden, 
+      alsmede in het geval dat met dat motorrijtuig over de weg wordt gereden, 
+      de bestuurder. 
+3. Met [STRAFMAAT] wordt gestraft hij die handelt in strijd met het 
+   eerste lid.         
+```
+
+#### HOOFDSTUK IX. Toezicht en opsporing
+
+#####Artikel 159 | Opsporingsbevoegdheid
+```
+Met de opsporing van de feiten, strafbaar gesteld bij of krachtens deze wet, 
+zijn belast:
+a. de in de artikelen 141 en 142 van het Wetboek van Strafvordering bedoelde 
+   personen.
+```
+
+#####Artikel 160 | Doen stilhouden
+```
+1. Op de eerste vordering van de in artikel 159 bedoelde personen is de 
+   bestuurder van een motorrijtuig verplicht dat motorrijtuig te doen 
+   stilhouden alsmede de volgende bewijzen behoorlijk ter inzage af te 
+   geven:
+   a. het rijbewijs.
+2. Op de eerste vordering van een van de in artikel 159, onderdeel a, bedoelde 
+   personen zijn de bestuurder van een voertuig, degene die aanstalten maakt 
+   een voertuig te gaan besturen, verplicht hun medewerking te verlenen aan:   
+   a. een onderzoek van de psychomotorische functies en de oog- en 
+      spraakfuncties, ter vaststelling van een mogelijke overtreding van 
+      artikel 8, eerste of vierde lid,
+   b. een voorlopig onderzoek van uitgeademde lucht, ter vaststelling van een 
+      mogelijke overtreding van artikel 8, tweede of derde lid, of
+   c. een onderzoek van speeksel, ter vaststelling van een mogelijke 
+      overtreding van artikel 8, vierde lid, alsmede
+      de aanwijzingen die die persoon in dat kader geeft, op te volgen.
+3. Met [STRAFMAAT] wordt gestraft hij die handelt in strijd met het 
+   eerste of tweede lid.         
+```
+
+#####Artikel 163 | Blaastest en Bloedonderzoek
+```
+1. Bij verdenking dat de bestuurder van een voertuig heeft gehandeld in strijd 
+   met artikel 8, kan de opsporingsambtenaar hem bevelen zijn medewerking te 
+   verlenen aan een onderzoek als bedoeld in artikel 8, tweede lid, onderdeel 
+   a, en artikel 8, derde lid, onderdeel a.
+2. De bestuurder aan wie het in het eerste lid bedoelde bevel is gegeven, is 
+   verplicht ademlucht te blazen in een voor het onderzoek bestemd apparaat 
+   en gevolg te geven aan alle door de opsporingsambtenaar ten dienste van het 
+   onderzoek gegeven aanwijzingen.   
+3. De in het tweede lid genoemde verplichtingen gelden niet voor de verdachte 
+   van wie aannemelijk is, dat het verlenen van medewerking aan een 
+   ademonderzoek voor hem om bijzondere geneeskundige redenen onwenselijk is. 
+4. In het geval, bedoeld in het derde lid, of indien de medewerking van de 
+   verdachte niet heeft geleid tot een voltooid ademonderzoek, of indien het 
+   vermoeden bestaat dat de verdachte onder invloed is van een of meer 
+   middelen, bedoeld in artikel 8, eerste of vierde lid, of een combinatie 
+   van die middelen met alcohol, kan de opsporingsambtenaar de verdachte vragen 
+   of hij zijn toestemming geeft tot het verrichten van een onderzoek als 
+   bedoeld in artikel 8, tweede lid, onderdeel b, of artikel 8, derde lid, 
+   onderdeel b.   
+5. Indien de bestuurder zijn op grond van het vierde lid gevraagde 
+   toestemming niet verleent, kan een ambtenaar van politie, aangesteld voor 
+   de uitvoering van de politietaak, hem bevelen zich te onderwerpen aan een 
+   bloedonderzoek. 
+6. De bestuurder wie is bevolen zich aan een bloedonderzoek te onderwerpen, 
+   is verplicht aan dit bevel gevolg te geven en zijn medewerking te 
+   verlenen. Hem wordt zoveel bloed afgenomen als voor het onderzoek 
+   noodzakelijk is.
+7. Met [STRAFMAAT] wordt gestraft hij die handelt in strijd met het 
+   tweede, vijfde of zesde lid.             
+```
+
+#####Artikel 165 | Bekendmaking naam bestuurder
+```
+1. Indien een bij deze wet als misdrijf strafbaar gesteld feit wordt begaan 
+   door een bij de ontdekking van het feit onbekend gebleven bestuurder van 
+   een motorrijtuig, is de eigenaar of houder van dat motorrijtuig verplicht 
+   op vordering van een der in artikel 159 bedoelde personen binnen een daarbij 
+   te stellen termijn, die ten minste achtenveertig uren bedraagt, de naam en 
+   het volledige adres van de bestuurder bekend te maken.      
+2. Het eerste lid geldt niet, indien de eigenaar of houder niet heeft kunnen 
+   vaststellen wie de bestuurder was en hem daarvan redelijkerwijs geen verwijt 
+   kan worden gemaakt.
+3. Met [STRAFMAAT] wordt gestraft hij die handelt in strijd met het 
+   eerste lid.      
 ```

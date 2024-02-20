@@ -92,6 +92,7 @@ Duur: aantal maanden/ aantal uren
 
 #####TO DO
 ○ Lijst I (harddrugs) & lijst II (softdrugs) invullen voor items die ingame onder de opiumwetgeving vallen.<br />
+○ Zijn er bepaalde artikelen overbodig, of missen er juist bepaalde dingen? <br />
 ○ Vaststellen type, duur en boetebedrag van onderstaande strafbepalingen.
 
 #####Strafbepalingen
@@ -103,10 +104,70 @@ Duur: aantal maanden/ aantal uren
 [Artikel 10](/opw/#artikel-10-strafbepaling-lijst-i)| Strafbepaling Lijst I |  |  | € |
 [Artikel 11](/opw/#artikel-11-strafbepaling-lijst-ii)| Strafbepaling Lijst II |  |  | € |
 
+#### [Wet wapens en munitie](/wwm)
 
+#####TO DO
+○ Zijn er bepaalde artikelen overbodig, of missen er juist bepaalde dingen? <br />
+○ Vaststellen type, duur en boetebedrag van onderstaande strafbepalingen.
+
+#####Strafbepalingen
+Type: gevangenisstraf/ taakstraf <br />
+Duur: aantal maanden/ aantal uren
+
+|Artikel|Feit|Type|Duur|Boetebedrag|
+|:---|:---:|:---|:---:|---:|
+[Artikel 13](/wwm/#artikel-13-categorie-i)| Categorie I |  |  | € |
+[Artikel 22](/wwm/#artikel-22-vervoer-categorie-ii-en-iii)| Vervoer categorie II en III |  |  | € |
+[Artikel 26](/wwm/#artikel-26-voorhanden-hebben-categorie-ii-en-iii)| Voorhanden hebben categorie II en III |  |  | € |
+[Artikel 27](/wwm/#artikel-27-dragen-categorie-ii-iii-en-iv)| Dragen categorie II, III en IV |  |  | € |
+[Artikel 31](/wwm/#artikel-31-overdragen-categorie-ii-en-iii)| Overdragen categorie II en III |  |  | € |
+
+#### [Wegenverkeerswet 1994](/wvw)
+
+#####TO DO
+○ Zijn er bepaalde artikelen overbodig, of missen er juist bepaalde dingen? <br />
+○ Vaststellen type, duur en boetebedrag van onderstaande strafbepalingen.
+
+#####Strafbepalingen
+Type: gevangenisstraf/ taakstraf <br />
+Duur: aantal maanden/ aantal uren
+
+|Artikel|Feit|Type|Duur|Boetebedrag|
+|:---|:---:|:---|:---:|---:|
+[Artikel 5](/wvw/#artikel-5-gevaarhinder)| Gevaar/hinder veroorzaken |  |  | € |
+[Artikel 5a](/wvw/#artikel-5a-levensgevaar-of-gevaar-voor-zwaar-lichamelijk-letsel)| Levensgevaar of gevaar voor zwaar lichamelijk letsel |  |  | € |
+[Artikel 6](/wvw/#artikel-6-veroorzaken-verkeersongeval)| Veroorzaken verkeersongeval |  |  | € |
+[Artikel 7](/wvw/#artikel-7-verlaten-plaats-ongeval)| Verlaten plaats ongeval |  |  | € |
+[Artikel 8](/wvw/#artikel-8-besturen-onder-invloed)| Besturen onder invloed |  |  | € |
+[Artikel 10](/wvw/#artikel-10-wedstrijdverbod)| Wedstrijdverbod |  |  | € |
+[Artikel 11](/wvw/#artikel-11-joyriding)| Joyriding |  |  | € |
+[Artikel 40](/wvw/#artikel-40-zichtbaarheid)| Zichtbaarheid kenteken |  |  | € |
+[Artikel 160](/wvw/#artikel-160-doen-stilhouden)| Doen stilhouden/ medewerking blaastest |  |  | € |
+[Artikel 163](/wvw/#artikel-163-blaastest-en-bloedonderzoek)| Negeren blaastest/bloedonderzoek bij verdenking |  |  | € |
+[Artikel 165](/wvw/#artikel-165-bekendmaking-naam-bestuurder)| Bekendmaking naam bestuurder |  |  | € |
+
+#### [Wet gedeeltelijk verbod gezichtsbedekkende kleding](/wgvgk)
+
+#####TO DO
+○ Zijn er bepaalde artikelen overbodig, of missen er juist bepaalde dingen? <br />
+○ Vaststellen type, duur en boetebedrag van onderstaande strafbepalingen.
+
+#####Strafbepalingen
+Type: gevangenisstraf/ taakstraf <br />
+Duur: aantal maanden/ aantal uren
+
+|Artikel|Feit|Type|Duur|Boetebedrag|
+|:---|:---:|:---|:---:|---:|
+[Artikel 2](/wgvgk/#artikel-2)| Gezichtsbedekking dragen |  |  | € |
+
+#### [Wet op de identificatieplicht](/wid)
+
+#####TO DO
+○ Zijn er bepaalde artikelen overbodig, of missen er juist bepaalde dingen?
 
 
 #### [Algemene wet op het binnentreden](/awbi)
 
 #####TO DO
+○ Zijn er bepaalde artikelen overbodig, of missen er juist bepaalde dingen? <br />
 ○ Vaststellen wie een machtiging tot binnentreden mag uitschrijven (zie: [Artikel 3](/awbi/#artikel-3-bevoegdheid-tot-machtiging)).
