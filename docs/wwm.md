@@ -32,44 +32,65 @@ In deze wet wordt verstaan onder:
 ```
 1. Wapens in de zin van deze wet zijn de hieronder vermelde of 
    overeenkomstig dit artikellid aangewezen voorwerpen, onderverdeeld 
-   in de volgende categorieën.
-   Categorie I
-    1° switchblade
-    2°
-    3° boksbeugel en geluiddemper voor vuurwapens; 
-    4°
-    5°
-   Categorie II
-    1°
-    2°
-    3°
-    4°
-    5°
-   Categorie III
-    1°
-    2°
-    3°
-    4°
-    5°
-   Categorie IV
-    1° dolk, mes
-    2° machete
-    3° wapenstok
-    4° Voorwerpen waarvan, gelet op hun aard of de omstandigheden waaronder 
-       zij worden aangetroffen, redelijkerwijs kan worden aangenomen dat zij 
-       zijn bestemd om letsel aan personen toe te brengen of te dreigen en 
-       die niet onder een van de andere categorieën vallen.
+   in de volgende categorieën. 
+
+      Categorie I
+         1° switchblade;
+         2° boksbeugel en geluiddemper voor vuurwapens.
+
+      Categorie II
+         1° vuurwapens die niet onder een van de andere categorieën vallen;
+         2° vuurwapens, geschikt om automatisch te vuren;
+         3° voorwerpen waarmee door een elektrische stroomstoot personen 
+            weerloos kunnen worden gemaakt of pijn kan worden toegebracht, 
+            met uitzondering van medische hulpmiddelen;
+         4° voorwerpen, bestemd voor het treffen van personen met giftige, 
+            verstikkende, weerloosmakende, traanverwekkende en soortgelijke 
+            stoffen, met uitzondering van medische hulpmiddelen en van 
+            vuurwapens in de vorm van geweren, revolvers en pistolen, 
+            bestemd voor het afschieten van munitie met weerloosmakende 
+            of traanverwekkende stof;
+         5° voorwerpen bestemd voor het treffen van personen of zaken door 
+            vuur of door middel van ontploffing.
+
+      Categorie III
+         1° vuurwapens in de vorm van geweren, revolvers en pistolen voor 
+            zover zij niet vallen onder categorie II sub 2° of 4°.
+
+      Categorie IV
+         1° dolk, mes;
+         2° machete;
+         3° wapenstok;
+         4° Voorwerpen waarvan, gelet op hun aard of de omstandigheden 
+            waaronder zij worden aangetroffen, redelijkerwijs kan worden 
+            aangenomen dat zij zijn bestemd om letsel aan personen toe 
+            te brengen of te dreigen en die niet onder een van de andere 
+            categorieën vallen.
+
 2. Munitie in de zin van deze wet is, onderverdeeld in de 
    volgende categorieën: 
-   Categorie I
-    (Vervallen)
-   Categorie II 
-    1° munitie die uitsluitend geschikt voor vuurwapens van categorie II is;
-    2° 
-    3°
-    4°
-   Categorie III
-    Alle overige munitie. 
+
+      Categorie I
+      (Vervallen)
+
+      Categorie II 
+         1° munitie die uitsluitend geschikt voor vuurwapens van categorie II 
+            is;
+         2° munitie die een giftige, verstikkende, weerloosmakende, 
+            traanverwekkende of soortgelijke stof verspreidt, met uitzondering 
+            van munitie met weerloosmakende of traanverwekkende stof, bestemd 
+            voor vuurwapens in de vorm van geweren, revolvers en pistolen;
+         3° munitie voorzien van een projectiel waarmee een pantserplaat kan 
+            worden doorboord, munitie voorzien van een projectiel met brandsas 
+            of met een explosieve lading, alsmede de voor deze munitie bestemde 
+            projectielen;
+         4° munitie voor geweren, revolvers en pistolen voorzien van 
+            expanderende projectielen, alsmede de voor deze munitie bestemde 
+            projectielen, behalve wanneer het voor de jacht of de schietsport 
+            bestemde munitie of projectielen betreft.
+
+      Categorie III
+         Alle overige munitie. 
 ```
 
 #####Artikel 3 | Onderdelen en hulpstukken
@@ -80,3 +101,103 @@ In deze wet wordt verstaan onder:
 2. De bepalingen betreffende munitie zijn mede van toepassing op onderdelen van 
    die munitie, voorzover geschikt om munitie van te maken.
 ```
+
+### § 3 | Bepalingen voor wapens van categorie I
+
+#####Artikel 13 | Vervaardigen etc.
+```
+1. Het is verboden een wapen van categorie I te vervaardigen, te transformeren, 
+   voor derden te herstellen, over te dragen, voorhanden te hebben, te dragen, 
+   te vervoeren, te doen binnenkomen of te doen uitgaan.
+2. Het United States Department of Justice kan, ontheffing verlenen van een 
+   of meer verboden genoemd in het eerste lid, met het oog op:
+   a. gebruik door de politie en de overige openbare dienst;
+   b. onderwijs ten behoeve van de politie en de overige openbare dienst.
+3. Met [STRAFMAAT] wordt gestraft hij die handelt in strijd met het eerste lid.
+```
+
+### § 5 | Vervoer van wapens en munitie van de categorieën II en III
+
+#####Artikel 22 | Vervoer
+```
+1. Het is verboden een wapen of munitie van de categorieën II en III te vervoeren.
+2. Met [STRAFMAAT] wordt gestraft hij die handelt in strijd met het eerste lid.
+```
+
+### § 6 | Voorhanden hebben en dragen van wapens en munitie van de categorieën II, III en IV
+
+#####Artikel 26 | Verbodsbepaling
+```
+1. Het is verboden een wapen of munitie van de categorieën II en III voorhanden 
+   te hebben.
+2. Met [STRAFMAAT] wordt gestraft hij die handelt in strijd met het eerste lid.   
+```
+
+#####Artikel 27 | Dragen
+```
+1. Het is verboden een wapen van de categorieën II, III en IV te dragen.
+2. Met [STRAFMAAT] wordt gestraft hij die handelt in strijd met het eerste lid.
+```
+
+### § 7 | Overdracht en verkrijging van wapens en munitie van de categorieën II, III en IV
+
+#####Artikel 31 | Verbodsbepaling
+```
+1. Het is verboden een wapen of munitie van de categorieën II en III over 
+   te dragen.
+2. Met [STRAFMAAT] wordt gestraft hij die handelt in strijd met het eerste lid.   
+```
+
+### § 11A | Opsporing
+
+#####Artikel 49 | Doorzoeking
+```
+De opsporingsambtenaren kunnen te allen tijde op plaatsen waar zij 
+redelijkerwijs kunnen vermoeden dat wapens of munitie aanwezig zijn, 
+ter inbeslagneming doorzoeking doen.
+```
+
+#####Artikel 50 | Openen verpakking
+```
+1. De opsporingsambtenaren zijn bevoegd te vorderen dat de verpakking van 
+   goederen, met inbegrip van reisbagage, wordt geopend, indien daartoe 
+   redelijkerwijs aanleiding bestaat op grond van:
+   a. een gepleegd strafbaar feit waarbij wapens zijn gebruikt;
+   b. een gepleegde overtreding van de artikelen 13, 26 of 27;
+   c. aanwijzingen dat een strafbaar feit als bedoeld onder a of b 
+      zal worden gepleegd.
+2. De in het eerste lid bedoelde bevoegdheid kan slechts worden uitgeoefend 
+   tegen bepaalde personen, indien daartoe jegens hen aanleiding bestaat.       
+```
+
+#####Artikel 51 | Onderzoek vervoermiddelen
+```
+1. De opsporingsambtenaren zijn bevoegd vervoermiddelen te onderzoeken indien 
+   daartoe redelijkerwijs aanleiding bestaat op grond van:
+   a. een gepleegd strafbaar feit waarbij wapens zijn gebruikt;
+   b. een gepleegde overtreding van de artikelen 13, 26 of 27;
+   c. aanwijzingen dat een strafbaar feit als bedoeld onder a of b zal worden 
+      gepleegd.
+2. De in het eerste lid bedoelde bevoegdheid kan slechts worden uitgeoefend 
+   ten aanzien van bepaalde vervoermiddelen, indien daartoe jegens deze 
+   aanleiding bestaat.
+3. De opsporingsambtenaren kunnen van de bestuurders van voertuigen en van de 
+   schippers van vaartuigen daartoe vorderen dat deze de vervoermiddelen tot 
+   stilstand brengen, deze vervoermiddelen naar een door hen aangewezen 
+   plaats overbrengen en overeenkomstig hun aanwijzingen terzake medewerking 
+   verlenen.   
+```
+
+#####Artikel 52 | Inbeslagneming & Onderzoek kleding
+```
+1. De opsporingsambtenaren zijn te allen tijde bevoegd tot inbeslagneming van 
+   daarvoor vatbare voorwerpen. Zij kunnen daartoe hun uitlevering vorderen.
+2. De opsporingsambtenaren zijn bevoegd personen aan hun kleding te onderzoeken 
+   indien daartoe redelijkerwijs aanleiding bestaat op grond van:
+   a. een gepleegd strafbaar feit waarbij wapens zijn gebruikt;
+   b. een gepleegde overtreding van de artikelen 13, 26 of 27;
+   c. aanwijzingen dat een strafbaar feit als bedoeld onder a of b zal worden 
+      gepleegd.
+```
+
+### § 12 | Strafbepalingen

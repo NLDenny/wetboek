@@ -1,4 +1,4 @@
-# Overzicht
+# Instructies 
 
 #### [Home](/)
 
@@ -100,5 +100,13 @@ Duur: aantal maanden/ aantal uren
 
 |Artikel|Feit|Type|Duur|Boetebedrag|
 |:---|:---:|:---|:---:|---:|
-[Artikel 10](/sr/#artikel-10-strafbepaling-lijst-i)| Strafbepaling Lijst I |  |  | € |
-[Artikel 11](/sr/#artikel-11-strafbepaling-lijst-ii)| Strafbepaling Lijst II |  |  | € |
+[Artikel 10](/opw/#artikel-10-strafbepaling-lijst-i)| Strafbepaling Lijst I |  |  | € |
+[Artikel 11](/opw/#artikel-11-strafbepaling-lijst-ii)| Strafbepaling Lijst II |  |  | € |
+
+
+
+
+#### [Algemene wet op het binnentreden](/awbi)
+
+#####TO DO
+○ Vaststellen wie een machtiging tot binnentreden mag uitschrijven (zie: [Artikel 3](/awbi/#artikel-3-bevoegdheid-tot-machtiging)).

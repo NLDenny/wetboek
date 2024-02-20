@@ -44,8 +44,8 @@
 #####Artikel 3 | Bevoegdheid tot machtiging
 ```
 1. Bevoegd tot het geven van een machtiging tot binnentreden zijn:
-   a. de officier van justitie;
-   b. de hulpofficier van justitie.  
+   a. [?];
+   b. [?].  
 2. Degene die bevoegd is een machtiging te geven, gaat daartoe slechts over, 
    indien het doel waartoe wordt binnengetreden het binnentreden zonder 
    toestemming van de bewoner redelijkerwijs vereist.   
