@@ -40,7 +40,7 @@ is begaan, dan wel die zich nadien hebben voorgedaan, kan hij in het vonnis
 bepalen dat geen straf of maatregel zal worden opgelegd.
 ```
 
-#####Artikel 10 | Duur gevangenisstraf
+#####Artikel 10 | Duur gevangenisstraf JE MOEDER
 ```
 1. De gevangenisstraf is tijdelijk.
 2. De duur van de tijdelijke gevangenisstraf is ten minste [AANTAL] maanden 
