@@ -165,7 +165,6 @@ Duur: aantal maanden/ aantal uren
 #####TO DO
 ○ Zijn er bepaalde artikelen overbodig, of missen er juist bepaalde dingen?
 
-
 #### [Algemene wet op het binnentreden](/awbi)
 
 #####TO DO

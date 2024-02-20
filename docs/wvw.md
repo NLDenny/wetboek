@@ -193,6 +193,20 @@ Het CBR is belast met de volgende taken:
    eerste lid.         
 ```
 
+#### HOOFDSTUK VI. Rijvaardigheid en rijbevoegdheid
+
+#####Artikel 107 | Rijbewijs
+```
+1. Aan de bestuurder van een motorrijtuig op de weg dient door de daartoe 
+   bevoegde autoriteit een rijbewijs te zijn afgegeven voor het besturen 
+   van motorrijtuigen van de categorie waartoe dat motorrijtuig behoort.     
+2. Het rijbewijs dient:
+   a. te voldoen aan de bij ministeriële regeling vastgestelde eisen inzake 
+      inrichting, uitvoering en invulling,
+   b. zijn geldigheid niet te hebben verloren, en
+   c. behoorlijk leesbaar te zijn.
+```
+
 #### HOOFDSTUK IX. Toezicht en opsporing
 
 #####Artikel 159 | Opsporingsbevoegdheid
