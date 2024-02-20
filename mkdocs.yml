@@ -1,4 +1,5 @@
 site_name: Ignite
+site_url: 'http://wetboek-igniteroleplay.nl/'
 theme:
   name: material
   features:
