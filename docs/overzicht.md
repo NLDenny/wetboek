@@ -8,9 +8,10 @@ Vrijheid om de gehele beginpagina naar wens in te vullen. <br />
 #### [Wetboek van Strafrecht](/sr)
 
 #####TO DO
-○ Vaststellen minimale en maximale duur gevangenisstraf (zie: [Artikel 10](/sr/#artikel-10-duur-gevangenisstraf)) <br />
-○ Vaststellen maximale duur taakstraf (zie: [Artikel 22C](/sr/#artikel-22c-taakstraf)) <br />
-○ Zijn er bepaalde artikelen overbodig, of missen er juist bepaalde dingen?
+○ Vaststellen minimale en maximale duur gevangenisstraf (zie: [Artikel 10](/sr/#artikel-10-duur-gevangenisstraf)). <br />
+○ Vaststellen maximale duur taakstraf (zie: [Artikel 22C](/sr/#artikel-22c-taakstraf)). <br />
+○ Zijn er bepaalde artikelen overbodig, of missen er juist bepaalde dingen? <br />
+○ Vaststellen type, duur en boetebedrag van onderstaande strafbepalingen.
 
 #####Strafbepalingen
 Type: gevangenisstraf/ taakstraf <br />
@@ -90,3 +91,14 @@ Duur: aantal maanden/ aantal uren
 #### [Opiumwet](/opw)
 
 #####TO DO
+○ Lijst I (harddrugs) & lijst II (softdrugs) invullen voor items die ingame onder de opiumwetgeving vallen.<br />
+○ Vaststellen type, duur en boetebedrag van onderstaande strafbepalingen.
+
+#####Strafbepalingen
+Type: gevangenisstraf/ taakstraf <br />
+Duur: aantal maanden/ aantal uren
+
+|Artikel|Feit|Type|Duur|Boetebedrag|
+|:---|:---:|:---|:---:|---:|
+[Artikel 10](/sr/#artikel-10-strafbepaling-lijst-i)| Strafbepaling Lijst I |  |  | € |
+[Artikel 11](/sr/#artikel-11-strafbepaling-lijst-ii)| Strafbepaling Lijst II |  |  | € |

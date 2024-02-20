@@ -22,7 +22,7 @@ C. aanwezig te hebben;
 D. te vervaardigen. 
 ```
 
-#####Artikel 3 | Verbodsbepalingen lijst II
+#####Artikel 3 | Verbodsbepalingen Lijst II
 ```
 Het is verboden een middel als bedoeld in de bij deze wet behorende lijst II:
 A. binnen of buiten het grondgebied van Los Santos te brengen;
@@ -53,13 +53,13 @@ D. te vervaardigen.
 #####Artikel 10 | Strafbepaling Lijst I
 ```
 Hij die handelt in strijd met het in artikel 2 gegeven verbod, wordt 
-gestraft met gevangenisstraf van ten hoogste [AANTAL] maanden.    
+gestraft met [STRAFMAAT].    
 ```
 
 #####Artikel 11 | Strafbepaling Lijst II
 ```
 Hij die handelt in strijd met een in artikel 3 gegeven verbod, wordt 
-gestraft met met gevangenisstraf van ten hoogste [AANTAL] maanden. 
+gestraft met met [STRAFMAAT].
 ```
 
 #### Lijst I
@@ -80,11 +80,11 @@ oxycodon| - |  |
 -| hasjiesj | een gebruikelijk vast mengsel van de afgescheiden hars verkregen van planten van het geslacht Cannabis (hennep), met plantaardige elementen van deze planten |
 -| hennep | elk deel van de plant van het geslacht Cannabis (hennep), waaraan de hars niet is onttrokken, met uitzondering van de zaden |
 
-??? question "Hoe werkt het gedoogbeleid?"
+<!-- ??? question "Hoe werkt het gedoogbeleid?"
 
     Personen worden niet vervolgt als zij kleine hoeveelheden softdrugs bezitten. Het gaat hier om:
         
     - maximaal 5 gram cannabis (wiet, hasj); 
     - maximaal 5 hennepplanten.
 
-    Let op!! De politie kan wel de softdrugs in beslag nemen.
+    Let op!! De politie kan wel de softdrugs in beslag nemen. -->
