@@ -83,5 +83,5 @@ plugins:
       type: timeago
       time_zone: Europe/Amsterdam
       locale: nl
-      fallback_to_build_date: false
+      enable_creation_date: false
       
