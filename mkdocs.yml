@@ -78,3 +78,10 @@ nav:
   # - Overig: 
   #   - Boetebase: overig/bb.md
   - INSTRUCTIES: overzicht.md  
+plugins:  
+  - git-revision-date-localized:
+      type: timeago
+      time_zone: Europe/Amsterdam
+      locale: nl
+      fallback_to_build_date: false
+      

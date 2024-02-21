@@ -9,9 +9,26 @@
    a. wegen: alle voor het openbaar verkeer openstaande wegen of paden met 
       inbegrip van de daarin liggende bruggen en duikers en de tot die wegen 
       behorende paden en bermen of zijkanten;
-   b. kenteken: kenteken als bedoeld in artikel 36 of artikel 37, derde lid;   
-   c. rijbewijs: rijbewijs, bedoeld in artikel 107;
-   d. het CBR: het in artikel 4z bedoelde bureau;
+   b. motorrijtuigen: alle voertuigen, bestemd om anders dan langs spoorstaven 
+      te worden voortbewogen uitsluitend of mede door een mechanische kracht, 
+      op of aan het voertuig zelf aanwezig dan wel door elektrische tractie 
+      met stroomtoevoer van elders, met uitzondering van fietsen met 
+      trapondersteuning;   
+   c. kenteken: kenteken als bedoeld in artikel 36;   
+   d. rijbewijs: rijbewijs, bedoeld in artikel 107;
+   e. het CBR: het in artikel 4z bedoelde bureau;
+   f. houder van een motorrijtuig: degene die het voertuig:
+      1° op grond van een overeenkomst van huurkoop onder zich heeft,
+      2° in vruchtgebruik heeft, of
+      3° anderszins, anders dan als eigenaar of bezitter, tot duurzaam gebruik 
+         onder zich heeft.
+2. Indien de eigenaar van een motorrijtuig niet tevens bezitter is, treedt de 
+   bezitter voor de toepassing van het bepaalde bij of krachtens deze wet voor 
+   de eigenaar in de plaats. 
+3. Degene aan wie een kenteken is opgegeven voor een motorrijtuig wordt, 
+   tenzij anders blijkt, voor de toepassing van het bepaalde bij of krachtens 
+   deze wet beschouwd als eigenaar of houder van dat motorrijtuig of die 
+   aanhangwagen.          
 ```
 
 #####Artikel 2 | Rijkwijdte
@@ -115,14 +132,13 @@ Het CBR is belast met de volgende taken:
 #####Artikel 8 | Besturen onder invloed
 ```
 1. Het is een ieder verboden een voertuig te besturen, als bestuurder te doen 
-   besturen of als begeleider op te treden, terwijl hij verkeert onder zodanige 
-   invloed van een stof, waarvan hij weet of redelijkerwijs moet weten, dat het 
-   gebruik daarvan - al dan niet in combinatie met het gebruik van een andere 
-   stof - de rijvaardigheid kan verminderen, dat hij niet tot behoorlijk 
+   besturen, terwijl hij verkeert onder zodanige invloed van een stof, 
+   waarvan hij weet of redelijkerwijs moet weten, dat het gebruik daarvan - 
+   al dan niet in combinatie met het gebruik van een andere stof - 
+   de rijvaardigheid kan verminderen, dat hij niet tot behoorlijk 
    besturen of tot behoorlijk te begeleiden in staat moet worden geacht.
 2. Het is een ieder verboden een voertuig te besturen, als bestuurder te doen 
-   besturen of als begeleider op te treden na zodanig gebruik van 
-   alcoholhoudende drank, dat:
+   besturen na zodanig gebruik van alcoholhoudende drank, dat:
    a. het alcoholgehalte in zijn adem bij een onderzoek hoger blijkt te zijn 
       dan 220 microgram alcohol per liter uitgeademde lucht, dan wel
    b. het alcoholgehalte in zijn bloed bij een onderzoek hoger blijkt te zijn 
@@ -178,7 +194,25 @@ Het CBR is belast met de volgende taken:
    eerste lid.      
 ```
 
+#####Artikel 14 | Nadere regelgeving
+```
+Bij algemene maatregel van bestuur worden regels vastgesteld omtrent:
+a. het toepassen van verkeerstekens en onderborden;
+b. het treffen van maatregelen op of aan de weg tot wijziging van de 
+   inrichting van de weg, en
+c. het aanbrengen of verwijderen van voorzieningen ter regeling van het 
+   verkeer. 
+```
+
 #### HOOFDSTUK IV. Kentekens
+
+#####Artikel 36 | Kentekenplicht
+```
+Aan de eigenaar of houder van een motorrijtuig op de weg dient 
+overeenkomstig bij algemene maatregel van bestuur vastgestelde 
+regels door de Dienst Wegverkeer een kenteken voor dat voertuig 
+te zijn opgegeven. 
+```
 
 #####Artikel 40 | Zichtbaarheid
 ```

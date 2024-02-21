@@ -26,5 +26,5 @@
 ```
 1. Degene die handelt in strijd met artikel 1, eerste lid, wordt gestraft met 
    [STRAFMAAT].
-2. Het in het eerste lid strafbaar gestelde feit is een overtreding. je kale moeder
+2. Het in het eerste lid strafbaar gestelde feit is een overtreding.
 ```
