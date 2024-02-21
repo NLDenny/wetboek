@@ -77,11 +77,4 @@ nav:
   - Algemene wet op het binnentreden: awbi.md
   # - Overig: 
   #   - Boetebase: overig/bb.md
-  - INSTRUCTIES: overzicht.md  
-plugins:  
-  - git-revision-date-localized:
-      type: timeago
-      time_zone: Europe/Amsterdam
-      locale: nl
-      enable_creation_date: false
-      
+  - INSTRUCTIES: overzicht.md    
