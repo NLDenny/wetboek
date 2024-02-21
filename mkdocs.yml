@@ -68,7 +68,7 @@ markdown_extensions:
 nav:
   - Home: index.md  
   - Wetboek van Strafrecht: sr.md
-  # - Wetboek van Strafvordering: sv.md
+  - Wetboek van Strafvordering: sv.md
   - Opiumwet: opw.md
   - Wet wapens en munitie: wwm.md
   - Wegenverkeerswet 1994: wvw.md

@@ -13,5 +13,6 @@ Mochten er onjuistheden worden geconstateerd neem dan contact op met het het Uni
 
 !!! info "Wijzigingen per 21 februari 2024"
 
+    - [Wetboek van Strafvordering](/sv/) toegevoegd.
     - [Politiewet 2012](/polw2012/) toegevoegd.
     - [Ambtsinstructie](/ambts/) voor de politie en andere opsporingsambtenaren toegevoegd.

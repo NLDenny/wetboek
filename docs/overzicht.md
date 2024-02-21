@@ -88,6 +88,11 @@ Duur: aantal maanden/ aantal uren
 [Artikel 453](/sr/#artikel-453-openbare-dronkenschap)| Openbare dronkenschap |  |  | € |
 [Artikel 461](/sr/#artikel-461-verboden-toegang-voor-onbevoegden)| Verboden toegang voor onbevoegden |  |  | € |
 
+#### [Wetboek van Strafvordering](/sv)
+
+#####TO DO
+○ Zijn er bepaalde artikelen overbodig, of missen er juist bepaalde dingen?
+
 #### [Opiumwet](/opw)
 
 #####TO DO

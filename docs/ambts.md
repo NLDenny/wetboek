@@ -62,8 +62,8 @@ b. die in het gebruik van dat middel is geoefend.
 
 #####Artikel 7 | Bevoegdheid tot vuurwapengebruik
 ```
-1. Het gebruik van een vuurwapen, niet zijnde het gebruik, bedoeld in de 
-   artikelen 8 en 9, is slechts geoorloofd:
+1. Het gebruik van een vuurwapen, niet zijnde het gebruik, bedoeld in het 
+   artikel 8, is slechts geoorloofd:
     a. om een persoon aan te houden ten aanzien van wie redelijkerwijs mag 
        worden aangenomen dat deze:
        1° een voor onmiddellijk gebruik gereed zijnd vuurwapen bij zich heeft 
@@ -122,14 +122,14 @@ lichamelijk letsel af te wenden.
    voor personen of zaken zoveel mogelijk wordt vermeden.
 ```
 
-#####Artikel 11 | Voorafgaande artikelen niet van toepassing
-```
+<!-- #####Artikel 11 | Voorafgaande artikelen niet van toepassing
+
 De artikelen 7 tot en met 10a zijn niet van toepassing op het gebruik en het 
 ter hand nemen van een wapen dat is geladen met niet-penetrerende projectielen.
-```
+
 
 #####Artikel 11a | Niet-penetrerende projectielen
-```
+
 1. Het gebruik van een wapen dat is geladen met niet-penetrerende projectielen 
    is slechts geoorloofd:
    a. om een persoon aan te houden ten aanzien van wie redelijkerwijs mag 
@@ -155,16 +155,16 @@ ter hand nemen van een wapen dat is geladen met niet-penetrerende projectielen.
 3. Niet-penetrerende projectielen die bestemd zijn voor het gebruik, bedoeld
    in het eerste lid, onder c, worden niet gebruikt voor situaties, bedoeld 
    in het eerste lid, onder d.
-```
+
 
 #####Artikel 11b | Waarschuwing voor schot
-```
+
 De ambtenaar waarschuwt onmiddellijk voordat hij gericht een wapen dat is 
 geladen met niet-penetrerende projectielen zal gebruiken, met luide stem of 
 op andere niet mis te verstane wijze dat geschoten zal worden, indien niet 
 onverwijld het gegeven bevel wordt opgevolgd. Deze waarschuwing blijft 
 slechts achterwege, wanneer de omstandigheden de waarschuwing niet toelaten.
-```
+ -->
 
 #####Artikel 12c | Stroomstootwapen
 ```
