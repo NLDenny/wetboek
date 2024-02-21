@@ -11,6 +11,7 @@ Mochten er onjuistheden worden geconstateerd neem dan contact op met het het Uni
 
 ![Image title](https://i.imgur.com/m4are2p.png) 
 
-!!! info "Wijzigingen per 26 januari 2024"
+!!! info "Wijzigingen per 21 februari 2024"
 
-    - Doxing is vanaf vandaag strafbaar gesteld. Zie hiervoor [artikel 285d](/sr/#artikel-285d-doxing) Wetboek van Strafrecht. 
+    - [Politiewet 2012](/polw2012/) toegevoegd.
+    - [Ambtsinstructie](/ambts/) voor de politie en andere opsporingsambtenaren toegevoegd.

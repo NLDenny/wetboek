@@ -146,6 +146,16 @@ Duur: aantal maanden/ aantal uren
 [Artikel 163](/wvw/#artikel-163-blaastest-en-bloedonderzoek)| Negeren blaastest/bloedonderzoek bij verdenking |  |  | € |
 [Artikel 165](/wvw/#artikel-165-bekendmaking-naam-bestuurder)| Bekendmaking naam bestuurder |  |  | € |
 
+#### [Politiewet 2012](/polw2012)
+
+#####TO DO
+○ Zijn er bepaalde artikelen overbodig, of missen er juist bepaalde dingen? 
+
+#### [Ambtsinstructie](/ambts)
+
+#####TO DO
+○ Zijn er bepaalde artikelen overbodig, of missen er juist bepaalde dingen?
+
 #### [Wet gedeeltelijk verbod gezichtsbedekkende kleding](/wgvgk)
 
 #####TO DO

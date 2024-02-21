@@ -1,6 +1,6 @@
 # Wegenverkeerswet 1994
 
-#### HOOFDSTUK I. Algemene bepalingen
+#### HOOFDSTUK 1. Algemene bepalingen
 
 #####Artikel 1 | Begripsbepaling
 ```
