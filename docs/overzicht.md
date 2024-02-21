@@ -173,7 +173,7 @@ Duur: aantal maanden/ aantal uren
 
 |Artikel|Feit|Type|Duur|Boetebedrag|
 |:---|:---:|:---|:---:|---:|
-[Artikel 2](/wgvgk/#artikel-2)| Gezichtsbedekking dragen |  |  | € |
+[Artikel 2](/overig/wgvgk/#artikel-2)| Gezichtsbedekking dragen |  |  | € |
 
 #### [Wet op de identificatieplicht](/overig/wid)
 
@@ -184,7 +184,7 @@ Duur: aantal maanden/ aantal uren
 
 #####TO DO
 ○ Zijn er bepaalde artikelen overbodig, of missen er juist bepaalde dingen? <br />
-○ Vaststellen wie een machtiging tot binnentreden mag uitschrijven (zie: [Artikel 3](/awbi/#artikel-3-bevoegdheid-tot-machtiging)).
+○ Vaststellen wie een machtiging tot binnentreden mag uitschrijven (zie: [Artikel 3](/overig/awbi/#artikel-3-bevoegdheid-tot-machtiging)).
 
 #### [Boetebase](/overig/bb)
 
