@@ -16,3 +16,4 @@ Mochten er onjuistheden worden geconstateerd neem dan contact op met het het Uni
     - [Wetboek van Strafvordering](/sv/) toegevoegd.
     - [Politiewet 2012](/polw2012/) toegevoegd.
     - [Ambtsinstructie](/ambts/) voor de politie en andere opsporingsambtenaren toegevoegd.
+    - [Boetebase](/overig/bb/) toegevoegd.

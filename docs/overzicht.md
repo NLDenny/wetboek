@@ -161,7 +161,7 @@ Duur: aantal maanden/ aantal uren
 #####TO DO
 ○ Zijn er bepaalde artikelen overbodig, of missen er juist bepaalde dingen?
 
-#### [Wet gedeeltelijk verbod gezichtsbedekkende kleding](/wgvgk)
+#### [Wet gedeeltelijk verbod gezichtsbedekkende kleding](/overig/wgvgk)
 
 #####TO DO
 ○ Zijn er bepaalde artikelen overbodig, of missen er juist bepaalde dingen? <br />
@@ -175,13 +175,19 @@ Duur: aantal maanden/ aantal uren
 |:---|:---:|:---|:---:|---:|
 [Artikel 2](/wgvgk/#artikel-2)| Gezichtsbedekking dragen |  |  | € |
 
-#### [Wet op de identificatieplicht](/wid)
+#### [Wet op de identificatieplicht](/overig/wid)
 
 #####TO DO
 ○ Zijn er bepaalde artikelen overbodig, of missen er juist bepaalde dingen?
 
-#### [Algemene wet op het binnentreden](/awbi)
+#### [Algemene wet op het binnentreden](/overig/awbi)
 
 #####TO DO
 ○ Zijn er bepaalde artikelen overbodig, of missen er juist bepaalde dingen? <br />
 ○ Vaststellen wie een machtiging tot binnentreden mag uitschrijven (zie: [Artikel 3](/awbi/#artikel-3-bevoegdheid-tot-machtiging)).
+
+#### [Boetebase](/overig/bb)
+
+#####TO DO
+○ Zijn er bepaalde overtredingen overbodig, of missen er juist bepaalde dingen? <br />
+○ Vaststellen [boetebedragen](/overig/bb/#muldergedragingen).
