@@ -91,7 +91,9 @@ Duur: aantal maanden/ aantal uren
 #### [Wetboek van Strafvordering](/sv)
 
 #####TO DO
-○ Zijn er bepaalde artikelen overbodig, of missen er juist bepaalde dingen?
+○ Zijn er bepaalde artikelen overbodig, of missen er juist bepaalde dingen? <br />
+○ Wie vervult in Ignite de rol van officier van justitie (leidt opsporingsonderzoeken en is aanwezig in rechtszaken om een straf te eisen)? <br />
+&ensp; &nbsp; &nbsp; &nbsp; ○ Heet zo'n iemand dan ook officier van justitie of anders vanwege de amerikaanse politie?
 
 #### [Opiumwet](/opw)
 
