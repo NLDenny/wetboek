@@ -85,6 +85,7 @@ Duur: aantal maanden/ aantal uren
 [Artikel 435](/sr/#artikel-435-valse-naam)| Valse naam |  |  | € |
 [Artikel 443](/sr/#artikel-443-overtreding-noodverordening)| Overtreding noodverordening |  |  | € |
 [Artikel 447e](/sr/#artikel-447e-identificatieplicht)| Identificatieplicht |  |  | € |
+[Artikel 450](/sr/#artikel-450-nalaten-hulpverlening-bij-levensgevaar)| Nalaten hulpverlening bij levensgevaar |  |  | € |
 [Artikel 453](/sr/#artikel-453-openbare-dronkenschap)| Openbare dronkenschap |  |  | € |
 [Artikel 461](/sr/#artikel-461-verboden-toegang-voor-onbevoegden)| Verboden toegang voor onbevoegden |  |  | € |
 
