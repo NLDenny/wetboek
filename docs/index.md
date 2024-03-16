@@ -7,7 +7,7 @@ Alle wetten zijn gebaseerd op het Nederlandse recht en toepasbaar gemaakt voor L
 
 Als burger van Los Santos is het belangrijk om deze pagina door te nemen, immers iedereen wordt geacht de wet te kennen. 
 
-Mochten er onjuistheden worden geconstateerd neem dan contact op met het het United States Department of Justice.
+Mochten er onjuistheden worden geconstateerd neem dan contact op met het United States Department of Justice.
 
 ![Image title](https://i.imgur.com/m4are2p.png) 
 
