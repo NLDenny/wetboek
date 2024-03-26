@@ -19,7 +19,7 @@ Duur: aantal maanden/ aantal uren
 
 |Artikel|Feit|Type|Duur|Boetebedrag|
 |:---|:---:|:---|:---:|---:|
-[Artikel 131](/sr/#artikel-131-opruiing)| Opruiing |  |  | € |
+[Artikel 131](/sr/#artikel-131-opruiing)| Opruiing | taakstraf |  | € |
 [Artikel 132](/sr/#artikel-132-verspreiding-opruiend-geschrift)| Verspreiding opruiend geschrift |  |  | € |
 [Artikel 133](/sr/#artikel-133-aanbod-tot-medeplichtigheid)| Aanbod tot medeplichtigheid |  |  | € |
 [Artikel 138](/sr/#artikel-138-huisvredebreuk)| Huisvredebreuk |  |  | € |
