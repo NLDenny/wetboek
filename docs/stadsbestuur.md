@@ -21,7 +21,7 @@ Mochten er onjuistheden worden geconstateerd neem dan contact op met het United 
 
 <div class="grid cards" markdown>
 
--   :material-clock-fast:{ .lg .middle } __Set up in 5 minutes__
+-   :material-clock-fast:{ .lg .middle } __Mayor: Denny de Moed__
 
     ---
 
@@ -29,7 +29,7 @@ Mochten er onjuistheden worden geconstateerd neem dan contact op met het United 
 
     [:octicons-arrow-right-24: Getting started](#)
 
--   :fontawesome-brands-markdown:{ .lg .middle } __It's just Markdown__
+-   :fontawesome-brands-markdown:{ .lg .middle } __Chief of Staff: Sil van Nobelen__
 
     ---
 
@@ -37,21 +37,13 @@ Mochten er onjuistheden worden geconstateerd neem dan contact op met het United 
 
     [:octicons-arrow-right-24: Reference](#)
 
--   :material-format-font:{ .lg .middle } __Made to measure__
+-   :material-format-font:{ .lg .middle } __Chief of Bar: Juneau van Grieken__
 
     ---
 
     Change the colors, fonts, language, icons, logo and more with a few lines
 
     [:octicons-arrow-right-24: Customization](#)
-
--   :material-scale-balance:{ .lg .middle } __Open Source, MIT__
-
-    ---
-
-    Material for MkDocs is licensed under MIT and available on [GitHub]
-
-    [:octicons-arrow-right-24: License](#)
 
 </div>
 
