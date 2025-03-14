@@ -21,7 +21,7 @@ Mochten er onjuistheden worden geconstateerd neem dan contact op met het United 
 
 <div class="grid cards" markdown>
 
--   { .lg .middle } __Mayor: Denny de Moed__
+-   __Mayor: Denny de Moed__
 
     ---
 
@@ -33,21 +33,18 @@ Mochten er onjuistheden worden geconstateerd neem dan contact op met het United 
 
 <div class="grid cards" markdown>
 
--   :fontawesome-brands-markdown: __Chief of Staff: Sil van Nobelen__
+-   __Chief of Staff: Sil van Nobelen__
 
     ---
 
-    Focus on your content and generate a responsive and searchable static site
+    ![Image title](https://i.imgur.com/KXtU9CX.png){ width="500" }
 
     [:octicons-arrow-right-24: Reference](#)
 
--   :material-format-font:{ .lg .middle } __Chief of Bar: Juneau van Grieken__
+-   __Chief of Bar: Juneau van Grieken__
 
-    ---
-
-    Change the colors, fonts, language, icons, logo and more with a few lines
+    ![Image title](https://i.imgur.com/KXtU9CX.png){ width="500" }
 
     [:octicons-arrow-right-24: Customization](#)
 
 </div>
-
