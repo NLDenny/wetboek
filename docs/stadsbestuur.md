@@ -42,6 +42,6 @@ Mochten er onjuistheden worden geconstateerd neem dan contact op met het United 
 
     ![Image title](https://i.imgur.com/HLGhbiM.png){ align=right }
 
-    [:octicons-arrow-right-24: Customization](#)
+    _De Chief of Bar maakt deel uit van de rechtelijke macht. Tijdens rechtszaken fungeert de Chief of Bar als rechter._
 
 </div>
