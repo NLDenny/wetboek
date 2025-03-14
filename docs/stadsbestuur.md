@@ -21,7 +21,7 @@ Mochten er onjuistheden worden geconstateerd neem dan contact op met het United 
 
     ![Image title](https://i.imgur.com/HLGhbiM.png){ align=right }
 
-    [:octicons-arrow-right-24: Reference](#)
+    <div style="text-align: left;">[:octicons-arrow-right-24: Reference](#)
 
 </div>
 
