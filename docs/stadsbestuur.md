@@ -3,13 +3,14 @@
 ![Image title](https://i.imgur.com/6WT4OHc.png){ align=right }
 
 Maandelijks zijn er verkiezingen voor het dagelijks bestuur van Roxwood.
-Iedere bewoner kan zich verkiesbaar stellen als mayor. 
+Iedere bewoner kan zich verkiesbaar stellen als Mayor. 
+De Mayor kiest vervolgens een Chief of Staff en een Chief of Bar om samen de stad een maand lang te besturen. 
 
 
 
 
 
-Test
+De volgende personen maken op dit moment deel uit van het stadsbestuur:
 
 <div class="grid cards" markdown>
 
@@ -19,7 +20,7 @@ Test
 
     ![Image title](https://i.imgur.com/HLGhbiM.png){ align=right }
 
-    _De mayor is onderdeel van het dagelijks bestuur van Roxwood. De mayor kan aanpassingen doen aan alle wet- en regelgeving. Ook gaat de mayor over vergunningen, bedrijfsaanvragen en subsidies. Maandelijks wordt er een nieuwe mayor verkozen. Een mayor kan miximaal twee aaneengesloten maanden worden verkozen._ 
+    _De Mayor is onderdeel van het dagelijks bestuur van Roxwood. De mayor kan aanpassingen doen aan alle wet- en regelgeving. Ook gaat de mayor over vergunningen, bedrijfsaanvragen en subsidies. Maandelijks wordt er een nieuwe Mayor verkozen. Een Mayor kan miximaal twee aaneengesloten maanden worden verkozen._ 
 
 </div>
 
