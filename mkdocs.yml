@@ -1,0 +1,83 @@
+site_name: Ignite
+theme:
+  name: material
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.expand
+    - navigation.indexes
+    - navigation.top
+    - header.autohide
+    - toc.follow
+    - content.action.edit
+    - content.action.view
+  icon:
+    admonition:
+      note: octicons/tag-16
+      abstract: octicons/checklist-16
+      info: octicons/info-16
+      tip: octicons/squirrel-16
+      success: octicons/check-16
+      question: octicons/question-16
+      warning: octicons/alert-16
+      failure: octicons/x-circle-16
+      danger: octicons/zap-16
+      bug: octicons/bug-16
+      example: octicons/beaker-16
+      quote: octicons/quote-16        
+  language: nl
+  palette:
+    - scheme: slate 
+      toggle:
+        icon: material/toggle-switch
+        name: Overschakelen naar light mode    
+      primary: teal
+      accent: teal
+    - scheme: default
+      toggle:
+        icon: material/toggle-switch-off-outline 
+        name: Overschakelen naar dark mode
+      primary: teal
+      accent: teal      
+  favicon: img/logo.png
+  logo: img/logo.webp    
+extra:
+  social:
+    - icon: fontawesome/brands/discord
+      link: https://discord.gg/igniteroleplay
+  generator: false    
+copyright: |
+  &copy; 2023-2024 <a href="https://www.igniteroleplay.nl/"  target="_blank" rel="noopener">Ignite Roleplay</a>
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - admonition
+  - pymdownx.arithmatex:
+      generic: true
+  - footnotes
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.mark
+  - attr_list
+  - md_in_html
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg    
+nav:
+  - Home: index.md  
+  - Wetboek van Strafrecht: sr.md
+  - Wetboek van Strafvordering: sv.md
+  - Opiumwet: opw.md
+  - Wet wapens en munitie: wwm.md
+  - Wegenverkeerswet 1994: wvw.md
+  - Politiewet 2012: polw2012.md
+  - Ambtsinstructie: ambts.md
+  - Overig: 
+    - Wet gedeeltelijk verbod gezichtsbedekkende kleding: overig/wgvgk.md
+    - Wet op de identificatieplicht: overig/wid.md
+    - Algemene wet op het binnentreden: overig/awbi.md
+    - Boetebase: overig/bb.md
+  - Rechtbank Los Santos: rechtbank.md  
+  # - INSTRUCTIES: overzicht.md    
