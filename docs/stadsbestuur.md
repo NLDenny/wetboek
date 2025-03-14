@@ -33,7 +33,7 @@ Mochten er onjuistheden worden geconstateerd neem dan contact op met het United 
 
 <div class="grid cards" markdown>
 
--   :fontawesome-brands-markdown:{ .lg .middle } __Chief of Staff: Sil van Nobelen__
+-   :fontawesome-brands-markdown: __Chief of Staff: Sil van Nobelen__
 
     ---
 
