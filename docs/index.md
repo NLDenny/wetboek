@@ -7,7 +7,7 @@ Als burger van Los Santos is het belangrijk om deze pagina door te nemen, immers
 
 Mochten er onjuistheden worden geconstateerd neem dan contact op met het United States Department of Justice.
 
-![Image title](https://i.imgur.com/3aSspNb.png/600x400) 
+![Image title](https://i.imgur.com/KXtU9CX.png) 
 
 !!! info "Wijzigingen per 21 februari 2024"
 
