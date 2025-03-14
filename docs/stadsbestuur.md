@@ -34,7 +34,7 @@ Mochten er onjuistheden worden geconstateerd neem dan contact op met het United 
 
     ![Image title](https://i.imgur.com/HLGhbiM.png){ align=right }
 
-    [:octicons-arrow-right-24: Reference](#)
+    _De Chief of Staff geeft sturing aan de korpsleidingen binnen Roxwood. Hierbij heeft de Chief of Staff een adviserende rol._
 
 -   __Chief of Bar__: Juneau van Grieken
 
