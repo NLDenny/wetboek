@@ -21,14 +21,14 @@ Mochten er onjuistheden worden geconstateerd neem dan contact op met het United 
 
     ![Image title](https://i.imgur.com/HLGhbiM.png){ align=right }
 
-    De mayor is onderdeel van het dagelijks bestuur van Roxwood. Daarbij heeft de mayor veel bevoegdheden
+    De mayor is onderdeel van het dagelijks bestuur van Roxwood. De mayor kan aanpassingen doen aan alle wet- en regelgeving. Ook gaat de mayor over vergunningen, bedrijfsaanvragen en subsidies. 
 
 </div>
 
 
 <div class="grid cards" markdown>
 
--   __Chief of Staff: Sil van Nobelen__
+-   __Chief of Staff__: Sil van Nobelen
 
     ---
 
@@ -36,7 +36,7 @@ Mochten er onjuistheden worden geconstateerd neem dan contact op met het United 
 
     [:octicons-arrow-right-24: Reference](#)
 
--   __Chief of Bar: Juneau van Grieken__
+-   __Chief of Bar__: Juneau van Grieken
 
     ---
 
