@@ -21,12 +21,13 @@ Mochten er onjuistheden worden geconstateerd neem dan contact op met het United 
         ![Image title](https://i.imgur.com/HLGhbiM.png){ align=right }
     </div>
 
-    <!-- Link niet gecentreerd -->
-    <div style="text-align: left;">
+    <!-- Verander de uitlijning van de link -->
+    <div style="text-align: left; display: inline-block;">
         [:octicons-arrow-right-24: Reference](#)
     </div>
 
 </div>
+
 
 
 
