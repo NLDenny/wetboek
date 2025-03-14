@@ -21,7 +21,7 @@ Mochten er onjuistheden worden geconstateerd neem dan contact op met het United 
 
     ![Image title](https://i.imgur.com/HLGhbiM.png){ align=right }
 
-    _De mayor is onderdeel van het dagelijks bestuur van Roxwood. De mayor kan aanpassingen doen aan alle wet- en regelgeving. Ook gaat de mayor over vergunningen, bedrijfsaanvragen en subsidies._ 
+    _De mayor is onderdeel van het dagelijks bestuur van Roxwood. De mayor kan aanpassingen doen aan alle wet- en regelgeving. Ook gaat de mayor over vergunningen, bedrijfsaanvragen en subsidies. Maandelijks wordt er een nieuwe mayor verkozen. Een mayor kan miximaal twee aaneengesloten maanden worden verkozen._ 
 
 </div>
 
