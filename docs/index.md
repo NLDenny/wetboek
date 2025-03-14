@@ -25,7 +25,7 @@ Mochten er onjuistheden worden geconstateerd neem dan contact op met het United 
 
     ---
 
-    ![Image title](https://i.imgur.com/KXtU9CX.png) 
+    ![Image title](https://i.imgur.com/KXtU9CX.png){ width="500" }
 
     [:octicons-arrow-right-24: Getting started](#)
 
