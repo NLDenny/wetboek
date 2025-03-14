@@ -14,3 +14,4 @@ Mochten er onjuistheden worden geconstateerd neem dan contact op met de Mayor va
 !!! info "Wijzigingen per 14 maart 2025"
 
     - [Stadsbestuur](/wetboek/stadsbestuur) toegevoegd.
+    - [Rechtbank Roxwood](/wetboek/rechtbank) herzien.
