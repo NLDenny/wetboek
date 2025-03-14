@@ -9,13 +9,7 @@ Mochten er onjuistheden worden geconstateerd neem dan contact op met het United 
 
 ![Image title](https://i.imgur.com/KXtU9CX.png) 
 
-!!! info "Wijzigingen per 21 februari 2024"
 
-    - [Wetboek van Strafvordering](/sv/) toegevoegd.
-    - [Politiewet 2012](/polw2012/) toegevoegd.
-    - [Ambtsinstructie](/ambts/) voor de politie en andere opsporingsambtenaren toegevoegd.
-    - [Boetebase](/overig/bb/) toegevoegd.
-    - [Rechtbank Los Santos](/rechtbank/) toegevoegd.
 
 
 
@@ -25,10 +19,7 @@ Mochten er onjuistheden worden geconstateerd neem dan contact op met het United 
 
     ---
 
-    <div style="display: flex; justify-content: center;">
-        <img src="https://i.imgur.com/HLGhbiM.png" width="300" />
-    </div>
-    <figcaption>Image caption</figcaption>
+    ![Image title](https://i.imgur.com/kmqtqkh.png)
 
     [:octicons-arrow-right-24: Reference](#)
 
