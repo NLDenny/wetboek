@@ -1,6 +1,6 @@
 # Boetebase
 
-Op deze pagina vindt u de vastgestelde boetebedragen van 2024. <br />
+Op deze pagina vindt u de vastgestelde boetebedragen van 2025. <br />
 De boetes zijn voor de meest voorkomende lichtere overtredingen. <br />
 Dit varieert van het te rechts inhalen tot het bezitten van inbrekerswerktuig.
 
