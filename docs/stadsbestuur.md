@@ -15,7 +15,7 @@ Mochten er onjuistheden worden geconstateerd neem dan contact op met het United 
 
 <div class="grid cards" markdown>
 
--   <div style="text-align: center;">__Mayor: Denny de Moed__
+-   __Mayor: Denny de Moed__
 
     ---
 
