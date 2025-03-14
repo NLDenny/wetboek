@@ -29,6 +29,10 @@ Mochten er onjuistheden worden geconstateerd neem dan contact op met het United 
 
     [:octicons-arrow-right-24: Getting started](#)
 
+</div>
+
+<div class="grid cards" markdown>
+
 -   :fontawesome-brands-markdown:{ .lg .middle } __Chief of Staff: Sil van Nobelen__
 
     ---
