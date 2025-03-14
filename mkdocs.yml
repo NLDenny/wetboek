@@ -1,7 +1,6 @@
 site_name: Ignite
 theme:
   name: material
-  custom_dir: material/overrides
   features:
     - navigation.instant
     - navigation.tracking
