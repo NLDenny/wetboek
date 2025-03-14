@@ -1,6 +1,6 @@
 # Rechtbank Los Santos
 
-![Image title](https://i.imgur.com/ABoKn7p.png){ align=right }
+![Image title](https://i.imgur.com/J67LDF9.png){ align=right }
 
 De rechtbank van Los Santos is gevestigd in het stadskantoor. 
 In het gebouw zitten twee rechtszalen.
