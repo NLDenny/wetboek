@@ -9,8 +9,8 @@ De Mayor kiest vervolgens een Chief of Staff en een Chief of Bar om samen de sta
 <span style="color: #f87c24;">Dit is tomaat-rode tekst</span> 
 
 
-
-
+Kandidaatstelling: <span style="color: #168E02;">__GEOPEND__</span>
+Verkiezingen: <span style="color: #8E0205;">__GESLOTEN__</span>
 
 _De volgende personen maken op dit moment deel uit van het stadsbestuur:_
 
