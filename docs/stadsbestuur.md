@@ -16,7 +16,7 @@ _De volgende personen maken op dit moment deel uit van het stadsbestuur:_
 
 <div class="grid cards" markdown>
 
--   <span style="color: #f87c24;">__Mayor__</span> : Denny de Moed
+-   <span style="color: #f87c24;">__Mayor__</span> : GEZOCHT
 
     ---
 
@@ -29,7 +29,7 @@ _De volgende personen maken op dit moment deel uit van het stadsbestuur:_
 
 <div class="grid cards" markdown>
 
--   __Chief of Staff__: Sil van Nobelen
+-   <span style="color: #f87c24;">__Chief of Staff__</span> : GEZOCHT
 
     ---
 
@@ -37,7 +37,7 @@ _De volgende personen maken op dit moment deel uit van het stadsbestuur:_
 
     _De Chief of Staff geeft sturing aan de korpsleidingen binnen Roxwood. Hierbij heeft de Chief of Staff een adviserende rol._
 
--   __Chief of Bar__: Juneau van Grieken
+-   <span style="color: #f87c24;">__Chief of Bar__</span> : GEZOCHT
 
     ---
 
