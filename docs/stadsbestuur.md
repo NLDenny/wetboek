@@ -15,16 +15,13 @@ Mochten er onjuistheden worden geconstateerd neem dan contact op met het United 
 
 <div class="grid cards" markdown>
 
--   <div style="text-align: center;">
-        __Mayor: Denny de Moed__
-        ---
-        ![Image title](https://i.imgur.com/HLGhbiM.png){ align=right }
-    </div>
+-   <div style="text-align: center;">__Mayor: Denny de Moed__
 
-    <!-- Link niet gecentreerd -->
-    <div style="text-align: left;">
-        [:octicons-arrow-right-24: Reference](#)
-    </div>
+    ---
+
+    ![Image title](https://i.imgur.com/HLGhbiM.png){ align=right }
+
+    [:octicons-arrow-right-24: Reference](#)
 
 </div>
 
