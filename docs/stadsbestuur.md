@@ -5,9 +5,11 @@
 Maandelijks zijn er verkiezingen voor het dagelijks bestuur van Roxwood.
 Iedere bewoner kan zich verkiesbaar stellen als Mayor. 
 De Mayor kiest vervolgens een Chief of Staff en een Chief of Bar om samen de stad een maand lang te besturen. 
+Zodra de kandidaatstelling is geopend is het voor een ieder mogelijk om zich verkiesbaar te stellen. 
+Na een bepaalde periode sluit de kandidaatstelling en zullen de verkiezingen openen. 
+Iedere inwoner van Roxwood mag vervolgens op een van de kandidaten stemmen. 
 
-
-
+_Huidige status:_
 Kandidaatstelling: <span style="color: #168E02;">__GEOPEND__</span>
 Verkiezingen: <span style="color: #8E0205;">__GESLOTEN__</span>
 
