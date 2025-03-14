@@ -11,9 +11,9 @@ Iedere inwoner van Roxwood mag vervolgens op een van de kandidaten stemmen.
 
 ---
 
-_Huidige status:_  
-Kandidaatstelling: <span style="color: #168E02;">__GEOPEND__</span>  
-Verkiezingen: <span style="color: #8E0205;">__GESLOTEN__</span>
+__Huidige status__: 
+_Kandidaatstelling_: <span style="color: #168E02;">__GEOPEND__</span>  
+_Verkiezingen_: <span style="color: #8E0205;">__GESLOTEN__</span>
 
 _De volgende personen maken op dit moment deel uit van het stadsbestuur:_
 
