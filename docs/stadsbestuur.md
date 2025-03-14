@@ -25,10 +25,10 @@ Mochten er onjuistheden worden geconstateerd neem dan contact op met het United 
 
     ---
 
-    <div style="text-align: center;">
-        ![Image title](https://i.imgur.com/HLGhbiM.png){ width="300" }
-        <figcaption>Image caption</figcaption>
+    <div style="display: flex; justify-content: center;">
+        <img src="https://i.imgur.com/HLGhbiM.png" width="300" />
     </div>
+    <figcaption>Image caption</figcaption>
 
     [:octicons-arrow-right-24: Reference](#)
 
