@@ -25,7 +25,7 @@ Mochten er onjuistheden worden geconstateerd neem dan contact op met het United 
 
     ---
 
-    ![Image title](https://i.imgur.com/KXtU9CX.png){ width="500" }
+    ![Image title](https://i.imgur.com/HLGhbiM.png){ width="500" }
 
     [:octicons-arrow-right-24: Getting started](#)
 
@@ -37,7 +37,7 @@ Mochten er onjuistheden worden geconstateerd neem dan contact op met het United 
 
     ---
 
-    ![Image title](https://i.imgur.com/KXtU9CX.png){ width="500" }
+    ![Image title](https://i.imgur.com/HLGhbiM.png){ width="500" }
 
     [:octicons-arrow-right-24: Reference](#)
 
@@ -45,7 +45,7 @@ Mochten er onjuistheden worden geconstateerd neem dan contact op met het United 
 
     ---
 
-    ![Image title](https://i.imgur.com/KXtU9CX.png){ width="500" }
+    ![Image title](https://i.imgur.com/HLGhbiM.png){ width="500" }
 
     [:octicons-arrow-right-24: Customization](#)
 
