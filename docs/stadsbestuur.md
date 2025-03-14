@@ -11,7 +11,7 @@ Iedere inwoner van Roxwood mag vervolgens op een van de kandidaten stemmen.
 
 ---
 
-__Huidige status__: 
+__Huidige status__:   
 _Kandidaatstelling_: <span style="color: #168E02;">__GEOPEND__</span>  
 _Verkiezingen_: <span style="color: #8E0205;">__GESLOTEN__</span>
 
