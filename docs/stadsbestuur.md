@@ -2,7 +2,8 @@
 
 ![Image title](https://i.imgur.com/6WT4OHc.png){ align=right }
 
-Iedere inwoner van Roxwood kan verkozen worden om deel uit te maken van het dagelijks bestuur. 
+Maandelijks zijn er verkiezingen voor het dagelijks bestuur van Roxwood.
+Iedere bewoner kan zich verkiesbaar stellen als mayor. 
 
 
 
