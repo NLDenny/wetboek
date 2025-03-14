@@ -73,8 +73,8 @@ nav:
   - Opiumwet: opw.md
   - Wet wapens en munitie: wwm.md
   - Wegenverkeerswet 1994: wvw.md
-  - Politiewet 2012: polw2012.md
-  - Ambtsinstructie: ambts.md
+  # - Politiewet 2012: polw2012.md
+  # - Ambtsinstructie: ambts.md
   - Overig: 
     - Wet gedeeltelijk verbod gezichtsbedekkende kleding: overig/wgvgk.md
     - Wet op de identificatieplicht: overig/wid.md
