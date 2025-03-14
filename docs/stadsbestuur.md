@@ -36,7 +36,7 @@ _De volgende personen maken op dit moment deel uit van het stadsbestuur:_
 
     ---
 
-    ![Image title](https://i.imgur.com/HLGhbiM.png){ align=right }
+    ![Image title](https://i.imgur.com/suh5jRi.png){ align=right }
 
     _De Chief of Staff geeft sturing aan de korpsleidingen binnen Roxwood. Hierbij heeft de Chief of Staff een adviserende rol._
 
