@@ -21,7 +21,7 @@ Mochten er onjuistheden worden geconstateerd neem dan contact op met het United 
 
 <div class="grid cards" markdown>
 
--   :material-clock-fast:{ .lg .middle } __Mayor: Denny de Moed__
+-   { .lg .middle } __Mayor: Denny de Moed__
 
     ---
 
