@@ -2,7 +2,7 @@
 
 **Geachte lezer**, 
 
-![Image title](https://i.imgur.com/KXtU9CX.png) 
+![Image title](https://i.imgur.com/KXtU9CX.png){ align=right }
 
 Hartelijk welkom op deze pagina ontworpen door het United States Department of Justice. <br />
 Als burger van Los Santos is het belangrijk om deze pagina door te nemen, immers iedereen wordt geacht de wet te kennen. 
