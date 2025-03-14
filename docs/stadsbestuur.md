@@ -1,9 +1,8 @@
 # Stadsbestuur
 
-![Image title](https://i.imgur.com/C0m6VwO.png){ align=right }
+![Image title](https://i.imgur.com/6WT4OHc.png){ align=right }
 
 Iedere inwoner van Roxwood kan verkozen worden om deel uit te maken van het dagelijks bestuur. 
-
 
 
 
