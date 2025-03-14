@@ -44,7 +44,7 @@ _De volgende personen maken op dit moment deel uit van het stadsbestuur:_
 
     ---
 
-    ![Image title](https://i.imgur.com/fq6mBXm.png){ align=right }
+    ![Image title](https://i.imgur.com/cmZzy3I.png){ align=right }
 
     _De Chief of Bar maakt deel uit van de rechterlijke macht. Tijdens rechtszaken fungeert de Chief of Bar als rechter._
 
