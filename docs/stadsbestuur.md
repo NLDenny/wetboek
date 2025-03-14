@@ -21,15 +21,23 @@ Mochten er onjuistheden worden geconstateerd neem dan contact op met het United 
 
 <div class="grid cards" markdown>
 
--   __Mayor: Denny de Moed__
+    <style>
+        .image-container {
+            display: flex;
+            justify-content: center;
+        }
+    </style>
 
-    ---
+    <p><strong>Burgemeester: Denny de Moed</strong></p>
+    <hr>
 
-    ![Image title](https://i.imgur.com/HLGhbiM.png)
+    <div class="image-container">
+        <img src="https://i.imgur.com/HLGhbiM.png" alt="Image title">
+    </div>
 
-    [:octicons-arrow-right-24: Getting started](#)
-
+    <a href="#">➡️ Getting started</a>
 </div>
+
 
 <div class="grid cards" markdown>
 
