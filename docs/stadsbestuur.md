@@ -1,13 +1,8 @@
 # Stadsbestuur
 
-**Geachte lezer**, 
+Iedere inwoner van Roxwood kan verkozen worden om deel uit te maken van het dagelijks bestuur. 
 
-Hartelijk welkom op deze pagina ontworpen door het United States Department of Justice. <br />
-Als burger van Los Santos is het belangrijk om deze pagina door te nemen, immers iedereen wordt geacht de wet te kennen. 
-
-Mochten er onjuistheden worden geconstateerd neem dan contact op met het United States Department of Justice.
-
-![Image title](https://i.imgur.com/KXtU9CX.png) 
+![Image title](https://i.imgur.com/C0m6VwO.png){ align=right }
 
 
 
@@ -42,6 +37,6 @@ Mochten er onjuistheden worden geconstateerd neem dan contact op met het United 
 
     ![Image title](https://i.imgur.com/HLGhbiM.png){ align=right }
 
-    _De Chief of Bar maakt deel uit van de rechtelijke macht. Tijdens rechtszaken fungeert de Chief of Bar als rechter._
+    _De Chief of Bar maakt deel uit van de rechterlijke macht. Tijdens rechtszaken fungeert de Chief of Bar als rechter._
 
 </div>
