@@ -23,7 +23,7 @@ _De volgende personen maken op dit moment deel uit van het stadsbestuur:_
 
     ---
 
-    ![Image title](https://i.imgur.com/HLGhbiM.png){ align=right }
+    ![Image title](https://i.imgur.com/tadwlcT.png){ align=right }
 
     _De Mayor is onderdeel van het dagelijks bestuur van Roxwood. De mayor kan aanpassingen doen aan alle wet- en regelgeving. Ook gaat de mayor over vergunningen, bedrijfsaanvragen en subsidies. Maandelijks wordt er een nieuwe Mayor verkozen. Een Mayor kan miximaal twee aaneengesloten maanden worden verkozen._ 
 
