@@ -2,8 +2,8 @@
 
 ![Image title](https://i.imgur.com/J67LDF9.png){ align=right }
 
-De rechtbank van Los Santos is gevestigd in het stadskantoor. 
-In het gebouw zitten twee rechtszalen.
+De rechtbank van Roxwood is gevestigd in het stadskantoor te Paleto Bay. 
+Het gebouw beschikt over een rechtszaal.
 In de meeste gevallen is het mogelijk om een zitting bij te wonen. 
 Bekijk hieronder de bezoekersinformatie voor het bijwonen van een rechtszaak. 
 
@@ -20,18 +20,12 @@ Helaas kunt u de zitting dan niet bijwonen.
 
 ## Rechtszalen
 
-Rechtbank Los Santos beschikt over twee rechtszalen. 
-Afhankelijk van de ernst van de zaak en de mate van belangstelling wordt er een keuze gemaakt tussen een van de rechtszalen.
-Hieronder zijn beide rechtszalen, met verdieping nummer, weergegeven.
+Rechtbank Roxwood beschikt over een rechtszaal. 
+Hieronder is een illustratie van deze rechtszaal weergegeven.
 <br />
 <br />
 
 <figure markdown="span">
   ![Image title](https://i.imgur.com/u3yphNo.jpeg){ width="500" }
-  <figcaption>Rechtszaal I - Eerste verdieping</figcaption>
-</figure>
-
-<figure markdown="span">
-  ![Image title](https://i.imgur.com/EXnhDZq.jpeg){ width="500" }
-  <figcaption>Rechtszaal II - Tweede verdieping</figcaption>
+  <figcaption>Rechtszaal - Paleto Bay</figcaption>
 </figure>
