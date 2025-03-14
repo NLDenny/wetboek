@@ -25,8 +25,7 @@ Mochten er onjuistheden worden geconstateerd neem dan contact op met het United 
 
     ---
 
-    Install [`mkdocs-material`](#) with [`pip`](#) and get up
-    and running in minutes
+    ![Image title](https://i.imgur.com/KXtU9CX.png) 
 
     [:octicons-arrow-right-24: Getting started](#)
 
