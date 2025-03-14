@@ -27,7 +27,7 @@ Hieronder zijn beide rechtszalen, met verdieping nummer, weergegeven.
 <br />
 
 <figure markdown="span">
-  ![Image title](https://i.imgur.com/v2LMCjC.jpeg){ width="500" }
+  ![Image title](https://i.imgur.com/u3yphNo.jpeg){ width="500" }
   <figcaption>Rechtszaal I - Eerste verdieping</figcaption>
 </figure>
 
