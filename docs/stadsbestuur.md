@@ -19,14 +19,14 @@ Mochten er onjuistheden worden geconstateerd neem dan contact op met het United 
         __Mayor: Denny de Moed__
         ---
         ![Image title](https://i.imgur.com/HLGhbiM.png){ align=right }
-    </div>
 
-    <!-- Link niet gecentreerd -->
-    <div style="text-align: left;">
-        [:octicons-arrow-right-24: Reference](#)
+        <div style="text-align: left;">
+            [:octicons-arrow-right-24: Reference](#)
+        </div>
     </div>
 
 </div>
+
 
 
 
