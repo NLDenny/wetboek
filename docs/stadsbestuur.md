@@ -6,7 +6,6 @@ Maandelijks zijn er verkiezingen voor het dagelijks bestuur van Roxwood.
 Iedere bewoner kan zich verkiesbaar stellen als Mayor. 
 De Mayor kiest vervolgens een Chief of Staff en een Chief of Bar om samen de stad een maand lang te besturen. 
 
-<span style="color: #f87c24;">Dit is tomaat-rode tekst</span> 
 
 
 Kandidaatstelling: <span style="color: #168E02;">__GEOPEND__</span>
