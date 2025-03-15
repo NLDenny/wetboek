@@ -76,6 +76,27 @@ Art. 83 Sr | Terrorisme | Gevangenisstraf | __STRAF MIST IN MDT??__
 Art. 416 Sr | Heling | Taakstraf | 15 uur - €315,-
 Art. 184 Sr | Negeren ambt. bevel | Taakstraf | 4 uur - €184,-
 
+WWM Cat 1. | WWM Cat 1. | Boete | €400,-
+WWM Cat 1b. | WWM Cat 1b. | Taakstraf | 8 uur - €550,-
+WWM Cat 1c. | WWM Cat 1c. | Taakstraf | 5 uur - €850,-
+WWM Cat 2. | WWM Cat 2. | Gevangenisstraf | 10 maanden - €1800,-
+WWM Cat 3. | WWM Cat 3. | Gevangenisstraf | 15 maanden - €2250,-
+WWM Cat 4. | WWM Cat 4. | Boete | €335,-
+
+Art. 3 Opw | Lijst 2 drugs vervoeren/bijdragen < 20 G | Boete | €100,-
+Art. 3 Opw | Lijst 2 drugs vervoeren/bijdragen < 200 G | Boete | €1000,-
+Art. 3 Opw | Lijst 2 drugs vervoeren/bijdragen < 1 KG | Taakstraf | 8 uur - €1715,-
+Art. 3 Opw | Lijst 2 drugs vervoeren/bijdragen > 1 KG | Gevangenisstraf | 10 maanden - €2240,-
+Art. 3 Opw | Lijst 2 drugs verkoop/handel < 1 KG | Taakstraf | 8 uur - €1235,-
+Art. 3 Opw | Lijst 2 drugs verkoop/handel > 1 KG | Gevangenisstraf | 10 maanden - €4340,-
+Art. 3 Opw | Soft Telen (per plant) | Gevangenisstraf | 10 maanden - €1340,-
+Art. 2 Opw | Lijst 1 drugs vervoeren/bijdragen < 20 G | Taakstraf | 10 uur - €750,-
+Art. 2 Opw | Lijst 1 drugs vervoeren/bijdragen < 200 G | Gevangenisstraf | 15 maanden - €1950,-
+Art. 2 Opw | Lijst 1 drugs vervoeren/bijdragen < 1 KG | Gevangenisstraf | 20 maanden - €4030,-
+Art. 2 Opw | Lijst 1 drugs vervoeren/bijdragen > 1 KG | Gevangenisstraf | 25 maanden - €8340,-
+Art. 2 Opw | Lijst 1 drugs verkoop/handel < 1 KG | Gevangenisstraf | 17 maanden - €1750,-
+Art. 2 Opw | Lijst 1 drugs verkoop/handel > 1 KG | Gevangenisstraf | 25 maanden - €5260,-
+
 
 |Feitcode|Feit|Boete bedrag|
 |:---|:----|:---|
