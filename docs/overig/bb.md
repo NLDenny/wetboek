@@ -151,9 +151,9 @@ F116a | Inbrekerswerktuig | €115,- |
 [Art. 453 Sr](/wetboek/sr/#artikel-453-openbare-dronkenschap) | Openbare dronkenschap | __n.t.b.__ | __n.t.b.__ 
 [Art. 461 Sr](/wetboek/sr/#artikel-461-verboden-toegang-voor-onbevoegden) | Verboden toegang voor onbevoegden | __n.t.b.__ | __n.t.b.__ 
 
+#####Wegenverkeerswet
 |Artikel|Feit|Sanctienorm|Bedrag
-|:-----|:----|:------|:-|
-[Art. 141 Sr](/wetboek/sr/#artikel-141-openlijke-geweldpleging) | Openlijke geweldpleging | 15 maanden Gevangenisstraf | €300,-
+|:----|:----|:------|-:|
 
 
 
