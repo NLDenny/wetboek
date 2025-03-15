@@ -837,19 +837,19 @@ wordt, als schuldig aan moord, gestraft met [STRAFMAAT].
 3. Poging tot dit misdrijf is niet strafbaar.
 ```
 
+<!-- UITGEZET WEGENS KANS NIHIL IN RP SERVER
 #####Artikel 301 | Mishandeling met voorbedachten rade 
 ```
 Mishandeling gepleegd met voorbedachten rade wordt gestraft met 
 [STRAFMAAT].
 ```
+-->
 
-<!--
 #####Artikel 302 | Zware mishandeling
 ```
 Hij die aan een ander opzettelijk zwaar lichamelijk letsel toebrengt, 
 wordt, als schuldig aan zware mishandeling, gestraft met [STRAFMAAT].
 ```
--->
 
 #####Artikel 303 | Zware mishandeling met voorbedachten rade
 ```
