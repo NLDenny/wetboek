@@ -4,6 +4,8 @@ Deze pagina bevat een overzicht van de vastgestelde boetebedragen.
 De bedragen kunnen op ieder moment worden gewijzigd door de Mayor. 
 Het is daarom raadzaam om periodiek deze pagina opnieuw te bekijken.
 
+
+
 #####Misdrijven
 |Artikel|Feit|Type|Sanctienorm
 |:---|:----|:---|:---|
