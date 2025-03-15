@@ -1,9 +1,8 @@
 # Boetebase
 
-Op deze pagina vindt u de vastgestelde boetebedragen van 2025. <br />
-De boetes zijn voor de meest voorkomende lichtere overtredingen. <br />
-Dit varieert van het te rechts inhalen tot het bezitten van inbrekerswerktuig.
-
+Deze pagina bevat een overzicht van de vastgestelde boetebedragen. 
+De bedragen kunnen op ieder moment worden gewijzigd door de Mayor. 
+Het is daarom raadzaam om periodiek deze pagina opnieuw te bekijken.
 
 #####Muldergedragingen
 |Feitcode|Feit|Boete bedrag|
@@ -42,3 +41,8 @@ F 116 a| Bezit inbrekerswerktuig | € ,- |
 F 120 a| Klimmen en klauteren | € ,- |
 F 120 b| Overlast veroorzaken | € ,- |
 -| [Gezichtsbedekking dragen](/wetboek/overig/wgvgk/#artikel-1) | € ,- |
+
+#####Misdrijven
+|Artikel|Feit|Type|Sanctienorm
+|:---|:----|:---|:---|
+Art. 300 Sr | Mishandeling | Taakstraf | 10 uur - €225
