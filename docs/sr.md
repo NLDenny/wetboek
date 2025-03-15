@@ -982,6 +982,7 @@ Met [STRAFMAAT] wordt gestraft:
 ```
 -->
 
+<!-- UITGEZET WEGENS KANS NIHIL IN RP SERVER
 #### TITEL XXIV. Verduistering
 
 #####Artikel 321 | Verduistering
@@ -990,6 +991,7 @@ Hij die opzettelijk enig goed dat geheel of ten dele aan een ander toebehoort
 en dat hij anders dan door misdrijf onder zich heeft, wederrechtelijk zich 
 toeëigent, wordt, als schuldig aan verduistering, gestraft met [STRAFMAAT].
 ```
+-->
 
 #### TITEL XXV. Bedrog
 
