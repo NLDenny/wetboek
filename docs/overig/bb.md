@@ -116,9 +116,14 @@ F116a | Inbrekerswerktuig | €115,- |
 [Art. 189 Sr](/wetboek/sr/#artikel-189-hulp-aan-dader-na-misdrijf) | Hulp aan dader na misdrijf | __n.t.b.__ | __n.t.b.__
 [Art. 190 Sr](/wetboek/sr/#artikel-190-beletten-van-lijkschouwing) | Beletten van lijkschouwing | __n.t.b.__ | __n.t.b.__
 [Art. 191 Sr](/wetboek/sr/#artikel-191-bevrijding-van-gedetineerde) | Bevrijding van gedetineerde | Gevangenisstraf | 25 maanden - €1250,-
+[Art. 225 Sr](/wetboek/sr/#artikel-225-valsheid-in-geschrift) | Valsheid in geschrift | __n.t.b.__ | __n.t.b.__
+[Art. 231 Sr](/wetboek/sr/#artikel-231-vals-reisdocument-of-identiteitskaart) | Vals reisdocument of identiteitskaart | __n.t.b.__ | __n.t.b.__
 [Art. 266 Sr](/wetboek/sr/#artikel-266-eenvoudige-belediging) | Eenvoudige belediging | Taakstraf | 5 uur - €350,-
 [Art. 282 Sr](/wetboek/sr/#artikel-282-opzettelijke-vrijheidsberoving) | Opzettelijke vrijheidsberoving | Gevangenisstraf | 6 maanden - €550,-
+[Art. 282A Sr](/wetboek/sr/#artikel-282A-gijzeling) | Gijzeling | __n.t.b.__ | __n.t.b.__
+[Art. 284 Sr](/wetboek/sr/#artikel-284-dwang) | Dwang | __n.t.b.__ | __n.t.b.__
 [Art. 285 Sr](/wetboek/sr/#artikel-285-bedreiging-met-ernstig-misdrijf) | Bedreiging | Gevangenisstraf | 15 maanden - €650,-
+[Art. 285B Sr](/wetboek/sr/#artikel-285B-staling) | Stalking | __n.t.b.__ | __n.t.b.__
 [Art. 287 Sr](/wetboek/sr/#artikel-287-doodslag) | Doodslag | Gevangenisstraf | 40 maanden - €2850,-
 [Art. 288 Sr](/wetboek/sr/#artikel-288-gekwalificeerde-doodslag) | Gekwalificeerde doodslag | Gevangenisstraf | 40 maanden - €3200,-
 [Art. 289 Sr](/wetboek/sr/#artikel-289-moord) | Moord | Gevangenisstraf | 55 maanden - €5000,-
