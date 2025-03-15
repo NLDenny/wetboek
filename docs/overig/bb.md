@@ -137,6 +137,7 @@ F116a | Inbrekerswerktuig | €115,- |
 [Art. 311 Sr](/wetboek/sr/#artikel-311-gekwalificeerde-diefstal) | Gekwalificeerde diefstal | Gevangenisstraf | 10 maanden - €1150,-
 [Art. 312 Sr](/wetboek/sr/#artikel-312-diefstal-met-geweldpleging) | Diefstal met geweldpleging | Gevangenisstraf | 15 maanden - €1300,-
 [Art. 317 Sr](/wetboek/sr/#artikel-317-afpersing) | Afpersing | Taakstraf | 20 uur - €850,-
+[Art. 350 Sr](/wetboek/sr/#artikel-350-beschadiging-goederendieren) | Vernieling | __n.t.b.__ | __n.t.b.__
 [Art. 416 Sr](/wetboek/sr/#artikel-416-opzetheling) | Opzetheling | Taakstraf | 15 uur - €315,-
 [Art. 420bis Sr](/wetboek/sr/#artikel-420bis-witwassen) | Witwassen | Gevangenisstraf | 10 maanden - €810,-
 
