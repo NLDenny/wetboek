@@ -1086,6 +1086,7 @@ Hij die van het plegen van opzetheling een gewoonte maakt, wordt gestraft met
 2. Onder voorwerpen worden verstaan alle zaken en alle vermogensrechten.      
 ```
 
+<!-- UITGEZET WEGENS KANS NIHIL IN RP SERVER
 #####Artikel 420bis.1 | Eenvoudig witwassen
 ```
 Witwassen dat enkel bestaat uit het verwerven of voorhanden hebben van een 
@@ -1114,6 +1115,7 @@ Schuldwitwassen dat enkel bestaat uit het verwerven of voorhanden hebben van
 een voorwerp dat onmiddellijk afkomstig is uit enig eigen misdrijf wordt als 
 eenvoudig schuldwitwassen gestraft met [STRAFMAAT].
 ```
+-->
 
 ### DERDE BOEK | Overtredingen
 
