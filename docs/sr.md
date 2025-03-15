@@ -1184,6 +1184,7 @@ Wetboek van Strafvordering, het Wetboek van Strafrecht, wordt gestraft met
 [STRAFMAAT].
 ```
 
+<!-- UITGEZET WEGENS KANS NIHIL IN RP SERVER
 #### TITEL V. Overtreding betreffende hulpbehoevenden
 
 #####Artikel 450 | Nalaten hulpverlening bij levensgevaar
@@ -1194,6 +1195,7 @@ voor zichzelf of anderen redelijkerwijs te kunnen duchten, verlenen of
 verschaffen kan, wordt, indien de dood van de hulpbehoevende volgt, gestraft 
 met [STRAFMAAT].
 ```
+-->
 
 #### TITEL VI. Overtredingen betreffende de zeden
 
