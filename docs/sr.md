@@ -407,6 +407,7 @@ enig strafbaar feit of tot gewelddadig optreden tegen het openbaar gezag
 opruit, wordt gestraft met [STRAFMAAT].
 ```
 
+<!-- UITGEZET WEGENS KANS NIHIL IN RP SERVER
 #####Artikel 132 | Verspreiding opruiend geschrift
 ```
 Hij die een geschrift of afbeelding waarin tot enig strafbaar feit of tot 
@@ -416,13 +417,16 @@ of aangeslagen te worden, in voorraad heeft, wordt, indien hij weet of
 ernstige reden heeft te vermoeden dat in het geschrift of de afbeelding 
 zodanige opruiing voorkomt, gestraft met [STRAFMAAT].
 ```
+-->
 
+<!-- UITGEZET WEGENS KANS NIHIL IN RP SERVER
 #####Artikel 133 | Aanbod tot medeplichtigheid
 ```
 Hij die in het openbaar, mondeling of bij geschrift of afbeelding, aanbiedt 
 inlichtingen, gelegenheid of middelen te verschaffen om enig strafbaar feit 
 te plegen, wordt gestraft met [STRAFMAAT].
 ```
+-->
 
 #####Artikel 138 | Huisvredebreuk
 ```
