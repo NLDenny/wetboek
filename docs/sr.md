@@ -991,7 +991,7 @@ Hij die opzettelijk enig goed dat geheel of ten dele aan een ander toebehoort
 en dat hij anders dan door misdrijf onder zich heeft, wederrechtelijk zich 
 toeëigent, wordt, als schuldig aan verduistering, gestraft met [STRAFMAAT].
 ```
--->
+
 
 #### TITEL XXV. Bedrog
 
@@ -1006,12 +1006,14 @@ van een schuld of tot het teniet doen van een inschuld, wordt, als schuldig
 aan oplichting, gestraft met [STRAFMAAT].
 ```
 
+
 #####Artikel 326a | Flessentrekkerij
 ```
 Hij die een beroep of een gewoonte maakt van het kopen van goederen met het 
 oogmerk om zonder volledige betaling zich of een ander de beschikking over 
 die goederen te verzekeren, wordt gestraft met [STRAFMAAT].
 ```
+-->
 
 #### TITEL XXVII. Vernieling of beschadiging
 
