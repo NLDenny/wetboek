@@ -76,6 +76,8 @@ Art. 83 Sr | Terrorisme | Gevangenisstraf | __STRAF MIST IN MDT??__
 Art. 416 Sr | Heling | Taakstraf | 15 uur - €315,-
 Art. 184 Sr | Negeren ambt. bevel | Taakstraf | 4 uur - €184,-
 
+|Artikel|Feit|Type|Sanctienorm
+|:---|:----|:---|:---|
 WWM Cat 1. | WWM Cat 1. | Boete | €400,-
 WWM Cat 1b. | WWM Cat 1b. | Taakstraf | 8 uur - €550,-
 WWM Cat 1c. | WWM Cat 1c. | Taakstraf | 5 uur - €850,-
@@ -83,6 +85,8 @@ WWM Cat 2. | WWM Cat 2. | Gevangenisstraf | 10 maanden - €1800,-
 WWM Cat 3. | WWM Cat 3. | Gevangenisstraf | 15 maanden - €2250,-
 WWM Cat 4. | WWM Cat 4. | Boete | €335,-
 
+|Artikel|Feit|Type|Sanctienorm
+|:---|:----|:---|:---|
 Art. 3 Opw | Lijst 2 drugs vervoeren/bijdragen < 20 G | Boete | €100,-
 Art. 3 Opw | Lijst 2 drugs vervoeren/bijdragen < 200 G | Boete | €1000,-
 Art. 3 Opw | Lijst 2 drugs vervoeren/bijdragen < 1 KG | Taakstraf | 8 uur - €1715,-
@@ -97,6 +101,8 @@ Art. 2 Opw | Lijst 1 drugs vervoeren/bijdragen > 1 KG | Gevangenisstraf | 25 maa
 Art. 2 Opw | Lijst 1 drugs verkoop/handel < 1 KG | Gevangenisstraf | 17 maanden - €1750,-
 Art. 2 Opw | Lijst 1 drugs verkoop/handel > 1 KG | Gevangenisstraf | 25 maanden - €5260,-
 
+|Artikel|Feit|Type|Sanctienorm
+|:---|:----|:---|:---|
 Art. 5 WVW | Roekeloos rijgedrag | Boete | €450,-
 Art. 5A WVW | Verkeers regels overtreding | Boete | €200,-
 Art. 5A WVW | Te hard rijden (10 - 20 km/u) | Boete | €200,-
