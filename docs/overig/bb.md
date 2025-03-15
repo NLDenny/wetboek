@@ -97,6 +97,14 @@ Art. 2 Opw | Lijst 1 drugs vervoeren/bijdragen > 1 KG | Gevangenisstraf | 25 maa
 Art. 2 Opw | Lijst 1 drugs verkoop/handel < 1 KG | Gevangenisstraf | 17 maanden - €1750,-
 Art. 2 Opw | Lijst 1 drugs verkoop/handel > 1 KG | Gevangenisstraf | 25 maanden - €5260,-
 
+Art. 5 WVW | Roekeloos rijgedrag | Boete | €450,-
+Art. 5A WVW | Verkeers regels overtreding | Boete | €200,-
+Art. 5A WVW | Te hard rijden (10 - 20 km/u) | Boete | €200,-
+Art. 5A WVW | Te hard rijden (20 - 30 km/u) | Boete | €250,-
+Art. 5A WVW | Te hard rijden (30 km/u en harder) | Boete | €200,-
+Art. 5a.i WVW | Negeren rood licht | Boete | €80,-
+Art. 7 | Door rijden na ongeluk | Taakstraf | 10 uur - €325,-
+Art. 10 | Straatracen | Taakstraf | 15 uur - €950,-
 
 |Feitcode|Feit|Boete bedrag|
 |:---|:----|:---|
