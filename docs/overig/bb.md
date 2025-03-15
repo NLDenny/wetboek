@@ -139,6 +139,7 @@ F116a | Inbrekerswerktuig | €115,- |
 [Art. 317 Sr](/wetboek/sr/#artikel-317-afpersing) | Afpersing | Taakstraf | 20 uur - €850,-
 [Art. 350 Sr](/wetboek/sr/#artikel-350-beschadiging-goederendieren) | Vernieling | __n.t.b.__ | __n.t.b.__
 [Art. 416 Sr](/wetboek/sr/#artikel-416-opzetheling) | Opzetheling | Taakstraf | 15 uur - €315,-
+[Art. 417bis Sr](/wetboek/sr/#artikel-417bis-schuldheling) | Schuldheling | __n.t.b.__ | __n.t.b.__
 [Art. 420bis Sr](/wetboek/sr/#artikel-420bis-witwassen) | Witwassen | Gevangenisstraf | 10 maanden - €810,-
 
 
