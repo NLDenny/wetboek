@@ -82,11 +82,11 @@ Art. 10 | Straatracen | Taakstraf | 15 uur - €950,-
 - | Toonplicht identiteitsbewijs | €80,- |
 F116a | Inbrekerswerktuig | €115,- |
 
-
-
-
-
-
+<br>
+<br>
+<br>
+<br>
+<br>
 
 <span style="color: #168E02;">__SUGGESTIE NIEUWE MDT STRAFFEN__</span>
 
