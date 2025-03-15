@@ -9,7 +9,7 @@ Het is daarom raadzaam om periodiek deze pagina opnieuw te bekijken.
 #####Misdrijven
 |Artikel|Feit|Type|Sanctienorm
 |:---|:----|:---|:---|
-Art. 300 Sr | Mishandeling | Taakstraf | 10 uur - €225,-
+Art. 300 Sr | Mishandeling | Taakstraf | 10 uur | €225,-
 Art. 302 Sr | Zware mishandeling | Gevangenisstraf | 15 maanden - €315,-
 Art. 261 Sr | Beledeging | Taakstraf | 5 uur - €350,-
 Art. 282 Sr | Wederrechtelijke vrijheidsberoving | Gevangenisstraf | 6 maanden - €550,-
