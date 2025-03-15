@@ -141,6 +141,15 @@ F116a | Inbrekerswerktuig | €115,- |
 [Art. 416 Sr](/wetboek/sr/#artikel-416-opzetheling) | Opzetheling | Taakstraf | 15 uur - €315,-
 [Art. 417bis Sr](/wetboek/sr/#artikel-417bis-schuldheling) | Schuldheling | __n.t.b.__ | __n.t.b.__
 [Art. 420bis Sr](/wetboek/sr/#artikel-420bis-witwassen) | Witwassen | Gevangenisstraf | 10 maanden - €810,-
+[Art. 424 Sr](/wetboek/sr/#artikel-424-straatschenderij) | Baldadigheid | __n.t.b.__ | __n.t.b.__
+[Art. 426 Sr](/wetboek/sr/#artikel-426-gevaarzetting-in-dronkenschap) | Gevaarzetting in dronkenschap | __n.t.b.__ | __n.t.b.__
+[Art. 426bis Sr](/wetboek/sr/#artikel-426bis-hinderlijk-volgen) | Hinderlijk volgen | __n.t.b.__ | __n.t.b.__
+[Art. 426ter Sr](/wetboek/sr/#artikel-426ter-belemmeren-hulpverlener) | Belemmeren hulpverlener | __n.t.b.__ | __n.t.b.__
+[Art. 435 Sr](/wetboek/sr/#artikel-435-valse-naam) | Valse naam | __n.t.b.__ | __n.t.b.__
+[Art. 443 Sr](/wetboek/sr/#artikel-443-overtreding-noodverordening) | Overtreding noodverordening | __n.t.b.__ | __n.t.b.__
+[Art. 447e Sr](/wetboek/sr/#artikel-447e-identificatieplicht) | Identificatieplicht | __n.t.b.__ | __n.t.b.__
+[Art. 453 Sr](/wetboek/sr/#artikel-453-openbare-dronkenschap) | Openbare dronkenschap | __n.t.b.__ | __n.t.b.__
+[Art. 461 Sr](/wetboek/sr/#artikel-461-verboden-toegang-voor-onbevoegden) | Verboden toegang voor onbevoegden | __n.t.b.__ | __n.t.b.__
 
 
 
