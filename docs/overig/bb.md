@@ -128,7 +128,11 @@ F116a | Inbrekerswerktuig | €115,- |
 [Art. 288 Sr](/wetboek/sr/#artikel-288-gekwalificeerde-doodslag) | Gekwalificeerde doodslag | Gevangenisstraf | 40 maanden - €3200,-
 [Art. 289 Sr](/wetboek/sr/#artikel-289-moord) | Moord | Gevangenisstraf | 55 maanden - €5000,-
 [Art. 300 Sr](/wetboek/sr/#artikel-300-mishandeling) | Mishandeling | Taakstraf | 10 uur - €225,-
+[Art. 304 Sr](/wetboek/sr/#artikel-304-strafverzwarende-omstandigheden) | Mishandeling ambt. | Taakstraf | 13 uur - €300,-
 [Art. 302 Sr](/wetboek/sr/#artikel-302-zware-mishandeling) | Zware mishandeling | Gevangenisstraf | 15 maanden - €315,-
+[Art. 304 Sr](/wetboek/sr/#artikel-304-strafverzwarende-omstandigheden) | Zware mishandeling ambt. | Gevangenisstraf | 20 maanden - €400,-
+[Art. 307 Sr](/wetboek/sr/#artikel-307-dood-door-schuld) | Dood door schuld | __n.t.b.__ | __n.t.b.__
+[Art. 308 Sr](/wetboek/sr/#artikel-308-zwaar-lichamelijk-letsel-door-schuld) | Zwaar lichamelijk letsel door schuld | __n.t.b.__ | __n.t.b.__
 [Art. 310 Sr](/wetboek/sr/#artikel-310-diefstal) | Diefstal | Taakstraf | 10 uur - €390,-
 [Art. 311 Sr](/wetboek/sr/#artikel-311-gekwalificeerde-diefstal) | Gekwalificeerde diefstal | Gevangenisstraf | 10 maanden - €1150,-
 [Art. 312 Sr](/wetboek/sr/#artikel-312-diefstal-met-geweldpleging) | Diefstal met geweldpleging | Gevangenisstraf | 15 maanden - €1300,-
