@@ -843,11 +843,13 @@ Mishandeling gepleegd met voorbedachten rade wordt gestraft met
 [STRAFMAAT].
 ```
 
+<!--
 #####Artikel 302 | Zware mishandeling
 ```
 Hij die aan een ander opzettelijk zwaar lichamelijk letsel toebrengt, 
 wordt, als schuldig aan zware mishandeling, gestraft met [STRAFMAAT].
 ```
+-->
 
 #####Artikel 303 | Zware mishandeling met voorbedachten rade
 ```
