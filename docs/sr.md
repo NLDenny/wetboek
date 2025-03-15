@@ -797,6 +797,7 @@ klacht van hem tegen wie het misdrijf is gepleegd.
    het misdrijf is begaan.       
 ```
 
+<!-- UITGEZET WEGENS KANS NIHIL IN RP SERVER
 #####Artikel 285d | Doxing
 ```
 1. Degene die zich persoonsgegevens van een ander of een derde verschaft, 
@@ -809,6 +810,7 @@ klacht van hem tegen wie het misdrijf is gepleegd.
    een persoon in diens hoedanigheid van ambtenaar van politie wordt de 
    op het feit gestelde gevangenisstraf met een derde verhoogd.   
 ```
+-->
 
 #### TITEL XIX. Misdrijven tegen het leven gericht
 
