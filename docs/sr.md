@@ -1045,11 +1045,13 @@ die goederen te verzekeren, wordt gestraft met [STRAFMAAT].
    enig door misdrijf verkregen goed voordeel trekt.        
 ```
 
+<!-- UITGEZET WEGENS KANS NIHIL IN RP SERVER
 #####Artikel 417 | Gewoonteheling
 ```
 Hij die van het plegen van opzetheling een gewoonte maakt, wordt gestraft met 
 [STRAFMAAT].
 ```
+-->
 
 #####Artikel 417bis | Schuldheling
 ```
