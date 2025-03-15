@@ -938,7 +938,7 @@ Met [STRAFMAAT] wordt gestraft:
    4° het feit zwaar lichamelijk letsel ten gevolge heeft;
 ```
 
-#### TITEL XXIII. Afpersing en afdreiging
+#### TITEL XXIII. Afpersing 
 
 #####Artikel 317 | Afpersing
 ```
@@ -957,6 +957,7 @@ Met [STRAFMAAT] wordt gestraft:
    dit misdrijf van toepassing.
 ```
 
+<!-- Smaad, smaadschrift gebeurt bijna nooit in RP.
 #####Artikel 318 | Afdreiging
 ```
 1. Hij die, met het oogmerk om zich of een ander wederrechtelijk te 
@@ -969,6 +970,7 @@ Met [STRAFMAAT] wordt gestraft:
 2. Dit misdrijf wordt niet vervolgd dan op klacht van hem tegen wie het 
    gepleegd is.
 ```
+-->
 
 #### TITEL XXIV. Verduistering
 
