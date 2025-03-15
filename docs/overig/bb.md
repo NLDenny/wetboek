@@ -45,4 +45,20 @@ F 120 b| Overlast veroorzaken | € ,- |
 #####Misdrijven
 |Artikel|Feit|Type|Sanctienorm
 |:---|:----|:---|:---|
-Art. 300 Sr | Mishandeling | Taakstraf | 10 uur - €225
+Art. 300 Sr | Mishandeling | Taakstraf | 10 uur - €225,-
+Art. 302 Sr | Zware mishandeling | Gevangenisstraf | 15 maanden - €315,-
+Art. 261 Sr | Beledeging | Taakstraf | 5 uur - €350,-
+Art. 282 Sr | Wederrechtelijke vrijheidsberoving | Gevangenisstraf | 6 maanden - €550,-
+Art. 287 Sr | Doodslag | Gevangenisstraf | 40 maanden - €2850,-
+Art. 288 Sr | Doodslag tot gevolg | Gevangenisstraf | 40 maanden - €3200,-
+Art. 289 Sr | Moord | Gevangenisstraf | 55 maanden - €5000,-
+Art. 287 Sr | Poging tot doodslag | Gevangenisstraf | 25 maanden - €2350,-
+Art. 317 Sr | Afdreiging | Taakstraf | 20 uur - €850,-
+Art. 318 Sr | Afpersing | Taakstraf | 20 uur - €950,-
+Art. 285 Sr | Bedreiging | Gevangenisstraf | 15 maanden - €650,-
+Art. 310 Sr | Eenvoudige diefstal | Taakstraf | 10 uur - €390,-
+Art. 311 Sr | Gekwalificeerde diefstal | Gevangenisstraf | 10 maanden - €1150,-
+Art. 312 Sr | Gekwalificeerde diefstal met geweld | Gevangenisstraf | 15 maanden - €1300,-
+Art. 310a Sr | Voertuigdiefstal | Taakstraf | 10 uur - €850,-
+Art. 310b Sr | Huisinbraak/ diefstal | Gevangenisstraf | 8 maanden - €345,-
+Art. 310c Sr | Winkeldiefstal | Taakstraf | 12 uur - €380,-
