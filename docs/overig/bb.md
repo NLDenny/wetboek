@@ -1,8 +1,8 @@
 # Boetebase
 
-Deze pagina bevat een overzicht van de vastgestelde boetebedragen. 
-De bedragen kunnen op ieder moment worden gewijzigd door de Mayor. 
-Het is daarom raadzaam om periodiek deze pagina opnieuw te bekijken.
+Deze pagina bevat een overzicht van de vastgestelde boetebedragen.  
+De bedragen kunnen op ieder moment worden gewijzigd door de Mayor.  
+Het is daarom raadzaam om periodiek deze pagina opnieuw te bekijken.  
 
 <span style="color: #168E02;">__HUIDIGE MDT STRAFFEN__</span>  
 
