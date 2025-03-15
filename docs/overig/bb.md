@@ -94,12 +94,32 @@ F116a | Inbrekerswerktuig | €115,- |
 #####Wetboek van Strafrecht
 |Artikel|Feit|Type|Sanctienorm
 |:---|:----|:---|:---|
-[Art. 300 Sr](/wetboek/sr/#artikel-300-mishandeling) | Mishandeling | Taakstraf | 10 uur - €225,-
-[Art. 302 Sr](/wetboek/sr/#artikel-302-zware-mishandeling) | Zware mishandeling | Gevangenisstraf | 15 maanden - €315,-
+[Art. 131 Sr](/wetboek/sr/#artikel-131-opruiing) | Opruiing | __n.t.b.__ | __n.t.b.__
+[Art. 141 Sr](/wetboek/sr/#artikel-141-openlijke-geweldpleging) | Openlijke geweldpleging | Gevangenisstraf | 15 maanden - €300,-
+[Art. 177 Sr](/wetboek/sr/#artikel-177-omkoping-ambtenaar) | Omkoping ambtenaar | Taakstraf | 10 uur - €310,-
+[Art. 184 Sr](/wetboek/sr/#artikel-184-niet-voldoen-aan-ambtelijk-bevel) | Niet voldoen ambt. bevel | Taakstraf | 4 uur - €184,-
+[Art. 186 Sr](/wetboek/sr/#artikel-186-samenscholing) | Samenscholing | Taakstraf | 10 uur - €195,-
+[Art. 191 Sr](/wetboek/sr/#artikel-191-bevrijding-van-gedetineerde) | Bevrijding van gedetineerde | Gevangenisstraf | 25 maanden - €1250,-
 [Art. 266 Sr](/wetboek/sr/#artikel-266-eenvoudige-belediging) | Eenvoudige belediging | Taakstraf | 5 uur - €350,-
 [Art. 282 Sr](/wetboek/sr/#artikel-282-opzettelijke-vrijheidsberoving) | Opzettelijke vrijheidsberoving | Gevangenisstraf | 6 maanden - €550,-
+[Art. 285 Sr](/wetboek/sr/#artikel-285-bedreiging-met-ernstig-misdrijf) | Bedreiging | Gevangenisstraf | 15 maanden - €650,-
 [Art. 287 Sr](/wetboek/sr/#artikel-287-doodslag) | Doodslag | Gevangenisstraf | 40 maanden - €2850,-
 [Art. 288 Sr](/wetboek/sr/#artikel-288-gekwalificeerde-doodslag) | Gekwalificeerde doodslag | Gevangenisstraf | 40 maanden - €3200,-
 [Art. 289 Sr](/wetboek/sr/#artikel-289-moord) | Moord | Gevangenisstraf | 55 maanden - €5000,-
+[Art. 300 Sr](/wetboek/sr/#artikel-300-mishandeling) | Mishandeling | Taakstraf | 10 uur - €225,-
+[Art. 302 Sr](/wetboek/sr/#artikel-302-zware-mishandeling) | Zware mishandeling | Gevangenisstraf | 15 maanden - €315,-
+[Art. 310 Sr](/wetboek/sr/#artikel-310-diefstal) | Diefstal | Taakstraf | 10 uur - €390,-
+[Art. 311 Sr](/wetboek/sr/#artikel-311-gekwalificeerde-diefstal) | Gekwalificeerde diefstal | Gevangenisstraf | 10 maanden - €1150,-
+[Art. 312 Sr](/wetboek/sr/#artikel-312-diefstal-met-geweldpleging) | Diefstal met geweldpleging | Gevangenisstraf | 15 maanden - €1300,-
 [Art. 317 Sr](/wetboek/sr/#artikel-317-afpersing) | Afpersing | Taakstraf | 20 uur - €850,-
+[Art. 416 Sr](/wetboek/sr/#artikel-416-opzetheling) | Opzetheling | Taakstraf | 15 uur - €315,-
+[Art. 420bis Sr](/wetboek/sr/#artikel-420bis-witwassen) | Witwassen | Gevangenisstraf | 10 maanden - €810,-
+
+
+
+
+
+
+
+
 
