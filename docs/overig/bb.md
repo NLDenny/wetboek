@@ -4,7 +4,7 @@ Deze pagina bevat een overzicht van de vastgestelde boetebedragen.
 De bedragen kunnen op ieder moment worden gewijzigd door de Mayor. 
 Het is daarom raadzaam om periodiek deze pagina opnieuw te bekijken.
 
-
+<span style="color: #168E02;">__HUIDIGE MDT STRAFFEN__</span>  
 
 #####Misdrijven
 |Artikel|Feit|Type|Sanctienorm
@@ -81,4 +81,12 @@ Art. 10 | Straatracen | Taakstraf | 15 uur - €950,-
 - | Openbare dronkenschap | €185,- |
 - | Toonplicht identiteitsbewijs | €80,- |
 F116a | Inbrekerswerktuig | €115,- |
+
+
+
+
+
+
+
+<span style="color: #168E02;">__SUGGESTIE NIEUWE MDT STRAFFEN__</span>
 
