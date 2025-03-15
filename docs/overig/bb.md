@@ -15,7 +15,7 @@ Art. 261 Sr | Beledeging | Taakstraf | 5 uur - €350,-
 Art. 282 Sr | Wederrechtelijke vrijheidsberoving | Gevangenisstraf | 6 maanden - €550,-
 Art. 287 Sr | Doodslag | Gevangenisstraf | 40 maanden - €2850,-
 Art. 288 Sr | Doodslag tot gevolg | Gevangenisstraf | 40 maanden - €3200,-
-Art. 289 Sr | Moord | Gevangenisstraf | 55 maanden - €5000,-
+Art. 289 Sr | Doodslag met voorbedachten rade | Gevangenisstraf | 55 maanden - €5000,-
 Art. 287 Sr | Poging tot doodslag | Gevangenisstraf | 25 maanden - €2350,-
 Art. 317 Sr | Afdreiging | Taakstraf | 20 uur - €850,-
 Art. 318 Sr | Afpersing | Taakstraf | 20 uur - €950,-
@@ -96,3 +96,10 @@ F116a | Inbrekerswerktuig | €115,- |
 |:---|:----|:---|:---|
 [Art. 300 Sr](/wetboek/sr/#artikel-300-mishandeling) | Mishandeling | Taakstraf | 10 uur - €225,-
 [Art. 302 Sr](/wetboek/sr/#artikel-302-zware-mishandeling) | Zware mishandeling | Gevangenisstraf | 15 maanden - €315,-
+[Art. 266 Sr](/wetboek/sr/#artikel-266-eenvoudige-belediging) | Eenvoudige belediging | Taakstraf | 5 uur - €350,-
+[Art. 282 Sr](/wetboek/sr/#artikel-282-opzettelijke-vrijheidsberoving) | Opzettelijke vrijheidsberoving | Gevangenisstraf | 6 maanden - €550,-
+[Art. 287 Sr](/wetboek/sr/#artikel-287-doodslag) | Doodslag | Gevangenisstraf | 40 maanden - €2850,-
+[Art. 288 Sr](/wetboek/sr/#artikel-288-gekwalificeerde-doodslag) | Gekwalificeerde doodslag | Gevangenisstraf | 40 maanden - €3200,-
+[Art. 289 Sr](/wetboek/sr/#artikel-289-moord) | Moord | Gevangenisstraf | 55 maanden - €5000,-
+[Art. 317 Sr](/wetboek/sr/#artikel-317-afpersing) | Afpersing | Taakstraf | 20 uur - €850,-
+
