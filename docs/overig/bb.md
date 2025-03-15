@@ -90,3 +90,9 @@ F116a | Inbrekerswerktuig | €115,- |
 
 <span style="color: #168E02;">__SUGGESTIE NIEUWE MDT STRAFFEN__</span>
 
+
+#####Wetboek van Strafrecht
+|Artikel|Feit|Type|Sanctienorm
+|:---|:----|:---|:---|
+Art. 300 Sr | Mishandeling | Taakstraf | 10 uur - €225,-
+Art. 302 Sr | Zware mishandeling | Gevangenisstraf | 15 maanden - €315,-
