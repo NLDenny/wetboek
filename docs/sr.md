@@ -859,11 +859,13 @@ Hij die aan een ander opzettelijk zwaar lichamelijk letsel toebrengt,
 wordt, als schuldig aan zware mishandeling, gestraft met [STRAFMAAT].
 ```
 
+<!-- UITGEZET WEGENS KANS NIHIL IN RP SERVER
 #####Artikel 303 | Zware mishandeling met voorbedachten rade
 ```
 Zware mishandeling gepleegd met voorbedachten rade wordt gestraft met 
 [STRAFMAAT].
 ```
+-->
 
 #####Artikel 304 | Strafverzwarende omstandigheden
 ```
