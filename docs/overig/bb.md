@@ -95,10 +95,26 @@ F116a | Inbrekerswerktuig | €115,- |
 |Artikel|Feit|Type|Sanctienorm
 |:---|:----|:---|:---|
 [Art. 131 Sr](/wetboek/sr/#artikel-131-opruiing) | Opruiing | __n.t.b.__ | __n.t.b.__
+[Art. 138 Sr](/wetboek/sr/#artikel-138-huisvredebreuk) | Huisvredebreuk | __n.t.b.__ | __n.t.b.__
+[Art. 139 Sr](/wetboek/sr/#artikel-139-lokaalvredebreuk) | Lokaalvredebreuk | __n.t.b.__ | __n.t.b.__
+[Art. 140 Sr](/wetboek/sr/#artikel-140-deelneming-aan-criminele-organisatie) | Deelneming aan criminele organisatie | __n.t.b.__ | __n.t.b.__
 [Art. 141 Sr](/wetboek/sr/#artikel-141-openlijke-geweldpleging) | Openlijke geweldpleging | Gevangenisstraf | 15 maanden - €300,-
+[Art. 141a Sr](/wetboek/sr/#artikel-141a-gelegenheid-verschaffen-tot-plegen-van-geweld) | Gelegenheid verschaffen tot plegen van geweld | __n.t.b.__ | __n.t.b.__
+[Art. 142 Sr](/wetboek/sr/#artikel-142-vals-alarm) | Vals alarm | __n.t.b.__ | __n.t.b.__
+[Art. 142a Sr](/wetboek/sr/#artikel-142a-valse-bom) | Valse bom | __n.t.b.__ | __n.t.b.__
+[Art. 149 Sr](/wetboek/sr/#artikel-149-grafschennis) | Grafschennis | __n.t.b.__ | __n.t.b.__
+[Art. 151 Sr](/wetboek/sr/#artikel-151-doen-verdwijnen-van-lijk) | Doen verdwijnen van lijk | __n.t.b.__ | __n.t.b.__
+[Art. 157 Sr](/wetboek/sr/#artikel-157-opzettelijk-brank-of-ontploffing-veroorzaken) | Opzettelijk brand of ontploffing veroorzaken | __n.t.b.__ | __n.t.b.__
+[Art. 158 Sr](/wetboek/sr/#artikel-158-culpoos-brand-of-ontploffing-veroorzaken) | Culpoos brand of ontploffing veroorzaken | __n.t.b.__ | __n.t.b.__
 [Art. 177 Sr](/wetboek/sr/#artikel-177-omkoping-ambtenaar) | Omkoping ambtenaar | Taakstraf | 10 uur - €310,-
+[Art. 179 Sr](/wetboek/sr/#artikel-179-ambtsdwang) | Ambtsdwang | __n.t.b.__ | __n.t.b.__
+[Art. 180 Sr](/wetboek/sr/#artikel-180-wederspannigheid) | Wederspannigheid | __n.t.b.__ | __n.t.b.__
 [Art. 184 Sr](/wetboek/sr/#artikel-184-niet-voldoen-aan-ambtelijk-bevel) | Niet voldoen ambt. bevel | Taakstraf | 4 uur - €184,-
+[Art. 185 Sr](/wetboek/sr/#artikel-185-bemoeien-terechtzitting-en-ambtshandeling) | Bemoeien terechtzitting en ambtshandeling | __n.t.b.__ | __n.t.b.__
 [Art. 186 Sr](/wetboek/sr/#artikel-186-samenscholing) | Samenscholing | Taakstraf | 10 uur - €195,-
+[Art. 188 Sr](/wetboek/sr/#artikel-188-valse-aangifte-of-klacht) | Valse aangifte of klacht | __n.t.b.__ | __n.t.b.__
+[Art. 189 Sr](/wetboek/sr/#artikel-189-hulp-aan-dader-na-misdrijf) | Hulp aan dader na misdrijf | __n.t.b.__ | __n.t.b.__
+[Art. 190 Sr](/wetboek/sr/#artikel-190-beletten-van-lijkschouwing) | Beletten van lijkschouwing | __n.t.b.__ | __n.t.b.__
 [Art. 191 Sr](/wetboek/sr/#artikel-191-bevrijding-van-gedetineerde) | Bevrijding van gedetineerde | Gevangenisstraf | 25 maanden - €1250,-
 [Art. 266 Sr](/wetboek/sr/#artikel-266-eenvoudige-belediging) | Eenvoudige belediging | Taakstraf | 5 uur - €350,-
 [Art. 282 Sr](/wetboek/sr/#artikel-282-opzettelijke-vrijheidsberoving) | Opzettelijke vrijheidsberoving | Gevangenisstraf | 6 maanden - €550,-
