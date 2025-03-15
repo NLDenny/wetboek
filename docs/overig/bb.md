@@ -62,3 +62,24 @@ Art. 312 Sr | Gekwalificeerde diefstal met geweld | Gevangenisstraf | 15 maanden
 Art. 310a Sr | Voertuigdiefstal | Taakstraf | 10 uur - €850,-
 Art. 310b Sr | Huisinbraak/ diefstal | Gevangenisstraf | 8 maanden - €345,-
 Art. 310c Sr | Winkeldiefstal | Taakstraf | 12 uur - €380,-
+Art. 193 Sr | Vervalsing documenten | Gevangenisstraf | 15 maanden - €815,-
+Art. 209 Sr | Ambtenaar misbruik gezag | Gevangenisstraf | __STRAF MIST IN MDT??__
+Art. 210 Sr | Onrechtmatig voordoen als ambtenaar | Gevangenisstraf | 15 maanden - €1100,-
+Art. 177 Sr | Omkoping | Taakstraf | 10 uur - €310,-
+Art. 420b Sr | Witwassen | Gevangenisstraf | 10 maanden - €810,-
+Art. 429 Sr | Racisme in uitoefening van ambt baan | Gevangenisstraf | __STRAF MIST IN MDT??__
+Art. 191 Sr | Bevrijding van gedetineerde | Gevangenisstraf | 25 maanden - €1250,-
+Art. 186 Sr | Samenscholing | Taakstraf | 10 uur - €195,-
+Art. 141 Sr | Openbare geweldpleging | Gevangenisstraf | 15 maanden - €300,-
+Art. 83b Sr | Voorbereiden terrorisme | Gevangenisstraf | __STRAF MIST IN MDT??__
+Art. 83 Sr | Terrorisme | Gevangenisstraf | __STRAF MIST IN MDT??__
+Art. 416 Sr | Heling | Taakstraf | 15 uur - €315,-
+Art. 184 Sr | Negeren ambt. bevel | Taakstraf | 4 uur - €184,-
+
+
+|Feitcode|Feit|Boete bedrag|
+|:---|:----|:---|
+- | Openbare dronkenschap | €185,- |
+- | Toonplicht identiteitsbewijs | €80,- |
+F116a | Inbrekerswerktuig | €115,- |
+
