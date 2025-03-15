@@ -93,7 +93,7 @@ F116a | Inbrekerswerktuig | €115,- |
 
 #####Wetboek van Strafrecht
 |Artikel|Feit|Type|Sanctienorm
-|:---|:----|:---|:---|
+|:---|:----|:---|:---|:---|
 [Art. 131 Sr](/wetboek/sr/#artikel-131-opruiing) | Opruiing | __n.t.b.__ | __n.t.b.__
 [Art. 138 Sr](/wetboek/sr/#artikel-138-huisvredebreuk) | Huisvredebreuk | __n.t.b.__ | __n.t.b.__
 [Art. 139 Sr](/wetboek/sr/#artikel-139-lokaalvredebreuk) | Lokaalvredebreuk | __n.t.b.__ | __n.t.b.__
