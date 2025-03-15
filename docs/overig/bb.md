@@ -115,7 +115,7 @@ F116a | Inbrekerswerktuig | €115,- |
 [Art. 188 Sr](/wetboek/sr/#artikel-188-valse-aangifte-of-klacht) | Valse aangifte of klacht | __n.t.b.__ | __n.t.b.__ 
 [Art. 189 Sr](/wetboek/sr/#artikel-189-hulp-aan-dader-na-misdrijf) | Hulp aan dader na misdrijf | __n.t.b.__ | __n.t.b.__ 
 [Art. 190 Sr](/wetboek/sr/#artikel-190-beletten-van-lijkschouwing) | Beletten van lijkschouwing | __n.t.b.__ | __n.t.b.__ 
-[Art. 191 Sr](/wetboek/sr/#artikel-191-bevrijding-van-gedetineerde) | Bevrijding van gedetineerde | 25 maanden GS | €1250,-
+[Art. 191 Sr](/wetboek/sr/#artikel-191-bevrijding-van-gedetineerde) | Bevrijding van gedetineerde | 25 maanden GS | €1.250,-
 [Art. 225 Sr](/wetboek/sr/#artikel-225-valsheid-in-geschrift) | Valsheid in geschrift | __n.t.b.__ | __n.t.b.__ 
 [Art. 231 Sr](/wetboek/sr/#artikel-231-vals-reisdocument-of-identiteitskaart) | Vals reisdocument of identiteitskaart | __n.t.b.__ | __n.t.b.__ 
 [Art. 266 Sr](/wetboek/sr/#artikel-266-eenvoudige-belediging) | Eenvoudige belediging | 5 uur TS | €350,-
@@ -124,9 +124,9 @@ F116a | Inbrekerswerktuig | €115,- |
 [Art. 284 Sr](/wetboek/sr/#artikel-284-dwang) | Dwang | __n.t.b.__ | __n.t.b.__ 
 [Art. 285 Sr](/wetboek/sr/#artikel-285-bedreiging-met-ernstig-misdrijf) | Bedreiging | 15 maanden GS | €650,-
 [Art. 285B Sr](/wetboek/sr/#artikel-285B-staling) | Stalking | __n.t.b.__ | __n.t.b.__ 
-[Art. 287 Sr](/wetboek/sr/#artikel-287-doodslag) | Doodslag | 40 maanden GS | €2850,-
-[Art. 288 Sr](/wetboek/sr/#artikel-288-gekwalificeerde-doodslag) | Gekwalificeerde doodslag | 40 maanden GS | €3200,-
-[Art. 289 Sr](/wetboek/sr/#artikel-289-moord) | Moord | 55 maanden GS | €5000,-
+[Art. 287 Sr](/wetboek/sr/#artikel-287-doodslag) | Doodslag | 40 maanden GS | €2.850,-
+[Art. 288 Sr](/wetboek/sr/#artikel-288-gekwalificeerde-doodslag) | Gekwalificeerde doodslag | 40 maanden GS | €3.200,-
+[Art. 289 Sr](/wetboek/sr/#artikel-289-moord) | Moord | 55 maanden GS | €5.000,-
 [Art. 300 Sr](/wetboek/sr/#artikel-300-mishandeling) | Mishandeling | 10 uur TS | €225,-
 [Art. 304 Sr](/wetboek/sr/#artikel-304-strafverzwarende-omstandigheden) | Mishandeling ambt. | 13 uur TS | €300,-
 [Art. 302 Sr](/wetboek/sr/#artikel-302-zware-mishandeling) | Zware mishandeling | 15 maanden GS | €315,-
@@ -134,8 +134,8 @@ F116a | Inbrekerswerktuig | €115,- |
 [Art. 307 Sr](/wetboek/sr/#artikel-307-dood-door-schuld) | Dood door schuld | __n.t.b.__ | __n.t.b.__ 
 [Art. 308 Sr](/wetboek/sr/#artikel-308-zwaar-lichamelijk-letsel-door-schuld) | Zwaar lichamelijk letsel door schuld | __n.t.b.__ | __n.t.b.__ 
 [Art. 310 Sr](/wetboek/sr/#artikel-310-diefstal) | Diefstal | 10 uur TS | €390,-
-[Art. 311 Sr](/wetboek/sr/#artikel-311-gekwalificeerde-diefstal) | Gekwalificeerde diefstal | 10 maanden GS | €1150,-
-[Art. 312 Sr](/wetboek/sr/#artikel-312-diefstal-met-geweldpleging) | Diefstal met geweldpleging | 15 maanden GS | €1300,-
+[Art. 311 Sr](/wetboek/sr/#artikel-311-gekwalificeerde-diefstal) | Gekwalificeerde diefstal | 10 maanden GS | €1.150,-
+[Art. 312 Sr](/wetboek/sr/#artikel-312-diefstal-met-geweldpleging) | Diefstal met geweldpleging | 15 maanden GS | €1.300,-
 [Art. 317 Sr](/wetboek/sr/#artikel-317-afpersing) | Afpersing | 20 uur TS | €850,-
 [Art. 350 Sr](/wetboek/sr/#artikel-350-beschadiging-goederendieren) | Vernieling | __n.t.b.__ | __n.t.b.__ 
 [Art. 416 Sr](/wetboek/sr/#artikel-416-opzetheling) | Opzetheling | 15 uur TS | €315,-
