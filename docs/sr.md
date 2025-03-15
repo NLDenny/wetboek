@@ -638,6 +638,7 @@ uitspraak of beschikking van de vrijheid beroofd, bevrijdt of bij zijn
 zelfbevrijding behulpzaam is, wordt gestraft met [STRAFMAAT].
 ```
 
+<!-- UITGEZET WEGENS KANS NIHIL IN RP SERVER
 #### TITEL IX. Meineed
 
 #####Artikel 207 | Meineed
@@ -650,6 +651,7 @@ zelfbevrijding behulpzaam is, wordt gestraft met [STRAFMAAT].
 2. Met de eed staat gelijk de belofte of bevestiging die krachtens de wet 
    voor de eed in de plaats treedt.
 ```
+-->
 
 #### TITEL XII. Valsheid met geschriften, gegevens en biometrische kenmerken
 
