@@ -324,7 +324,7 @@ indiening bevoegd deze in te trekken.
 ```
 1. Behoudens de gevallen waarin rechterlijke uitspraken voor herziening vatbaar 
    zijn, kan niemand andermaal worden vervolgd wegens een feit waarover te 
-   zijnen aanzien bij gewijsde van de rechter in Los Santos onherroepelijk 
+   zijnen aanzien bij gewijsde van de rechter in Roxwood onherroepelijk 
    is beslist.
 2. Is het gewijsde afkomstig van een andere rechter, dan heeft tegen 
    dezelfde persoon wegens hetzelfde feit geen vervolging plaats in 
