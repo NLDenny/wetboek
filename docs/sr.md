@@ -4,6 +4,7 @@
 
 #### TITEL I. Omvang van de werking van de strafwet
 
+<span style="color: #f87c24;">#####Artikel 1 | Legaliteitsbeginsel. Verandering in wetgeving</span>,
 #####Artikel 1 | Legaliteitsbeginsel. Verandering in wetgeving
 ```
 1. Geen feit is strafbaar dan uit kracht van een daaraan voorafgegane 
