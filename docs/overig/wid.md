@@ -2,7 +2,7 @@
 
 #### HOOFDSTUK I. Aanwijzing van documenten
 
-#####Artikel 1 | Soorten documenten
+#####<span style="color: #f87c24;">Artikel 1 | Soorten documenten</span>
 ```
 1. Als documenten waarmee in bij de wet aangewezen gevallen de identiteit 
    van personen kan worden vastgesteld, worden aangewezen:
@@ -17,7 +17,7 @@
 
 #### HOOFDSTUK II. Toonplicht
 
-#####Artikel 2 | Toonplicht identiteitsbewijs
+#####<span style="color: #f87c24;">Artikel 2 | Toonplicht identiteitsbewijs</span>
 ```
 Een ieder die de leeftijd van veertien jaar heeft bereikt, is verplicht op 
 de eerste vordering van een ambtenaar als bedoeld in artikel 8 van de 
