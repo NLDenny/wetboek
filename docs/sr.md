@@ -4,8 +4,7 @@
 
 #### TITEL I. Omvang van de werking van de strafwet
 
-#####<span style="color: #f87c24;">Artikel 1 | Legaliteitsbeginsel. Verandering in wetgeving</span>,
-#####Artikel 1 | Legaliteitsbeginsel. Verandering in wetgeving
+#####<span style="color: #f87c24;">Artikel 1 | Legaliteitsbeginsel. Verandering in wetgeving</span>
 ```
 1. Geen feit is strafbaar dan uit kracht van een daaraan voorafgegane 
    wettelijke strafbepaling.
@@ -13,7 +12,7 @@
    worden de voor de verdachte gunstigste bepalingen toegepast.
 ```
 
-#####Artikel 2 | Territorialiteitsbeginsel
+#####<span style="color: #f87c24;">Artikel 2 | Territorialiteitsbeginsel</span>
 ```
 De strafwet is toepasselijk op ieder die zich in Los Santos aan enig strafbaar 
 feit schuldig maakt.
@@ -21,7 +20,7 @@ feit schuldig maakt.
 
 #### TITEL II. Straffen
 
-#####Artikel 9 | Hoofd- en bijkomende straffen
+#####<span style="color: #f87c24;">Artikel 9 | Hoofd- en bijkomende straffen</span>
 ```
 1. De straffen zijn:
     a. hoofdstraffen:
@@ -33,7 +32,7 @@ feit schuldig maakt.
      2° openbaarmaking van de rechterlijke uitspraak
 ```
 
-#####Artikel 9a | Rechterlijk pardon
+#####<span style="color: #f87c24;">Artikel 9a | Rechterlijk pardon</span>
 ```
 Indien de rechter dit raadzaam acht in verband met de geringe ernst van het 
 feit, de persoonlijkheid van de dader of de omstandigheden waaronder het feit 
@@ -41,14 +40,14 @@ is begaan, dan wel die zich nadien hebben voorgedaan, kan hij in het vonnis
 bepalen dat geen straf of maatregel zal worden opgelegd.
 ```
 
-#####Artikel 10 | Duur gevangenisstraf
+#####<span style="color: #f87c24;">Artikel 10 | Duur gevangenisstraf</span>
 ```
 1. De gevangenisstraf is tijdelijk.
 2. De duur van de tijdelijke gevangenisstraf is ten minste [AANTAL] maanden 
    en ten hoogste [AANTAL] maanden.
 ```
 
-#####Artikel 22c | Taakstraf
+#####<span style="color: #f87c24;">Artikel 22c | Taakstraf</span>
 ```
 1. Een taakstraf bestaat uit het verrichten van onbetaalde arbeid. 
    Het vonnis dan wel de strafbeschikking vermeldt het aantal uren 
@@ -57,7 +56,7 @@ bepalen dat geen straf of maatregel zal worden opgelegd.
 2. De taakstraf duurt ten hoogste [AANTAL] uren.
 ```
 
-#####Artikel 23 | Geldboete. Categorieën
+#####<span style="color: #f87c24;">Artikel 23 | Geldboete. Categorieën</span>
 ```
 1. Hij die tot een geldboete is veroordeeld, betaalt het vastgestelde bedrag 
    binnen de door Onze Minister van Justitie en Veiligheid te stellen termijn 
@@ -77,7 +76,7 @@ bepalen dat geen straf of maatregel zal worden opgelegd.
    van de eerste, onderscheidenlijk de derde categorie.
 ```
 
-#####Artikel 24 | Draagkrachtbeginsel
+#####<span style="color: #f87c24;">Artikel 24 | Draagkrachtbeginsel</span>
 ```
 Bij de vaststelling van de geldboete wordt rekening gehouden met de draagkracht 
 van de verdachte in de mate waarin dat nodig is met het oog op een passende 
@@ -124,7 +123,7 @@ onevenredig wordt getroffen.
    wordt uitbetaald; zulks laat ieders recht op dit bedrag onverlet.   
   -->
 
-#####Artikel 36e | Ontneming wederrechterlijk verkregen voordeel
+#####<span style="color: #f87c24;">Artikel 36e | Ontneming wederrechterlijk verkregen voordeel</span>
 ```
 1. Op vordering van het openbaar ministerie kan bij een afzonderlijke 
    rechterlijke beslissing aan degene die is veroordeeld wegens een 
@@ -140,20 +139,20 @@ onevenredig wordt getroffen.
 
 #### TITEL III. Uitsluiting en verhoging van strafbaarheid
 
-#####Artikel 39 | Ontoerekeningsvatbaarheid
+#####<span style="color: #f87c24;">Artikel 39 | Ontoerekeningsvatbaarheid</span>
 ```
 Niet strafbaar is hij die een feit begaat, dat hem wegens de psychische 
 stoornis, psychogeriatrische aandoening of verstandelijke handicap niet 
 kan worden toegerekend.
 ```
 
-#####Artikel 40 | Overmacht
+#####<span style="color: #f87c24;">Artikel 40 | Overmacht</span>
 ```
 Niet strafbaar is hij die een feit begaat waartoe hij door overmacht is 
 gedrongen.
 ```
 
-#####Artikel 41 | Noodweer (exces)
+#####<span style="color: #f87c24;">Artikel 41 | Noodweer (exces)</span>
 ```
 1. Niet strafbaar is hij die een feit begaat, geboden door de 
    noodzakelijke verdediging van eigen of eens anders lijf, 
@@ -163,7 +162,7 @@ gedrongen.
    gemoedsbeweging, door de aanranding veroorzaakt.    
 ```
 
-#####Artikel 42 | Wettelijk voorschrift
+#####<span style="color: #f87c24;">Artikel 42 | Wettelijk voorschrift</span>
 ```
 1. Niet strafbaar is hij die een feit begaat ter uitvoering van een wettelijk 
    voorschrift.
@@ -171,7 +170,7 @@ gedrongen.
    taak en in overeenstemming met zijn geweldsinstructie geweld gebruikt.   
 ```
 
-#####Artikel 43 | (Onbevoegd) ambtelijk bevel
+#####<span style="color: #f87c24;">Artikel 43 | (Onbevoegd) ambtelijk bevel</span>
 ```
 1. Niet strafbaar is hij die een feit begaat ter uitvoering van een ambtelijk 
    bevel, gegeven door het daartoe bevoegde gezag.
@@ -181,7 +180,7 @@ gedrongen.
    was gelegen.    
 ```
 
-#####Artikel 43a | Recidive
+#####<span style="color: #f87c24;">Artikel 43a | Recidive</span>
 ```
 De op een misdrijf gestelde tijdelijke gevangenisstraf of hechtenis kan, 
 onverminderd artikel 10, met een derde worden verhoogd indien tijdens het 
@@ -192,7 +191,7 @@ jaren wordt verlengd met de tijd waarin de veroordeelde rechtens zijn vrijheid
 is ontnomen.   
 ```
 
-#####Artikel 44 | Ambtenaren
+#####<span style="color: #f87c24;">Artikel 44 | Ambtenaren</span>
 ```
 Indien een ambtenaar door het begaan van een strafbaar feit een bijzondere 
 ambtsplicht schendt of bij het begaan van een strafbaar feit gebruik maakt 
@@ -203,7 +202,7 @@ worden verhoogd.
 
 #### TITEL IV. Poging en voorbereiding
 
-#####Artikel 45 | Poging tot misdrijf
+#####<span style="color: #f87c24;">Artikel 45 | Poging tot misdrijf</span>
 ```
 1. Poging tot misdrijf is strafbaar, wanneer het voornemen van de dader zich 
    door een begin van uitvoering heeft geopenbaard.
@@ -213,7 +212,7 @@ worden verhoogd.
    misdrijf.
 ```
 
-#####Artikel 46 | Voorbereiding van misdrijf
+#####<span style="color: #f87c24;">Artikel 46 | Voorbereiding van misdrijf</span>
 ```
 1. Voorbereiding van een misdrijf is strafbaar, wanneer de dader opzettelijk 
    voorwerpen, stoffen, informatiedragers, ruimten of vervoermiddelen bestemd 
@@ -226,7 +225,7 @@ worden verhoogd.
 4. Onder voorwerpen worden verstaan alle zaken en alle vermogensrechten.   
 ```
 
-#####Artikel 46a | Poging om ander tot misdrijf te bewegen
+#####<span style="color: #f87c24;">Artikel 46a | Poging om ander tot misdrijf te bewegen</span>
 ```
 Poging om een ander door een der in artikel 47, eerste lid onder 2e, vermelde 
 middelen te bewegen om een misdrijf te begaan, is strafbaar, met dien 
@@ -235,7 +234,7 @@ tot het misdrijf of, indien zodanige poging niet strafbaar is, terzake van het
 misdrijf zelf kan worden opgelegd.
 ```
 
-#####Artikel 46b | Niet voltooide voorbereiding/poging
+#####<span style="color: #f87c24;">Artikel 46b | Niet voltooide voorbereiding/poging</span>
 ```
 Voorbereiding noch poging bestaat indien het misdrijf niet is voltooid 
 tengevolge van omstandigheden van de wil van de dader afhankelijk.
@@ -243,7 +242,7 @@ tengevolge van omstandigheden van de wil van de dader afhankelijk.
 
 #### TITEL V. Deelneming aan strafbare feiten
 
-#####Artikel 47 | Daders
+#####<span style="color: #f87c24;">Artikel 47 | Daders</span>
 ```
 1. Als daders van een strafbaar feit worden gestraft:
    1° zij die het feit plegen, doen plegen of medeplegen;
@@ -254,7 +253,7 @@ tengevolge van omstandigheden van de wil van de dader afhankelijk.
    zij opzettelijk hebben uitgelokt, benevens hun gevolgen.     
 ```
 
-#####Artikel 48 | Medeplichtigheid
+#####<span style="color: #f87c24;">Artikel 48 | Medeplichtigheid</span>
 ```
 Als medeplichtigen van een misdrijf worden gestraft:
    1° zij die opzettelijk behulpzaam zijn bij het plegen van het misdrijf;
@@ -262,7 +261,7 @@ Als medeplichtigen van een misdrijf worden gestraft:
       het plegen van het misdrijf.   
 ```
 
-#####Artikel 49 | Strafbepaling bij medeplichtigheid
+#####<span style="color: #f87c24;">Artikel 49 | Strafbepaling bij medeplichtigheid</span>
 ```
 1. Het maximum van de hoofdstraffen op het misdrijf gesteld wordt bij 
    medeplichtigheid met een derde verminderd.
@@ -273,7 +272,7 @@ Als medeplichtigen van een misdrijf worden gestraft:
    benevens hun gevolgen.
 ```
 
-#####Artikel 50 | Persoonlijke omstandigheden
+#####<span style="color: #f87c24;">Artikel 50 | Persoonlijke omstandigheden</span>
 ```
 De persoonlijke omstandigheden waardoor de strafbaarheid uitgesloten, 
 verminderd of verhoogd wordt, komen bij de toepassing van de strafwet 
@@ -281,14 +280,14 @@ alleen in aanmerking ten aanzien van die dader of medeplichtige wie
 zij persoonlijk betreffen.
 ```
 
-#####Artikel 52 | Medeplichtigheid aan overtreding
+#####<span style="color: #f87c24;">Artikel 52 | Medeplichtigheid aan overtreding</span>
 ```
 Medeplichtigheid aan overtreding is niet strafbaar.
 ```
 
 #### TITEL VI. Samenloop van strafbare feiten
 
-#####Artikel 55 | Eendaadse samenloop
+#####<span style="color: #f87c24;">Artikel 55 | Eendaadse samenloop</span>
 ```
 1. Valt een feit in meer dan één strafbepaling, dan wordt slechts één van 
    die bepalingen toegepast, bij verschil die waarbij de zwaarste hoofdstraf 
@@ -297,7 +296,7 @@ Medeplichtigheid aan overtreding is niet strafbaar.
    strafbepaling bestaat, komt deze alleen in aanmerking.
 ```
 
-#####Artikel 56 | Voortgezette handeling
+#####<span style="color: #f87c24;">Artikel 56 | Voortgezette handeling</span>
 ```
 Staan meerdere feiten, ofschoon elk op zichzelf misdrijf of overtreding 
 opleverende, in zodanig verband dat zij moeten worden beschouwd als één 
@@ -307,13 +306,13 @@ bij verschil die waarbij de zwaarste hoofdstraf is gesteld.
 
 #### TITEL VII. Indiening en intrekking van klacht bij misdrijven alleen op klacht vervolgbaar
 
-#####Artikel 64 | Klachtgerechtigde
+#####<span style="color: #f87c24;">Artikel 64 | Klachtgerechtigde</span>
 ```
 Inzake een misdrijf dat alleen op klacht wordt vervolgd, is degene tegen wie
 het feit is begaan, tot de klacht gerechtigd.
 ```
 
-#####Artikel 67 | Intrekking
+#####<span style="color: #f87c24;">Artikel 67 | Intrekking</span>
 ```
 Hij die de klacht indient, blijft gedurende acht dagen na de dag der 
 indiening bevoegd deze in te trekken.
@@ -321,7 +320,7 @@ indiening bevoegd deze in te trekken.
 
 #### TITEL VIII. Verval van het recht tot strafvordering en van de straf
 
-#####Artikel 68 | Ne bis in idem
+#####<span style="color: #f87c24;">Artikel 68 | Ne bis in idem</span>
 ```
 1. Behoudens de gevallen waarin rechterlijke uitspraken voor herziening vatbaar 
    zijn, kan niemand andermaal worden vervolgd wegens een feit waarover te 
@@ -335,14 +334,14 @@ indiening bevoegd deze in te trekken.
       uitvoering, gratie of verjaring der straf.
 ```
 
-#####Artikel 69 | Dood van verdachte
+#####<span style="color: #f87c24;">Artikel 69 | Dood van verdachte</span>
 ```
 Het recht tot strafvordering vervalt door de dood van de verdachte.
 ```
 
 #### TITEL IX. Betekenis van sommige in het wetboek voorkomende uitdrukkingen
 
-#####Artikel 78 | Misdrijf
+#####<span style="color: #f87c24;">Artikel 78 | Misdrijf</span>
 ```
 Waar van misdrijf in het algemeen of van enig misdrijf in het bijzonder 
 gesproken wordt, wordt daaronder medeplichtigheid aan, poging tot en 
@@ -350,25 +349,25 @@ voorbereiding van dat misdrijf begrepen, voorzover niet uit enige
 bepaling het tegendeel volgt.
 ```
 
-#####Artikel 78b | Strafbeschikking
+#####<span style="color: #f87c24;">Artikel 78b | Strafbeschikking</span>
 ```
 Waar van veroordeling wordt gesproken wordt daaronder een strafbeschikking 
 begrepen, voorzover niet uit enige bepaling het tegendeel volgt.
 ```
 
-#####Artikel 80 | Samenspanning
+#####<span style="color: #f87c24;">Artikel 80 | Samenspanning</span>
 ```
 Samenspanning bestaat zodra twee of meer personen overeengekomen zijn om 
 het misdrijf te plegen.
 ```
 
-#####Artikel 81 | Plegen van geweld
+#####<span style="color: #f87c24;">Artikel 81 | Plegen van geweld</span>
 ```
 Met het plegen van geweld wordt gelijkgesteld het brengen in een staat 
 van bewusteloosheid of onmacht.
 ```
 
-#####Artikel 82 | Zwaar lichamelijk letsel
+#####<span style="color: #f87c24;">Artikel 82 | Zwaar lichamelijk letsel</span>
 ```
 1. Onder zwaar lichamelijk letsel worden begrepen: ziekte die geen uitzicht 
    op volkomen genezing overlaat, voortdurende ongeschiktheid tot uitoefening 
@@ -378,19 +377,19 @@ van bewusteloosheid of onmacht.
    verstandelijke vermogens die langer dan vier weken geduurd heeft.
 ```
 
-#####Artikel 89 | Inklimming
+#####<span style="color: #f87c24;">Artikel 89 | Inklimming</span>
 ```
 Onder inklimming wordt begrepen ondergraving, alsmede het overschrijden 
 van sloten of grachten tot afsluiting dienende.
 ```
 
-#####Artikel 90 | Valse sleutels
+#####<span style="color: #f87c24;">Artikel 90 | Valse sleutels</span>
 ```
 Onder valse sleutels worden begrepen alle tot opening van het slot 
 niet bestemde werktuigen.
 ```
 
-#####Artikel 90novies | Begripsbepaling geweldsinstructie politie
+#####<span style="color: #f87c24;">Artikel 90novies | Begripsbepaling geweldsinstructie politie</span>
 ```
 Onder geweldsinstructie wordt verstaan de bij of krachtens de Politiewet 2012 
 gegeven algemeen verbindende voorschriften die tot de ambtenaar gerichte 
