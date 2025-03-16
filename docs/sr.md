@@ -400,7 +400,7 @@ instructies bevatten omtrent het gebruik van geweld.
 
 #### TITEL V. Misdrijven tegen de openbare orde
 
-#####Artikel 131 | Opruiing
+#####<span style="color: #f87c24;">Artikel 131 | Opruiing</span>
 ```
 Hij die in het openbaar, mondeling of bij geschrift of afbeelding, tot 
 enig strafbaar feit of tot gewelddadig optreden tegen het openbaar gezag 
@@ -428,7 +428,7 @@ te plegen, wordt gestraft met [STRAFMAAT].
 ```
 -->
 
-#####Artikel 138 | Huisvredebreuk
+#####<span style="color: #f87c24;">Artikel 138 | Huisvredebreuk</span>
 ```
 1. Hij die in de woning of het besloten lokaal of erf, bij een ander in 
    gebruik, wederrechtelijk binnendringt of, wederrechtelijk aldaar 
@@ -441,7 +441,7 @@ te plegen, wordt gestraft met [STRAFMAAT].
    tijd, wordt geacht te zijn binnengedrongen.
 ```
 
-#####Artikel 139 | Lokaalvredebreuk
+#####<span style="color: #f87c24;">Artikel 139 | Lokaalvredebreuk</span>
 ```
 1. Hij die in een voor de openbare dienst bestemd lokaal wederrechtelijk 
    binnendringt, of, wederrechtelijk aldaar vertoevende, zich niet op de 
@@ -455,7 +455,7 @@ te plegen, wordt gestraft met [STRAFMAAT].
    binnengedrongen.
 ```
 
-#####Artikel 140 | Deelneming aan criminele organisatie
+#####<span style="color: #f87c24;">Artikel 140 | Deelneming aan criminele organisatie</span>
 ```
 1. Deelneming aan een organisatie die tot oogmerk heeft het plegen van 
    misdrijven, wordt gestraft met [STRAFMAAT].
@@ -467,28 +467,28 @@ te plegen, wordt gestraft met [STRAFMAAT].
    organisatie.
 ```
 
-#####Artikel 141 | Openlijke geweldpleging
+#####<span style="color: #f87c24;">Artikel 141 | Openlijke geweldpleging</span>
 ```
 1. Zij die openlijk in vereniging geweld plegen tegen personen of goederen, 
    worden gestraft met [STRAFMAAT].
 2. Artikel 81 blijft buiten toepassing.   
 ```
 
-#####Artikel 141a | Gelegenheid verschaffen tot plegen van geweld
+#####<span style="color: #f87c24;">Artikel 141a | Gelegenheid verschaffen tot plegen van geweld</span>
 ```
 Hij die opzettelijk gelegenheid, middelen of inlichtingen verschaft tot het 
 plegen van geweld tegen personen of goederen wordt gestraft met 
 [STRAFMAAT].
 ```
 
-#####Artikel 142 | Vals alarm
+#####<span style="color: #f87c24;">Artikel 142 | Vals alarm</span>
 ```
 Hij die opzettelijk, zonder dat daartoe de noodzaak aanwezig is, gebruik 
 maakt van een alarmnummer voor publieke diensten wordt gestraft met 
 [STRAFMAAT].
 ```
 
-#####Artikel 142a | Valse bom
+#####<span style="color: #f87c24;">Artikel 142a | Valse bom</span>
 ```
 1. Hij die een voorwerp verzendt of op een al dan niet voor het publiek 
    toegankelijke plaats achterlaat of plaatst, met het oogmerk een ander 
@@ -500,14 +500,14 @@ maakt van een alarmnummer voor publieke diensten wordt gestraft met
    waardoor een ontploffing kan worden teweeggebracht.
 ```
 
-#####Artikel 149 | Grafschennis
+#####<span style="color: #f87c24;">Artikel 149 | Grafschennis</span>
 ```
 Hij die opzettelijk een graf schendt of enig op een begraafplaats opgericht 
 gedenkteken opzettelijk en wederrechtelijk vernielt of beschadigt, wordt 
 gestraft met [STRAFMAAT].
 ```
 
-#####Artikel 151 | Doen verdwijnen van lijk
+#####<span style="color: #f87c24;">Artikel 151 | Doen verdwijnen van lijk</span>
 ```
 Hij die een lijk begraaft, verbrandt, vernietigt, verbergt, wegvoert of 
 wegmaakt, met het oogmerk om het feit of de oorzaak van het overlijden, 
@@ -517,7 +517,7 @@ dan wel van het dood ter wereld komen te verhelen, wordt gestraft met
 
 #### TITEL VII. Misdrijven waardoor de algemene veiligheid van personen of goederen wordt in <br /> gevaar gebracht
 
-#####Artikel 157 | Opzettelijk brand of ontploffing veroorzaken
+#####<span style="color: #f87c24;">Artikel 157 | Opzettelijk brand of ontploffing veroorzaken</span>
 ```
 Hij die opzettelijk brand sticht of een ontploffing teweegbrengt, wordt 
 gestraft met [STRAFMAAT], indien daarvan gemeen gevaar voor goederen te 
@@ -525,7 +525,7 @@ duchten is of indien daarvan levensgevaar of gevaar voor zwaar
 lichamelijk letsel voor een ander te duchten is.
 ```
 
-#####Artikel 158 | Culpoos brand of ontploffing veroorzaken
+#####<span style="color: #f87c24;">Artikel 158 | Culpoos brand of ontploffing veroorzaken</span>
 ```
 Hij aan wiens schuld brand of ontploffing te wijten is, 
 wordt gestraft met [STRAFMAAT], indien daarvan gemeen gevaar voor goederen 
@@ -535,7 +535,7 @@ lichamelijk letsel voor een ander ontstaat.
 
 #### TITEL VIII. Misdrijven tegen het openbaar gezag
 
-#####Artikel 177 | Omkoping ambtenaar
+#####<span style="color: #f87c24;">Artikel 177 | Omkoping ambtenaar</span>
 ```
 1. Met [STRAFMAAT] wordt gestraft: 
    1° hij die een ambtenaar een gift of belofte doet dan wel een dienst 
@@ -553,7 +553,7 @@ lichamelijk letsel voor een ander ontstaat.
    ontzet.   
 ```
 
-#####Artikel 179 | Ambtsdwang
+#####<span style="color: #f87c24;">Artikel 179 | Ambtsdwang</span>
 ```
 Hij die door geweld of enige andere feitelijkheid of bedreiging met geweld 
 of enige andere feitelijkheid een ambtenaar dwingt tot het volvoeren van 
@@ -561,7 +561,7 @@ een ambtsverrichting of het nalaten van een rechtmatige ambtsverrichting,
 wordt gestraft met [STRAFMAAT].
 ```
 
-#####Artikel 180 | Wederspannigheid
+#####<span style="color: #f87c24;">Artikel 180 | Wederspannigheid</span>
 ```
 Hij die zich met geweld of bedreiging met geweld verzet tegen een ambtenaar 
 werkzaam in de rechtmatige uitoefening van zijn bediening, of tegen personen 
@@ -569,7 +569,7 @@ die hem daarbij krachtens wettelijke verplichting of op zijn verzoek bijstand
 verlenen, wordt als schuldig aan wederspannigheid gestraft met [STRAFMAAT].
 ```
 
-#####Artikel 184 | Niet voldoen aan ambtelijk bevel
+#####<span style="color: #f87c24;">Artikel 184 | Niet voldoen aan ambtelijk bevel</span>
 ```
 1. Hij die opzettelijk niet voldoet aan een bevel of een vordering, krachtens 
    wettelijk voorschrift gedaan door een ambtenaar met de uitoefening van enig 
@@ -583,7 +583,7 @@ verlenen, wordt als schuldig aan wederspannigheid gestraft met [STRAFMAAT].
    tijdelijk met enige openbare dienst is belast.
 ```
 
-#####Artikel 185 | Bemoeien terechtzitting en ambtshandeling
+#####<span style="color: #f87c24;">Artikel 185 | Bemoeien terechtzitting en ambtshandeling</span>
 ```
 Hij die bij een terechtzitting of ter plaatse waar een ambtenaar in het 
 openbaar in de rechtmatige uitoefening van zijn bediening werkzaam is, 
@@ -591,7 +591,7 @@ opschudding veroorzaakt en na het door of vanwege het bevoegd gezag gegeven
 bevel zich niet verwijdert, wordt gestraft met [STRAFMAAT].
 ```
 
-#####Artikel 186 | Samenscholing
+#####<span style="color: #f87c24;">Artikel 186 | Samenscholing</span>
 ```
 Hij die opzettelijk bij gelegenheid van een volksoploop zich niet 
 onmiddellijk verwijdert na het derde door of vanwege het bevoegd gezag 
@@ -599,13 +599,13 @@ gegeven bevel, wordt, als schuldig aan deelneming aan samenscholing,
 gestraft met [STRAFMAAT].
 ```
 
-#####Artikel 188 | Valse aangifte of klacht
+#####<span style="color: #f87c24;">Artikel 188 | Valse aangifte of klacht</span>
 ```
 Hij die aangifte of klacht doet dat een strafbaar feit gepleegd is, 
 wetende dat het niet gepleegd is, wordt gestraft met [STRAFMAAT].
 ```
 
-#####Artikel 189 | Hulp aan dader na misdrijf
+#####<span style="color: #f87c24;">Artikel 189 | Hulp aan dader na misdrijf</span>
 ```
 1. Met [STRAFMAAT] wordt gestraft:
    1° hij die opzettelijk iemand die schuldig is aan of verdachte is van 
@@ -625,13 +625,13 @@ wetende dat het niet gepleegd is, wordt gestraft met [STRAFMAAT].
       inlichtingen aan derden die inbeslagneming belet, belemmert of verijdelt.
 ```
 
-#####Artikel 190 | Beletten van lijkschouwing
+#####<span style="color: #f87c24;">Artikel 190 | Beletten van lijkschouwing</span>
 ```
 Hij die opzettelijk een gerechtelijke lijkschouwing belet, belemmert of 
 verijdelt, wordt gestraft met [STRAFMAAT].
 ```
 
-#####Artikel 191 | Bevrijding van gedetineerde
+#####<span style="color: #f87c24;">Artikel 191 | Bevrijding van gedetineerde</span>
 ```
 Hij die opzettelijk iemand, op openbaar gezag of krachtens rechterlijke 
 uitspraak of beschikking van de vrijheid beroofd, bevrijdt of bij zijn 
