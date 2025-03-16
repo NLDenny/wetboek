@@ -1,6 +1,6 @@
 # Roxwood County 
 
-<span style="color: #f87c24;">__Geachte lezer__</span>,
+<span style="color: #ff6e42;">__Geachte lezer__</span>,
 
 ![Image title](https://i.imgur.com/KXtU9CX.png){ align=right }
 
