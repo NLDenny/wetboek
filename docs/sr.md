@@ -126,7 +126,7 @@ onevenredig wordt getroffen.
 
 #####<span style="color: #f87c24;">Artikel 36e | Ontneming wederrechterlijk verkregen voordeel</span>
 ```
-1. Op vordering van het openbaar ministerie kan bij een afzonderlijke 
+1. Op vordering van het Department of Justice (DOJ) kan bij een afzonderlijke 
    rechterlijke beslissing aan degene die is veroordeeld wegens een 
    strafbaar feit de verplichting worden opgelegd tot betaling van 
    een geldbedrag aan de staat ter ontneming van wederrechtelijk 
@@ -181,6 +181,7 @@ gedrongen.
    was gelegen.    
 ```
 
+<!-- MOEILIJK UITVOERBAAR RP SERVER
 #####<span style="color: #f87c24;">Artikel 43a | Recidive</span>
 ```
 De op een misdrijf gestelde tijdelijke gevangenisstraf of hechtenis kan, 
@@ -191,6 +192,7 @@ soortgelijk misdrijf in kracht van gewijsde is gegaan. De termijn van vijf
 jaren wordt verlengd met de tijd waarin de veroordeelde rechtens zijn vrijheid 
 is ontnomen.   
 ```
+-->
 
 #####<span style="color: #f87c24;">Artikel 44 | Ambtenaren</span>
 ```
@@ -226,6 +228,7 @@ worden verhoogd.
 4. Onder voorwerpen worden verstaan alle zaken en alle vermogensrechten.   
 ```
 
+<!-- NIET VAN TOEPASSING RP
 #####<span style="color: #f87c24;">Artikel 46a | Poging om ander tot misdrijf te bewegen</span>
 ```
 Poging om een ander door een der in artikel 47, eerste lid onder 2e, vermelde 
@@ -234,6 +237,7 @@ verstande dat geen zwaardere straf wordt uitgesproken dan ter zake van poging
 tot het misdrijf of, indien zodanige poging niet strafbaar is, terzake van het 
 misdrijf zelf kan worden opgelegd.
 ```
+-->
 
 #####<span style="color: #f87c24;">Artikel 46b | Niet voltooide voorbereiding/poging</span>
 ```
