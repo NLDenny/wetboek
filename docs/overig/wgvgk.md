@@ -1,6 +1,6 @@
 # Wet gedeeltelijk verbod gezichtsbedekkende kleding
 
-#####Artikel 1 
+#####<span style="color: #f87c24;">Artikel 1</span> 
 ```
 1. Het is verboden om in het openbaar vervoer en in gebouwen en bijbehorende
    erven van onderwijsinstellingen, overheidsinstellingen en zorginstellingen 
@@ -22,7 +22,7 @@
    onbepaalde tijd verblijven, of hun bezoekers.
 ```
 
-#####Artikel 2
+#####<span style="color: #f87c24;">Artikel 2</span>
 ```
 1. Degene die handelt in strijd met artikel 1, eerste lid, wordt gestraft met 
    [STRAFMAAT].
