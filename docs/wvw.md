@@ -41,6 +41,7 @@ De krachtens deze wet vastgestelde regels kunnen strekken tot:
    d. het zoveel mogelijk waarborgen van de vrijheid van het verkeer.
 ```
 
+<!-- N.V.T. IGNITE
 #### HOOFDSTUK IB. Het CBR
 
 #####<span style="color: #f87c24;">Artikel 4z | CBR</span>
@@ -57,6 +58,7 @@ Het CBR is belast met de volgende taken:
    b. het beoordelen van de vakbekwaamheid van bestuurders in het goederen- en 
       personenvervoer over de weg.
 ```
+-->
 
 #### HOOFDSTUK II. Verkeersgedrag
 
