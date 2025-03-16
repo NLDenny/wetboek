@@ -14,7 +14,7 @@
 
 #####<span style="color: #f87c24;">Artikel 2 | Territorialiteitsbeginsel</span>
 ```
-De strafwet is toepasselijk op ieder die zich in Los Santos aan enig strafbaar 
+De strafwet is toepasselijk op ieder die zich in de stad aan enig strafbaar 
 feit schuldig maakt.
 ```
 
