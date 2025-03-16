@@ -76,7 +76,6 @@ bepalen dat geen straf of maatregel zal worden opgelegd.
    is gesteld, kan een geldboete worden opgelegd tot ten hoogste het bedrag 
    van de eerste, onderscheidenlijk de derde categorie.
 ```
--->
 
 #####<span style="color: #f87c24;">Artikel 24 | Draagkrachtbeginsel</span>
 ```
