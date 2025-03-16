@@ -655,7 +655,7 @@ zelfbevrijding behulpzaam is, wordt gestraft met [STRAFMAAT].
 
 #### TITEL XII. Valsheid met geschriften, gegevens en biometrische kenmerken
 
-#####Artikel 225 | Valsheid in geschrift
+#####<span style="color: #f87c24;">Artikel 225 | Valsheid in geschrift</span>
 ```
 1. Hij die een geschrift dat bestemd is om tot bewijs van enig feit te 
    dienen, valselijk opmaakt of vervalst, met het oogmerk om het als 
@@ -669,7 +669,7 @@ zelfbevrijding behulpzaam is, wordt gestraft met [STRAFMAAT].
    bestemd is voor zodanig gebruik.  
 ```
 
-#####Artikel 231 | Vals reisdocument of identiteitskaart
+#####<span style="color: #f87c24;">Artikel 231 | Vals reisdocument of identiteitskaart</span>
 ```
 1. Hij die een reisdocument, een identiteitsbewijs als bedoeld in 
    artikel 1 van de Wet op de identificatieplicht of een ander 
@@ -718,7 +718,7 @@ te last gelegde feit in strijd met de waarheid is, wordt, als schuldig
 aan laster, gestraft met gevangenisstraf van ten hoogste [AANTAL] maanden.
  -->
 
-#####Artikel 266 | Eenvoudige belediging
+#####<span style="color: #f87c24;">Artikel 266 | Eenvoudige belediging</span>
 ```
 1. Elke opzettelijke belediging die niet het karakter van smaad of 
    smaadschrift draagt, hetzij in het openbaar mondeling of bij geschrift 
@@ -732,7 +732,7 @@ aan laster, gestraft met gevangenisstraf van ten hoogste [AANTAL] maanden.
    dan uit die strekking voortvloeit.   
 ```
 
-#####Artikel 269 | Belediging als regel klachtdelict
+#####<span style="color: #f87c24;">Artikel 269 | Belediging als regel klachtdelict</span>
 ```
 Belediging, strafbaar krachtens deze titel, wordt niet vervolgd dan op 
 klacht van hem tegen wie het misdrijf is gepleegd. 
@@ -740,7 +740,7 @@ klacht van hem tegen wie het misdrijf is gepleegd.
 
 #### TITEL XVIII. Misdrijven tegen de persoonlijke vrijheid
 
-#####Artikel 282 | Opzettelijke vrijheidsberoving
+#####<span style="color: #f87c24;">Artikel 282 | Opzettelijke vrijheidsberoving</span>
 ```
 1. Hij die opzettelijk iemand wederrechtelijk van de vrijheid berooft 
    of beroofd houdt, wordt gestraft met [STRAFMAAT].
@@ -749,7 +749,7 @@ klacht van hem tegen wie het misdrijf is gepleegd.
    verschaft.   
 ```
 
-#####Artikel 282a | Gijzeling
+#####<span style="color: #f87c24;">Artikel 282a | Gijzeling</span>
 ```
 1. Hij die opzettelijk iemand wederrechtelijk van de vrijheid berooft 
    of beroofd houdt met het oogmerk een ander te dwingen iets te doen of 
@@ -758,7 +758,7 @@ klacht van hem tegen wie het misdrijf is gepleegd.
 2. Het vierde lid van artikel 282 is toepasselijk.   
 ```
 
-#####Artikel 284 | Dwang
+#####<span style="color: #f87c24;">Artikel 284 | Dwang</span>
 ```
 1. Met [STRAFMAAT] wordt gestraft:
    1° hij die een ander door geweld of enige andere feitelijkheid of 
@@ -771,7 +771,7 @@ klacht van hem tegen wie het misdrijf is gepleegd.
    dan op klacht van hem tegen wie het gepleegd is.
 ```
 
-#####Artikel 285 | Bedreiging met ernstig misdrijf
+#####<span style="color: #f87c24;">Artikel 285 | Bedreiging met ernstig misdrijf</span>
 ```
 1. Bedreiging met openlijk in vereniging geweld plegen tegen personen 
    of goederen, met geweld tegen een internationaal beschermd persoon 
@@ -787,7 +787,7 @@ klacht van hem tegen wie het misdrijf is gepleegd.
    derde verhoogd.          
 ```
 
-#####Artikel 285b | Stalking
+#####<span style="color: #f87c24;">Artikel 285b | Stalking</span>
 ```
 1. Hij, die wederrechtelijk stelselmatig opzettelijk inbreuk maakt op eens 
    anders persoonlijke levenssfeer met het oogmerk die ander te dwingen 
@@ -814,13 +814,13 @@ klacht van hem tegen wie het misdrijf is gepleegd.
 
 #### TITEL XIX. Misdrijven tegen het leven gericht
 
-#####Artikel 287 | Doodslag
+#####<span style="color: #f87c24;">Artikel 287 | Doodslag</span>
 ```
 Hij die opzettelijk een ander van het leven berooft, wordt, als schuldig 
 aan doodslag, gestraft met [STRAFMAAT].
 ```
 
-#####Artikel 288 | Gekwalificeerde doodslag
+#####<span style="color: #f87c24;">Artikel 288 | Gekwalificeerde doodslag</span>
 ```
 Doodslag gevolgd, vergezeld of voorafgegaan van een strafbaar feit en gepleegd 
 met het oogmerk om de uitvoering van dat feit voor te bereiden of gemakkelijk 
@@ -829,7 +829,7 @@ deelnemers aan dat feit hetzij straffeloosheid hetzij het bezit van het
 wederrechtelijk verkregene te verzekeren, wordt gestraft met [STRAFMAAT].
 ```
 
-#####Artikel 289 | Moord
+#####<span style="color: #f87c24;">Artikel 289 | Moord</span>
 ```
 Hij die opzettelijk en met voorbedachten rade een ander van het leven berooft, 
 wordt, als schuldig aan moord, gestraft met [STRAFMAAT].
@@ -837,7 +837,7 @@ wordt, als schuldig aan moord, gestraft met [STRAFMAAT].
 
 #### TITEL XX. Mishandeling
 
-#####Artikel 300 | Mishandeling
+#####<span style="color: #f87c24;">Artikel 300 | Mishandeling</span>
 ```
 1. Mishandeling wordt gestraft met [STRAFMAAT].
 2. Met mishandeling wordt gelijkgesteld opzettelijke benadeling van 
@@ -853,7 +853,7 @@ Mishandeling gepleegd met voorbedachten rade wordt gestraft met
 ```
 -->
 
-#####Artikel 302 | Zware mishandeling
+#####<span style="color: #f87c24;">Artikel 302 | Zware mishandeling</span>
 ```
 Hij die aan een ander opzettelijk zwaar lichamelijk letsel toebrengt, 
 wordt, als schuldig aan zware mishandeling, gestraft met [STRAFMAAT].
@@ -867,7 +867,7 @@ Zware mishandeling gepleegd met voorbedachten rade wordt gestraft met
 ```
 -->
 
-#####Artikel 304 | Strafverzwarende omstandigheden
+#####<span style="color: #f87c24;">Artikel 304 | Strafverzwarende omstandigheden</span>
 ```
 1. De in de artikelen 300-303 bepaalde gevangenisstraffen kunnen met een 
    derde worden verhoogd:
@@ -877,7 +877,7 @@ Zware mishandeling gepleegd met voorbedachten rade wordt gestraft met
 
 #### TITEL XXI. Veroorzaken van de dood of van lichamelijk letsel door schuld
 
-#####Artikel 307 | Dood door schuld
+#####<span style="color: #f87c24;">Artikel 307 | Dood door schuld</span>
 ```
 1. Hij aan wiens schuld de dood van een ander te wijten is, wordt gestraft met 
    [STRAFMAAT].
@@ -885,7 +885,7 @@ Zware mishandeling gepleegd met voorbedachten rade wordt gestraft met
    gevangenisstraf met een derde verhoogd.         
 ```
 
-#####Artikel 308 | Zwaar lichamelijk letsel door schuld
+#####<span style="color: #f87c24;">Artikel 308 | Zwaar lichamelijk letsel door schuld</span>
 ```
 1. Hij aan wiens schuld te wijten is dat een ander zwaar lichamelijk letsel 
    bekomt of zodanig lichamelijk letsel dat daaruit tijdelijke ziekte of 
@@ -895,7 +895,7 @@ Zware mishandeling gepleegd met voorbedachten rade wordt gestraft met
    gevangenisstraf met een derde verhoogd.   
 ```
 
-#####Artikel 309 | In uitoefening ambt of beroep
+#####<span style="color: #f87c24;">Artikel 309 | In uitoefening ambt of beroep</span>
 ```
 Indien de in deze titel omschreven misdrijven worden gepleegd in de 
 uitoefening van enig ambt of beroep, kan de gevangenisstraf met een derde 
@@ -906,14 +906,14 @@ openbaarmaking van zijn uitspraak gelasten.
 
 #### TITEL XXII. Diefstal en stroperij
 
-#####Artikel 310 | Diefstal
+#####<span style="color: #f87c24;">Artikel 310 | Diefstal</span>
 ```
 Hij die enig goed dat geheel of ten dele aan een ander toebehoort wegneemt, 
 met het oogmerk om het zich wederrechtelijk toe te eigenen, wordt, als 
 schuldig aan diefstal, gestraft met [STRAFMAAT].
 ```
 
-#####Artikel 311 | Gekwalificeerde diefstal
+#####<span style="color: #f87c24;">Artikel 311 | Gekwalificeerde diefstal</span>
 ```
 Met [STRAFMAAT] wordt gestraft:
    1° diefstal in een woning of op een besloten erf waarop een woning staat, 
@@ -928,7 +928,7 @@ Met [STRAFMAAT] wordt gestraft:
       of door een samenweefsel van verdichtsels.
 ```
 
-#####Artikel 312 | Diefstal met geweldpleging
+#####<span style="color: #f87c24;">Artikel 312 | Diefstal met geweldpleging</span>
 ```
 1. Met [STRAFMAAT] wordt gestraft 
    diefstal, voorafgegaan, vergezeld of gevolgd van geweld of bedreiging 
@@ -950,7 +950,7 @@ Met [STRAFMAAT] wordt gestraft:
 
 #### TITEL XXIII. Afpersing 
 
-#####Artikel 317 | Afpersing
+#####<span style="color: #f87c24;">Artikel 317 | Afpersing</span>
 ```
 1. Hij die, met het oogmerk om zich of een ander wederrechtelijk te 
    bevoordelen, door geweld of bedreiging met geweld iemand dwingt 
@@ -1017,7 +1017,7 @@ die goederen te verzekeren, wordt gestraft met [STRAFMAAT].
 
 #### TITEL XXVII. Vernieling of beschadiging
 
-#####Artikel 350 | Beschadiging goederen/dieren
+#####<span style="color: #f87c24;">Artikel 350 | Beschadiging goederen/dieren</span>
 ```
 1. Hij die opzettelijk en wederrechtelijk enig goed dat geheel of ten dele aan 
    een ander toebehoort, vernielt, beschadigt, onbruikbaar maakt of wegmaakt, 
@@ -1029,7 +1029,7 @@ die goederen te verzekeren, wordt gestraft met [STRAFMAAT].
 
 #### TITEL XXX. Begunstiging
 
-#####Artikel 416 | Opzetheling
+#####<span style="color: #f87c24;">Artikel 416 | Opzetheling</span>
 ```
 1. Als schuldig aan opzetheling wordt gestraft met [STRAFMAAT]:
    a. hij die een goed verwerft, voorhanden heeft of overdraagt, dan wel een 
@@ -1053,7 +1053,7 @@ Hij die van het plegen van opzetheling een gewoonte maakt, wordt gestraft met
 ```
 -->
 
-#####Artikel 417bis | Schuldheling
+#####<span style="color: #f87c24;">Artikel 417bis | Schuldheling</span>
 ```
 1. Als schuldig aan schuldheling wordt gestraft met [STRAFMAAT]:
    a. hij die een goed verwerft, voorhanden heeft of overdraagt, dan wel een 
@@ -1072,7 +1072,7 @@ Hij die van het plegen van opzetheling een gewoonte maakt, wordt gestraft met
 
 #### TITEL XXXA. Witwassen
 
-#####Artikel 420bis | Witwassen
+#####<span style="color: #f87c24;">Artikel 420bis | Witwassen</span>
 ```
 1. Als schuldig aan witwassen wordt gestraft met [STRAFMAAT]:
    a. hij die van een voorwerp de werkelijke aard, de herkomst, de vindplaats, 
@@ -1121,7 +1121,7 @@ eenvoudig schuldwitwassen gestraft met [STRAFMAAT].
 
 #### TITEL I. Overtredingen betreffende de algemene veiligheid van personen en goederen
 
-#####Artikel 424 | Straatschenderij
+#####<span style="color: #f87c24;">Artikel 424 | Straatschenderij</span>
 ```
 Hij die op of aan de openbare weg of op enige voor het publiek toegankelijke 
 plaats tegen personen of goederen enige baldadigheid pleegt waardoor gevaar 
@@ -1129,7 +1129,7 @@ of nadeel kan worden teweeggebracht, wordt, als schuldig aan straatschenderij,
 gestraft met [STRAFMAAT].
 ```
 
-#####Artikel 426 | Gevaarzetting in dronkenschap
+#####<span style="color: #f87c24;">Artikel 426 | Gevaarzetting in dronkenschap</span>
 ```
 Hij die, terwijl hij in staat van dronkenschap verkeert, hetzij in het openbaar 
 het verkeer belemmert of de orde verstoort, hetzij eens anders veiligheid 
@@ -1138,7 +1138,7 @@ voor leven of gezondheid van derden, bijzondere omzichtigheid of voorzorgen
 worden vereist, wordt gestraft met [STRAFMAAT].
 ```
 
-#####Artikel 426bis | Hinderlijk volgen
+#####<span style="color: #f87c24;">Artikel 426bis | Hinderlijk volgen</span>
 ```
 Hij die wederrechtelijk op de openbare weg een ander in zijn vrijheid van 
 beweging belemmert of met een of meer anderen zich aan een ander tegen 
@@ -1146,7 +1146,7 @@ diens uitdrukkelijk verklaarde wil blijft opdringen of hem op hinderlijke
 wijze blijft volgen, wordt gestraft met [STRAFMAAT].
 ```
 
-#####Artikel 426ter | Belemmeren hulpverlener
+#####<span style="color: #f87c24;">Artikel 426ter | Belemmeren hulpverlener</span>
 ```
 Hij die wederrechterlijk een hulpverlener gedurende de uitoefening van zijn 
 beroep in zijn vrijheid van beweging belemmert of met een of meer anderen 
@@ -1156,7 +1156,7 @@ op hinderlijke wijze blijft volgen wordt gestraft met [STRAFMAAT].
 
 #### TITEL II. Overtredingen betreffende de openbare orde
 
-#####Artikel 435 | Valse naam
+#####<span style="color: #f87c24;">Artikel 435 | Valse naam</span>
 ```
 Met [STRAFMAAT] wordt gestraft:
    1° hij die, door het bevoegd gezag naar zijn identificerende 
@@ -1167,7 +1167,7 @@ Met [STRAFMAAT] wordt gestraft:
 
 #### TITEL III. Overtredingen betreffende het openbaar gezag
 
-#####Artikel 443 | Overtreding noodverordening
+#####<span style="color: #f87c24;">Artikel 443 | Overtreding noodverordening</span>
 ```
 Hij die een algemeen voorschrift van politie, krachtens de Gemeentewet in 
 buitengewone omstandigheden door de burgemeester, de voorzitter van de 
@@ -1175,7 +1175,7 @@ veiligheidsregio of de commissaris van de Koning in de provincie
 uitgevaardigd en afgekondigd, overtreedt, wordt gestraft met [STRAFMAAT].
 ```
 
-#####Artikel 447e | Identificatieplicht
+#####<span style="color: #f87c24;">Artikel 447e | Identificatieplicht</span>
 ```
 Hij die niet voldoet aan de verplichting om een identiteitsbewijs ter inzage 
 aan te bieden of medewerking te verlenen aan het nemen van een of meer 
@@ -1199,7 +1199,7 @@ met [STRAFMAAT].
 
 #### TITEL VI. Overtredingen betreffende de zeden
 
-#####Artikel 453 | Openbare dronkenschap
+#####<span style="color: #f87c24;">Artikel 453 | Openbare dronkenschap</span>
 ```
 Hij die zich in kennelijke staat van dronkenschap op de openbare weg bevindt, 
 wordt gestraft met [STRAFMAAT].
@@ -1207,7 +1207,7 @@ wordt gestraft met [STRAFMAAT].
 
 #### TITEL VII. Overtredingen betreffende de veldpolitie
 
-#####Artikel 461 | Verboden toegang voor onbevoegden
+#####<span style="color: #f87c24;">Artikel 461 | Verboden toegang voor onbevoegden</span>
 ```
 Hij die, zonder daartoe gerechtigd te zijn, zich op eens anders grond waarvan 
 de toegang op een voor hem blijkbare wijze door de rechthebbende is verboden, 
