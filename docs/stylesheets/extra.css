@@ -1,7 +1,7 @@
 :root  > * {
   // Primary color shades
   --md-primary-fg-color:               #2B1D15;
-  --md-primary-fg-color--light:        #2E1869;
+  --md-primary-fg-color--light:        #2B1D15;
   --md-primary-fg-color--dark:         #19A62C;
   --md-primary-bg-color:               #6A906F;
   --md-primary-bg-color--light:        #3D340F;
