@@ -94,7 +94,7 @@ Het is daarom raadzaam om periodiek deze pagina opnieuw te bekijken.
 [Art. 26 WWM](/wetboek/wwm/#artikel-26-voorhanden-hebben-categorie-ii-en-iii) | Voorhanden hebben wapen/munitie Cat. III | __n.t.b.__ | __n.t.b.__
 [Art. 27 WWM](/wetboek/wwm/#artikel-27-dragen-categorie-ii-iii-en-iv) | Dragen Cat. II | __n.t.b.__ | __n.t.b.__
 [Art. 27 WWM](/wetboek/wwm/#artikel-27-dragen-categorie-ii-iii-en-iv) | Dragen Cat. III | __n.t.b.__ | __n.t.b.__
-[Art. 27 WWM](/wetboek/wwm/#artikel-27-dragen-categorie-ii-iii-en-iv) | Dragen Cat. IV | __n.t.b.__ | __n.t.b.__
+[Art. 27 WWM](/wetboek/wwm/#artikel-27-dragen-categorie-ii-iii-en-iv) | Dragen Cat. IV | Boete | €335,-
 [Art. 31 WWM](/wetboek/wwm/#artikel-31-overdragen-categorie-ii-en-iii) | Overdragen Cat. II| __n.t.b.__ | __n.t.b.__
 [Art. 31 WWM](/wetboek/wwm/#artikel-31-overdragen-categorie-ii-en-iii) | Overdragen Cat. III | __n.t.b.__ | __n.t.b.__
 
