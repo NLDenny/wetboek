@@ -2,7 +2,7 @@
 
 #### HOOFDSTUK 1. Algemene bepalingen
 
-#####<span style="color: #f87c24;">Artikel 1 | Begripsbepaling</span>
+#####<span style="color: #fc631e;">Artikel 1 | Begripsbepaling</span>
 ```
 1. In deze wet en de daarop berustende bepalingen wordt, tenzij anders blijkt, 
    verstaan onder:
@@ -31,7 +31,7 @@
    aanhangwagen.          
 ```
 
-#####<span style="color: #f87c24;">Artikel 2 | Rijkwijdte</span>
+#####<span style="color: #fc631e;">Artikel 2 | Rijkwijdte</span>
 ```
 De krachtens deze wet vastgestelde regels kunnen strekken tot:
    a. het verzekeren van de veiligheid op de weg;
@@ -44,14 +44,14 @@ De krachtens deze wet vastgestelde regels kunnen strekken tot:
 <!-- N.V.T. IGNITE
 #### HOOFDSTUK IB. Het CBR
 
-#####<span style="color: #f87c24;">Artikel 4z | CBR</span>
+#####<span style="color: #fc631e;">Artikel 4z | CBR</span>
 ```
 Er is een Centraal Bureau Rijvaardigheidsbewijzen, in het maatschappelijk 
 verkeer aangeduid als CBR. Het bureau bezit rechtspersoonlijkheid en is 
 gevestigd te Downtown Vinewood.
 ```
 
-#####<span style="color: #f87c24;">Artikel 4aa | Taken CBR</span>
+#####<span style="color: #fc631e;">Artikel 4aa | Taken CBR</span>
 ```
 Het CBR is belast met de volgende taken:
    a. het beoordelen van de rijvaardigheid;
@@ -62,7 +62,7 @@ Het CBR is belast met de volgende taken:
 
 #### HOOFDSTUK II. Verkeersgedrag
 
-#####<span style="color: #f87c24;">Artikel 5 | Gevaar/hinder</span>
+#####<span style="color: #fc631e;">Artikel 5 | Gevaar/hinder</span>
 ```
 1. Het is een ieder verboden zich zodanig te gedragen dat gevaar op de weg 
    wordt veroorzaakt of kan worden veroorzaakt of dat het verkeer op de weg 
@@ -71,7 +71,7 @@ Het CBR is belast met de volgende taken:
    eerste lid.      
 ```
 
-#####<span style="color: #f87c24;">Artikel 5a | Levensgevaar of gevaar voor zwaar lichamelijk letsel</span>
+#####<span style="color: #fc631e;">Artikel 5a | Levensgevaar of gevaar voor zwaar lichamelijk letsel</span>
 ```
 1. Het is een ieder verboden opzettelijk zich zodanig in het verkeer te 
    gedragen dat de verkeersregels in ernstige mate worden geschonden, 
@@ -99,7 +99,7 @@ Het CBR is belast met de volgende taken:
    eerste lid.      
 ```
 
-#####<span style="color: #f87c24;">Artikel 6 | Veroorzaken verkeersongeval</span>
+#####<span style="color: #fc631e;">Artikel 6 | Veroorzaken verkeersongeval</span>
 ```
 1. Het is een ieder die aan het verkeer deelneemt verboden zich zodanig te 
    gedragen dat een aan zijn schuld te wijten verkeersongeval plaatsvindt 
@@ -111,7 +111,7 @@ Het CBR is belast met de volgende taken:
    eerste lid.      
 ```
 
-#####<span style="color: #f87c24;">Artikel 7 | Verlaten plaats ongeval</span>
+#####<span style="color: #fc631e;">Artikel 7 | Verlaten plaats ongeval</span>
 ```
 1. Het is degene die bij een verkeersongeval is betrokken of door wiens 
    gedraging een verkeersongeval is veroorzaakt, verboden de plaats van 
@@ -131,7 +131,7 @@ Het CBR is belast met de volgende taken:
    eerste lid.      
 ```
 
-#####<span style="color: #f87c24;">Artikel 8 | Besturen onder invloed</span>
+#####<span style="color: #fc631e;">Artikel 8 | Besturen onder invloed</span>
 ```
 1. Het is een ieder verboden een voertuig te besturen, als bestuurder te doen 
    besturen, terwijl hij verkeert onder zodanige invloed van een stof, 
@@ -173,7 +173,7 @@ Het CBR is belast met de volgende taken:
    eerste, tweede, derde of vierde lid.              
 ```
 
-#####<span style="color: #f87c24;">Artikel 10 | Wedstrijdverbod</span>
+#####<span style="color: #fc631e;">Artikel 10 | Wedstrijdverbod</span>
 ```
 1. Het is verboden op de weg een wedstrijd met voertuigen te houden of daaraan 
    deel te nemen.
@@ -188,7 +188,7 @@ Het CBR is belast met de volgende taken:
    eerste lid.      
 ```
 
-#####<span style="color: #f87c24;">Artikel 11 | Joyriding</span>
+#####<span style="color: #fc631e;">Artikel 11 | Joyriding</span>
 ```
 1. Het is verboden opzettelijk wederrechtelijk een aan een ander toebehorend 
    motorrijtuig op de weg te gebruiken.
@@ -196,7 +196,7 @@ Het CBR is belast met de volgende taken:
    eerste lid.      
 ```
 
-#####<span style="color: #f87c24;">Artikel 14 | Nadere regelgeving</span>
+#####<span style="color: #fc631e;">Artikel 14 | Nadere regelgeving</span>
 ```
 Bij algemene maatregel van bestuur worden regels vastgesteld omtrent:
 a. het toepassen van verkeerstekens en onderborden;
@@ -208,7 +208,7 @@ c. het aanbrengen of verwijderen van voorzieningen ter regeling van het
 
 #### HOOFDSTUK IV. Kentekens
 
-#####<span style="color: #f87c24;">Artikel 36 | Kentekenplicht</span>
+#####<span style="color: #fc631e;">Artikel 36 | Kentekenplicht</span>
 ```
 Aan de eigenaar of houder van een motorrijtuig op de weg dient 
 overeenkomstig bij algemene maatregel van bestuur vastgestelde 
@@ -216,7 +216,7 @@ regels door de Dienst Wegverkeer een kenteken voor dat voertuig
 te zijn opgegeven. 
 ```
 
-#####<span style="color: #f87c24;">Artikel 40 | Zichtbaarheid</span>
+#####<span style="color: #fc631e;">Artikel 40 | Zichtbaarheid</span>
 ```
 1. Het kenteken dient behoorlijk zichtbaar op of aan het motorrijtuig aanwezig 
    te zijn.
@@ -231,7 +231,7 @@ te zijn opgegeven.
 
 #### HOOFDSTUK VI. Rijvaardigheid en rijbevoegdheid
 
-#####<span style="color: #f87c24;">Artikel 107 | Rijbewijs</span>
+#####<span style="color: #fc631e;">Artikel 107 | Rijbewijs</span>
 ```
 1. Aan de bestuurder van een motorrijtuig op de weg dient door de daartoe 
    bevoegde autoriteit een rijbewijs te zijn afgegeven voor het besturen 
@@ -245,7 +245,7 @@ te zijn opgegeven.
 
 #### HOOFDSTUK IX. Toezicht en opsporing
 
-#####<span style="color: #f87c24;">Artikel 159 | Opsporingsbevoegdheid</span>
+#####<span style="color: #fc631e;">Artikel 159 | Opsporingsbevoegdheid</span>
 ```
 Met de opsporing van de feiten, strafbaar gesteld bij of krachtens deze wet, 
 zijn belast:
@@ -253,7 +253,7 @@ a. de in de artikelen 141 en 142 van het Wetboek van Strafvordering bedoelde
    personen.
 ```
 
-#####<span style="color: #f87c24;">Artikel 160 | Doen stilhouden</span>
+#####<span style="color: #fc631e;">Artikel 160 | Doen stilhouden</span>
 ```
 1. Op de eerste vordering van de in artikel 159 bedoelde personen is de 
    bestuurder van een motorrijtuig verplicht dat motorrijtuig te doen 
@@ -275,7 +275,7 @@ a. de in de artikelen 141 en 142 van het Wetboek van Strafvordering bedoelde
    eerste of tweede lid.         
 ```
 
-#####<span style="color: #f87c24;">Artikel 163 | Blaastest en bloedonderzoek</span>
+#####<span style="color: #fc631e;">Artikel 163 | Blaastest en bloedonderzoek</span>
 ```
 1. Bij verdenking dat de bestuurder van een voertuig heeft gehandeld in strijd 
    met artikel 8, kan de opsporingsambtenaar hem bevelen zijn medewerking te 
@@ -308,7 +308,7 @@ a. de in de artikelen 141 en 142 van het Wetboek van Strafvordering bedoelde
    tweede, vijfde of zesde lid.             
 ```
 
-#####<span style="color: #f87c24;">Artikel 165 | Bekendmaking naam bestuurder</span>
+#####<span style="color: #fc631e;">Artikel 165 | Bekendmaking naam bestuurder</span>
 ```
 1. Indien een bij deze wet als misdrijf strafbaar gesteld feit wordt begaan 
    door een bij de ontdekking van het feit onbekend gebleven bestuurder van 
