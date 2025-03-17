@@ -1,14 +1,5 @@
 /* :root  > * {
-  --md-primary-fg-color:        #2B3648;
+  --md-primary-fg-color:        #154A16;
   --md-primary-fg-color--light: #ECB7B7;
   --md-primary-fg-color--dark:  #90030C;
 } */
-
-
-
-/* Verander de kleur van de header */
-.md-header {
-  background-color: #2B3648 !important; /* Diep bruin voor onderscheid */
-}
-
-
