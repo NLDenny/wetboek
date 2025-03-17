@@ -13,8 +13,8 @@ In deze wet wordt verstaan onder:
    of soortgelijke stof door middel van een vuurwapen af te schieten of te 
    verspreiden, alsmede projectielen, bestemd om afgeschoten te worden door 
    middel van een vuurwapen;
-3° binnenkomen en uitgaan: het binnen het grondgebied van Los Santos komen, 
-   respectievelijk het verlaten van het grondgebied van Los Santos;
+3° binnenkomen en uitgaan: het binnen het grondgebied van de stad komen, 
+   respectievelijk het verlaten van het grondgebied van de stad;
 4° doorvoer: binnenkomen gevolgd door uitgaan;
 5° vervoer van een wapen: het op de openbare weg of andere voor het publiek 
    toegankelijke plaatsen bij zich hebben van een wapen dat zodanig is verpakt, 
