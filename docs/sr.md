@@ -875,7 +875,7 @@ Zware mishandeling gepleegd met voorbedachten rade wordt gestraft met
 
 #####<span style="color: #fc631e;">Artikel 304 | Strafverzwarende omstandigheden</span>
 ```
-1. De in de artikelen 300-303 bepaalde gevangenisstraffen kunnen met een 
+1. De in de artikelen 300-302 bepaalde gevangenisstraffen kunnen met een 
    derde worden verhoogd:
    1° indien het misdrijf wordt gepleegd tegen een ambtenaar gedurende of 
       ter zake van de rechtmatige uitoefening van zijn bediening.
