@@ -1,15 +1,15 @@
 :root  > * {
   // Primary color shades
   --md-primary-fg-color:               #2B1D15;
-  --md-primary-fg-color--light:        #2B1D15;
-  --md-primary-fg-color--dark:         #2B1D15;
-  --md-primary-bg-color:               #2B1D15;
-  --md-primary-bg-color--light:        #2B1D15;
+  --md-primary-fg-color--light:        #2E1869;
+  --md-primary-fg-color--dark:         #19A62C;
+  --md-primary-bg-color:               #6A906F;
+  --md-primary-bg-color--light:        #3D340F;
   
   // Accent color shades
   --md-accent-fg-color:                #fc6a1d;
-  --md-accent-fg-color--transparent:   #fc6a1d;
-  --md-accent-bg-color:                #fc6a1d;
-  --md-accent-bg-color--light:         #fc6a1d;
+  --md-accent-fg-color--transparent:   #5A1130;
+  --md-accent-bg-color:                #6B5F5B;
+  --md-accent-bg-color--light:         #734A2C;
 
 }
