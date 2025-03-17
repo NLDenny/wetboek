@@ -31,14 +31,14 @@ theme:
       toggle:
         icon: material/toggle-switch
         name: Overschakelen naar light mode    
-      primary: deep orange
-      accent: deep orange
+      primary: red
+      accent: red
     - scheme: default
       toggle:
         icon: material/toggle-switch-off-outline 
         name: Overschakelen naar dark mode
-      primary: deep orange
-      accent: deep orange      
+      primary: red
+      accent: red     
   favicon: img/logo.png
   logo: img/logo.webp    
 extra:
