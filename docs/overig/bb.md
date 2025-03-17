@@ -167,7 +167,25 @@ F116a | Inbrekerswerktuig | €115,- |
 #####Muldergedragingen
 |Feitcode|Feit|Bedrag|
 |:----|:----|-:|
-[Art. 5 WVW](/wetboek/wvw/#artikel-5-gevaarhinder) | Roekeloos rijgedrag | Boete | €450
+K 030 a | Kenteken niet behoorlijk zichtbaar op/aan moter voertuig | € ,- |
+K 150 c | Niet op eerste vordering rijbewijs ter inzage afgeven | € ,- |
+R 326 | Rechts inhalen | € ,- |
+R 395 | Gevaar of hinder veroorzaken met stilstaand voertuig | € ,- |
+R 397 (a t/m i) | Foutief parkeren | € ,- |
+R 486 | Voorrangsvoertuig niet voor laten gaan | € ,- |
+R 536 c | Geen helm dragen op een motorfiets | € ,- |
+R 545 | Gebruik van mobiele telefoon tijdens het rijden | € ,- |
+R 549 a | Niet stoppen bij stopbord | € ,- |
+R 601 | Niet doorgaan bij groen licht | € ,- |
+R 602 | Niet stoppen voor rood licht | € ,- |
+R 617 b | Overschrijden doorgetrokken streep | € ,- |
+R 628 b | Niet opvolgen stopteken politie | € ,- |
+- | Snelheidsoverschrijding 4 t/m 15 km/h | € ,- |
+- | Snelheidsoverschrijding 16 t/m 20 km/h | € ,- |
+- | Snelheidsoverschrijding 21 t/m 30 km/h | € ,- |
+- | Snelheidsoverschrijding 31 t/m 40 km/h | € ,- |
+- | Snelheidsoverschrijding 41 tot 50 km/h | € ,- |
+- | Snelheidsoverschrijding 50+ km/h | € ,- |
 
 
 
