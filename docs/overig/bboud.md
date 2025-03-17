@@ -87,7 +87,16 @@ Het is daarom raadzaam om periodiek deze pagina opnieuw te bekijken.
 #####Wet wapens en munitie
 |Artikel|Feit|Sanctienorm|Bedrag
 |:----|:----|:------|-:|
-
+[Art. 13 WWM](/wetboek/wwm/#artikel-13-categorie-i) | Volledig verbod Cat. I wapen  | Boete | €400,-
+[Art. 22 WWM](/wetboek/wwm/#artikel-22-vervoer-categorie-ii-en-iii) | Vervoeren wapen/munitie Cat. II | __n.t.b.__ | __n.t.b.__
+[Art. 22 WWM](/wetboek/wwm/#artikel-22-vervoer-categorie-ii-en-iii) | Vervoeren wapen/munitie Cat. III | __n.t.b.__ | __n.t.b.__
+[Art. 26 WWM](/wetboek/wwm/#artikel-26-voorhanden-hebben-categorie-ii-en-iii) | Voorhanden hebben wapen/munitie Cat. II | __n.t.b.__ | __n.t.b.__
+[Art. 26 WWM](/wetboek/wwm/#artikel-26-voorhanden-hebben-categorie-ii-en-iii) | Voorhanden hebben wapen/munitie Cat. III | __n.t.b.__ | __n.t.b.__
+[Art. 27 WWM](/wetboek/wwm/#artikel-27-dragen-categorie-ii-iii-en-iv) | Dragen Cat. II | __n.t.b.__ | __n.t.b.__
+[Art. 27 WWM](/wetboek/wwm/#artikel-27-dragen-categorie-ii-iii-en-iv) | Dragen Cat. III | __n.t.b.__ | __n.t.b.__
+[Art. 27 WWM](/wetboek/wwm/#artikel-27-dragen-categorie-ii-iii-en-iv) | Dragen Cat. IV | __n.t.b.__ | __n.t.b.__
+[Art. 31 WWM](/wetboek/wwm/#artikel-31-overdragen-categorie-ii-en-iii) | Overdragen Cat. II| __n.t.b.__ | __n.t.b.__
+[Art. 31 WWM](/wetboek/wwm/#artikel-31-overdragen-categorie-ii-en-iii) | Overdragen Cat. III | __n.t.b.__ | __n.t.b.__
 
 #####Wegenverkeerswet
 |Artikel|Feit|Sanctienorm|Bedrag
