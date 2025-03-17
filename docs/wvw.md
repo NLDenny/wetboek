@@ -253,6 +253,7 @@ a. de in de artikelen 141 en 142 van het Wetboek van Strafvordering bedoelde
    personen.
 ```
 
+<!-- 
 #####<span style="color: #fc631e;">Artikel 160 | Doen stilhouden</span>
 ```
 1. Op de eerste vordering van de in artikel 159 bedoelde personen is de 
@@ -307,6 +308,7 @@ a. de in de artikelen 141 en 142 van het Wetboek van Strafvordering bedoelde
 7. Met [STRAFMAAT] wordt gestraft hij die handelt in strijd met het 
    tweede, vijfde of zesde lid.             
 ```
+-->
 
 #####<span style="color: #fc631e;">Artikel 165 | Bekendmaking naam bestuurder</span>
 ```
