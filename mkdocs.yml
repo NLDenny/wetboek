@@ -33,7 +33,7 @@ theme:
         name: Overschakelen naar light mode    
       primary: custom
       accent: custom
-    - scheme: test
+    - scheme: default
       toggle:
         icon: material/toggle-switch-off-outline 
         name: Overschakelen naar dark mode
