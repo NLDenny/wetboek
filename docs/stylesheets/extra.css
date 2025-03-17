@@ -1,8 +1,5 @@
 :root  > * {
-  --md-primary-fg-color:        #2B1D15;
+  --md-primary-fg-color:        #2B3648;
   --md-primary-fg-color--light: #ECB7B7;
   --md-primary-fg-color--dark:  #90030C;
-
-  --md-nav-fg-color: #D9D9D9; /* Lichtgrijze tekst voor betere leesbaarheid */
-
 }
