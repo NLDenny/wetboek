@@ -151,15 +151,33 @@ F116a | Inbrekerswerktuig | €115,- |
 [Art. 453 Sr](/wetboek/sr/#artikel-453-openbare-dronkenschap) | Openbare dronkenschap | __n.t.b.__ | __n.t.b.__ 
 [Art. 461 Sr](/wetboek/sr/#artikel-461-verboden-toegang-voor-onbevoegden) | Verboden toegang voor onbevoegden | __n.t.b.__ | __n.t.b.__ 
 
+#####Opiumwet
+|Artikel|Feit|Sanctienorm|Bedrag
+|:----|:----|:------|-:|
+[Art. 2 Opw](/wetboek/opw/#artikel-2-verbodsbepaling-lijst-i) | Lijst I Vervoeren/bijdragen t/m 20 G | 10 uur TS | €750,-
+[Art. 2 Opw](/wetboek/opw/#artikel-2-verbodsbepaling-lijst-i) | Lijst I Vervoeren/bijdragen 21 t/m 199 G | 15 maanden GS | €1.950,-
+[Art. 2 Opw](/wetboek/opw/#artikel-2-verbodsbepaling-lijst-i) | Lijst I Vervoeren/bijdragen 200 t/m 999 G | 20 maanden GS | €4.030,-
+[Art. 2 Opw](/wetboek/opw/#artikel-2-verbodsbepaling-lijst-i) | Lijst I Vervoeren/bijdragen 1 of meer KG | 25 maanden GS | €8.340,-
+[Art. 2 Opw](/wetboek/opw/#artikel-2-verbodsbepaling-lijst-i) | Lijst I Telen/bewerken/verwerken | 20 maanden GS | €2.680,-
+[Art. 2 Opw](/wetboek/opw/#artikel-2-verbodsbepaling-lijst-i) | Lijst I Verkoop/handel t/m 999 G | 17 maanden GS | €1.750,-
+[Art. 2 Opw](/wetboek/opw/#artikel-2-verbodsbepaling-lijst-i) | Lijst I Verkoop/handel 1 of meer KG | 25 maanden GS | €5.260,-
+[Art. 3 Opw](/wetboek/opw/#artikel-3-verbodsbepaling-lijst-ii) | Lijst II Vervoeren/bijdragen t/m 20 G | Boete | €100,-
+[Art. 3 Opw](/wetboek/opw/#artikel-3-verbodsbepaling-lijst-ii) | Lijst II Vervoeren/bijdragen 21 t/m 199 G | Boete | €1.000,-
+[Art. 3 Opw](/wetboek/opw/#artikel-3-verbodsbepaling-lijst-ii) | Lijst II Vervoeren/bijdragen 200 t/m 999 G | 8 uur TS | €1.715,-
+[Art. 3 Opw](/wetboek/opw/#artikel-3-verbodsbepaling-lijst-ii) | Lijst II Vervoeren/bijdragen 1 of meer KG | 10 maanden GS | €2.240,-
+[Art. 3 Opw](/wetboek/opw/#artikel-3-verbodsbepaling-lijst-ii) | Lijst II Telen/bewerken/verwerken | 10 maanden GS | €1.340,-
+[Art. 3 Opw](/wetboek/opw/#artikel-3-verbodsbepaling-lijst-ii) | Lijst II Verkoop/handel t/m 999 G | 8 uur TS | €1.235,-
+[Art. 3 Opw](/wetboek/opw/#artikel-3-verbodsbepaling-lijst-ii) | Lijst II Verkoop/handel 1 of meer KG | 10 maanden GS | €4.340,-
+
 #####Wegenverkeerswet
 |Artikel|Feit|Sanctienorm|Bedrag
 |:----|:----|:------|-:|
 [Art. 5 WVW](/wetboek/wvw/#artikel-5-gevaarhinder) | Roekeloos rijgedrag | Boete | €450
-[Art. 5a WVW](/wetboek/wvw/#artikel-5a-levensgevaar-of-gevaar-voor-zwaar-lichamelijk-letsel) | Levensgevaar of gevaar voor zwaar lichamelijk letsel | Boete | €200
+[Art. 5a WVW](/wetboek/wvw/#artikel-5a-levensgevaar-of-gevaar-voor-zwaar-lichamelijk-letsel) | Levensgevaar of gevaar voor zwaar lichamelijk letsel | Boete | €200,-
 [Art. 6 WVW](/wetboek/wvw/#artikel-6-veroorzaken-verkeersongeval) | Veroorzaken verkeersongeval | __n.t.b.__ | __n.t.b.__
-[Art. 7 WVW](/wetboek/wvw/#artikel-7-verlaten-plaats-ongeval) | Verlaten plaats ongeval | 10 uur TS | €325
+[Art. 7 WVW](/wetboek/wvw/#artikel-7-verlaten-plaats-ongeval) | Verlaten plaats ongeval | 10 uur TS | €325,-
 [Art. 8 WVW](/wetboek/wvw/#artikel-8-besturen-onder-invloed) | Rijden onder invloed | __n.t.b.__ | __n.t.b.__
-[Art. 10 WVW](/wetboek/wvw/#artikel-10-wedstrijdverbod) | Straatrace | 15 uur TS | €950
+[Art. 10 WVW](/wetboek/wvw/#artikel-10-wedstrijdverbod) | Straatrace | 15 uur TS | €950,-
 [Art. 11 WVW](/wetboek/wvw/#artikel-11-joyriding) | Joyriding | __n.t.b.__ | __n.t.b.__
 [Art. 165 WVW](/wetboek/wvw/#artikel-165-bekendmaking-naam-bestuurder) | Bekendmaking naam bestuurder misdrijf | __n.t.b.__ | __n.t.b.__
 
@@ -183,8 +201,8 @@ R 628 b | Niet opvolgen stopteken politie | € ,- |
 - | Snelheidsoverschrijding 16 t/m 20 km/h | € ,- |
 - | Snelheidsoverschrijding 21 t/m 30 km/h | € ,- |
 - | Snelheidsoverschrijding 31 t/m 40 km/h | € ,- |
-- | Snelheidsoverschrijding 41 tot 50 km/h | € ,- |
-- | Snelheidsoverschrijding 50+ km/h | € ,- |
+- | Snelheidsoverschrijding 41 tot 49 km/h | € ,- |
+- | Snelheidsoverschrijding 50 of meer km/h | € ,- |
 
 #####Overige overtredingen
 |Feitcode|Feit|Bedrag|
