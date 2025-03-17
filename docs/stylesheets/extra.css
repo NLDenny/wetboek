@@ -8,12 +8,12 @@
 
 /* Verander de kleur van de header */
 .md-header {
-  background-color: #3D2B1F !important; /* Diep bruin voor onderscheid */
+  background-color: #2B3648 !important; /* Diep bruin voor onderscheid */
 }
 
 /* Verander de kleur van de navigatiebalk */
 .md-sidebar {
-  background-color: #2B1D15 !important; /* Donkerder bruin voor de navigatie */
+  background-color: #fc691d !important; /* Donkerder bruin voor de navigatie */
 }
 
 /* Pas de tekstkleur aan als nodig */
