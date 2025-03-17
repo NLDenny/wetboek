@@ -12,4 +12,14 @@
   --md-accent-bg-color:                #6B5F5B;
   --md-accent-bg-color--light:         #734A2C;
 
+  // Default color shades
+  --md-default-fg-color:               #734A2C;
+  --md-default-fg-color--light:        #734A2C;
+  --md-default-fg-color--lighter:      #734A2C;
+  --md-default-fg-color--lightest:     #734A2C;
+  --md-default-bg-color:               #734A2C;
+  --md-default-bg-color--light:        #734A2C;
+  --md-default-bg-color--lighter:      #734A2C;
+  --md-default-bg-color--lightest:     #734A2C;
+
 }
