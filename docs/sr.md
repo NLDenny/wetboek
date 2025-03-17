@@ -394,12 +394,14 @@ Onder valse sleutels worden begrepen alle tot opening van het slot
 niet bestemde werktuigen.
 ```
 
+<!--
 #####<span style="color: #fc631e;">Artikel 90novies | Begripsbepaling geweldsinstructie politie</span>
 ```
 Onder geweldsinstructie wordt verstaan de bij of krachtens de Politiewet 2012 
 gegeven algemeen verbindende voorschriften die tot de ambtenaar gerichte 
 instructies bevatten omtrent het gebruik van geweld.
 ```
+-->
 
 ### TWEEDE BOEK | Misdrijven
 
