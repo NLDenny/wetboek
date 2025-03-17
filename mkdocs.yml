@@ -33,8 +33,8 @@ theme:
         name: Overschakelen naar light mode    
       primary: custom
       accent: custom
-    - scheme: default
-      toggle: test
+    - scheme: test
+      toggle:
         icon: material/toggle-switch-off-outline 
         name: Overschakelen naar dark mode
       primary: custom
