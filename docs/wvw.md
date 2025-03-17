@@ -216,6 +216,7 @@ regels door de Dienst Wegverkeer een kenteken voor dat voertuig
 te zijn opgegeven. 
 ```
 
+<!--
 #####<span style="color: #fc631e;">Artikel 40 | Zichtbaarheid</span>
 ```
 1. Het kenteken dient behoorlijk zichtbaar op of aan het motorrijtuig aanwezig 
@@ -228,6 +229,7 @@ te zijn opgegeven.
 3. Met [STRAFMAAT] wordt gestraft hij die handelt in strijd met het 
    eerste lid.         
 ```
+-->
 
 #### HOOFDSTUK VI. Rijvaardigheid en rijbevoegdheid
 
