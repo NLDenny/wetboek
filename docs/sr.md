@@ -696,7 +696,6 @@ zelfbevrijding behulpzaam is, wordt gestraft met [STRAFMAAT].
    gebruik maakt van een bij het bevoegd gezag als vermist opgegeven of een 
    niet op zijn naam gesteld reisdocument of identiteitsbewijs als bedoeld 
    in het eerste lid.
-3. Artikel 225, derde lid, is van overeenkomstige toepassing. 
 ```
 
 #### TITEL XVI. Belediging
