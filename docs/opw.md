@@ -15,7 +15,7 @@
 #####<span style="color: #fc631e;">Artikel 2 | Verbodsbepaling Lijst I</span>
 ```
 Het is verboden een middel als bedoeld in de bij deze wet behorende lijst I:
-A. binnen of buiten het grondgebied van Los Santos te brengen;
+A. binnen of buiten het grondgebied van de stad te brengen;
 B. te telen te bereiden, te bewerken, te verwerken, te verkopen, af te leveren,
    te verstrekken of te vervoeren;
 C. aanwezig te hebben;
@@ -25,7 +25,7 @@ D. te vervaardigen.
 #####<span style="color: #fc631e;">Artikel 3 | Verbodsbepaling Lijst II</span>
 ```
 Het is verboden een middel als bedoeld in de bij deze wet behorende lijst II:
-A. binnen of buiten het grondgebied van Los Santos te brengen;
+A. binnen of buiten het grondgebied van de stad te brengen;
 B. te telen, te bereiden, te bewerken, te verwerken, te verkopen, af te leveren,
    te verstrekken of te vervoeren;
 C. aanwezig te hebben;
