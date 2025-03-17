@@ -113,32 +113,32 @@ Het is daarom raadzaam om periodiek deze pagina opnieuw te bekijken.
 #####Muldergedragingen
 |Feitcode|Feit|Bedrag|
 |:----|:----|-:|
-K 030 a | Kenteken niet behoorlijk zichtbaar op/aan motervoertuig | € ,- |
-K 150 c | Niet op eerste vordering rijbewijs ter inzage afgeven | € ,- |
-R 326 | Rechts inhalen | € ,- |
-R 395 | Gevaar of hinder veroorzaken met stilstaand voertuig | € ,- |
-R 397 (a t/m i) | Foutief parkeren | € ,- |
-R 486 | Voorrangsvoertuig niet voor laten gaan | € ,- |
-R 536 c | Geen helm dragen op een motorfiets | € ,- |
-R 545 | Gebruik van mobiele telefoon tijdens het rijden | € ,- |
-R 549 a | Niet stoppen bij stopbord | € ,- |
-R 601 | Niet doorgaan bij groen licht | € ,- |
-R 602 | Niet stoppen voor rood licht | € ,- |
-R 617 b | Overschrijden doorgetrokken streep | € ,- |
-R 628 b | Niet opvolgen stopteken politie | € ,- |
-- | Snelheidsoverschrijding 4 t/m 15 km/h | € ,- |
-- | Snelheidsoverschrijding 16 t/m 20 km/h | € ,- |
-- | Snelheidsoverschrijding 21 t/m 30 km/h | € ,- |
-- | Snelheidsoverschrijding 31 t/m 40 km/h | € ,- |
-- | Snelheidsoverschrijding 41 tot 49 km/h | € ,- |
-- | Snelheidsoverschrijding 50 of meer km/h | € ,- |
+K 030 a | Kenteken niet behoorlijk zichtbaar op/aan motervoertuig | __n.t.b.__
+K 150 c | Niet op eerste vordering rijbewijs ter inzage afgeven | __n.t.b.__
+R 326 | Rechts inhalen | __n.t.b.__
+R 395 | Gevaar of hinder veroorzaken met stilstaand voertuig | __n.t.b.__
+R 397 (a t/m i) | Foutief parkeren | __n.t.b.__
+R 486 | Voorrangsvoertuig niet voor laten gaan | __n.t.b.__
+R 536 c | Geen helm dragen op een motorfiets | __n.t.b.__
+R 545 | Gebruik van mobiele telefoon tijdens het rijden | __n.t.b.__
+R 549 a | Niet stoppen bij stopbord | __n.t.b.__
+R 601 | Niet doorgaan bij groen licht | __n.t.b.__
+R 602 | Niet stoppen voor rood licht | €80,- |
+R 617 b | Overschrijden doorgetrokken streep | __n.t.b.__
+R 628 b | Niet opvolgen stopteken politie | __n.t.b.__
+- | Snelheidsoverschrijding 4 t/m 15 km/h | __n.t.b.__
+- | Snelheidsoverschrijding 16 t/m 20 km/h | __n.t.b.__
+- | Snelheidsoverschrijding 21 t/m 30 km/h | __n.t.b.__
+- | Snelheidsoverschrijding 31 t/m 40 km/h | __n.t.b.__
+- | Snelheidsoverschrijding 41 tot 49 km/h | __n.t.b.__
+- | Snelheidsoverschrijding 50 of meer km/h | __n.t.b.__
 
 #####Overige overtredingen
 |Feitcode|Feit|Bedrag|
 |:----|:----|-:|
-D 515| Valse gegevens opgeven | € ,- |
-D 517| Weigeren identiteitsbewijs ter inzage aan te bieden | € ,- |
-F 116 a| Bezit inbrekerswerktuig | € ,- |
-F 120 a| Klimmen en klauteren | € ,- |
-F 120 b| Overlast veroorzaken | € ,- |
-[Art. 2 Wgbk](/wetboek/overig/wgvgk/#artikel-1) | Gezichtsbedekking dragen | € ,- |
+D 515| Valse gegevens opgeven | __n.t.b.__
+D 517| Weigeren identiteitsbewijs ter inzage aan te bieden | __n.t.b.__
+F 116 a| Bezit inbrekerswerktuig | __n.t.b.__
+F 120 a| Klimmen en klauteren | __n.t.b.__
+F 120 b| Overlast veroorzaken | __n.t.b.__
+[Art. 2 Wgbk](/wetboek/overig/wgvgk/#artikel-1) | Gezichtsbedekking dragen | __n.t.b.__
