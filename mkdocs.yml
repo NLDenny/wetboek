@@ -37,8 +37,8 @@ theme:
       toggle:
         icon: material/toggle-switch-off-outline 
         name: Overschakelen naar dark mode
-      primary: custom
-      accent: custom     
+      primary: test
+      accent: test     
   favicon: img/logo.png
   logo: img/logo.webp    
 extra:
