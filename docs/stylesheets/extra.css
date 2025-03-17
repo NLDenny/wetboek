@@ -11,13 +11,4 @@
   background-color: #2B3648 !important; /* Diep bruin voor onderscheid */
 }
 
-/* Verander de kleur van de navigatiebalk */
-.md-sidebar {
-  background-color: #fc691d !important; /* Donkerder bruin voor de navigatie */
-}
 
-/* Pas de tekstkleur aan als nodig */
-/* .md-header__title,
-.md-nav__link {
-  color: #FFFFFF !important; /* Witte tekst voor contrast 
-} */
