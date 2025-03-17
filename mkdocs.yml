@@ -69,8 +69,8 @@ nav:
   - Home: index.md  
   - Stadsbestuur: stadsbestuur.md
   - Rechtbank Roxwood: rechtbank.md
-  - Boetebase: overig/bb.md
-  - Boetebase OUD: overig/bboud.md
+  - Huidige MDT Straffen: overig/bb.md
+  - Nieuwe MDT Straffen: overig/bboud.md
   - Wetgeving:    
     - Wetboek van Strafrecht: sr.md
     # - Wetboek van Strafvordering: sv.md
