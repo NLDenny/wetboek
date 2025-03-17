@@ -154,7 +154,14 @@ F116a | Inbrekerswerktuig | €115,- |
 #####Wegenverkeerswet
 |Artikel|Feit|Sanctienorm|Bedrag
 |:----|:----|:------|-:|
-
+[Art. 5 WVW](/wetboek/wvw/#artikel-5-gevaarhinder) | Roekeloos rijgedrag | Boete | €450
+[Art. 5a WVW](/wetboek/wvw/#artikel-5a-levensgevaar-of-gevaar-voor-zwaar-lichamelijk-letsel) | Levensgevaar of gevaar voor zwaar lichamelijk letsel | Boete | €200
+[Art. 6 WVW](/wetboek/wvw/#artikel-6-veroorzaken-verkeersongeval) | Veroorzaken verkeersongeval | __n.t.b.__ | __n.t.b.__
+[Art. 7 WVW](/wetboek/wvw/#artikel-7-verlaten-plaats-ongeval) | Verlaten plaats ongeval | 10 uur TS | €325
+[Art. 8 WVW](/wetboek/wvw/#artikel-8-besturen-onder-invloed) | Rijden onder invloed | __n.t.b.__ | __n.t.b.__
+[Art. 10 WVW](/wetboek/wvw/#artikel-10-wedstrijdverbod) | Straatrace | 15 uur TS | €950
+[Art. 11 WVW](/wetboek/wvw/#artikel-11-joyriding) | Joyriding | __n.t.b.__ | __n.t.b.__
+[Art. 40 WVW](/wetboek/wvw/#artikel-40-zichtbaarheid) | Zichtbaarheid kenteken | __n.t.b.__ | __n.t.b.__
 
 
 
