@@ -122,8 +122,9 @@ In deze wet wordt verstaan onder:
 ```
 1. Het is verboden een wapen of munitie van de categorieën II en III te 
    vervoeren.
-2. Met [STRAFMAAT] wordt gestraft hij die handelt in strijd met het 
-   eerste lid.
+2. Hij die handelt in strijd met het eerste lid wordt gestraft met:
+    - Categorie II, [STRAFMAAT]
+    - Categorie III, [STRAFMAAT]
 ```
 
 ### § 6 | Voorhanden hebben en dragen van wapens en munitie van de categorieën II, III en IV
@@ -132,15 +133,18 @@ In deze wet wordt verstaan onder:
 ```
 1. Het is verboden een wapen of munitie van de categorieën II en III voorhanden 
    te hebben.
-2. Met [STRAFMAAT] wordt gestraft hij die handelt in strijd met het 
-   eerste lid.   
+2. Hij die handelt in strijd met het eerste lid wordt gestraft met:
+    - Categorie II, [STRAFMAAT]
+    - Categorie III, [STRAFMAAT]
 ```
 
 #####<span style="color: #fc631e;">Artikel 27 | Dragen categorie II, III en IV</span>
 ```
 1. Het is verboden een wapen van de categorieën II, III en IV te dragen.
-2. Met [STRAFMAAT] wordt gestraft hij die handelt in strijd met het 
-   eerste lid.
+2. Hij die handelt in strijd met het eerste lid wordt gestraft met:
+    - Categorie II, [STRAFMAAT]
+    - Categorie III, [STRAFMAAT]
+    - Categorie IV, [STRAFMAAT]
 ```
 
 ### § 7 | Overdracht en verkrijging van wapens en munitie van de categorieën II, III en IV
@@ -149,8 +153,9 @@ In deze wet wordt verstaan onder:
 ```
 1. Het is verboden een wapen of munitie van de categorieën II en III over 
    te dragen.
-2. Met [STRAFMAAT] wordt gestraft hij die handelt in strijd met het 
-   eerste lid.   
+2. Hij die handelt in strijd met het eerste lid wordt gestraft met:
+    - Categorie II, [STRAFMAAT]
+    - Categorie III, [STRAFMAAT]
 ```
 
 ### § 11A | Opsporing
