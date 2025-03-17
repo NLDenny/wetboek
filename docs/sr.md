@@ -761,7 +761,7 @@ klacht van hem tegen wie het misdrijf is gepleegd.
    of beroofd houdt met het oogmerk een ander te dwingen iets te doen of 
    niet te doen wordt als schuldig aan gijzeling gestraft met 
    [STRAFMAAT].
-2. Het vierde lid van artikel 282 is toepasselijk.   
+2. Het tweede lid van artikel 282 is toepasselijk.   
 ```
 
 #####<span style="color: #fc631e;">Artikel 284 | Dwang</span>
