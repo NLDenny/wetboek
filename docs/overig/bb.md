@@ -151,7 +151,7 @@ F116a | Inbrekerswerktuig | €115,- |
 [Art. 453 Sr](/wetboek/sr/#artikel-453-openbare-dronkenschap) | Openbare dronkenschap | __n.t.b.__ | __n.t.b.__ 
 [Art. 461 Sr](/wetboek/sr/#artikel-461-verboden-toegang-voor-onbevoegden) | Verboden toegang voor onbevoegden | __n.t.b.__ | __n.t.b.__ 
 
-#####Wegenverkeerswet / Muldergedragingen
+#####Wegenverkeerswet
 |Artikel|Feit|Sanctienorm|Bedrag
 |:----|:----|:------|-:|
 [Art. 5 WVW](/wetboek/wvw/#artikel-5-gevaarhinder) | Roekeloos rijgedrag | Boete | €450
@@ -164,6 +164,10 @@ F116a | Inbrekerswerktuig | €115,- |
 [Art. 40 WVW](/wetboek/wvw/#artikel-40-zichtbaarheid) | Zichtbaarheid kenteken | __n.t.b.__ | __n.t.b.__
 [Art. 165 WVW](/wetboek/wvw/#artikel-165-bekendmaking-naam-bestuurder) | Bekendmaking naam bestuurder misdrijf | __n.t.b.__ | __n.t.b.__
 
+#####Muldergedragingen
+|Feitcode|Feit|Bedrag|
+|:----|:----|-:|
+[Art. 5 WVW](/wetboek/wvw/#artikel-5-gevaarhinder) | Roekeloos rijgedrag | Boete | €450
 
 
 
