@@ -76,11 +76,16 @@ Hij die handelt in strijd met een in artikel 3 gegeven verbod, wordt
 gestraft met met:
    - Vervoeren/bijdragen t/m 20 G, geldboete van €100,-
    - Vervoeren/bijdragen 21 t/m 199 G, geldboete van €1.000,-
-   - Vervoeren/bijdragen 200 t/m 999 G, taakstraf van ten hoogste 8 uur en geldboete van €1.715,-
-   - Vervoeren/bijdragen 1 of meer KG, gevangenisstraf van ten hoogste 10 maanden en geldboete van €2.240,-
-   - Telen/bewerken/verwerken, gevangenisstraf van ten hoogste 10 maanden en geldboete van €1.340,-
-   - Verkoop/handel t/m 999 G, taakstraf van ten hoogste 8 uur en geldboete van €1.235,-
-   - Verkoop/handel 1 of meer KG, gevangenisstraf van ten hoogste 10 maanden en geldboete van €4.340,- 
+   - Vervoeren/bijdragen 200 t/m 999 G, taakstraf van ten hoogste 8 uur en 
+     geldboete van €1.715,-
+   - Vervoeren/bijdragen 1 of meer KG, gevangenisstraf van ten hoogste 10 
+     maanden en geldboete van €2.240,-
+   - Telen/bewerken/verwerken, gevangenisstraf van ten hoogste 10 maanden 
+     en geldboete van €1.340,-
+   - Verkoop/handel t/m 999 G, taakstraf van ten hoogste 8 uur en geldboete 
+     van €1.235,-
+   - Verkoop/handel 1 of meer KG, gevangenisstraf van ten hoogste 10 maanden 
+     en geldboete van €4.340,- 
 ```
 
 ####<span style="color: #fc631e;">Lijst I</span>
