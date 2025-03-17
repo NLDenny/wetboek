@@ -1,5 +1,23 @@
-:root  > * {
+/* :root  > * {
   --md-primary-fg-color:        #2B3648;
   --md-primary-fg-color--light: #ECB7B7;
   --md-primary-fg-color--dark:  #90030C;
+} */
+
+
+
+/* Verander de kleur van de header */
+.md-header {
+  background-color: #3D2B1F !important; /* Diep bruin voor onderscheid */
+}
+
+/* Verander de kleur van de navigatiebalk */
+.md-sidebar {
+  background-color: #2B1D15 !important; /* Donkerder bruin voor de navigatie */
+}
+
+/* Pas de tekstkleur aan als nodig */
+.md-header__title,
+.md-nav__link {
+  color: #FFFFFF !important; /* Witte tekst voor contrast */
 }
