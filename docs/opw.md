@@ -1,6 +1,6 @@
 # Opiumwet
 
-#####Artikel 1 | Begripsbepaling
+#####<span style="color: #fc631e;">Artikel 1 | Begripsbepaling</span>
 ```
 1. In deze wet en de daarop berustende bepalingen wordt verstaan onder:
    a. substantie: stof van menselijke, dierlijke, plantaardige of chemische 
@@ -12,7 +12,7 @@
    raffineren en omzetten.      
 ```
 
-#####Artikel 2 | Verbodsbepaling Lijst I
+#####<span style="color: #fc631e;">Artikel 2 | Verbodsbepaling Lijst I</span>
 ```
 Het is verboden een middel als bedoeld in de bij deze wet behorende lijst I:
 A. binnen of buiten het grondgebied van Los Santos te brengen;
@@ -22,7 +22,7 @@ C. aanwezig te hebben;
 D. te vervaardigen. 
 ```
 
-#####Artikel 3 | Verbodsbepalingen Lijst II
+#####<span style="color: #fc631e;">Artikel 3 | Verbodsbepaling Lijst II</span>
 ```
 Het is verboden een middel als bedoeld in de bij deze wet behorende lijst II:
 A. binnen of buiten het grondgebied van Los Santos te brengen;
@@ -32,7 +32,7 @@ C. aanwezig te hebben;
 D. te vervaardigen. 
 ```
 
-#####Artikel 9 | Toegang tot vervoermiddelen en plaatsen
+#####<span style="color: #fc631e;">Artikel 9 | Toegang tot vervoermiddelen en plaatsen</span>
 ```
 1. De opsporingsambtenaren hebben, voor zover dat redelijkerwijs voor de 
    vervulling van hun taak nodig is, toegang:
@@ -50,19 +50,19 @@ D. te vervaardigen.
    voorwerpen. Zij kunnen daartoe hun uitlevering vorderen.     
 ```
 
-#####Artikel 10 | Strafbepaling Lijst I
+#####<span style="color: #fc631e;">Artikel 10 | Strafbepaling Lijst I</span>
 ```
 Hij die handelt in strijd met het in artikel 2 gegeven verbod, wordt 
 gestraft met [STRAFMAAT].    
 ```
 
-#####Artikel 11 | Strafbepaling Lijst II
+#####<span style="color: #fc631e;">Artikel 11 | Strafbepaling Lijst II</span>
 ```
 Hij die handelt in strijd met een in artikel 3 gegeven verbod, wordt 
 gestraft met met [STRAFMAAT].
 ```
 
-#### Lijst I
+####<span style="color: #fc631e;">Lijst I</span>
 |International Non-proprietary Name (INN)|andere benamingen|nadere omschrijving|
 |:---|:---:|:-----|
 amfetamine| - |  |
@@ -74,7 +74,7 @@ lysergide| LSD |  |
 -| 3,4-methyleendioxymethamfetamine, MDMA | (±)-N,alfa-dimethyl-3,4-(methyleendioxy)-fenethylamine |
 oxycodon| - |  |
 
-#### Lijst II
+####<span style="color: #fc631e;">Lijst II</span>
 |International Non-proprietary Name (INN)|andere benamingen|nadere omschrijving|
 |:---|:---:|:-----|
 -| hasjiesj | een gebruikelijk vast mengsel van de afgescheiden hars verkregen van planten van het geslacht Cannabis (hennep), met plantaardige elementen van deze planten |
