@@ -2,7 +2,7 @@
 
 ### § 1 | Algemene bepalingen
 
-#####Artikel 1 | Begripsbepaling
+#####<span style="color: #fc631e;">Artikel 1 | Begripsbepaling</span>
 ```
 In deze wet wordt verstaan onder:
 1° vuurwapen: een voorwerp bestemd of geschikt om projectielen of stoffen door 
@@ -27,7 +27,7 @@ In deze wet wordt verstaan onder:
 7° overdragen: het aan een ander doen overgaan van de feitelijke macht.
 ```
 
-#####Artikel 2 | Categorieën wapens & munitie
+#####<span style="color: #fc631e;">Artikel 2 | Categorieën wapens & munitie</span>
 ```
 1. Wapens in de zin van deze wet zijn de hieronder vermelde of 
    overeenkomstig dit artikellid aangewezen voorwerpen, onderverdeeld 
@@ -92,7 +92,7 @@ In deze wet wordt verstaan onder:
          Alle overige munitie. 
 ```
 
-#####Artikel 3 | Onderdelen en hulpstukken
+#####<span style="color: #fc631e;">Artikel 3 | Onderdelen en hulpstukken</span>
 ```
 1. De bepalingen betreffende wapens zijn mede van toepassing op hulpstukken die 
    specifiek bestemd zijn voor die wapens, de essentiële onderdelen van 
@@ -103,7 +103,7 @@ In deze wet wordt verstaan onder:
 
 ### § 3 | Bepalingen voor wapens van categorie I
 
-#####Artikel 13 | Categorie I
+#####<span style="color: #fc631e;">Artikel 13 | Categorie I</span>
 ```
 1. Het is verboden een wapen van categorie I te vervaardigen, te transformeren, 
    voor derden te herstellen, over te dragen, voorhanden te hebben, te dragen, 
@@ -118,7 +118,7 @@ In deze wet wordt verstaan onder:
 
 ### § 5 | Vervoer van wapens en munitie van de categorieën II en III
 
-#####Artikel 22 | Vervoer categorie II en III
+#####<span style="color: #fc631e;">Artikel 22 | Vervoer categorie II en III</span>
 ```
 1. Het is verboden een wapen of munitie van de categorieën II en III te 
    vervoeren.
@@ -128,7 +128,7 @@ In deze wet wordt verstaan onder:
 
 ### § 6 | Voorhanden hebben en dragen van wapens en munitie van de categorieën II, III en IV
 
-#####Artikel 26 | Voorhanden hebben categorie II en III
+#####<span style="color: #fc631e;">Artikel 26 | Voorhanden hebben categorie II en III</span>
 ```
 1. Het is verboden een wapen of munitie van de categorieën II en III voorhanden 
    te hebben.
@@ -136,7 +136,7 @@ In deze wet wordt verstaan onder:
    eerste lid.   
 ```
 
-#####Artikel 27 | Dragen categorie II, III en IV
+#####<span style="color: #fc631e;">Artikel 27 | Dragen categorie II, III en IV</span>
 ```
 1. Het is verboden een wapen van de categorieën II, III en IV te dragen.
 2. Met [STRAFMAAT] wordt gestraft hij die handelt in strijd met het 
@@ -145,7 +145,7 @@ In deze wet wordt verstaan onder:
 
 ### § 7 | Overdracht en verkrijging van wapens en munitie van de categorieën II, III en IV
 
-#####Artikel 31 | Overdragen categorie II en III
+#####<span style="color: #fc631e;">Artikel 31 | Overdragen categorie II en III</span>
 ```
 1. Het is verboden een wapen of munitie van de categorieën II en III over 
    te dragen.
@@ -155,14 +155,14 @@ In deze wet wordt verstaan onder:
 
 ### § 11A | Opsporing
 
-#####Artikel 49 | Doorzoeking
+#####<span style="color: #fc631e;">Artikel 49 | Doorzoeking</span>
 ```
 De opsporingsambtenaren kunnen te allen tijde op plaatsen waar zij 
 redelijkerwijs kunnen vermoeden dat wapens of munitie aanwezig zijn, 
 ter inbeslagneming doorzoeking doen.
 ```
 
-#####Artikel 50 | Openen verpakking
+#####<span style="color: #fc631e;">Artikel 50 | Openen verpakking</span>
 ```
 1. De opsporingsambtenaren zijn bevoegd te vorderen dat de verpakking van 
    goederen, met inbegrip van reisbagage, wordt geopend, indien daartoe 
@@ -175,7 +175,7 @@ ter inbeslagneming doorzoeking doen.
    tegen bepaalde personen, indien daartoe jegens hen aanleiding bestaat.       
 ```
 
-#####Artikel 51 | Onderzoek vervoermiddelen
+#####<span style="color: #fc631e;">Artikel 51 | Onderzoek vervoermiddelen</span>
 ```
 1. De opsporingsambtenaren zijn bevoegd vervoermiddelen te onderzoeken indien 
    daartoe redelijkerwijs aanleiding bestaat op grond van:
@@ -193,7 +193,7 @@ ter inbeslagneming doorzoeking doen.
    verlenen.   
 ```
 
-#####Artikel 52 | Inbeslagneming & Onderzoek kleding
+#####<span style="color: #fc631e;">Artikel 52 | Inbeslagneming & Onderzoek kleding</span>
 ```
 1. De opsporingsambtenaren zijn te allen tijde bevoegd tot inbeslagneming van 
    daarvoor vatbare voorwerpen. Zij kunnen daartoe hun uitlevering vorderen.
