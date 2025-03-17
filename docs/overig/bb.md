@@ -162,6 +162,7 @@ F116a | Inbrekerswerktuig | €115,- |
 [Art. 10 WVW](/wetboek/wvw/#artikel-10-wedstrijdverbod) | Straatrace | 15 uur TS | €950
 [Art. 11 WVW](/wetboek/wvw/#artikel-11-joyriding) | Joyriding | __n.t.b.__ | __n.t.b.__
 [Art. 40 WVW](/wetboek/wvw/#artikel-40-zichtbaarheid) | Zichtbaarheid kenteken | __n.t.b.__ | __n.t.b.__
+[Art. 165 WVW](/wetboek/wvw/#artikel-165-bekendmaking-naam-bestuurder) | Bekendmaking naam bestuurder misdrijf | __n.t.b.__ | __n.t.b.__
 
 
 
