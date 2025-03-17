@@ -186,6 +186,16 @@ R 628 b | Niet opvolgen stopteken politie | € ,- |
 - | Snelheidsoverschrijding 41 tot 50 km/h | € ,- |
 - | Snelheidsoverschrijding 50+ km/h | € ,- |
 
+#####Overige overtredingen
+|Feitcode|Feit|Bedrag|
+|:----|:----|-:|
+D 515| Valse gegevens opgeven | € ,- |
+D 517| Weigeren identiteitsbewijs ter inzage aan te bieden | € ,- |
+F 116 a| Bezit inbrekerswerktuig | € ,- |
+F 120 a| Klimmen en klauteren | € ,- |
+F 120 b| Overlast veroorzaken | € ,- |
+[Art. 2 Wgbk](/wetboek/overig/wgvgk/#artikel-1) | Gezichtsbedekking dragen | € ,- |
+
 
 
 
