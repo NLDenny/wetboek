@@ -34,11 +34,11 @@ theme:
       primary: custom
       accent: custom
     - scheme: default
-      toggle:
+      toggle: test
         icon: material/toggle-switch-off-outline 
         name: Overschakelen naar dark mode
-      primary: test
-      accent: test     
+      primary: custom
+      accent: custom     
   favicon: img/logo.png
   logo: img/logo.webp    
 extra:
