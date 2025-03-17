@@ -161,13 +161,12 @@ F116a | Inbrekerswerktuig | €115,- |
 [Art. 8 WVW](/wetboek/wvw/#artikel-8-besturen-onder-invloed) | Rijden onder invloed | __n.t.b.__ | __n.t.b.__
 [Art. 10 WVW](/wetboek/wvw/#artikel-10-wedstrijdverbod) | Straatrace | 15 uur TS | €950
 [Art. 11 WVW](/wetboek/wvw/#artikel-11-joyriding) | Joyriding | __n.t.b.__ | __n.t.b.__
-[Art. 40 WVW](/wetboek/wvw/#artikel-40-zichtbaarheid) | Zichtbaarheid kenteken | __n.t.b.__ | __n.t.b.__
 [Art. 165 WVW](/wetboek/wvw/#artikel-165-bekendmaking-naam-bestuurder) | Bekendmaking naam bestuurder misdrijf | __n.t.b.__ | __n.t.b.__
 
 #####Muldergedragingen
 |Feitcode|Feit|Bedrag|
 |:----|:----|-:|
-K 030 a | Kenteken niet behoorlijk zichtbaar op/aan moter voertuig | € ,- |
+K 030 a | Kenteken niet behoorlijk zichtbaar op/aan motervoertuig | € ,- |
 K 150 c | Niet op eerste vordering rijbewijs ter inzage afgeven | € ,- |
 R 326 | Rechts inhalen | € ,- |
 R 395 | Gevaar of hinder veroorzaken met stilstaand voertuig | € ,- |
