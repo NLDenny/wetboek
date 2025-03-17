@@ -169,6 +169,11 @@ F116a | Inbrekerswerktuig | €115,- |
 [Art. 3 Opw](/wetboek/opw/#artikel-3-verbodsbepaling-lijst-ii) | Lijst II Verkoop/handel t/m 999 G | 8 uur TS | €1.235,-
 [Art. 3 Opw](/wetboek/opw/#artikel-3-verbodsbepaling-lijst-ii) | Lijst II Verkoop/handel 1 of meer KG | 10 maanden GS | €4.340,-
 
+#####Wet wapens en munitie
+|Artikel|Feit|Sanctienorm|Bedrag
+|:----|:----|:------|-:|
+
+
 #####Wegenverkeerswet
 |Artikel|Feit|Sanctienorm|Bedrag
 |:----|:----|:------|-:|
