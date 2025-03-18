@@ -81,7 +81,6 @@ In deze wet wordt verstaan onder:
             projectielen;
          3° .22 Long rifle. 
 
-
       Categorie III
          1° .45 ACP;
          2° .38 LC;
