@@ -123,8 +123,10 @@ In deze wet wordt verstaan onder:
 1. Het is verboden een wapen of munitie van de categorieën II en III te 
    vervoeren.
 2. Hij die handelt in strijd met het eerste lid wordt gestraft met:
-    - Categorie II, [STRAFMAAT]
-    - Categorie III, [STRAFMAAT]
+    - Categorie II wapen, [STRAFMAAT]
+    - Categorie II munitie, [STRAFMAAT]
+    - Categorie III wapen, [STRAFMAAT]
+    - Categorie III munitie, [STRAFMAAT]
 ```
 
 ### § 6 | Voorhanden hebben en dragen van wapens en munitie van de categorieën II, III en IV
@@ -134,8 +136,10 @@ In deze wet wordt verstaan onder:
 1. Het is verboden een wapen of munitie van de categorieën II en III voorhanden 
    te hebben.
 2. Hij die handelt in strijd met het eerste lid wordt gestraft met:
-    - Categorie II, [STRAFMAAT]
-    - Categorie III, [STRAFMAAT]
+    - Categorie II wapen, [STRAFMAAT]
+    - Categorie II munitie, [STRAFMAAT]
+    - Categorie III wapen, [STRAFMAAT]
+    - Categorie III munitie, [STRAFMAAT]
 ```
 
 #####<span style="color: #fc631e;">Artikel 27 | Dragen categorie II, III en IV</span>
@@ -143,9 +147,11 @@ In deze wet wordt verstaan onder:
 1. Het is verboden een wapen van de categorieën II, III en IV te dragen.
 2. Het is verboden munitie van de categorieën II en III te dragen.
 3. Hij die handelt in strijd met het eerste lid wordt gestraft met:
-    - Categorie II, [STRAFMAAT]
-    - Categorie III, [STRAFMAAT]
-    - Categorie IV, [STRAFMAAT]
+    - Categorie II wapen, [STRAFMAAT]
+    - Categorie II munitie, [STRAFMAAT]
+    - Categorie III wapen, [STRAFMAAT]
+    - Categorie III munitie, [STRAFMAAT]
+    - Categorie IV wapen, [STRAFMAAT]
 ```
 
 ### § 7 | Overdracht en verkrijging van wapens en munitie van de categorieën II, III en IV
@@ -155,8 +161,10 @@ In deze wet wordt verstaan onder:
 1. Het is verboden een wapen of munitie van de categorieën II en III over 
    te dragen.
 2. Hij die handelt in strijd met het eerste lid wordt gestraft met:
-    - Categorie II, [STRAFMAAT]
-    - Categorie III, [STRAFMAAT]
+    - Categorie II wapen, [STRAFMAAT]
+    - Categorie II munitie, [STRAFMAAT]
+    - Categorie III wapen, [STRAFMAAT]
+    - Categorie III munitie, [STRAFMAAT]
 ```
 
 ### § 11A | Opsporing
