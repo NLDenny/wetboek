@@ -40,21 +40,21 @@ In deze wet wordt verstaan onder:
       Categorie II
          1° vuurwapens die niet onder een van de andere categorieën vallen;
          2° vuurwapens, geschikt om automatisch te vuren;
-         3° voorwerpen waarmee door een elektrische stroomstoot personen 
-            weerloos kunnen worden gemaakt of pijn kan worden toegebracht, 
-            met uitzondering van medische hulpmiddelen;
-         4° voorwerpen, bestemd voor het treffen van personen met giftige, 
+         3° voorwerpen, bestemd voor het treffen van personen met giftige, 
             verstikkende, weerloosmakende, traanverwekkende en soortgelijke 
-            stoffen, met uitzondering van medische hulpmiddelen en van 
-            vuurwapens in de vorm van geweren, revolvers en pistolen, 
-            bestemd voor het afschieten van munitie met weerloosmakende 
-            of traanverwekkende stof;
-         5° voorwerpen bestemd voor het treffen van personen of zaken door 
+            stoffen, met uitzondering van medische hulpmiddelen;
+         4° voorwerpen bestemd voor het treffen van personen of zaken door 
             vuur of door middel van ontploffing.
 
       Categorie III
-         1° vuurwapens in de vorm van geweren, revolvers en pistolen voor 
-            zover zij niet vallen onder categorie II sub 2° of 4°.
+         1° voorwerpen waarmee door een elektrische stroomstoot personen 
+            weerloos kunnen worden gemaakt of pijn kan worden toegebracht, 
+            met uitzondering van medische hulpmiddelen;
+         2° Double action revolver;
+         3° Navy revolver;
+         4° SNS pistol;
+         5° SNS pistol MK2;
+         6° Revolver.
 
       Categorie IV
          1° dolk, mes;
@@ -73,23 +73,21 @@ In deze wet wordt verstaan onder:
       (Vervallen)
 
       Categorie II 
-         1° munitie die uitsluitend geschikt voor vuurwapens van categorie II 
-            is;
-         2° munitie die een giftige, verstikkende, weerloosmakende, 
-            traanverwekkende of soortgelijke stof verspreidt, met uitzondering 
-            van munitie met weerloosmakende of traanverwekkende stof, bestemd 
-            voor vuurwapens in de vorm van geweren, revolvers en pistolen;
-         3° munitie voorzien van een projectiel waarmee een pantserplaat kan 
+         1° munitie die een giftige, verstikkende, weerloosmakende, 
+            traanverwekkende of soortgelijke stof verspreidt;
+         2° munitie voorzien van een projectiel waarmee een pantserplaat kan 
             worden doorboord, munitie voorzien van een projectiel met brandsas 
             of met een explosieve lading, alsmede de voor deze munitie bestemde 
             projectielen;
-         4° munitie voor geweren, revolvers en pistolen voorzien van 
-            expanderende projectielen, alsmede de voor deze munitie bestemde 
-            projectielen, behalve wanneer het voor de jacht of de schietsport 
-            bestemde munitie of projectielen betreft.
+         3° .22 Long rifle. 
+
 
       Categorie III
-         Alle overige munitie. 
+         1° .45 ACP;
+         2° .38 LC;
+         3° .45 Magnum;
+         4° .50 AE;
+         5° .50 Ball.
 ```
 
 #####<span style="color: #fc631e;">Artikel 3 | Onderdelen en hulpstukken</span>
