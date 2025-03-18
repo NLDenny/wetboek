@@ -25,7 +25,6 @@ Het is daarom raadzaam om periodiek deze pagina opnieuw te bekijken.
 [Art. 179 Sr](/sr/#artikel-179-ambtsdwang) | Ambtsdwang | __n.t.b.__ | __n.t.b.__ 
 [Art. 180 Sr](/sr/#artikel-180-wederspannigheid) | Wederspannigheid | __n.t.b.__ | __n.t.b.__ 
 [Art. 184 Sr](/sr/#artikel-184-niet-voldoen-aan-ambtelijk-bevel) | Niet voldoen ambt. bevel | 4 uur TS | €184,-
-[Art. 185 Sr](/sr/#artikel-185-bemoeien-terechtzitting-en-ambtshandeling) | Bemoeien terechtzitting en ambtshandeling | __n.t.b.__ | __n.t.b.__ 
 [Art. 186 Sr](/sr/#artikel-186-samenscholing) | Samenscholing | 10 uur TS | €195,-
 [Art. 188 Sr](/sr/#artikel-188-valse-aangifte-of-klacht) | Valse aangifte of klacht | __n.t.b.__ | __n.t.b.__ 
 [Art. 189 Sr](/sr/#artikel-189-hulp-aan-dader-na-misdrijf) | Hulp aan dader na misdrijf | __n.t.b.__ | __n.t.b.__ 
