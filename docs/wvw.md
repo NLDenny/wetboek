@@ -317,9 +317,8 @@ a. de in de artikelen 141 en 142 van het Wetboek van Strafvordering bedoelde
 1. Indien een bij deze wet als misdrijf strafbaar gesteld feit wordt begaan 
    door een bij de ontdekking van het feit onbekend gebleven bestuurder van 
    een motorrijtuig, is de eigenaar of houder van dat motorrijtuig verplicht 
-   op vordering van een der in artikel 159 bedoelde personen binnen een daarbij 
-   te stellen termijn, die ten minste achtenveertig uren bedraagt, de naam van 
-   de bestuurder bekend te maken.      
+   op vordering van een opsporingsambternaar de naam van de bestuurder 
+   bekend te maken.      
 2. Het eerste lid geldt niet, indien de eigenaar of houder niet heeft kunnen 
    vaststellen wie de bestuurder was en hem daarvan redelijkerwijs geen verwijt 
    kan worden gemaakt.
