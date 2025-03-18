@@ -141,7 +141,8 @@ In deze wet wordt verstaan onder:
 #####<span style="color: #fc631e;">Artikel 27 | Dragen categorie II, III en IV</span>
 ```
 1. Het is verboden een wapen van de categorieën II, III en IV te dragen.
-2. Hij die handelt in strijd met het eerste lid wordt gestraft met:
+2. Het is verboden munitie van de categorieën II en III te dragen.
+3. Hij die handelt in strijd met het eerste lid wordt gestraft met:
     - Categorie II, [STRAFMAAT]
     - Categorie III, [STRAFMAAT]
     - Categorie IV, [STRAFMAAT]
