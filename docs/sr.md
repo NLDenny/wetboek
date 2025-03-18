@@ -590,6 +590,7 @@ verlenen, wordt als schuldig aan wederspannigheid gestraft met [STRAFMAAT].
    tijdelijk met enige openbare dienst is belast.
 ```
 
+<!--
 #####<span style="color: #fc631e;">Artikel 185 | Bemoeien terechtzitting en ambtshandeling</span>
 ```
 Hij die bij een terechtzitting of ter plaatse waar een ambtenaar in het 
@@ -597,6 +598,7 @@ openbaar in de rechtmatige uitoefening van zijn bediening werkzaam is,
 opschudding veroorzaakt en na het door of vanwege het bevoegd gezag gegeven 
 bevel zich niet verwijdert, wordt gestraft met [STRAFMAAT].
 ```
+-->
 
 #####<span style="color: #fc631e;">Artikel 186 | Samenscholing</span>
 ```
