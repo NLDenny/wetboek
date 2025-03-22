@@ -1,6 +1,6 @@
 # Stadsbestuur
 
-![Image title](https://i.imgur.com/6WT4OHc.png){ align=right }
+![Image title](img/beach.webp){ align=right }
 
 Maandelijks zijn er verkiezingen voor het dagelijks bestuur van Roxwood.
 Iedere bewoner kan zich verkiesbaar stellen als Mayor. 
@@ -23,7 +23,7 @@ _De volgende personen maken op dit moment deel uit van het stadsbestuur:_
 
     ---
 
-    ![Image title](https://i.imgur.com/fq6mBXm.png){ align=right }
+    ![Image title](img/mayor.webp){ align=right }
 
     _De Mayor is onderdeel van het dagelijks bestuur van Roxwood. De mayor kan aanpassingen doen aan alle wet- en regelgeving. Ook gaat de mayor over vergunningen, bedrijfsaanvragen en subsidies. Maandelijks wordt er een nieuwe Mayor verkozen. Een Mayor kan miximaal twee aaneengesloten maanden worden verkozen._ 
 
@@ -36,7 +36,7 @@ _De volgende personen maken op dit moment deel uit van het stadsbestuur:_
 
     ---
 
-    ![Image title](https://i.imgur.com/hdX9HK0.png){ align=right }
+    ![Image title](img/chiefoffstaff.webp){ align=right }
 
     _De Chief of Staff geeft sturing aan de korpsleidingen binnen Roxwood. Hierbij heeft de Chief of Staff een adviserende rol._
 
@@ -44,7 +44,7 @@ _De volgende personen maken op dit moment deel uit van het stadsbestuur:_
 
     ---
 
-    ![Image title](https://i.imgur.com/cmZzy3I.png){ align=right }
+    ![Image title](img/chiefofbar.webp){ align=right }
 
     _De Chief of Bar maakt deel uit van de rechterlijke macht. Tijdens rechtszaken fungeert de Chief of Bar als rechter._
 
