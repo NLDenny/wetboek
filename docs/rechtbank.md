@@ -1,6 +1,6 @@
 # Rechtbank Roxwood
 
-![Image title](https://i.imgur.com/J67LDF9.png){ align=right }
+![Image title](img/stadskantoor.webp){ align=right }
 
 De rechtbank van Roxwood is gevestigd in het stadskantoor te Paleto Bay. 
 Het gebouw beschikt over een rechtszaal.
@@ -26,6 +26,6 @@ Hieronder is een illustratie van deze rechtszaal weergegeven.
 <br />
 
 <figure markdown="span">
-  ![Image title](https://i.imgur.com/u3yphNo.jpeg){ width="500" }
+  ![Image title](img/rechtszaal.webp){ width="500" }
   <figcaption>Rechtszaal - Paleto Bay</figcaption>
 </figure>
