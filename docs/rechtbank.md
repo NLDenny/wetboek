@@ -26,6 +26,6 @@ Hieronder is een illustratie van deze rechtszaal weergegeven.
 <br />
 
 <figure markdown="span">
-  ![Image title](img/rechtszaal.webp){ width="500" }
+  ![Image title](img/rechtszaal.webp)
   <figcaption>Rechtszaal - Paleto Bay</figcaption>
 </figure>
