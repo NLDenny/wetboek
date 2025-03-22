@@ -31,8 +31,8 @@ Wgbk - Wet gedeeltelijk verbod gezichtsbedekkende kleding
 [Art. 158 Sr](/sr/#artikel-158-culpoos-brand-of-ontploffing-veroorzaken) | Culpoos brand of ontploffing veroorzaken | 10 maanden GS | €410,- 
 [Art. 177 Sr](/sr/#artikel-177-omkoping-ambtenaar) | Omkoping ambtenaar | 15 uur TS | €650,-
 [Art. 179 Sr](/sr/#artikel-179-ambtsdwang) | Ambtsdwang | 18 maanden GS | €1.000,- 
-[Art. 180 Sr](/sr/#artikel-180-wederspannigheid) | Wederspannigheid | 10 uur TS | €450,- 
-[Art. 184 Sr](/sr/#artikel-184-niet-voldoen-aan-ambtelijk-bevel) | Niet voldoen ambt. bevel | Boete | €310,-
+[Art. 180 Sr](/sr/#artikel-180-wederspannigheid) | Wederspannigheid | 10 uur TS | €560,- 
+[Art. 184 Sr](/sr/#artikel-184-niet-voldoen-aan-ambtelijk-bevel) | Niet voldoen ambt. bevel | Boete | €510,-
 [Art. 186 Sr](/sr/#artikel-186-samenscholing) | Samenscholing | 10 uur TS | €195,-
 [Art. 188 Sr](/sr/#artikel-188-valse-aangifte-of-klacht) | Valse aangifte of klacht | 15 uur TS | €560,- 
 [Art. 189 Sr](/sr/#artikel-189-hulp-aan-dader-na-misdrijf) | Hulp aan dader na misdrijf | 12 maanden GS | €640,-
