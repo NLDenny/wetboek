@@ -43,8 +43,8 @@ bepalen dat geen straf of maatregel zal worden opgelegd.
 #####<span style="color: #fc631e;">Artikel 10 | Duur gevangenisstraf</span>
 ```
 1. De gevangenisstraf is tijdelijk.
-2. De duur van de tijdelijke gevangenisstraf is ten minste [AANTAL] maanden 
-   en ten hoogste [AANTAL] maanden.
+2. De duur van de tijdelijke gevangenisstraf is ten minste 10 maanden 
+   en ten hoogste 120 maanden.
 ```
 
 #####<span style="color: #fc631e;">Artikel 22c | Taakstraf</span>
@@ -53,7 +53,7 @@ bepalen dat geen straf of maatregel zal worden opgelegd.
    Het vonnis dan wel de strafbeschikking vermeldt het aantal uren 
    dat de straf zal duren. Het vonnis dan wel de strafbeschikking 
    kan de aard van de te verrichten werkzaamheden vermelden.
-2. De taakstraf duurt ten hoogste [AANTAL] uren.
+2. De taakstraf duurt ten hoogste 60 uren.
 ```
 
 <!-- NIET VAN TOEPASSING IGNITE
