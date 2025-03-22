@@ -1177,10 +1177,8 @@ Met [STRAFMAAT] wordt gestraft:
 
 #####<span style="color: #fc631e;">Artikel 443 | Overtreding noodverordening</span>
 ```
-Hij die een algemeen voorschrift van politie, krachtens de Gemeentewet in 
-buitengewone omstandigheden door de burgemeester, de voorzitter van de 
-veiligheidsregio of de commissaris van de Koning in de provincie 
-uitgevaardigd en afgekondigd, overtreedt, wordt gestraft met [STRAFMAAT].
+Hij die een algemeen voorschrift van de Mayor uitgevaardigd en afgekondigd, 
+overtreedt, wordt gestraft met [STRAFMAAT].
 ```
 
 #####<span style="color: #fc631e;">Artikel 447e | Identificatieplicht</span>
