@@ -136,15 +136,11 @@ Voorts kunnen er voorschriften aan worden verbonden.
 1. Het is verboden een wapen van categorie I te vervaardigen, te transformeren, 
    voor derden te herstellen, over te dragen, voorhanden te hebben, te dragen, 
    te vervoeren, te doen binnenkomen of te doen uitgaan.
-2. Het Department of Justice kan, ontheffing verlenen van een 
-   of meer verboden genoemd in het eerste lid, met het oog op:
-   a. gebruik door de politie en de overige openbare dienst;
-   b. onderwijs ten behoeve van de politie en de overige openbare dienst.
-3. Het eerste lid is niet van toepassing op personen die houder zijn 
+2. Het eerste lid is niet van toepassing op personen die houder zijn 
    van een wapenvergunning, tenzij de houder handelt in strijd met
    de beperkingen dan wel voorschriften die op grond van artikel 6
    zijn vastgesteld. 
-4. Met [STRAFMAAT] wordt gestraft hij die handelt in strijd met het 
+3. Met [STRAFMAAT] wordt gestraft hij die handelt in strijd met het 
    eerste lid.
 ```
 
