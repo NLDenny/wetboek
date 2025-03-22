@@ -98,6 +98,37 @@ In deze wet wordt verstaan onder:
    die munitie, voorzover geschikt om munitie van te maken.
 ```
 
+#####<span style="color: #fc631e;">Artikel 6 | Beperkingen/voorschriften</span>
+```
+De in deze wet genoemde vergunningen kunnen onder beperking worden verleend. 
+Voorts kunnen er voorschriften aan worden verbonden.
+```
+
+#####<span style="color: #fc631e;">Artikel 7 | Weigering</span>
+```
+1. De in deze wet genoemde vergunningen worden geweigerd indien:
+   a. de aanvrager niet de noodzakelijke gegevens heeft overlegd;
+   b. de aanvrager vier maanden voorafgaand aan de beslissing op de aanvraag 
+      onherroepelijk is veroordeeld wegens het plegen van een misdrijf;
+   c. er reden is om te vrezen dat aan de aanvrager het onder zich hebben van 
+      wapens of munitie niet kan worden toevertrouwd;
+   d. er reden is om te vrezen dat daarvan dan wel van wapens of munitie 
+      misbruik zal worden gemaakt.
+2. De in deze wet genoemde vergunningen worden gewijzigd of ingetrokken:
+   a. indien onjuiste gegevens zijn verstrekt die hebben geleid tot de de 
+      verlening daarvan;
+   b. indien er aanwijzingen zijn dat aan de houder daarvan het onder zich
+      hebben van wapens of munitie niet langer kan worden toevertrouwd;
+   c. in geval van misbruik daarvan dan wel van wapens of munitie;
+   d. indien niet meer wordt voldaan aan de vereisten voor de verlening
+      daarvan;
+   e. bij niet inachtneming van een daaraan verbonden beperking of
+      voorschrift.
+3. De in het tweede lid bedoelde vergunningen worden ingetrokken indien
+   sinds de verlening ervan de houder onherroepelijk is veroordeeld wegens
+   het plegen van een misdrijf.
+```
+
 ### § 3 | Bepalingen voor wapens van categorie I
 
 #####<span style="color: #fc631e;">Artikel 13 | Categorie I</span>
@@ -109,7 +140,11 @@ In deze wet wordt verstaan onder:
    of meer verboden genoemd in het eerste lid, met het oog op:
    a. gebruik door de politie en de overige openbare dienst;
    b. onderwijs ten behoeve van de politie en de overige openbare dienst.
-3. Met [STRAFMAAT] wordt gestraft hij die handelt in strijd met het 
+3. Het eerste lid is niet van toepassing op personen die houder zijn 
+   van een wapenvergunning, tenzij de houder handelt in strijd met
+   de beperkingen dan wel voorschriften die op grond van artikel 6
+   zijn vastgesteld. 
+4. Met [STRAFMAAT] wordt gestraft hij die handelt in strijd met het 
    eerste lid.
 ```
 
@@ -119,7 +154,11 @@ In deze wet wordt verstaan onder:
 ```
 1. Het is verboden een wapen of munitie van de categorieën II en III te 
    vervoeren.
-2. Hij die handelt in strijd met het eerste lid wordt gestraft met:
+2. Het eerste lid is niet van toepassing op personen die houder zijn 
+   van een wapenvergunning, tenzij de houder handelt in strijd met
+   de beperkingen dan wel voorschriften die op grond van artikel 6
+   zijn vastgesteld.  
+3. Hij die handelt in strijd met het eerste lid wordt gestraft met:
     - Categorie II wapen, [STRAFMAAT]
     - Categorie II munitie, [STRAFMAAT]
     - Categorie III wapen, [STRAFMAAT]
@@ -132,7 +171,11 @@ In deze wet wordt verstaan onder:
 ```
 1. Het is verboden een wapen of munitie van de categorieën II en III voorhanden 
    te hebben.
-2. Hij die handelt in strijd met het eerste lid wordt gestraft met:
+2. Het eerste lid is niet van toepassing op personen die houder zijn 
+   van een wapenvergunning, tenzij de houder handelt in strijd met
+   de beperkingen dan wel voorschriften die op grond van artikel 6
+   zijn vastgesteld. 
+3. Hij die handelt in strijd met het eerste lid wordt gestraft met:
     - Categorie II wapen, [STRAFMAAT]
     - Categorie II munitie, [STRAFMAAT]
     - Categorie III wapen, [STRAFMAAT]
@@ -143,7 +186,11 @@ In deze wet wordt verstaan onder:
 ```
 1. Het is verboden een wapen van de categorieën II, III en IV te dragen.
 2. Het is verboden munitie van de categorieën II en III te dragen.
-3. Hij die handelt in strijd met het eerste lid wordt gestraft met:
+3. Het eerste lid en tweede lid is niet van toepassing op personen die houder zijn 
+   van een wapenvergunning, tenzij de houder handelt in strijd met
+   de beperkingen dan wel voorschriften die op grond van artikel 6
+   zijn vastgesteld. 
+4. Hij die handelt in strijd met het eerste of tweede lid wordt gestraft met:
     - Categorie II wapen, [STRAFMAAT]
     - Categorie II munitie, [STRAFMAAT]
     - Categorie III wapen, [STRAFMAAT]
