@@ -2,7 +2,7 @@
 
 <span style="color: #fc631e;">__Geachte lezer__</span>,
 
-![Image title](https://i.imgur.com/KXtU9CX.png){ align=right }
+![Image title](img/roxwood.webp){ align=right }
 
 Hartelijk welkom op deze pagina, samengesteld door het stadsbestuur van Roxwood.
 Op dit platform vindt u alle informatie die relevant is voor u als inwoner van Roxwood. 
