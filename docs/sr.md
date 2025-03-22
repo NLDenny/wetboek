@@ -619,17 +619,17 @@ wetende dat het niet gepleegd is, wordt gestraft met [STRAFMAAT].
 1. Met [STRAFMAAT] wordt gestraft:
    1° hij die opzettelijk iemand die schuldig is aan of verdachte is van 
       enig misdrijf, verbergt of hem behulpzaam is in het ontkomen aan de 
-      nasporing van of aanhouding door de ambtenaren van de justitie of politie;
+      nasporing van of aanhouding door de ambtenaren van het DOJ of politie;
    2° hij die nadat enig misdrijf is gepleegd, met het oogmerk om het te 
       bedekken of de nasporing of vervolging te beletten of te bemoeilijken, 
       voorwerpen waarop of waarmede het misdrijf gepleegd is of andere sporen 
       van het misdrijf vernietigt, wegmaakt, verbergt of aan het onderzoek van 
-      de ambtenaren van de justitie of politie onttrekt;
+      de ambtenaren van het DOJ of politie onttrekt;
    3° hij die opzettelijk voorwerpen die kunnen dienen om de waarheid aan de 
       dag te brengen of om wederrechtelijk verkregen voordeel als bedoeld in 
       artikel 36e aan te tonen, met het oogmerk om de inbeslagneming daarvan te 
       beletten, te belemmeren of te verijdelen, verbergt, vernietigt, wegmaakt 
-      of aan het onderzoek van de ambtenaren van de justitie of politie 
+      of aan het onderzoek van de ambtenaren van het DOJ of politie 
       onttrekt, dan wel door het opzettelijk verstrekken van gegevens of 
       inlichtingen aan derden die inbeslagneming belet, belemmert of verijdelt.
 ```
