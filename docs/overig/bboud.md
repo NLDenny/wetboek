@@ -144,7 +144,6 @@ R 628 b | Niet opvolgen stopteken politie | __n.t.b.__
 |Feitcode|Feit|Bedrag|
 |:----|:----|-:|
 D 515| Valse gegevens opgeven | __n.t.b.__
-D 517| Weigeren identiteitsbewijs ter inzage aan te bieden | __n.t.b.__
 F 116 a| Bezit inbrekerswerktuig | __n.t.b.__
 F 120 a| Klimmen en klauteren | __n.t.b.__
 F 120 b| Overlast veroorzaken | __n.t.b.__
