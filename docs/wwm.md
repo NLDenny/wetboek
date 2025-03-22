@@ -136,7 +136,7 @@ Voorts kunnen er voorschriften aan worden verbonden.
 1. Het is verboden een wapen van categorie I te vervaardigen, te transformeren, 
    voor derden te herstellen, over te dragen, voorhanden te hebben, te dragen, 
    te vervoeren, te doen binnenkomen of te doen uitgaan.
-2. Het United States Department of Justice kan, ontheffing verlenen van een 
+2. Het Department of Justice kan, ontheffing verlenen van een 
    of meer verboden genoemd in het eerste lid, met het oog op:
    a. gebruik door de politie en de overige openbare dienst;
    b. onderwijs ten behoeve van de politie en de overige openbare dienst.
