@@ -4,14 +4,14 @@ Deze pagina bevat een overzicht van de vastgestelde boetebedragen.
 De bedragen kunnen op ieder moment worden gewijzigd door de Mayor.   
 Het is daarom raadzaam om periodiek deze pagina opnieuw te bekijken.  
 
-#####Afkortingen
-GS - Gevangenisstraf
-TS - Taakstraf
-Sr - Wetboek van Strafrecht
-Opw - Opiumwet
-WWM - Wet wapens en munitie
-WVW - Wegenverkeerswet 1994
-Wgbk - Wet gedeeltelijk verbod gezichtsbedekkende kleding
+#####Afkortingen  
+GS - Gevangenisstraf  
+TS - Taakstraf  
+Sr - Wetboek van Strafrecht  
+Opw - Opiumwet  
+WWM - Wet wapens en munitie  
+WVW - Wegenverkeerswet 1994  
+Wgbk - Wet gedeeltelijk verbod gezichtsbedekkende kleding  
 
 <span style="color: #168E02;">__SUGGESTIE NIEUWE MDT STRAFFEN__</span>
 
