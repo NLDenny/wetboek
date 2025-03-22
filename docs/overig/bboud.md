@@ -1,8 +1,7 @@
-# Boetebase
+# Sanctienormen
 
-Deze pagina bevat een overzicht van de vastgestelde boetebedragen.   
-De bedragen kunnen op ieder moment worden gewijzigd door de Mayor.   
-Het is daarom raadzaam om periodiek deze pagina opnieuw te bekijken.  
+Deze pagina biedt een overzicht van de sanctienormen zoals deze zijn vastgesteld door het Department of Justice. 
+De sanctienorm betreft de __maximale__ straf die voor een misdrijf of overtreding kan worden gegeven, er kan dus van worden afgeweken. 
 
 #####Afkortingen 
 ```
@@ -15,24 +14,22 @@ WVW - Wegenverkeerswet 1994
 Wgbk - Wet gedeeltelijk verbod gezichtsbedekkende kleding
 ```  
 
-<span style="color: #168E02;">__SUGGESTIE NIEUWE MDT STRAFFEN__</span>
-
 #####Wetboek van Strafrecht
 |Artikel|Feit|Sanctienorm|Bedrag
 |:----|:----|:------|-:|
-[Art. 131 Sr](/sr/#artikel-131-opruiing) | Opruiing | __n.t.b.__ | __n.t.b.__ 
-[Art. 138 Sr](/sr/#artikel-138-huisvredebreuk) | Huisvredebreuk | __n.t.b.__ | __n.t.b.__ 
-[Art. 139 Sr](/sr/#artikel-139-lokaalvredebreuk) | Lokaalvredebreuk | __n.t.b.__ | __n.t.b.__ 
-[Art. 140 Sr](/sr/#artikel-140-deelneming-aan-criminele-organisatie) | Deelneming aan criminele organisatie | __n.t.b.__ | __n.t.b.__ 
-[Art. 141 Sr](/sr/#artikel-141-openlijke-geweldpleging) | Openlijke geweldpleging | 15 maanden GS | €300,-
-[Art. 141a Sr](/sr/#artikel-141a-gelegenheid-verschaffen-tot-plegen-van-geweld) | Gelegenheid verschaffen tot plegen van geweld | __n.t.b.__ | __n.t.b.__ 
-[Art. 142 Sr](/sr/#artikel-142-vals-alarm) | Vals alarm | __n.t.b.__ | __n.t.b.__ 
-[Art. 142a Sr](/sr/#artikel-142a-valse-bom) | Valse bom | __n.t.b.__ | __n.t.b.__ 
-[Art. 149 Sr](/sr/#artikel-149-grafschennis) | Grafschennis | __n.t.b.__ | __n.t.b.__ 
-[Art. 151 Sr](/sr/#artikel-151-doen-verdwijnen-van-lijk) | Doen verdwijnen van lijk | __n.t.b.__ | __n.t.b.__ 
-[Art. 157 Sr](/sr/#artikel-157-opzettelijk-brank-of-ontploffing-veroorzaken) | Opzettelijk brand of ontploffing veroorzaken | __n.t.b.__ | __n.t.b.__ 
-[Art. 158 Sr](/sr/#artikel-158-culpoos-brand-of-ontploffing-veroorzaken) | Culpoos brand of ontploffing veroorzaken | __n.t.b.__ | __n.t.b.__ 
-[Art. 177 Sr](/sr/#artikel-177-omkoping-ambtenaar) | Omkoping ambtenaar | 10 uur TS | €310,-
+[Art. 131 Sr](/sr/#artikel-131-opruiing) | Opruiing | 10 uur TS | €350 
+[Art. 138 Sr](/sr/#artikel-138-huisvredebreuk) | Huisvredebreuk | 12 maanden GS | €650
+[Art. 139 Sr](/sr/#artikel-139-lokaalvredebreuk) | Lokaalvredebreuk | 10 uur TS | €280
+[Art. 140 Sr](/sr/#artikel-140-deelneming-aan-criminele-organisatie) | Deelneming aan criminele organisatie | 20 maanden GS | €1.250 
+[Art. 141 Sr](/sr/#artikel-141-openlijke-geweldpleging) | Openlijke geweldpleging | 10 maanden GS | €560,-
+[Art. 141a Sr](/sr/#artikel-141a-gelegenheid-verschaffen-tot-plegen-van-geweld) | Gelegenheid verschaffen tot plegen van geweld | 10 maanden GS | €420
+[Art. 142 Sr](/sr/#artikel-142-vals-alarm) | Vals alarm | 15 uur TS | €310
+[Art. 142a Sr](/sr/#artikel-142a-valse-bom) | Valse bom | 16 maanden GS | €850
+[Art. 149 Sr](/sr/#artikel-149-grafschennis) | Grafschennis | 10 uur TS | €320
+[Art. 151 Sr](/sr/#artikel-151-doen-verdwijnen-van-lijk) | Doen verdwijnen van lijk | 15 maanden GS | €980 
+[Art. 157 Sr](/sr/#artikel-157-opzettelijk-brank-of-ontploffing-veroorzaken) | Opzettelijk brand of ontploffing veroorzaken | 15 maanden GS | €740 
+[Art. 158 Sr](/sr/#artikel-158-culpoos-brand-of-ontploffing-veroorzaken) | Culpoos brand of ontploffing veroorzaken | 10 maanden GS | €410 
+[Art. 177 Sr](/sr/#artikel-177-omkoping-ambtenaar) | Omkoping ambtenaar | 10 uur TS | €350,-
 [Art. 179 Sr](/sr/#artikel-179-ambtsdwang) | Ambtsdwang | __n.t.b.__ | __n.t.b.__ 
 [Art. 180 Sr](/sr/#artikel-180-wederspannigheid) | Wederspannigheid | __n.t.b.__ | __n.t.b.__ 
 [Art. 184 Sr](/sr/#artikel-184-niet-voldoen-aan-ambtelijk-bevel) | Niet voldoen ambt. bevel | 4 uur TS | €184,-
@@ -154,8 +151,8 @@ R 628 b | Niet opvolgen stopteken politie | __n.t.b.__
 #####Overige overtredingen
 |Feitcode|Feit|Bedrag|
 |:----|:----|-:|
-D 515| Valse gegevens opgeven | __n.t.b.__
-F 116 a| Bezit inbrekerswerktuig | __n.t.b.__
-F 120 a| Klimmen en klauteren | __n.t.b.__
+D 515| Valse gegevens opgeven | €480
+F 116 a| Bezit inbrekerswerktuig | €310
+F 120 a| Klimmen en klauteren | €190
 F 120 b| Overlast veroorzaken | __n.t.b.__
 [Art. 2 Wgbk](/overig/wgvgk/#artikel-1) | Gezichtsbedekking dragen | __n.t.b.__
