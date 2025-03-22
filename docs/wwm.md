@@ -186,10 +186,9 @@ Voorts kunnen er voorschriften aan worden verbonden.
 ```
 1. Het is verboden een wapen van de categorieën II, III en IV te dragen.
 2. Het is verboden munitie van de categorieën II en III te dragen.
-3. Het eerste lid en tweede lid is niet van toepassing op personen die houder zijn 
-   van een wapenvergunning, tenzij de houder handelt in strijd met
-   de beperkingen dan wel voorschriften die op grond van artikel 6
-   zijn vastgesteld. 
+3. Het eerste lid en tweede lid is niet van toepassing op personen die houder 
+   zijn van een wapenvergunning, tenzij de houder handelt in strijd met de 
+   beperkingen dan wel voorschriften die op grond van artikel 6 zijn vastgesteld. 
 4. Hij die handelt in strijd met het eerste of tweede lid wordt gestraft met:
     - Categorie II wapen, [STRAFMAAT]
     - Categorie II munitie, [STRAFMAAT]
