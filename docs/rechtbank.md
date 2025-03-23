@@ -12,9 +12,9 @@ Bij grote belangstelling kan het voorkomen dat er geen plek meer is op de publie
 Helaas kunt u de zitting dan niet bijwonen.
 
 __Overige informatie__  
-&ensp; &nbsp; &nbsp; &nbsp; • _Minimale leeftijd 18 jaar_ <br />
-&ensp; &nbsp; &nbsp; &nbsp; • _Neem altijd een geldig identiteitsbewijs of rijbewijs mee_     
-&ensp; &nbsp; &nbsp; &nbsp; • _U kunt bij binnenkomst worden gefouilleerd_  
+&ensp; &nbsp; &nbsp; &nbsp; • _Minimale leeftijd 18 jaar._ <br />
+&ensp; &nbsp; &nbsp; &nbsp; • _Neem altijd een geldig identiteitsbewijs of rijbewijs mee._     
+&ensp; &nbsp; &nbsp; &nbsp; • _U kunt bij binnenkomst worden gefouilleerd._  
 
 ### Werking strafzaak
 
