@@ -81,20 +81,18 @@ Wgbk - Wet gedeeltelijk verbod gezichtsbedekkende kleding
 [Art. 2 Opw](/opw/#artikel-2-verbodsbepaling-lijst-i) | Lijst I Vervoeren/bijdragen 200 t/m 999 G | 20 maanden GS | €4.030,-
 [Art. 2 Opw](/opw/#artikel-2-verbodsbepaling-lijst-i) | Lijst I Vervoeren/bijdragen 1 of meer KG | 25 maanden GS | €8.340,-
 [Art. 2 Opw](/opw/#artikel-2-verbodsbepaling-lijst-i) | Lijst I Telen/bewerken/verwerken | 20 maanden GS | €2.680,-
-[Art. 2 Opw](/opw/#artikel-2-verbodsbepaling-lijst-i) | Lijst I Verkoop/handel t/m 999 G | 17 maanden GS | €1.750,-
-[Art. 2 Opw](/opw/#artikel-2-verbodsbepaling-lijst-i) | Lijst I Verkoop/handel 1 of meer KG | 25 maanden GS | €5.260,-
-[Art. 3 Opw](/opw/#artikel-3-verbodsbepaling-lijst-ii) | Lijst II Vervoeren/bijdragen t/m 20 G | Boete | €100,-
-[Art. 3 Opw](/opw/#artikel-3-verbodsbepaling-lijst-ii) | Lijst II Vervoeren/bijdragen 21 t/m 199 G | Boete | €1.000,-
-[Art. 3 Opw](/opw/#artikel-3-verbodsbepaling-lijst-ii) | Lijst II Vervoeren/bijdragen 200 t/m 999 G | 8 uur TS | €1.715,-
-[Art. 3 Opw](/opw/#artikel-3-verbodsbepaling-lijst-ii) | Lijst II Vervoeren/bijdragen 1 of meer KG | 10 maanden GS | €2.240,-
-[Art. 3 Opw](/opw/#artikel-3-verbodsbepaling-lijst-ii) | Lijst II Telen/bewerken/verwerken | 10 maanden GS | €1.340,-
-[Art. 3 Opw](/opw/#artikel-3-verbodsbepaling-lijst-ii) | Lijst II Verkoop/handel t/m 999 G | 8 uur TS | €1.235,-
-[Art. 3 Opw](/opw/#artikel-3-verbodsbepaling-lijst-ii) | Lijst II Verkoop/handel 1 of meer KG | 10 maanden GS | €4.340,-
+[Art. 2 Opw](/opw/#artikel-2-verbodsbepaling-lijst-i) | Lijst I Verkoop/handel | 13 maanden GS | €1.280,-
+[Art. 3 Opw](/opw/#artikel-3-verbodsbepaling-lijst-ii) | Lijst II Vervoeren/bijdragen t/m 20 G | Boete | €380,-
+[Art. 3 Opw](/opw/#artikel-3-verbodsbepaling-lijst-ii) | Lijst II Vervoeren/bijdragen 21 t/m 199 G | 18 uur TS | €1.250,-
+[Art. 3 Opw](/opw/#artikel-3-verbodsbepaling-lijst-ii) | Lijst II Vervoeren/bijdragen 200 t/m 999 G | 25 uur TS | €1.715,-
+[Art. 3 Opw](/opw/#artikel-3-verbodsbepaling-lijst-ii) | Lijst II Vervoeren/bijdragen 1 of meer KG | 15 maanden GS | €2.240,-
+[Art. 3 Opw](/opw/#artikel-3-verbodsbepaling-lijst-ii) | Lijst II Telen/bewerken/verwerken | 20 maanden GS | €1.800,-
+[Art. 3 Opw](/opw/#artikel-3-verbodsbepaling-lijst-ii) | Lijst II Verkoop/handel | 10 maanden GS | €980,-
 
 #####Wet wapens en munitie
 |Artikel|Feit|Sanctienorm|Bedrag
 |:----|:----|:------|-:|
-[Art. 13 WWM](/wwm/#artikel-13-categorie-i) | Volledig verbod Cat. I wapen  | Boete | €400,-
+[Art. 13 WWM](/wwm/#artikel-13-categorie-i) | Volledig verbod Cat. I wapen | Boete | €420,-
 [Art. 22 WWM](/wwm/#artikel-22-vervoer-categorie-ii-en-iii) | Vervoeren wapen Cat. II | __n.t.b.__ | __n.t.b.__
 [Art. 22 WWM](/wwm/#artikel-22-vervoer-categorie-ii-en-iii) | Vervoeren munitie Cat. II | __n.t.b.__ | __n.t.b.__
 [Art. 22 WWM](/wwm/#artikel-22-vervoer-categorie-ii-en-iii) | Vervoeren wapen Cat. III | __n.t.b.__ | __n.t.b.__
