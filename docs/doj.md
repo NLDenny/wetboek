@@ -15,8 +15,7 @@ Het staat een ieder volledig vrij om advocaat te worden, behalve als je een stra
 &ensp; &nbsp; &nbsp; &nbsp; • _Voor binnenkomst op het politiebureau kan je worden gefouilleerd._          
 &ensp; &nbsp; &nbsp; &nbsp; • _De kosten van de advocaat zijn voor rekening van de verdachte._    
 
-
- 
+<br> 
 
 ---
 
