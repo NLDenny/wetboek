@@ -149,8 +149,8 @@ R 628 b | Niet opvolgen stopteken politie | __n.t.b.__
 #####Overige overtredingen
 |Feitcode|Feit|Bedrag|
 |:----|:----|-:|
-D 515| Valse gegevens opgeven | €480
-F 116 a| Bezit inbrekerswerktuig | €310
-F 120 a| Klimmen en klauteren | €190
-F 120 b| Overlast veroorzaken | __n.t.b.__
-[Art. 2 Wgbk](/overig/wgvgk/#artikel-1) | Gezichtsbedekking dragen | __n.t.b.__
+D 515| Valse gegevens opgeven | €480,-
+F 116 a| Bezit inbrekerswerktuig | €310,-
+F 120 a| Klimmen en klauteren | €190,-
+F 120 b| Overlast veroorzaken | €240,-
+[Art. 2 Wgbk](/overig/wgvgk/#artikel-1) | Gezichtsbedekking dragen | €390,-
