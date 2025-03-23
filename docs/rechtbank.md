@@ -9,7 +9,6 @@ Bekijk hieronder de bezoekersinformatie voor het bijwonen van een rechtszaak.
 
 ## Bezoekersinformatie
 
-Het zittingsrooster is op te vragen bij de balie van het stadskantoor. <br />
 Bij grote belangstelling kan het voorkomen dat er geen plek meer is op de publieke tribune. 
 Helaas kunt u de zitting dan niet bijwonen.
 
