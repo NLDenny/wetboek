@@ -2,7 +2,8 @@
 
 ![Image title](img/doj.webp){ align=right }
 
-Het Department of Justice, afgekort als DOJ, maakt deel uit van de wetgevende- dan wel de rechtsprekende macht.
+Het Department of Justice, afgekort als DOJ, maakt deel uit van de wetgevende- en rechtsprekende macht.
+
 
 
 ---
