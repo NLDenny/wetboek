@@ -30,7 +30,7 @@ __De volgende personen maken op dit moment deel uit van het Department of Justic
 
     ![Image title](img/mayor.webp){ align=right }
 
-    _De Chief of Justice dient als adviesorgaan voor _ 
+    _De Chief of Justice is hoofdverantwoordelijk voor het Department of Justice. De Chief of Justice heeft hierbij de bevoegdheid om wet- en regelgeving te wijzigen. Daarnaast is hij bevoegd tot het afgeven van vergunningen en het aanstellen van rechters_ 
 
 </div>
 
