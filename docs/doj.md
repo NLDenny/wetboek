@@ -2,13 +2,23 @@
 
 ![Image title](img/doj.webp){ align=right }
 
-Het Department of Justice, afgekort als DOJ, maakt deel uit van de wetgevende- en rechtsprekende macht.
+Het Department of Justice, afgekort als DOJ, maakt deel uit van de wetgevende- en rechtsprekende macht.  
+Kort gezegd kan het Department directe wijzigingen aanbrengen in wet- en regelgeving.   
+Daarnaast benoemt het Department rechters die tijdens strafzaken verantwoordelijk zijn voor het handhaven 
+van de rechtsorde, het beoordelen van bewijsmateriaal en het opleggen van passende straffen.
+
+####Advocatuur
+Het staat een ieder volledig vrij om advocaat te worden, behalve als je een strafblad hebt.
+Onder strafblad wordt verstaan dat je in de afgelopen 30 dagen bent veroordeeld voor een misdrijf.
+Houd daarnaast rekening met de volgende zaken:
 
 
+
+ 
 
 ---
 
-_De volgende personen maken op dit moment deel uit van het stadsbestuur:_
+_De volgende personen maken op dit moment deel uit van het Department of Justice:_
 
 <div class="grid cards" markdown>
 
