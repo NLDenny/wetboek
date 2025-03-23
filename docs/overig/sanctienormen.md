@@ -92,24 +92,24 @@ Wgbk - Wet gedeeltelijk verbod gezichtsbedekkende kleding
 #####Wet wapens en munitie
 |Artikel|Feit|Sanctienorm|Bedrag
 |:----|:----|:------|-:|
-[Art. 13 WWM](/wwm/#artikel-13-categorie-i) | Volledig verbod Cat. I wapen | Boete | €420,-
-[Art. 22 WWM](/wwm/#artikel-22-vervoer-categorie-ii-en-iii) | Vervoeren wapen Cat. II | __n.t.b.__ | __n.t.b.__
-[Art. 22 WWM](/wwm/#artikel-22-vervoer-categorie-ii-en-iii) | Vervoeren munitie Cat. II | __n.t.b.__ | __n.t.b.__
-[Art. 22 WWM](/wwm/#artikel-22-vervoer-categorie-ii-en-iii) | Vervoeren wapen Cat. III | __n.t.b.__ | __n.t.b.__
-[Art. 22 WWM](/wwm/#artikel-22-vervoer-categorie-ii-en-iii) | Vervoeren munitie Cat. III | __n.t.b.__ | __n.t.b.__
-[Art. 26 WWM](/wwm/#artikel-26-voorhanden-hebben-categorie-ii-en-iii) | Voorhanden hebben wapen Cat. II | __n.t.b.__ | __n.t.b.__
-[Art. 26 WWM](/wwm/#artikel-26-voorhanden-hebben-categorie-ii-en-iii) | Voorhanden hebben munitie Cat. II | __n.t.b.__ | __n.t.b.__
-[Art. 26 WWM](/wwm/#artikel-26-voorhanden-hebben-categorie-ii-en-iii) | Voorhanden hebben wapen Cat. III | __n.t.b.__ | __n.t.b.__
-[Art. 26 WWM](/wwm/#artikel-26-voorhanden-hebben-categorie-ii-en-iii) | Voorhanden hebben munitie Cat. III | __n.t.b.__ | __n.t.b.__
-[Art. 27 WWM](/wwm/#artikel-27-dragen-categorie-ii-iii-en-iv) | Dragen wapen Cat. II | __n.t.b.__ | __n.t.b.__
-[Art. 27 WWM](/wwm/#artikel-27-dragen-categorie-ii-iii-en-iv) | Dragen munitie Cat. II | __n.t.b.__ | __n.t.b.__
-[Art. 27 WWM](/wwm/#artikel-27-dragen-categorie-ii-iii-en-iv) | Dragen wapen Cat. III | __n.t.b.__ | __n.t.b.__
-[Art. 27 WWM](/wwm/#artikel-27-dragen-categorie-ii-iii-en-iv) | Dragen munitie Cat. III | __n.t.b.__ | __n.t.b.__
-[Art. 27 WWM](/wwm/#artikel-27-dragen-categorie-ii-iii-en-iv) | Dragen wapen Cat. IV | Boete | €335,-
-[Art. 31 WWM](/wwm/#artikel-31-overdragen-categorie-ii-en-iii) | Overdragen wapen Cat. II| __n.t.b.__ | __n.t.b.__
-[Art. 31 WWM](/wwm/#artikel-31-overdragen-categorie-ii-en-iii) | Overdragen munitie Cat. II| __n.t.b.__ | __n.t.b.__
-[Art. 31 WWM](/wwm/#artikel-31-overdragen-categorie-ii-en-iii) | Overdragen wapen Cat. III | __n.t.b.__ | __n.t.b.__
-[Art. 31 WWM](/wwm/#artikel-31-overdragen-categorie-ii-en-iii) | Overdragen munitie Cat. III | __n.t.b.__ | __n.t.b.__
+[Art. 13 WWM](/wwm/#artikel-13-categorie-i) | Volledig verbod Cat. I wapen | Boete | €620,-
+[Art. 22 WWM](/wwm/#artikel-22-vervoer-categorie-ii-en-iii) | Vervoeren wapen Cat. II | 24 maanden GS | €4.750,-
+[Art. 22 WWM](/wwm/#artikel-22-vervoer-categorie-ii-en-iii) | Vervoeren munitie Cat. II | 15 maanden GS | €1.950,-
+[Art. 22 WWM](/wwm/#artikel-22-vervoer-categorie-ii-en-iii) | Vervoeren wapen Cat. III | 19 maanden GS | €3.690,-
+[Art. 22 WWM](/wwm/#artikel-22-vervoer-categorie-ii-en-iii) | Vervoeren munitie Cat. III | 10 maanden GS | €1.450,-
+[Art. 26 WWM](/wwm/#artikel-26-voorhanden-hebben-categorie-ii-en-iii) | Voorhanden hebben wapen Cat. II | 21 maanden GS | €3.800,-
+[Art. 26 WWM](/wwm/#artikel-26-voorhanden-hebben-categorie-ii-en-iii) | Voorhanden hebben munitie Cat. II | 12 maanden GS | €1.560,-
+[Art. 26 WWM](/wwm/#artikel-26-voorhanden-hebben-categorie-ii-en-iii) | Voorhanden hebben wapen Cat. III | 16 maanden GS | €2.950,-
+[Art. 26 WWM](/wwm/#artikel-26-voorhanden-hebben-categorie-ii-en-iii) | Voorhanden hebben munitie Cat. III | 10 maanden GS | €1.160,-
+[Art. 27 WWM](/wwm/#artikel-27-dragen-categorie-ii-iii-en-iv) | Dragen wapen Cat. II | 28 maanden GS | €5.460,-
+[Art. 27 WWM](/wwm/#artikel-27-dragen-categorie-ii-iii-en-iv) | Dragen munitie Cat. II | 19 maanden GS | €2.240,-
+[Art. 27 WWM](/wwm/#artikel-27-dragen-categorie-ii-iii-en-iv) | Dragen wapen Cat. III | 23 maanden GS | €4.240,-
+[Art. 27 WWM](/wwm/#artikel-27-dragen-categorie-ii-iii-en-iv) | Dragen munitie Cat. III | 14 maanden GS | €1.670,-
+[Art. 27 WWM](/wwm/#artikel-27-dragen-categorie-ii-iii-en-iv) | Dragen wapen Cat. IV | Boete | €1.300,-
+[Art. 31 WWM](/wwm/#artikel-31-overdragen-categorie-ii-en-iii) | Overdragen wapen Cat. II| 35 maanden GS | €6.280,-
+[Art. 31 WWM](/wwm/#artikel-31-overdragen-categorie-ii-en-iii) | Overdragen munitie Cat. II| 15 maanden GS | €2.570,-
+[Art. 31 WWM](/wwm/#artikel-31-overdragen-categorie-ii-en-iii) | Overdragen wapen Cat. III | 30 maanden GS | €4.880,-
+[Art. 31 WWM](/wwm/#artikel-31-overdragen-categorie-ii-en-iii) | Overdragen munitie Cat. III | 10 maanden GS | €1.920,-
 
 #####Wegenverkeerswet
 |Artikel|Feit|Sanctienorm|Bedrag
