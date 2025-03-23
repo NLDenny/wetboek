@@ -68,6 +68,7 @@ markdown_extensions:
 nav:
   - Home: index.md  
   - Stadsbestuur: stadsbestuur.md
+  - Department of Justice: doj.md
   - Rechtbank Roxwood: rechtbank.md
   - Sanctienormen: overig/sanctienormen.md
   - Wetgeving:    
