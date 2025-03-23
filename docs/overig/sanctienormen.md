@@ -126,25 +126,25 @@ Wgbk - Wet gedeeltelijk verbod gezichtsbedekkende kleding
 #####Muldergedragingen
 |Feitcode|Feit|Bedrag|
 |:----|:----|-:|
-K 030 a | Kenteken niet behoorlijk zichtbaar op/aan motervoertuig | __n.t.b.__
-K 150 c | Niet op eerste vordering rijbewijs ter inzage afgeven | __n.t.b.__
-R 326 | Rechts inhalen | __n.t.b.__
-R 395 | Gevaar of hinder veroorzaken met stilstaand voertuig | __n.t.b.__
-R 397 (a t/m i) | Foutief parkeren | __n.t.b.__
-R 486 | Voorrangsvoertuig niet voor laten gaan | __n.t.b.__
-R 536 c | Geen helm dragen op een motorfiets | __n.t.b.__
-R 545 | Gebruik van mobiele telefoon tijdens het rijden | __n.t.b.__
-R 549 a | Niet stoppen bij stopbord | __n.t.b.__
-R 601 | Niet doorgaan bij groen licht | __n.t.b.__
-R 602 | Niet stoppen voor rood licht | €80,- |
-R 617 b | Overschrijden doorgetrokken streep | __n.t.b.__
-R 628 b | Niet opvolgen stopteken politie | __n.t.b.__
-- | Snelheidsoverschrijding 4 t/m 15 km/h | __n.t.b.__
-- | Snelheidsoverschrijding 16 t/m 20 km/h | __n.t.b.__
-- | Snelheidsoverschrijding 21 t/m 30 km/h | __n.t.b.__
-- | Snelheidsoverschrijding 31 t/m 40 km/h | __n.t.b.__
-- | Snelheidsoverschrijding 41 tot 49 km/h | __n.t.b.__
-- | Snelheidsoverschrijding 50 of meer km/h | __n.t.b.__
+K 030 a | Kenteken niet behoorlijk zichtbaar op/aan motervoertuig | €280,-
+K 150 c | Niet op eerste vordering rijbewijs ter inzage afgeven | €310,-
+R 326 | Rechts inhalen | €290,-
+R 395 | Gevaar of hinder veroorzaken met stilstaand voertuig | €280,-
+R 397 (a t/m i) | Foutief parkeren | €200,-
+R 486 | Voorrangsvoertuig niet voor laten gaan | €450,-
+R 536 c | Geen helm dragen op een motorfiets | €260,-
+R 545 | Gebruik van mobiele telefoon tijdens het rijden | €300,-
+R 549 a | Niet stoppen bij stopbord | €170,-
+R 601 | Niet doorgaan bij groen licht | €130,-
+R 602 | Niet stoppen voor rood licht | €300,- 
+R 617 b | Overschrijden doorgetrokken streep | €210,-
+R 628 b | Niet opvolgen stopteken politie | €510,-
+- | Snelheidsoverschrijding 4 t/m 15 km/h | €440,-
+- | Snelheidsoverschrijding 16 t/m 20 km/h | €490,-
+- | Snelheidsoverschrijding 21 t/m 30 km/h | €550,-
+- | Snelheidsoverschrijding 31 t/m 40 km/h | €615,-
+- | Snelheidsoverschrijding 41 tot 49 km/h | €690,-
+- | Snelheidsoverschrijding 50 of meer km/h | €780,-
 
 #####Overige overtredingen
 |Feitcode|Feit|Bedrag|
