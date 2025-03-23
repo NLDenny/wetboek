@@ -7,11 +7,14 @@ Kort gezegd kan het Department directe wijzigingen aanbrengen in wet- en regelge
 Daarnaast benoemt het Department rechters die tijdens strafzaken verantwoordelijk zijn voor het handhaven 
 van de rechtsorde, het beoordelen van bewijsmateriaal en het opleggen van passende straffen.
 
+
 ####Advocatuur
 Het staat een ieder volledig vrij om advocaat te worden, behalve als je een strafblad hebt.
 Onder strafblad wordt verstaan dat je in de afgelopen 30 dagen bent veroordeeld voor een misdrijf.
 Houd daarnaast rekening met de volgende zaken:
-
+&ensp; &nbsp; &nbsp; &nbsp; • Als advocaat worden normale omgangsvormen verwacht. Hieronder valt ook het dragen van gepaste kleding die de professionaliteit van het beroep weerspiegelt.
+&ensp; &nbsp; &nbsp; &nbsp; • Voor binnenkomst op het politiebureau kan je worden gefouilleerd.      
+&ensp; &nbsp; &nbsp; &nbsp; • De kosten van de advocaat zijn voor rekening van de verdachte.
 
 
  
