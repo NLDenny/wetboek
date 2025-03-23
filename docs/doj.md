@@ -1,6 +1,6 @@
 # Department of Justice
 
-![Image title](img/beach.webp){ align=right }
+![Image title](img/doj.webp){ align=right }
 
 Maandelijks zijn er verkiezingen voor het dagelijks bestuur van Roxwood.
 Iedere bewoner kan zich verkiesbaar stellen als Mayor. 
@@ -11,15 +11,11 @@ Iedere inwoner van Roxwood mag vervolgens op een van de kandidaten stemmen.
 
 ---
 
-__Huidige status__:   
-_Kandidaatstelling_: <span style="color: #168E02;">__GEOPEND__</span>  
-_Verkiezingen_: <span style="color: #8E0205;">__GESLOTEN__</span>
-
 _De volgende personen maken op dit moment deel uit van het stadsbestuur:_
 
 <div class="grid cards" markdown>
 
--   <span style="color: #f87c24;">__Mayor__</span> : GEZOCHT
+-   <span style="color: #f87c24;">__Chief of Justice__</span> : GEZOCHT
 
     ---
 
@@ -32,7 +28,7 @@ _De volgende personen maken op dit moment deel uit van het stadsbestuur:_
 
 <div class="grid cards" markdown>
 
--   <span style="color: #f87c24;">__Chief of Staff__</span> : GEZOCHT
+-   <span style="color: #f87c24;">__Rechter__</span> : GEZOCHT
 
     ---
 
@@ -40,7 +36,28 @@ _De volgende personen maken op dit moment deel uit van het stadsbestuur:_
 
     _De Chief of Staff geeft sturing aan de korpsleidingen binnen Roxwood. Hierbij heeft de Chief of Staff een adviserende rol._
 
--   <span style="color: #f87c24;">__Chief of Bar__</span> : GEZOCHT
+-   <span style="color: #f87c24;">__Rechter__</span> : GEZOCHT
+
+    ---
+
+    ![Image title](img/chiefofbar.webp){ align=right }
+
+    _De Chief of Bar maakt deel uit van de rechterlijke macht. Tijdens rechtszaken fungeert de Chief of Bar als rechter._
+
+</div>
+
+
+<div class="grid cards" markdown>
+
+-   <span style="color: #f87c24;">__Rechter__</span> : GEZOCHT
+
+    ---
+
+    ![Image title](img/chiefofstaff.webp){ align=right }
+
+    _De Chief of Staff geeft sturing aan de korpsleidingen binnen Roxwood. Hierbij heeft de Chief of Staff een adviserende rol._
+
+-   <span style="color: #f87c24;">__Rechter__</span> : GEZOCHT
 
     ---
 
