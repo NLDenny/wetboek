@@ -2,11 +2,11 @@
 
 ![Image title](img/doj.webp){ align=right }
 
-Het Department of Justice, afgekort als DOJ, maakt deel uit van de wetgevende- en rechtsprekende macht.  
-Kort gezegd kan het Department directe wijzigingen aanbrengen in wet- en regelgeving. Daarnaast benoemt 
-het Department rechters die tijdens strafzaken verantwoordelijk zijn voor het handhaven 
-van de rechtsorde, het beoordelen van bewijsmateriaal en het opleggen van passende straffen.
-Het Department of Justice staat onder leiding van de Chief of Justice. 
+Het Department of Justice, afgekort als DOJ, maakt deel uit van de wetgevende- en rechtsprekende macht. Kort 
+gezegd kan het Department directe wijzigingen aanbrengen in wet- en regelgeving. Daarnaast benoemt het Department 
+rechters die tijdens strafzaken verantwoordelijk zijn voor het handhaven van de rechtsorde, het beoordelen van 
+bewijsmateriaal en het opleggen van passende straffen. Het Department of Justice staat onder leiding van de 
+Chief of Justice. 
 
 <br> 
 
