@@ -68,7 +68,8 @@ markdown_extensions:
 nav:
   - Home: index.md  
   - Stadsbestuur: stadsbestuur.md
-  - Department of Justice: doj.md
+  - Department of Justice:
+    - Department of Justice: doj.md
     - Rechtbank: rechtbank.md
     - Sanctienormen: overig/sanctienormen.md
   - Wetgeving:    
