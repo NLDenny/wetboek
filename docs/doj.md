@@ -21,7 +21,6 @@ Het staat een ieder volledig vrij om advocaat te worden, behalve als je een stra
 
 <br> 
 
-
 ####DOJ-ambtenaren
 _De volgende personen maken op dit moment deel uit van het Department of Justice:_
 
