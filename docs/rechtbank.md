@@ -3,7 +3,7 @@
 ![Image title](img/stadskantoor.webp){ align=right }
 
 De rechtbank is gevestigd in de City Hall te Paleto Bay. 
-Het gebouw beschikt over een rechtszaal.
+Het gebouw beschikt over één rechtszaal.
 In de meeste gevallen is het mogelijk om een zitting bij te wonen. 
 Bekijk hieronder de bezoekersinformatie voor het bijwonen van een rechtszaak. 
 
@@ -19,7 +19,7 @@ Helaas kunt u de zitting dan niet bijwonen.
 
 ## Rechtszalen
 
-Rechtbank Roxwood beschikt over een rechtszaal. 
+Rechtbank Roxwood beschikt over één rechtszaal. 
 Hieronder is een illustratie van deze rechtszaal weergegeven.
 <br />
 <br />
