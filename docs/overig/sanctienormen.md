@@ -46,9 +46,9 @@ Wgbk - Wet gedeeltelijk verbod gezichtsbedekkende kleding
 [Art. 284 Sr](/sr/#artikel-284-dwang) | Dwang | 15 maanden GS | €650,-
 [Art. 285 Sr](/sr/#artikel-285-bedreiging-met-ernstig-misdrijf) | Bedreiging | 15 maanden GS | €650,-
 [Art. 285B Sr](/sr/#artikel-285B-staling) | Stalking | 10 uur TS | €410,-
-[Art. 287 Sr](/sr/#artikel-287-doodslag) | Doodslag | 40 maanden GS | €2.850,-
+[Art. 287 Sr](/sr/#artikel-287-doodslag) | Doodslag | 40 maanden GS | €7.450,-
 [Art. 288 Sr](/sr/#artikel-288-gekwalificeerde-doodslag) | Gekwalificeerde doodslag | 43 maanden GS | €3.200,-
-[Art. 289 Sr](/sr/#artikel-289-moord) | Moord | 55 maanden GS | €5.000,-
+[Art. 289 Sr](/sr/#artikel-289-moord) | Moord | 55 maanden GS | €8.950,-
 [Art. 300 Sr](/sr/#artikel-300-mishandeling) | Mishandeling | 18 uur TS | €680,-
 [Art. 304 Sr](/sr/#artikel-304-strafverzwarende-omstandigheden) | Mishandeling ambt. | 24 uur TS | €905,-
 [Art. 302 Sr](/sr/#artikel-302-zware-mishandeling) | Zware mishandeling | 15 maanden GS | €1.000,-
@@ -114,14 +114,14 @@ Wgbk - Wet gedeeltelijk verbod gezichtsbedekkende kleding
 #####Wegenverkeerswet
 |Artikel|Feit|Sanctienorm|Bedrag
 |:----|:----|:------|-:|
-[Art. 5 WVW](/wvw/#artikel-5-gevaarhinder) | Roekeloos rijgedrag | Boete | €450
-[Art. 5a WVW](/wvw/#artikel-5a-levensgevaar-of-gevaar-voor-zwaar-lichamelijk-letsel) | Levensgevaar of gevaar voor zwaar lichamelijk letsel | Boete | €200,-
-[Art. 6 WVW](/wvw/#artikel-6-veroorzaken-verkeersongeval) | Veroorzaken verkeersongeval | __n.t.b.__ | __n.t.b.__
-[Art. 7 WVW](/wvw/#artikel-7-verlaten-plaats-ongeval) | Verlaten plaats ongeval | 10 uur TS | €325,-
-[Art. 8 WVW](/wvw/#artikel-8-besturen-onder-invloed) | Rijden onder invloed | __n.t.b.__ | __n.t.b.__
+[Art. 5 WVW](/wvw/#artikel-5-gevaarhinder) | Roekeloos rijgedrag | Boete | €980,-
+[Art. 5a WVW](/wvw/#artikel-5a-levensgevaar-of-gevaar-voor-zwaar-lichamelijk-letsel) | Levensgevaar of gevaar voor zwaar lichamelijk letsel | Boete | €1.310,-
+[Art. 6 WVW](/wvw/#artikel-6-veroorzaken-verkeersongeval) | Veroorzaken verkeersongeval | 10 maanden GS | €1.880,-
+[Art. 7 WVW](/wvw/#artikel-7-verlaten-plaats-ongeval) | Verlaten plaats ongeval | 15 maanden GS | €2.250,-
+[Art. 8 WVW](/wvw/#artikel-8-besturen-onder-invloed) | Rijden onder invloed | 12 maanden GS | €2.180,-
 [Art. 10 WVW](/wvw/#artikel-10-wedstrijdverbod) | Straatrace | 15 uur TS | €950,-
-[Art. 11 WVW](/wvw/#artikel-11-joyriding) | Joyriding | __n.t.b.__ | __n.t.b.__
-[Art. 165 WVW](/wvw/#artikel-165-bekendmaking-naam-bestuurder) | Bekendmaking naam bestuurder misdrijf | __n.t.b.__ | __n.t.b.__
+[Art. 11 WVW](/wvw/#artikel-11-joyriding) | Joyriding | 10 uur TS | €450,-
+[Art. 165 WVW](/wvw/#artikel-165-bekendmaking-naam-bestuurder) | Bekendmaking naam bestuurder misdrijf | 15 maanden GS | €890,-
 
 #####Muldergedragingen
 |Feitcode|Feit|Bedrag|
