@@ -21,7 +21,7 @@ Houd daarnaast rekening met de volgende zaken:
 
 ---
 
-_De volgende personen maken op dit moment deel uit van het Department of Justice:_
+__De volgende personen maken op dit moment deel uit van het Department of Justice:__
 
 <div class="grid cards" markdown>
 
