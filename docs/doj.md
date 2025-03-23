@@ -8,7 +8,7 @@ rechters die tijdens strafzaken verantwoordelijk zijn
 voor het handhaven van de rechtsorde, het beoordelen van bewijsmateriaal en het opleggen van passende straffen. 
 Het Department of Justice staat onder leiding van de Chief of Justice. 
 
-Department of Justice zit gevestigd in de City Hall, daar waar ook de [Rechtbank](/rechtbank) gevestigd zit. 
+Department of Justice zit gevestigd in de City Hall, daar waar ook de [rechtbank](/rechtbank) gevestigd zit. 
 
 <br> 
 
