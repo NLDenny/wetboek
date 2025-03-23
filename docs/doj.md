@@ -11,7 +11,7 @@ Het Department of Justice staat onder leiding van de Chief of Justice.
 Het Department of Justice zit gevestigd in de City Hall, daar waar ook de [rechtbank](/rechtbank) gevestigd zit.   
 
 ####Advocatuur
-Het staat een ieder volledig vrij om advocaat te worden, behalve als je een strafblad hebt. Onder strafblad wordt verstaan dat je in de afgelopen 30 dagen bent veroordeeld voor een misdrijf. Houd daarnaast rekening met de volgende zaken:  
+Het staat een ieder, tenzij je een strafblad hebt, volledig vrij om advocaat te worden. Onder strafblad wordt verstaan dat je in de afgelopen 30 dagen bent veroordeeld voor een misdrijf. Houd daarnaast rekening met de volgende zaken:  
 &ensp; &nbsp; &nbsp; &nbsp; • _Als advocaat worden normale omgangsvormen verwacht. Hieronder valt ook het dragen_   
 &ensp; &nbsp; &nbsp; &nbsp; &nbsp; _van gepaste kleding die de professionaliteit van het beroep weerspiegelt._  
 &ensp; &nbsp; &nbsp; &nbsp; • _Voor binnenkomst op het politiebureau kan je worden gefouilleerd._          
