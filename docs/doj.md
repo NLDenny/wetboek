@@ -8,9 +8,7 @@ rechters die tijdens strafzaken verantwoordelijk zijn
 voor het handhaven van de rechtsorde, het beoordelen van bewijsmateriaal en het opleggen van passende straffen. 
 Het Department of Justice staat onder leiding van de Chief of Justice. 
 
-Het Department of Justice zit gevestigd in de City Hall, daar waar ook de [rechtbank](/rechtbank) gevestigd zit. 
-
-<br> 
+Het Department of Justice zit gevestigd in de City Hall, daar waar ook de [rechtbank](/rechtbank) gevestigd zit.   
 
 ####Advocatuur
 Het staat een ieder volledig vrij om advocaat te worden, behalve als je een strafblad hebt. Onder strafblad wordt verstaan dat je in de afgelopen 30 dagen bent veroordeeld voor een misdrijf. Houd daarnaast rekening met de volgende zaken:  
@@ -19,11 +17,13 @@ Het staat een ieder volledig vrij om advocaat te worden, behalve als je een stra
 &ensp; &nbsp; &nbsp; &nbsp; • _Voor binnenkomst op het politiebureau kan je worden gefouilleerd._          
 &ensp; &nbsp; &nbsp; &nbsp; • _De kosten van de advocaat zijn voor rekening van de verdachte._    
 
-<br> 
-
 ---
 
-__De volgende personen maken op dit moment deel uit van het Department of Justice:__
+<br> 
+
+
+####DOJ-ambtenaren
+_De volgende personen maken op dit moment deel uit van het Department of Justice:_
 
 <div class="grid cards" markdown>
 
