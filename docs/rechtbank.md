@@ -18,6 +18,17 @@ __Overige informatie__
 
 ### Werking strafzaak
 
+&ensp; &nbsp; &nbsp; &nbsp; __1.__ _Controle persoonsgegevens + mededeling aanwezigen_ <br />
+&ensp; &nbsp; &nbsp; &nbsp; __2.__ _Mededeling cautie aan verdachte_ <br />
+&ensp; &nbsp; &nbsp; &nbsp; __3.__ _Tenlastelegging_ <br />
+&ensp; &nbsp; &nbsp; &nbsp; __4.__ _Verhoor rechter_ <br />
+&ensp; &nbsp; &nbsp; &nbsp; __5.__ _Requisitoir + strafeis_ <br />
+&ensp; &nbsp; &nbsp; &nbsp; __6.__ _Pleidooi advocaat_ <br />
+&ensp; &nbsp; &nbsp; &nbsp; __7.__ _Reactie pleidooi_ <br />
+&ensp; &nbsp; &nbsp; &nbsp; __8.__ _Reactie advocaat_ <br />
+&ensp; &nbsp; &nbsp; &nbsp; __9.__ _Laatste woord verdachte_ <br />
+&ensp; &nbsp; &nbsp; &nbsp; __10.__ _Vonnis_ <br />
+
 ### Rechtszalen
 
 Rechtbank Roxwood beschikt over één rechtszaal. 
