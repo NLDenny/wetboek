@@ -44,7 +44,7 @@ __De volgende personen maken op dit moment deel uit van het Department of Justic
 
     ![Image title](img/rechter.webp){ align=right }
 
-    _De Chief of Staff geeft sturing aan de korpsleidingen binnen Roxwood. Hierbij heeft de Chief of Staff een adviserende rol._
+    _ _
 
 -   <span style="color: #f87c24;">__Rechter__</span> : GEZOCHT
 
@@ -52,7 +52,7 @@ __De volgende personen maken op dit moment deel uit van het Department of Justic
 
     ![Image title](img/rechter.webp){ align=right }
 
-    _De Chief of Bar maakt deel uit van de rechterlijke macht. Tijdens rechtszaken fungeert de Chief of Bar als rechter._
+    _ _
 
 </div>
 
@@ -65,7 +65,7 @@ __De volgende personen maken op dit moment deel uit van het Department of Justic
 
     ![Image title](img/rechter.webp){ align=right }
 
-    _De Chief of Staff geeft sturing aan de korpsleidingen binnen Roxwood. Hierbij heeft de Chief of Staff een adviserende rol._
+    _ _
 
 -   <span style="color: #f87c24;">__Rechter__</span> : GEZOCHT
 
@@ -73,6 +73,6 @@ __De volgende personen maken op dit moment deel uit van het Department of Justic
 
     ![Image title](img/rechter.webp){ align=right }
 
-    _De Chief of Bar maakt deel uit van de rechterlijke macht. Tijdens rechtszaken fungeert de Chief of Bar als rechter._
+    _ _
 
 </div>
