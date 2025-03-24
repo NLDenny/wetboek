@@ -35,11 +35,24 @@ Daarom is de verloop van een strafzitting hieronder weergegeven:
 &ensp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; aanwezigheid van getuigen, deskundige of familie krijgen zij de <br>
 &ensp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; mogelijkheid om te spreken. <br>    
 &ensp; &nbsp; &nbsp; &nbsp; 5. __Requisitoir + strafeis__ <br />
+&ensp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; De [FUNCTIE] zal zijn visie geven op de zaak. Dit wordt het requisitoir <br>
+&ensp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; genoemd. Na afloop van het requisitoir volgt altijd de strafeis. <br>  
 &ensp; &nbsp; &nbsp; &nbsp; 6. __Pleidooi advocaat__ <br />
+&ensp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Vervolgens is het woord aan de advocaat van de verdachte. De advocaat <br>
+&ensp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; voert de verdediging van de verdachte aan. Hierbij kan de advocaat <br>
+&ensp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; reageren op het requisitoir. <br>   
 &ensp; &nbsp; &nbsp; &nbsp; 7. __Reactie pleidooi__ <br />
+&ensp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Er vindt vervolgens een tweede ronde plaats. De [FUNCTIE] mag reageren <br>
+&ensp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; op het pleidooi van de advocaat. <br>  
 &ensp; &nbsp; &nbsp; &nbsp; 8. __Reactie advocaat__ <br />
+&ensp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Vervolgens mag ook de advocaat van de verdachte hier weer op reageren. <br>  
 &ensp; &nbsp; &nbsp; &nbsp; 9. __Laatste woord verdachte__ <br />
+&ensp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Het laatste woord is altijd voor de verdachte. De verdachte kan hierin <br>
+&ensp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; spijt betuigen of zijn zienswijze op de zaak naar voren brengen. <br>  
 &ensp; &nbsp; &nbsp; &nbsp; 10. __Vonnis__ <br />
+&ensp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Als laatst sluit de rechter het onderzoek ter terechtzitting. Het kan zijn <br>
+&ensp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; dat een rechter direct uitspraak doet. In complexe zaken zou het vonnis op <br>
+&ensp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; een later moment worden uitgesproken.  
 
 ### Rechtszalen
 
