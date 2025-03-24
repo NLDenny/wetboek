@@ -1,6 +1,6 @@
 # Rechtbank
 
-![Image title](img/stadskantoor.webp){ align=right }
+![Image title](../img/stadskantoor.webp){ align=right }
 
 De rechtbank is gevestigd in de City Hall te Paleto Bay. 
 Het gebouw beschikt over één rechtszaal.
@@ -64,6 +64,6 @@ Hieronder is een illustratie van deze rechtszaal weergegeven.
 <br />
 
 <figure markdown="span">
-  ![Image title](img/rechtszaal.webp){ width="500" }
+  ![Image title](../img/rechtszaal.webp){ width="500" }
   <figcaption>Rechtszaal - Paleto Bay</figcaption>
 </figure>
