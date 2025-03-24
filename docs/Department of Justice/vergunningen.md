@@ -1,3 +1,3 @@
 # Vergunningen
 
-__Binnenkort meer informatie..._
+_Binnenkort meer informatie..._
