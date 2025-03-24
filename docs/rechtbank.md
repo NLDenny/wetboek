@@ -4,6 +4,7 @@
 
 De rechtbank is gevestigd in de City Hall te Paleto Bay. 
 Het gebouw beschikt over één rechtszaal.
+In de rechtbank worden alleen strafzittingen behandeld.
 In de meeste gevallen is het mogelijk om een zitting bij te wonen. 
 Bekijk hieronder de bezoekersinformatie voor het bijwonen van een rechtszaak. 
 
