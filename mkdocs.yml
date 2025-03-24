@@ -74,15 +74,15 @@ nav:
     - Sanctienormen: Department of Justice/sanctienormen.md
     - Vergunningen: Department of Justice/vergunningen.md
   - Wetgeving:    
-    - Wetboek van Strafrecht: sr.md
+    - Wetboek van Strafrecht: Wetgeving/sr.md
     # - Wetboek van Strafvordering: sv.md
-    - Opiumwet: opw.md
-    - Wet wapens en munitie: wwm.md
-    - Wegenverkeerswet 1994: wvw.md
+    - Opiumwet: Wetgeving/opw.md
+    - Wet wapens en munitie: Wetgeving/wwm.md
+    - Wegenverkeerswet 1994: Wetgeving/wvw.md
     - Overig:
-         - Wet gedeeltelijk verbod gezichtsbedekkende kleding: overig/wgvgk.md
-         - Wet op de identificatieplicht: overig/wid.md
-         - Algemene wet op het binnentreden: overig/awbi.md
+         - Wet gedeeltelijk verbod gezichtsbedekkende kleding: Wetgeving/Overig/wgvgk.md
+         - Wet op de identificatieplicht: Wetgeving/Overig/wid.md
+         - Algemene wet op het binnentreden: Wetgeving/Overig/awbi.md
   # - Politiewet 2012: polw2012.md
   # - Ambtsinstructie: ambts.md
 extra_css:
