@@ -8,6 +8,8 @@ In de rechtbank worden alleen strafzittingen behandeld.
 In de meeste gevallen is het mogelijk om een zitting bij te wonen. 
 Bekijk hieronder de bezoekersinformatie voor het bijwonen van een rechtszaak. 
 
+- - 
+
 ## Bezoekersinformatie
 Bij grote belangstelling kan het voorkomen dat er geen plek meer is op de publieke tribune. 
 Helaas kunt u de zitting dan niet bijwonen. Mocht u naar de rechtbank komen houd dan  
