@@ -1,6 +1,6 @@
 # Sanctienormen
 
-Deze pagina biedt een overzicht van de sanctienormen zoals deze zijn vastgesteld door het [Department of Justice](/doj).
+Deze pagina biedt een overzicht van de sanctienormen zoals deze zijn vastgesteld door het [Department of Justice](/Department%20of%20Justice/doj).
 De sanctienorm betreft de __maximale__ straf die voor een misdrijf of overtreding kan worden gegeven, er kan dus van worden afgeweken. 
 
 #####Afkortingen 
