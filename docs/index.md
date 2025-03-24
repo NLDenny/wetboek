@@ -11,7 +11,9 @@ Het is belangrijk om goed op de hoogte te zijn van de actuele regels en wetten, 
 
 Mochten er onjuistheden worden geconstateerd neem dan contact op met de Chief of Justice.
 
-!!! info "Wijzigingen per 14 maart 2025"
+!!! info "Wijzigingen per 24 maart 2025"
 
-    - [Stadsbestuur](/stadsbestuur) toegevoegd.
-    - [Rechtbank Roxwood](/rechtbank) herzien.
+    - [Uitleg DOJ](/doj) toegevoegd.
+    - [Rechtbank](/rechtbank) herzien.
+    - [Sanctienormen](/sanctienormen) herzien.
+    - [Vergunningen](/vergunningen) toegevoegd.
