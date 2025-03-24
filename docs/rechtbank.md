@@ -10,7 +10,7 @@ Bekijk hieronder de bezoekersinformatie voor het bijwonen van een rechtszaak.
 ## Bezoekersinformatie
 Bij grote belangstelling kan het voorkomen dat er geen plek meer is op de publieke tribune. 
 Helaas kunt u de zitting dan niet bijwonen. Mocht u naar de rechtbank komen houd dan  
-rekening met de volgende zaken:
+rekening met de volgende zaken:  
 &ensp; &nbsp; &nbsp; &nbsp; • _Minimale leeftijd voor het bijwonen van een strafzitting is <br>
 &ensp; &nbsp; &nbsp; &nbsp; &nbsp; 16 jaar._ <br />
 &ensp; &nbsp; &nbsp; &nbsp; • _Neem altijd een geldig identiteitsbewijs of rijbewijs mee._     
