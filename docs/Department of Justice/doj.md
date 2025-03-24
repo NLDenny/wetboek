@@ -28,7 +28,7 @@ _De volgende personen maken op dit moment deel uit van het Department of Justice
 
     ---
 
-    ![Image title](img/mayor.webp){ align=right }
+    ![Image title](../img/mayor.webp){ align=right }
 
     _De Chief of Justice is hoofdverantwoordelijk voor het Department of Justice. De Chief of Justice heeft hierbij de bevoegdheid om wet- en regelgeving te wijzigen. Daarnaast is hij bevoegd tot het afgeven van vergunningen en het aanstellen van rechters._ 
 
@@ -41,7 +41,7 @@ _De volgende personen maken op dit moment deel uit van het Department of Justice
 
     ---
 
-    ![Image title](img/rechter.webp){ align=right }
+    ![Image title](../img/rechter.webp){ align=right }
 
     _ _
 
@@ -49,7 +49,7 @@ _De volgende personen maken op dit moment deel uit van het Department of Justice
 
     ---
 
-    ![Image title](img/rechter.webp){ align=right }
+    ![Image title](../img/rechter.webp){ align=right }
 
     _ _
 
@@ -62,7 +62,7 @@ _De volgende personen maken op dit moment deel uit van het Department of Justice
 
     ---
 
-    ![Image title](img/rechter.webp){ align=right }
+    ![Image title](../img/rechter.webp){ align=right }
 
     _ _
 
@@ -70,7 +70,7 @@ _De volgende personen maken op dit moment deel uit van het Department of Justice
 
     ---
 
-    ![Image title](img/rechter.webp){ align=right }
+    ![Image title](../img/rechter.webp){ align=right }
 
     _ _
 
