@@ -13,7 +13,7 @@ Mochten er onjuistheden worden geconstateerd neem dan contact op met de Chief of
 
 !!! info "Wijzigingen per 24 maart 2025"
 
-    - [Uitleg DOJ](/doj) toegevoegd.
-    - [Rechtbank](/rechtbank) herzien.
-    - [Sanctienormen](/sanctienormen) herzien.
-    - [Vergunningen](/vergunningen) toegevoegd.
+    - [Uitleg DOJ](Department of Justice/doj) toegevoegd.
+    - [Rechtbank](Department of Justice/rechtbank) herzien.
+    - [Sanctienormen](Department of Justice/sanctienormen) herzien.
+    - [Vergunningen](Department of Justice/vergunningen) toegevoegd.
