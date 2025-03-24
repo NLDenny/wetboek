@@ -22,7 +22,8 @@ Daarom is de verloop van een strafzitting hieronder weergegeven:
 
 &ensp; &nbsp; &nbsp; &nbsp; 1. __Controle persoonsgegevens + mededeling aanwezigen__ <br />
 &ensp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Rechter opent de zitting en neemt de persoonsgegevens van de verdachte door. <br> 
-&ensp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Vervolgens vertelt de rechter wie er nog meer in de rechtszaal aanwezig zijn (getuigen, familie etc).   
+&ensp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Vervolgens vertelt de rechter wie er nog meer in de rechtszaal aanwezig zijn <br> 
+&ensp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; (getuigen, familie etc).   
 &ensp; &nbsp; &nbsp; &nbsp; __2.__ _Mededeling cautie aan verdachte_ <br />
 &ensp; &nbsp; &nbsp; &nbsp; __3.__ _Tenlastelegging_ <br />
 &ensp; &nbsp; &nbsp; &nbsp; __4.__ _Onderzoek door rechter_ <br />
