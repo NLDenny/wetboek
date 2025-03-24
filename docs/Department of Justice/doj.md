@@ -1,6 +1,6 @@
 # Department of Justice
 
-![Image title](img/doj.webp){ align=right }
+![Image title](/img/doj.webp){ align=right }
 
 Het Department of Justice, afgekort als DOJ, maakt deel uit van de wetgevende- en rechtsprekende macht. Kort 
 gezegd kan het Department directe wijzigingen aanbrengen in wet- en regelgeving. Daarnaast benoemt het Department 
