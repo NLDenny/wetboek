@@ -23,16 +23,17 @@ Daarom is de verloop van een strafzitting hieronder weergegeven:
 &ensp; &nbsp; &nbsp; &nbsp; 1. __Controle persoonsgegevens + mededeling aanwezigen__ <br />
 &ensp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Rechter opent de zitting en neemt de persoonsgegevens van de verdachte door. <br> 
 &ensp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Vervolgens vertelt de rechter wie er nog meer in de rechtszaal aanwezig zijn <br> 
-&ensp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; (getuigen, familie etc).   
-&ensp; &nbsp; &nbsp; &nbsp; __2.__ _Mededeling cautie aan verdachte_ <br />
-&ensp; &nbsp; &nbsp; &nbsp; __3.__ _Tenlastelegging_ <br />
-&ensp; &nbsp; &nbsp; &nbsp; __4.__ _Onderzoek door rechter_ <br />
-&ensp; &nbsp; &nbsp; &nbsp; __5.__ _Requisitoir + strafeis_ <br />
-&ensp; &nbsp; &nbsp; &nbsp; __6.__ _Pleidooi advocaat_ <br />
-&ensp; &nbsp; &nbsp; &nbsp; __7.__ _Reactie pleidooi_ <br />
-&ensp; &nbsp; &nbsp; &nbsp; __8.__ _Reactie advocaat_ <br />
-&ensp; &nbsp; &nbsp; &nbsp; __9.__ _Laatste woord verdachte_ <br />
-&ensp; &nbsp; &nbsp; &nbsp; __10.__ _Vonnis_ <br />
+&ensp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; (getuigen, familie etc). <br> 
+<br>    
+&ensp; &nbsp; &nbsp; &nbsp; 2. __Mededeling cautie aan verdachte__ <br />
+&ensp; &nbsp; &nbsp; &nbsp; 3. __Tenlastelegging__ <br />
+&ensp; &nbsp; &nbsp; &nbsp; 4. __Onderzoek door rechter__ <br />
+&ensp; &nbsp; &nbsp; &nbsp; 5. __Requisitoir + strafeis__ <br />
+&ensp; &nbsp; &nbsp; &nbsp; 6. __Pleidooi advocaat__ <br />
+&ensp; &nbsp; &nbsp; &nbsp; 7. __Reactie pleidooi__ <br />
+&ensp; &nbsp; &nbsp; &nbsp; 8. __Reactie advocaat__ <br />
+&ensp; &nbsp; &nbsp; &nbsp; 9. __Laatste woord verdachte__ <br />
+&ensp; &nbsp; &nbsp; &nbsp; 10. __Vonnis__ <br />
 
 ### Rechtszalen
 
