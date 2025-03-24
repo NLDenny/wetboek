@@ -58,7 +58,7 @@ Daarom is de verloop van een strafzitting hieronder weergegeven:
 
 ### Rechtszalen
 
-Rechtbank Roxwood beschikt over één rechtszaal. 
+De rechtbank beschikt over één rechtszaal. 
 Hieronder is een illustratie van deze rechtszaal weergegeven.
 <br />
 <br />
