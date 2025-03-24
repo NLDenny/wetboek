@@ -69,9 +69,10 @@ nav:
   - Home: index.md  
   - Stadsbestuur: stadsbestuur.md
   - Department of Justice:
-    - Uitleg DOJ: doj.md
-    - Rechtbank: rechtbank.md
-    - Sanctienormen: overig/sanctienormen.md
+    - Uitleg DOJ: Department of Justice/doj.md
+    - Rechtbank: Department of Justice/rechtbank.md
+    - Sanctienormen: Department of Justice/sanctienormen.md
+    - Vergunningen: Department of Justice/vergunningen.md
   - Wetgeving:    
     - Wetboek van Strafrecht: sr.md
     # - Wetboek van Strafvordering: sv.md
