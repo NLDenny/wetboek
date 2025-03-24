@@ -25,6 +25,8 @@ Daarom is de verloop van een strafzitting hieronder weergegeven:
 &ensp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Vervolgens vertelt de rechter wie er nog meer in de rechtszaal aanwezig zijn <br> 
 &ensp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; (getuigen, familie etc). <br>  
 &ensp; &nbsp; &nbsp; &nbsp; 2. __Mededeling cautie aan verdachte__ <br />
+&ensp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; De rechter legt aan de verdachte uit dat hij ook tijdens de zitting niet tot <br>
+&ensp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; antwoorden verplicht is. <br> 
 &ensp; &nbsp; &nbsp; &nbsp; 3. __Tenlastelegging__ <br />
 &ensp; &nbsp; &nbsp; &nbsp; 4. __Onderzoek door rechter__ <br />
 &ensp; &nbsp; &nbsp; &nbsp; 5. __Requisitoir + strafeis__ <br />
