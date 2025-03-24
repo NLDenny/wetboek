@@ -29,12 +29,8 @@
 #####<span style="color: #fc631e;">Artikel 2 | Schriftelijke machtiging</span>
 ```
 1. Voor het binnentreden in een woning zonder toestemming van de bewoner is een 
-   schriftelijke machtiging vereist, tenzij en voor zover bij wet aan rechters, 
-   rechterlijke colleges, leden van het openbaar ministerie, burgemeesters, 
-   gerechtsdeurwaarders en belastingdeurwaarders de bevoegdheid is toegekend 
-   tot het binnentreden in een woning zonder toestemming van de bewoner. 
-   De machtiging wordt zo mogelijk getoond.  
-2. Onze Minister van Justitie stelt het model van deze machtiging vast.
+   schriftelijke machtiging vereist. De machtiging wordt zo mogelijk getoond.  
+2. Onze [FUNCTIE] stelt het model van deze machtiging vast.
 3. Een schriftelijke machtiging als bedoeld in het eerste lid is niet vereist, 
    indien ter voorkoming of bestrijding van ernstig en onmiddellijk gevaar 
    voor de veiligheid van personen of goederen terstond in de woning moet 
