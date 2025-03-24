@@ -29,7 +29,7 @@ Daarom is de verloop van een strafzitting hieronder weergegeven:
 &ensp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; antwoorden verplicht is. <br>   
 &ensp; &nbsp; &nbsp; &nbsp; 3. __Tenlastelegging__ <br />
 &ensp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; De [FUNCTIE] leest de tenlastelegging voor. Hierin wordt vertelt voor welke <br>
-&ensp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; strafbare feiten de verdachte wordt aangeklaagd.
+&ensp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; strafbare feiten de verdachte wordt aangeklaagd.  
 &ensp; &nbsp; &nbsp; &nbsp; 4. __Onderzoek door rechter__ <br />
 &ensp; &nbsp; &nbsp; &nbsp; 5. __Requisitoir + strafeis__ <br />
 &ensp; &nbsp; &nbsp; &nbsp; 6. __Pleidooi advocaat__ <br />
