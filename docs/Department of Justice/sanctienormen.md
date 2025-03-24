@@ -17,7 +17,7 @@ Wgbk - Wet gedeeltelijk verbod gezichtsbedekkende kleding
 #####Wetboek van Strafrecht
 |Artikel|Feit|Sanctienorm|Bedrag
 |:----|:----|:------|-:|
-[Art. 131 Sr](../Wetgeving/sr/#artikel-131-opruiing) | Opruiing | 10 uur TS | €350,-
+[Art. 131 Sr](../../Wetgeving/sr/#artikel-131-opruiing) | Opruiing | 10 uur TS | €350,-
 [Art. 138 Sr](/sr/#artikel-138-huisvredebreuk) | Huisvredebreuk | 12 maanden GS | €650,-
 [Art. 139 Sr](/sr/#artikel-139-lokaalvredebreuk) | Lokaalvredebreuk | 10 uur TS | €280,-
 [Art. 140 Sr](/sr/#artikel-140-deelneming-aan-criminele-organisatie) | Deelneming aan criminele organisatie | 20 maanden GS | €1.250,-
