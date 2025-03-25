@@ -17,6 +17,7 @@ rekening met de volgende zaken:
 &ensp; &nbsp; &nbsp; &nbsp; • _Minimale leeftijd voor het bijwonen van een strafzitting is 16 jaar._  
 &ensp; &nbsp; &nbsp; &nbsp; • _Neem altijd een geldig identiteitsbewijs of rijbewijs mee._     
 &ensp; &nbsp; &nbsp; &nbsp; • _U kunt bij binnenkomst worden gefouilleerd._  
+&ensp; &nbsp; &nbsp; &nbsp; • _Het dragen van gezichtsbedekkende kleding is verboden._  
 
 ### Werking strafzaak
 Een strafzitting verloopt altijd via een vast patroon. Het is handig om te weten wat u kunt verwachten voordat u een zitting bijwoont. 
