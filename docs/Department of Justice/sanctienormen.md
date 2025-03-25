@@ -47,7 +47,7 @@ Wgbk - Wet gedeeltelijk verbod gezichtsbedekkende kleding
 [Art. 285 Sr](../../Wetgeving/sr/#artikel-285-bedreiging-met-ernstig-misdrijf) | Bedreiging | 15 maanden GS | €650,-
 [Art. 285B Sr](../../Wetgeving/sr/#artikel-285B-staling) | Stalking | 10 uur TS | €410,-
 [Art. 287 Sr](../../Wetgeving/sr/#artikel-287-doodslag) | Doodslag | 40 maanden GS | €7.450,-
-[Art. 288 Sr](../../Wetgeving/sr/#artikel-288-gekwalificeerde-doodslag) | Gekwalificeerde doodslag | 43 maanden GS | €3.200,-
+[Art. 288 Sr](../../Wetgeving/sr/#artikel-288-gekwalificeerde-doodslag) | Gekwalificeerde doodslag | 43 maanden GS | €7.750,-
 [Art. 289 Sr](../../Wetgeving/sr/#artikel-289-moord) | Moord | 55 maanden GS | €8.950,-
 [Art. 300 Sr](../../Wetgeving/sr/#artikel-300-mishandeling) | Mishandeling | 18 uur TS | €680,-
 [Art. 304 Sr](../../Wetgeving/sr/#artikel-304-strafverzwarende-omstandigheden) | Mishandeling ambt. | 24 uur TS | €905,-
