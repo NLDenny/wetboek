@@ -16,8 +16,8 @@ Het is echter wel strafbaar om je jachtuitrusting voor andere doeleinden te gebr
 Een wapenvergunning krijg je niet zomaar, er moet een legitieme reden zijn voor het aanvragen van een wapenvergunning.
 Daarnaast mag er geen vrees bestaan voor het misbruik van het wapen. De aanvraag verloopt op de volgende wijze:  
 &ensp; &nbsp; &nbsp; &nbsp; 1. __Aanvraag bij Chief of Justice__ <br />
-&ensp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Als je aan de [eisen](../../Wetgeving/wwm/#artikel-7-weigering) voldoet voor het aanvragen van een wapenaanvraag kan je een   
-&ensp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; afspraak maken bij de Chief of Justice. <br>  
+&ensp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Als je aan de [eisen](../../Wetgeving/wwm/#artikel-7-weigering) voldoet voor het aanvragen van een wapenvergunning kan je   
+&ensp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; een afspraak maken bij de Chief of Justice. <br>  
 &ensp; &nbsp; &nbsp; &nbsp; 2. __Controle randvoorwaarden__ <br />
 &ensp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Tijdens deze afspraak wordt er gecontroleerd of je aan alle randvoorwaarden   
 &ensp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; voldoet. Zo moet je een geldig identiteitsbewijs kunnen overhandigen en    
