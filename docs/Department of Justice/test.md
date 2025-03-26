@@ -12,7 +12,8 @@ Om te mogen jagen is het __niet noodzakelijk__ om een wapenvergunning te bezitte
 Het is echter wel strafbaar om je jachtuitrusting voor andere doeleinden te gebruiken (categorie IV onder 4°). 
 
 #### Verkrijgen van een wapenvergunning
-Een wapenvergunning krijg je niet zomaar, er moet een legitieme reden zijn voor het aanvragen van een wapenvergunning. Daarnaast mag er geen vrees bestaan voor het misbruik van het wapen. De aanvraag verloopt op de volgende wijze:
+Een wapenvergunning krijg je niet zomaar, er moet een legitieme reden zijn voor het aanvragen van een wapenvergunning.
+Daarnaast mag er geen vrees bestaan voor het misbruik van het wapen. De aanvraag verloopt op de volgende wijze:
 
 &ensp; &nbsp; &nbsp; &nbsp; 1. __Aanvraag bij Chief of Justice__ <br />
 &ensp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Als je aan de [eisen](../../Wetgeving/wwm/#artikel-7-weigering) voldoet voor het aanvragen van een wapenaanvraag kan je een   
