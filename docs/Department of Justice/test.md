@@ -27,3 +27,12 @@ Daarnaast mag er geen vrees bestaan voor het misbruik van het wapen. De aanvraag
 &ensp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; wapenvergunning nodig hebt. Vermeld hierbij ook om welk type wapen het  
 &ensp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; gaat. Een wapenvergunning wordt altijd onder beperking verleend,   
 &ensp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; daarbij zijn meerdere voorschriften aan de vergunning verbonden. <br>   
+&ensp; &nbsp; &nbsp; &nbsp; 4. __Beslissing__ <br />
+&ensp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Uiteindelijk volgt er een beslissing op de aanvraag. Een aanvraag zal     
+&ensp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; worden geweigerd als er niet aan alle randvoorwaarden is voldaan.   
+&ensp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Daarnaast moet het wapen aan de aanvrager kunnen worden toevertrouwd
+&ensp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; en moet er geen vrees zijn voor misbruik van het wapen. <br>
+&ensp; &nbsp; &nbsp; &nbsp; 5. __Uitgifte__ <br />
+&ensp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Tot slot volgt de uitgifte van de wapenvergunning.        
+&ensp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Er zal worden medegedeeld onder welke beperkingen de vergunning     
+&ensp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; wordt verleend en welke voorschriften van kracht zijn. <br>   
