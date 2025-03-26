@@ -85,5 +85,6 @@ markdown_extensions:
 #          - Algemene wet op het binnentreden: Wetgeving/Overig/awbi.md
 #   # - Politiewet 2012: polw2012.md
 #   # - Ambtsinstructie: ambts.md
-# extra_css:
-#   - stylesheets/extra.css
+
+extra_css:
+  - stylesheets/extra.css
