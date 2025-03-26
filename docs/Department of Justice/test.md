@@ -20,5 +20,5 @@ Daarnaast mag er geen vrees bestaan voor het misbruik van het wapen. De aanvraag
 &ensp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; afspraak maken bij de Chief of Justice. <br>  
 &ensp; &nbsp; &nbsp; &nbsp; 2. __Controle randvoorwaarden__ <br />
 &ensp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Tijdens deze afspraak wordt er gecontroleerd of je aan alle randvoorwaarden   
-&ensp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; voldoet. Zo moet je een geldig identiteitsbewijs kunnen overhandigen en <br>   
+&ensp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; voldoet. Zo moet je een geldig identiteitsbewijs kunnen overhandigen en    
 &ensp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; mag je de afgelopen vier maanden niet zijn veroordeeld. <br>   
