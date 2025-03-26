@@ -22,3 +22,8 @@ Daarnaast mag er geen vrees bestaan voor het misbruik van het wapen. De aanvraag
 &ensp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Tijdens deze afspraak wordt er gecontroleerd of je aan alle randvoorwaarden   
 &ensp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; voldoet. Zo moet je een geldig identiteitsbewijs kunnen overhandigen en    
 &ensp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; mag je de afgelopen vier maanden niet zijn veroordeeld. <br>   
+&ensp; &nbsp; &nbsp; &nbsp; 3. __Inhoudelijke behandeling__ <br />
+&ensp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Tijdens de inhoudelijke behandeling kan je toelichten waarvoor jij een     
+&ensp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; wapenvergunning nodig hebt. Vermeld hierbij ook om welk type wapen het  
+&ensp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; gaat. Een wapenvergunning wordt altijd onder beperking verleend,   
+&ensp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; daarbij zijn meerdere voorschriften aan de vergunning verbonden. <br>   
