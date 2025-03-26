@@ -6,3 +6,7 @@ Vergunningen die onder andere door het Department of Justice worden afgegegeven 
 
 
 ### Wapenvergunning
+
+Veel verschillende wapens zijn strafbaar gesteld volgens de [Wet wapens en munitie](../../Wetgeving/wwm).
+Om te mogen jagen is het __niet noodzakelijk__ om een wapenvergunning te bezitten, aangezien een jachtgeweer en kruisboog niet onder de Wet wapen en munitie vallen.
+Het is echter wel strafbaar om je jachtuitrusting voor andere doeleinden te gebruiken (categorie IV onder 4°). 
