@@ -55,3 +55,4 @@ Dit kan een van de volgende gronden zijn:
 &ensp; &nbsp; &nbsp; &nbsp; • _Er aanwijzingen zijn dat aan de houder een wapen niet langer kan worden toevertrouwd._     
 &ensp; &nbsp; &nbsp; &nbsp; • _Er misbruik is gemaakt van het wapen._  
 &ensp; &nbsp; &nbsp; &nbsp; • _Schenden beperkingen danwel voorschriften van de vergunning._  
+&ensp; &nbsp; &nbsp; &nbsp; • _Bij een veroordeling voor een misdrijf._  
