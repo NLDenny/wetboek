@@ -17,7 +17,8 @@ Daarnaast mag er geen vrees bestaan voor het misbruik van het wapen. De aanvraag
 
 &ensp; &nbsp; &nbsp; &nbsp; 1. __Aanvraag bij Chief of Justice__ <br />
 &ensp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Als je aan de eisen voldoet voor het aanvragen van een wapenaanvraag kan je een 
-&ensp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; afspraak maken bij de Chief of Justice. <br>   
-&ensp; &nbsp; &nbsp; &nbsp; 2. __Mededeling cautie aan verdachte__ <br />
-&ensp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; De rechter legt aan de verdachte uit dat hij ook tijdens de zitting niet tot <br>
-&ensp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; antwoorden verplicht is. <br>   
+&ensp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; afspraak maken bij de Chief of Justice. <br>  
+&ensp; &nbsp; &nbsp; &nbsp; 2. __Controle randvoorwaarden__ <br />
+&ensp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Tijdens deze afspraak wordt er gecontroleerd of je aan alle randvoorwaarden 
+&ensp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; voldoet. Zo moet je een geldig identiteitsbewijs kunnen overhandigen en <br>   
+&ensp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; mag je de afgelopen vier maanden niet zijn veroordeeld. <br>   
