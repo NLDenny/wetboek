@@ -4,6 +4,7 @@ Vergunningsaanvragen verlopen via het [Department of Justice](/Department%20of%2
 De Chief of Justice kan verschillende soorten vergunningen afgeven. 
 Vergunningen die onder andere door het Department of Justice worden afgegegeven zijn wapenvergunningen en bedrijfsvergunningen. 
 
+---
 
 ### Wapenvergunning
 
@@ -14,7 +15,6 @@ Het is echter wel strafbaar om je jachtuitrusting voor andere doeleinden te gebr
 #### Verkrijgen van een wapenvergunning
 Een wapenvergunning krijg je niet zomaar, er moet een legitieme reden zijn voor het aanvragen van een wapenvergunning.
 Daarnaast mag er geen vrees bestaan voor het misbruik van het wapen. De aanvraag verloopt op de volgende wijze:
-
 &ensp; &nbsp; &nbsp; &nbsp; 1. __Aanvraag bij Chief of Justice__ <br />
 &ensp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Als je aan de [eisen](../../Wetgeving/wwm/#artikel-7-weigering) voldoet voor het aanvragen van een wapenaanvraag kan je een   
 &ensp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; afspraak maken bij de Chief of Justice. <br>  
@@ -36,3 +36,7 @@ Daarnaast mag er geen vrees bestaan voor het misbruik van het wapen. De aanvraag
 &ensp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Tot slot volgt de uitgifte van de wapenvergunning.        
 &ensp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Er zal worden medegedeeld onder welke beperkingen de vergunning     
 &ensp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; wordt verleend en welke voorschriften van kracht zijn. <br>   
+
+#### Intrekken van een wapenvergunning
+Er zijn verschillende [gronden](../../Wetgeving/wwm/#artikel-7-weigering) om een wapenvergunning in te trekken.
+Dit kan een van de volgende gronden zijn:
