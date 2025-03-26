@@ -10,3 +10,7 @@ Vergunningen die onder andere door het Department of Justice worden afgegegeven 
 Veel verschillende wapens zijn strafbaar gesteld volgens de [Wet wapens en munitie](../../Wetgeving/wwm/#artikel-2-categorieen-wapens-munitie).  
 Om te mogen jagen is het __niet noodzakelijk__ om een wapenvergunning te bezitten, aangezien een jachtgeweer en kruisboog niet onder de Wet wapen en munitie vallen.
 Het is echter wel strafbaar om je jachtuitrusting voor andere doeleinden te gebruiken (categorie IV onder 4°). 
+
+## Verkrijgen van een wapenvergunning
+Een wapenvergunning krijg je niet zomaar, er moet een legitieme reden zijn voor het aanvragen van een wapenvergunning.  
+Daarnaast mag er geen vrees bestaan voor het misbruik van het wapen. De aanvraag verloopt op de volgende wijze:
