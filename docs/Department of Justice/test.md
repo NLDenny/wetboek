@@ -39,7 +39,7 @@ Daarnaast mag er geen vrees bestaan voor het misbruik van het wapen. De aanvraag
 
 #### Intrekken van een wapenvergunning
 Er zijn verschillende [gronden](../../Wetgeving/wwm/#artikel-7-weigering) om een wapenvergunning in te trekken.
-Dit kan een van de volgende gronden zijn:
+Dit kan een van de volgende gronden zijn:  
 &ensp; &nbsp; &nbsp; &nbsp; • _Bij de aanvraag zijn er onjuiste gegevens verstrekt._  
 &ensp; &nbsp; &nbsp; &nbsp; • _Er aanwijzingen zijn dat aan de houder een wapen niet langer kan worden toevertrouwd._     
 &ensp; &nbsp; &nbsp; &nbsp; • _Er misbruik is gemaakt van het wapen._  
