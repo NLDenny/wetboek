@@ -57,7 +57,7 @@ In deze wet wordt verstaan onder:
          6° Revolver.
 
       Categorie IV
-         1° dolk, mes;
+         1° dolk, mes (uitzondering op jachtmessen);
          2° machete;
          3° wapenstok;
          4° Voorwerpen waarvan, gelet op hun aard of de omstandigheden 
