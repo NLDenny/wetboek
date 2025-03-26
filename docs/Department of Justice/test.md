@@ -31,7 +31,7 @@ Daarnaast mag er geen vrees bestaan voor het misbruik van het wapen. De aanvraag
 &ensp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Uiteindelijk volgt er een beslissing op de aanvraag. Een aanvraag zal     
 &ensp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; worden geweigerd als er niet aan alle randvoorwaarden is voldaan.   
 &ensp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Daarnaast moet het wapen aan de aanvrager kunnen worden toevertrouwd  
-&ensp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; en moet er geen vrees zijn voor misbruik van het wapen. <br>
+&ensp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; en moet er geen vrees zijn voor misbruik van het wapen. <br>  
 &ensp; &nbsp; &nbsp; &nbsp; 5. __Uitgifte__ <br />
 &ensp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Tot slot volgt de uitgifte van de wapenvergunning.        
 &ensp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Er zal worden medegedeeld onder welke beperkingen de vergunning     
