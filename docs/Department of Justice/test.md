@@ -43,7 +43,7 @@ Daarnaast zijn er voorschriften aan de vergunning verbonden.
 Mocht je bijvoorbeeld het wapen gebruiken om een misdrijf te plegen levert dit alsnog een strafbaar feit op. 
 In de voorschriften van de vergunning is namelijk opgenomen dat een wapen niet voor een misdrijf gebruikt mag worden.
 Je bent dan alsnog strafbaar, omdat in de [delictomschrijving](../../Wetgeving/wwm/#artikel-27-dragen-categorie-ii-iii-en-iv) het volgende is opgenomen:
-_'Tenzij de houder handelt in strijd met de beperkingen dan wel voorschriften die op grond van artikel 6 zijn vastgesteld.'_
+_'Tenzij de houder handelt in strijd met de beperkingen dan wel voorschriften die op grond van artikel 6 zijn vastgesteld.'_  
 <br>
 Houd er daarnaast rekening mee dat het [overdragen](../../Wetgeving/wwm/#artikel-31-overdragen-categorie-ii-en-iii) van een wapen __altijd__ strafbaar is.
 Op het overdragen van een wapen is namelijk geen uitzondering gemaakt voor vergunninghouders. 
