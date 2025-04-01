@@ -26,7 +26,7 @@
    worden indien:
    a. Er een redelijke verdenking bestaat dat diegene betrokken is (geweest)
       bij een misdrijf. Specifiek betekent dit dat een politieagent iemand
-      kort mag staandehouden en om persoonsgegevens mag vorderen als hij
+      kort mag staandehouden en persoonsgegevens mag vorderen als hij
       een redelijke en objectiveerbare reden heeft om te denken dat een 
       misdrijf is gepleegd, wordt gepleegd of op het punt staat gepleegd
       te worden.
