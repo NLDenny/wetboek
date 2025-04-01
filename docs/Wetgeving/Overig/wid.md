@@ -30,5 +30,5 @@
       een redelijke en objectiveerbare reden heeft om te denken dat een 
       misdrijf is gepleegd, wordt gepleegd of op het punt staat gepleegd
       te worden.
-  b. Als bestuurder van een motorvoertuig.
+  b. Als diegene bestuurder is van een motorvoertuig.
 ```
