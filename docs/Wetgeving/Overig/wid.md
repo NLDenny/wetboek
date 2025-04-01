@@ -10,7 +10,7 @@
    2° een geldig rijbewijs dat is afgegeven op basis van de Wegenverkeerswet, 
       een geldig rijbewijs als bedoeld in artikel 107 van de 
       Wegenverkeerswet 1994.
-2. Onze Minister van Veiligheid en Justitie kan, al dan niet voor een 
+2. Onze Chief of Justice kan, al dan niet voor een 
    bepaald tijdvak, andere dan de in het eerste lid bedoelde documenten 
    aanwijzen ter vaststelling van de identiteit van personen.   
 ```
@@ -19,9 +19,16 @@
 
 #####<span style="color: #fc631e;">Artikel 2 | Toonplicht identiteitsbewijs</span>
 ```
-Een ieder die de leeftijd van veertien jaar heeft bereikt, is verplicht op 
-de eerste vordering van een ambtenaar als bedoeld in artikel 8 van de 
-Politiewet 2012, een identiteitsbewijs als bedoeld in artikel 1 ter inzage 
-aan te bieden. Deze verplichting geldt ook indien de vordering wordt gedaan 
-door een toezichthouder.
+1. Een ieder die de leeftijd van veertien jaar heeft bereikt, is verplicht op 
+   de eerste vordering van een ambtenaar, een identiteitsbewijs als bedoeld in 
+   artikel 1 ter inzage aan te bieden. 
+2. De vordering, als bedoeld in lid 1 van dit artikel, mag alleen gegeven 
+   worden indien:
+   a. Er een redelijke verdenking bestaat dat diegene betrokken is (geweest)
+      bij een misdrijf. Specifiek betekent dit dat een politieagent iemand
+      kort mag staandehouden en om persoonsgegevens mag vorderen als hij
+      een redelijke en objectiveerbare reden heeft om te denken dat een 
+      misdrijf is gepleegd, wordt gepleegd of op het punt staat gepleegd
+      te worden.
+  b. Als bestuurder van een motorvoertuig.
 ```
