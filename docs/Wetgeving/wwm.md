@@ -54,7 +54,8 @@ In deze wet wordt verstaan onder:
          3° Navy revolver;
          4° SNS pistol;
          5° SNS pistol MK2;
-         6° Revolver.
+         6° Revolver;
+         7° Heavy Pistol.
 
       Categorie IV
          1° dolk, mes (uitzondering op jachtmessen);
