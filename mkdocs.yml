@@ -83,8 +83,8 @@ nav:
          - Wet gedeeltelijk verbod gezichtsbedekkende kleding: Wetgeving/Overig/wgvgk.md
          - Wet op de identificatieplicht: Wetgeving/Overig/wid.md
          - Algemene wet op het binnentreden: Wetgeving/Overig/awbi.md
-  - Politiewet 2012: polw2012.md
-  - Ambtsinstructie: ambts.md
+  # - Politiewet 2012: polw2012.md
+  # - Ambtsinstructie: ambts.md
 
 extra_css:
   - stylesheets/extra.css
