@@ -87,7 +87,7 @@ gestraft met met:
    - Verkoop/handel 1 of meer KG, gevangenisstraf van ten hoogste 10 maanden 
      en geldboete van €4.340,- 
 ```
-
+<!--
 ####<span style="color: #fc631e;">Lijst I</span>
 |International Non-proprietary Name (INN)|andere benamingen|nadere omschrijving|
 |:---|:---:|:-----|
@@ -105,6 +105,25 @@ oxycodon| - |  |
 |:---|:---:|:-----|
 -| hasjiesj | een gebruikelijk vast mengsel van de afgescheiden hars verkregen van planten van het geslacht Cannabis (hennep), met plantaardige elementen van deze planten |
 -| hennep | elk deel van de plant van het geslacht Cannabis (hennep), waaraan de hars niet is onttrokken, met uitzondering van de zaden |
+-->
+
+####<span style="color: #fc631e;">Lijst I</span>
+|Naam|Nadere omschrijving|
+|:---|:-----|
+Coca Bladeren | Bladeren van planten van het geslacht Erythroxylon
+Coca Mix | *Geen omschrijving*
+Coca Pasta | *Geen omschrijving*
+Cocaïne | (-)-3-beta-benzoyloxytropaan-2-beta-carbonzure methylester
+
+####<span style="color: #fc631e;">Lijst II</span>
+|Naam|Nadere omschrijving|
+|:---|:-----|
+Wiet(zak) B.B. | Bosbes
+Wiet(zak) L.H. | Lemon Haze
+Wiet(zak) O.G. | Ocean Grown
+Wiet(zak) P.H. | Purple Haze
+Wiet(zak) W.W. | Witte Weduwe
+
 
 <!-- ??? question "Hoe werkt het gedoogbeleid?"
 
