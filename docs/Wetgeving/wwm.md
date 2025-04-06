@@ -80,14 +80,21 @@ In deze wet wordt verstaan onder:
             worden doorboord, munitie voorzien van een projectiel met brandsas 
             of met een explosieve lading, alsmede de voor deze munitie bestemde 
             projectielen;
-         3° .22 Long rifle. 
+         3° .22 Long rifle;
+         4° .50 BMG;
+         5° 12 Gauge;
+         6° 40mm Explosive;
+         7° 5.56x45;
+         8° 7.62x39;
+         9° 7.62x51.
 
       Categorie III
          1° .45 ACP;
          2° .38 LC;
-         3° .45 Magnum;
+         3° .44 Magnum;
          4° .50 AE;
-         5° .50 Ball.
+         5° .50 Ball;
+         6° 9mm.
 ```
 
 #####<span style="color: #fc631e;">Artikel 3 | Onderdelen en hulpstukken</span>
