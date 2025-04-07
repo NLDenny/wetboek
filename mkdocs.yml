@@ -67,22 +67,22 @@ markdown_extensions:
       emoji_generator: !!python/name:materialx.emoji.to_svg    
 nav:
   - Home: index.md  
-  - Stadsbestuur: stadsbestuur.md
-  - Department of Justice:
-    - Uitleg DOJ: Department of Justice/doj.md
-    - Rechtbank: Department of Justice/rechtbank.md
-    - Sanctienormen: Department of Justice/sanctienormen.md
-    - Vergunningen: Department of Justice/vergunningen.md
-  - Wetgeving:    
-    - Wetboek van Strafrecht: Wetgeving/sr.md
-    # - Wetboek van Strafvordering: sv.md
-    - Opiumwet: Wetgeving/opw.md
-    - Wet wapens en munitie: Wetgeving/wwm.md
-    - Wegenverkeerswet 1994: Wetgeving/wvw.md
-    - Overig:
-         - Wet gedeeltelijk verbod gezichtsbedekkende kleding: Wetgeving/Overig/wgvgk.md
-         - Wet op de identificatieplicht: Wetgeving/Overig/wid.md
-         - Algemene wet op het binnentreden: Wetgeving/Overig/awbi.md
+  # - Stadsbestuur: stadsbestuur.md
+  # - Department of Justice:
+  #   - Uitleg DOJ: Department of Justice/doj.md
+  #   - Rechtbank: Department of Justice/rechtbank.md
+  #   - Sanctienormen: Department of Justice/sanctienormen.md
+  #   - Vergunningen: Department of Justice/vergunningen.md
+  # - Wetgeving:    
+  #   - Wetboek van Strafrecht: Wetgeving/sr.md
+  #   # - Wetboek van Strafvordering: sv.md
+  #   - Opiumwet: Wetgeving/opw.md
+  #   - Wet wapens en munitie: Wetgeving/wwm.md
+  #   - Wegenverkeerswet 1994: Wetgeving/wvw.md
+  #   - Overig:
+  #        - Wet gedeeltelijk verbod gezichtsbedekkende kleding: Wetgeving/Overig/wgvgk.md
+  #        - Wet op de identificatieplicht: Wetgeving/Overig/wid.md
+  #        - Algemene wet op het binnentreden: Wetgeving/Overig/awbi.md
   # - Politiewet 2012: polw2012.md
   # - Ambtsinstructie: ambts.md
 
