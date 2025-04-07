@@ -64,10 +64,7 @@ gestraft met:
      25 maanden en geldboete van €8.340,-
    - Telen/bewerken/verwerken, gevangenisstraf van ten hoogste 20 maanden 
      en geldboete van €2.680,-
-   - Verkoop/handel t/m 999 G, gevangenisstraf van ten hoogste 17 maanden 
-     en geldboete van €1.750,-
-   - Verkoop/handel 1 of meer KG, gevangenisstraf van ten hoogste 25 maanden 
-     en geldboete van €5.260,-
+   - Verkoop/handel, [STRAFMAAT]
 ```
 
 #####<span style="color: #fc631e;">Artikel 11 | Strafbepaling Lijst II</span>
@@ -82,10 +79,7 @@ gestraft met met:
      maanden en geldboete van €2.240,-
    - Telen/bewerken/verwerken, gevangenisstraf van ten hoogste 10 maanden 
      en geldboete van €1.340,-
-   - Verkoop/handel t/m 999 G, taakstraf van ten hoogste 8 uur en geldboete 
-     van €1.235,-
-   - Verkoop/handel 1 of meer KG, gevangenisstraf van ten hoogste 10 maanden 
-     en geldboete van €4.340,- 
+   - Verkoop/handel, [STRAFMAAT]
 ```
 <!--
 ####<span style="color: #fc631e;">Lijst I</span>
