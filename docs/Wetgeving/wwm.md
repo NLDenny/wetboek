@@ -35,7 +35,12 @@ In deze wet wordt verstaan onder:
 
       Categorie I
          1° switchblade;
-         2° boksbeugel en geluiddemper voor vuurwapens.
+         2° mes (uitzondering op jachtmessen);
+         3° machete;
+         4° strijdbijl;
+         5° hakbijl;
+         6° boksbeugel;
+         7° geluiddemper voor vuurwapens.
 
       Categorie II
          1° vuurwapens die niet onder een van de andere categorieën vallen;
@@ -52,16 +57,24 @@ In deze wet wordt verstaan onder:
             met uitzondering van medische hulpmiddelen;
          2° Double action revolver;
          3° Navy revolver;
-         4° SNS pistol;
-         5° SNS pistol MK2;
-         6° Revolver;
-         7° Heavy Pistol.
+         4° Revolver;
+         5° Revolver MK2;
+         6° Pistol;
+         7° Pistol MK2;
+         8° Combat pistool;
+         9° Ceramic pistool;
+         10° SNS pistol;
+         11° SNS pistol;
+         12° SNS pistol MK2;
+         13° Vintage pistol;
+         14° AP pistool;
+         15° Heavy pistol;
+         16° Pistol .50;
+         17° Perico Pistol.
 
       Categorie IV
-         1° dolk, mes (uitzondering op jachtmessen);
-         2° machete;
-         3° wapenstok;
-         4° Voorwerpen waarvan, gelet op hun aard of de omstandigheden 
+         1° nightstick;
+         2° Voorwerpen waarvan, gelet op hun aard of de omstandigheden 
             waaronder zij worden aangetroffen, redelijkerwijs kan worden 
             aangenomen dat zij zijn bestemd om letsel aan personen toe 
             te brengen of te dreigen en die niet onder een van de andere 
