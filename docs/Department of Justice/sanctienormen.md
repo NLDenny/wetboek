@@ -92,7 +92,7 @@ Wgbk - Wet gedeeltelijk verbod gezichtsbedekkende kleding
 #####Wet wapens en munitie
 |Artikel|Feit|Sanctienorm|Bedrag
 |:----|:----|:------|-:|
-[Art. 13 WWM](../../Wetgeving/wwm/#artikel-13-categorie-i) | Volledig verbod Cat. I wapen | Boete | €620,-
+[Art. 13 WWM](../../Wetgeving/wwm/#artikel-13-categorie-i) | Volledig verbod Cat. I wapen | Boete | €1.300,-
 [Art. 22 WWM](../../Wetgeving/wwm/#artikel-22-vervoer-categorie-ii-en-iii) | Vervoeren wapen Cat. II | 24 maanden GS | €4.750,-
 [Art. 22 WWM](../../Wetgeving/wwm/#artikel-22-vervoer-categorie-ii-en-iii) | Vervoeren munitie Cat. II | 15 maanden GS | €1.950,-
 [Art. 22 WWM](../../Wetgeving/wwm/#artikel-22-vervoer-categorie-ii-en-iii) | Vervoeren wapen Cat. III | 19 maanden GS | €3.690,-
@@ -105,7 +105,7 @@ Wgbk - Wet gedeeltelijk verbod gezichtsbedekkende kleding
 [Art. 27 WWM](../../Wetgeving/wwm/#artikel-27-dragen-categorie-ii-iii-en-iv) | Dragen munitie Cat. II | 19 maanden GS | €2.240,-
 [Art. 27 WWM](../../Wetgeving/wwm/#artikel-27-dragen-categorie-ii-iii-en-iv) | Dragen wapen Cat. III | 23 maanden GS | €4.240,-
 [Art. 27 WWM](../../Wetgeving/wwm/#artikel-27-dragen-categorie-ii-iii-en-iv) | Dragen munitie Cat. III | 14 maanden GS | €1.670,-
-[Art. 27 WWM](../../Wetgeving/wwm/#artikel-27-dragen-categorie-ii-iii-en-iv) | Dragen wapen Cat. IV | Boete | €1.300,-
+[Art. 27 WWM](../../Wetgeving/wwm/#artikel-27-dragen-categorie-ii-iii-en-iv) | Dragen wapen Cat. IV | Boete | €620,-
 [Art. 31 WWM](../../Wetgeving/wwm/#artikel-31-overdragen-categorie-ii-en-iii) | Overdragen wapen Cat. II| 35 maanden GS | €6.280,-
 [Art. 31 WWM](../../Wetgeving/wwm/#artikel-31-overdragen-categorie-ii-en-iii) | Overdragen munitie Cat. II| 15 maanden GS | €2.570,-
 [Art. 31 WWM](../../Wetgeving/wwm/#artikel-31-overdragen-categorie-ii-en-iii) | Overdragen wapen Cat. III | 30 maanden GS | €4.880,-
