@@ -16,4 +16,4 @@ Mochten er onjuistheden worden geconstateerd neem dan contact op met de Chief of
     - [Uitleg DOJ](Department of Justice/doj) toegevoegd.
     - [Rechtbank](Department of Justice/rechtbank) herzien.
     - [Sanctienormen](Department of Justice/sanctienormen) herzien.
-    - [Vergunningen](Department of Justice/vergunningen) toegevoegd.
+    - [Vergunningen](Department of Justice/vergunningen) toegevoegd. 
