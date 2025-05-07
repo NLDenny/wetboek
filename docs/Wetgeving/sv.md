@@ -230,9 +230,26 @@ onderhoud te hebben.
 
 #####Artikel 37 | Toelating als raadslieden
 ```
+1. In beginsel kan een ieder als raadsman worden toegelaten, mits deze persoon 
+   voldoet aan de daartoe gestelde voorwaarden bij of krachtens de wet.
+2. In afwijking van het bepaalde in lid 1 kan een persoon de toegang als 
+   raadsman worden ontzegd indien:
+   a. deze in de afgelopen 30 dagen onherroepelijk is veroordeeld voor
+      een misdrijf;
+   b. sprake is van omstandigheden die maken dat de betrokkene niet in staat 
+      wordt geacht het ambt op behoorlijke wijze te vervullen;
+   c. de betrokkene zich niet houdt aan gedrags- of kledingvoorschriften die 
+      gelden voor de uitoefening van het ambt. Hieronder valt ook het dragen 
+      van gepaste kleding die de professionaliteit van het beroep weerspiegelt.
+```
+
+<!--
+#####Artikel 37 | Toelating als raadslieden
+```
 Als raadslieden worden toegelaten in Los Santos op het tableau van de 
 Nederlandse orde van advocaten ingeschreven advocaten. 
 ```
+-->
 
 #####Artikel 38 | Keuze raadsman
 ```
