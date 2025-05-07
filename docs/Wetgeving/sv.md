@@ -18,7 +18,7 @@ die binnen welker rechtsgebied het feit is begaan.
 #####Artikel 9 | Vervolging door DA
 ```
 De district attorney is belast met de vervolging van strafbare 
-feiten waarvan de rechtbank Los Santos kennisneemt.
+feiten waarvan de rechtbank Paleto Bay kennisneemt.
 ```
 
 #### TITEL II. De verdachte
@@ -534,7 +534,7 @@ b. de ambtenaren van politie, bedoeld in artikel 2, onder a, van de
 #####Artikel 148 | Taak DA bij opsporing
 ```
 1. De district attorney is belast met de opsporing van de strafbare 
-   feiten waarvan de rechtbank Los Santos, kennisneemt.
+   feiten waarvan de rechtbank Paleto Bay, kennisneemt.
 2. Hij geeft daartoe bevelen aan de overige personen met de opsporing belast.
 3. Zoo de opsporing door hem persoonlijk geschiedt, doet hij van zijne 
    bevinding blijken bij proces-verbaal opgemaakt op zijn ambtseed; daarbij 
@@ -938,7 +938,7 @@ maatregel, op het feit gesteld.
 
 #####Artikel 404 | Hoger beroep
 ```
-Het is in Los Santos niet mogelijk om tegen de door de rechtbank genomen 
+Het is niet mogelijk om tegen de door de rechtbank genomen 
 beslissing in hoger beroep te gaan.
 ```
 
