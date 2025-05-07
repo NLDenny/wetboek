@@ -53,9 +53,9 @@ Daarom is de verloop van een strafzitting hieronder weergegeven:
 &ensp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Het laatste woord is altijd voor de verdachte. De verdachte kan hierin <br>
 &ensp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; spijt betuigen of zijn zienswijze op de zaak naar voren brengen. <br>  
 &ensp; &nbsp; &nbsp; &nbsp; 10. __Vonnis__ <br />
-&ensp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Als laatst sluit de rechter het onderzoek ter terechtzitting. Het kan zijn <br>
-&ensp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; dat een rechter direct uitspraak doet. In complexe zaken zou het vonnis op <br>
-&ensp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; een later moment worden uitgesproken.  
+&ensp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Als laatst sluit de rechter het onderzoek ter terechtzitting. Het kan zijn <br>
+&ensp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; dat een rechter direct uitspraak doet. In complexe zaken zou het vonnis op <br>
+&ensp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; een later moment worden uitgesproken.  
 
 ### Rechtszalen
 
