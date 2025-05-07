@@ -64,6 +64,6 @@ Hieronder is een illustratie van
 deze rechtszaal weergegeven.
 
 <figure markdown="span">
-  ![Image title](../img/rechtszaal.webp) { align=left }
+  ![Image title](../img/rechtszaal.webp){ align=left }
   <figcaption>Rechtszaal - Paleto Bay</figcaption>
 </figure>
