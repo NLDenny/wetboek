@@ -15,9 +15,9 @@ Van de rechtbanken zijn gelijkelijk bevoegd:
 die binnen welker rechtsgebied het feit is begaan.
 ```
 
-#####Artikel 9 | Vervolging door OvJ
+#####Artikel 9 | Vervolging door DA
 ```
-De [officier van justitie] is belast met de vervolging van strafbare 
+De district attorney is belast met de vervolging van strafbare 
 feiten waarvan de rechtbank Los Santos kennisneemt.
 ```
 
@@ -86,7 +86,7 @@ feiten waarvan de rechtbank Los Santos kennisneemt.
 ```
 Het verhoor van een aangehouden verdachte vindt zoveel mogelijk plaats op een 
 plaats die is bestemd voor het verhoren van verdachten of op een andere door 
-de [officier van justitie] aangewezen plaats van verhoor.  
+de district attorney aangewezen plaats van verhoor.  
 ```
 
 #####Artikel 27d | Getuige of verdachte
@@ -218,10 +218,10 @@ onderhoud te hebben.
 #####Artikel 30 | Kennisneming processtukken
 ```
 1. De kennisneming van de processtukken wordt de verdachte op diens verzoek 
-   tijdens het voorbereidende onderzoek verleend door de [officier van 
-   justitie]. De kennisneming wordt de verdachte in elk geval toegestaan vanaf 
+   tijdens het voorbereidende onderzoek verleend door de district attorney. 
+   De kennisneming wordt de verdachte in elk geval toegestaan vanaf 
    het eerste verhoor na aanhouding.  
-2. Niettemin kan de [officier van justitie], indien het belang van het 
+2. Niettemin kan de district attorney, indien het belang van het 
    onderzoek dit vordert, de verdachte de kennisneming van bepaalde 
    processtukken onthouden.   
 ```
@@ -256,7 +256,7 @@ a. Slachtoffer:
 
 #####Artikel 51ac | Informeren over voortgang strafzaak
 ```
-De [officier van justitie] draagt er zorg voor dat het slachtoffer onverwijld 
+De district attorney draagt er zorg voor dat het slachtoffer onverwijld 
 in kennis wordt gesteld van zijn recht om voldoende informatie te ontvangen 
 over de aanvang en voortgang van de zaak, naar aanleiding van een tegen het 
 slachtoffer begaan strafbaar feit. Het slachtoffer wordt in het bijzonder 
@@ -279,7 +279,7 @@ in kennis gesteld van zijn recht om informatie te ontvangen over:
    een persoon naar keuze. 
 3. Het slachtoffer kan zich op de terechtzitting doen vertegenwoordigen door 
    een advocaat.    
-4. De politie, de [officier van justitie] of de rechter kan de bijstand aan 
+4. De politie, de district attorney of de rechter kan de bijstand aan 
    een slachtoffer door zijn wettelijk vertegenwoordiger, weigeren in het 
    belang van het onderzoek of het belang van het slachtoffer. Deze weigering 
    wordt gemotiveerd.   
@@ -291,7 +291,7 @@ in kennis gesteld van zijn recht om informatie te ontvangen over:
    misdrijf betreft waarop naar de wettelijke omschrijving een lange 
    gevangenisstraf is gesteld, Van het voornemen tot het uitoefenen van het 
    spreekrecht geven degenen die daartoe gerechtigd zijn, voor de aanvang van 
-   de terechtzitting schriftelijk kennis aan de [officier van justitie] opdat 
+   de terechtzitting schriftelijk kennis aan de district attorney opdat 
    deze hen tijdig kan oproepen.
 2. Het slachtoffer kan op de terechtzitting een verklaring afleggen.
 ```
@@ -423,7 +423,7 @@ beslag nemen.
 ```
 In geval van ontdekking op heterdaad van een strafbaar feit of in geval van 
 verdenking van een misdrijf waarop een lange gevangenisstraf is gesteld, 
-kan de [officier van justitie] ter inbeslagneming elke plaats, met 
+kan de district attorney ter inbeslagneming elke plaats, met 
 uitzondering van een woning zonder toestemming van de bewoner, doorzoeken.
 ```
 
@@ -431,7 +431,7 @@ uitzondering van een woning zonder toestemming van de bewoner, doorzoeken.
 ```
 In geval van ontdekking op heterdaad van een strafbaar feit of in geval van 
 verdenking van een misdrijf waarop een lange gevangenisstraf is gesteld, 
-kan de [officier van justitie], bij dringende noodzakelijkheid, ter 
+kan de district attorney, bij dringende noodzakelijkheid, ter 
 inbeslagneming een woning zonder toestemming van de bewoner doorzoeken.
 ```
 
@@ -446,14 +446,14 @@ opgehouden.
 
 #####Artikel 126g | Stelselmatig volgen en kijkoperatie
 
-1. In geval van verdenking van een misdrijf, kan de [officier van justitie] 
+1. In geval van verdenking van een misdrijf, kan de district attorney
    in het belang van het onderzoek bevelen dat een opsporingsambtenaar 
    stelselmatig een persoon volgt of stelselmatig diens aanwezigheid of 
    gedrag waarneemt.
 2. Indien de verdenking een misdrijf betreft als omschreven in artikel 67, 
    eerste lid, dat gezien zijn aard of de samenhang met andere door de 
    verdachte begane misdrijven een ernstige inbreuk op de rechtsorde oplevert, 
-   kan de officier van justitie in het belang van het onderzoek bepalen dat 
+   kan de district attorney in het belang van het onderzoek bepalen dat 
    ter uitvoering van het bevel een besloten plaats, niet zijnde een woning, 
    wordt betreden zonder toestemming van de rechthebbende.   
 3. Het bevel wordt gegeven voor een periode van ten hoogste één maand. Het kan 
@@ -471,14 +471,14 @@ opgehouden.
    e. de wijze waarop aan het bevel uitvoering wordt gegeven, en
    f. de geldigheidsduur van het bevel.  
 5. Bij dringende noodzaak kan het bevel mondeling worden gegeven. De 
-   [officier van justitie] stelt in dat geval het bevel binnen drie dagen 
+   district attorney stelt in dat geval het bevel binnen drie dagen 
    op schrift.   
 6. Zodra niet meer wordt voldaan aan de voorwaarden, bedoeld in het eerste 
-   lid, bepaalt de [officier van justitie] dat de uitvoering van het bevel 
+   lid, bepaalt de district attorney dat de uitvoering van het bevel 
    wordt beëindigd.  
 7. Het bevel kan schriftelijk en met redenen omkleed worden gewijzigd, 
    aangevuld, verlengd of beëindigd. Bij dringende noodzaak kan de beslissing 
-   mondeling worden gegeven. De [officier van justitie] stelt deze in dat geval 
+   mondeling worden gegeven. De district attorney stelt deze in dat geval 
    binnen drie dagen op schrift.       
  -->
 
@@ -515,7 +515,7 @@ aan de behandeling ter terechtzitting voorafgaat.
 #####Artikel 132a | Opsporing
 ```
 Onder opsporing wordt verstaan het onderzoek in verband met strafbare 
-feiten onder gezag van de [officier van justitie] met als doel het nemen 
+feiten onder gezag van de district attorney met als doel het nemen 
 van strafvorderlijke beslissingen.
 ```
 
@@ -526,14 +526,14 @@ van strafvorderlijke beslissingen.
 #####Artikel 141 | Ambtenaren met algemene opsporingsbevoegdheid 
 ```
 Met de opsporing van strafbare feiten zijn belast:
-a. de [officieren van justitie];
+a. de district attorney;
 b. de ambtenaren van politie, bedoeld in artikel 2, onder a, van de 
    Politiewet 2012.
 ```
 
-#####Artikel 148 | Taak OvJ bij opsporing
+#####Artikel 148 | Taak DA bij opsporing
 ```
-1. De [officier van justitie] is belast met de opsporing van de strafbare 
+1. De district attorney is belast met de opsporing van de strafbare 
    feiten waarvan de rechtbank Los Santos, kennisneemt.
 2. Hij geeft daartoe bevelen aan de overige personen met de opsporing belast.
 3. Zoo de opsporing door hem persoonlijk geschiedt, doet hij van zijne 
@@ -544,14 +544,14 @@ b. de ambtenaren van politie, bedoeld in artikel 2, onder a, van de
 
 #####Artikel 149 | Opsporingsonderzoek
 ```
-Wanneer de [officier van justitie] kennis heeft gekregen van een strafbaar 
+Wanneer de district attorney kennis heeft gekregen van een strafbaar 
 feit met welks vervolging hij is belast, stelt hij het noodige 
 opsporingsonderzoek in.
 ```
 
 #####Artikel 149a | Samenstelling processtukken
 ```
-1. De [officier van justitie] is tijdens het opsporingsonderzoek 
+1. De district attorney is tijdens het opsporingsonderzoek 
    verantwoordelijk voor de samenstelling van de processtukken.
 2. Tot de processtukken behoren alle stukken die voor de ter 
    terechtzitting door de rechter te nemen beslissingen redelijkerwijs 
@@ -619,17 +619,17 @@ verkrijgen, waarvan niet gezegd kan worden dat zij in vrijheid zijn afgelegd.
 #####Artikel 258 | Dagvaarding
 ```
 1. De zaak wordt ter terechtzitting aanhangig gemaakt door eene dagvaarding 
-   vanwege den [officier van justitie] aan den verdachte beteekend; het 
+   vanwege den district attorney aan den verdachte beteekend; het 
    rechtsgeding neemt hierdoor een aanvang.  
 2. De voorzitter der rechtbank bepaalt, op het verzoek en de voordracht van 
-   den [officier van justitie], den dag der terechtzitting. Hij kan, bij het 
+   den district attorney, den dag der terechtzitting. Hij kan, bij het 
    bepalen van de dag der terechtzitting of nadien, bevelen dat de verdachte 
    in persoon zal verschijnen; hij kan daartoe tevens zijn medebrenging 
    gelasten. De voorzitter kan ook de medebrenging gelasten van de getuige 
    van wie op grond van feiten en omstandigheden aannemelijk is dat hij niet 
    voornemens is gevolg te geven aan een oproep om ter terechtzitting te 
-   verschijnen. Voorts kan de voorzitter van de rechtbank de [officier van 
-   justitie] bevelen, nader omschreven onderzoek te verrichten of doen 
+   verschijnen. Voorts kan de voorzitter van de rechtbank de district attorney 
+   bevelen, nader omschreven onderzoek te verrichten of doen 
    verrichten, alsmede gegevensdragers en stukken bij de processtukken te 
    voegen dan wel stukken van overtuiging over te leggen.
 3. De personen, bedoeld in artikel 51e, tweede lid, kunnen de voorzitter 
@@ -660,10 +660,10 @@ der terechtzitting moet een termijn van ten minste drie dagen verlopen.
 #####Artikel 266 | Intrekking dagvaarding
 ```
 1. Zolang het onderzoek op de terechtzitting nog niet is aangevangen, 
-   kan de [officier van justitie] de dagvaarding intrekken. Hij doet 
+   kan de district attorney de dagvaarding intrekken. Hij doet 
    daarvan schriftelijk mededeling aan de verdachte en aan de benadeelde partij.
 2. Wordt bij of na de intrekking der dagvaarding van verdere vervolging 
-   afgezien, dan doet de [officier van justitie] den verdachte onverwijld 
+   afgezien, dan doet de district attorney den verdachte onverwijld 
    kennis geven dat hij hem ter zake van het feit waarop de dagvaarding 
    betrekking had, niet verder zal vervolgen.
 ```
@@ -714,8 +714,8 @@ de verdachte.
 1. De voorzitter heeft de leiding van het onderzoek op de terechtzitting en 
    geeft daartoe de nodige bevelen. 
 2. De voorzitter kan op grond van klemmende redenen, ambtshalve of op vordering 
-   van de officier van justitie of op verzoek van de verdachte, bevelen dat een 
-   vraag, die de verdachte of diens raadsman of de officier van justitie wenst 
+   van de district attorney of op verzoek van de verdachte, bevelen dat een 
+   vraag, die de verdachte of diens raadsman of de district attorney wenst 
    te stellen, door zijn tussenkomst wordt gesteld.
 3. De voorzitter kan een door hem aangewezen lid van de meervoudige kamer in 
    zijn plaats belasten met de leiding van het onderzoek. Dit lid oefent de 
@@ -756,7 +756,7 @@ de verdachte.
 
 #####Artikel 284 | Voordragen zaak
 ```
-De [officier van justitie] draagt de zaak voor.
+De district attorney draagt de zaak voor.
 ```
 
 #####Artikel 286 | Ondervraging verdachte
@@ -767,7 +767,7 @@ De [officier van justitie] draagt de zaak voor.
 3. De voorzitter kan bepalen dat de verdachte buiten tegenwoordigheid van een 
    of meer medeverdachten of getuigen zal worden ondervraagd.
 4. Gedurende de verdere loop van het onderzoek kunnen aan de verdachte door de 
-   voorzitter, de rechters, de [officier van justitie], de raadsman en de 
+   voorzitter, de rechters, de district attorney, de raadsman en de 
    medeverdachte vragen worden gesteld.
 5. Bij het verhoor van de verdachte wordt zo veel mogelijk onderzocht, of zijn 
    verklaring op eigen wetenschap berust.
@@ -776,14 +776,14 @@ De [officier van justitie] draagt de zaak voor.
 #####Artikel 301 | Voorlezing van stukken
 ```
 1. Processen-verbaal of andere stukken worden op last van de voorzitter, 
-   wanneer een van de rechters of de [officier van justitie] dit verlangt, 
+   wanneer een van de rechters of de district attorney dit verlangt, 
    voorgelezen.
 2. Voorlezing heeft ook plaats op verzoek van de verdachte, tenzij de rechtbank 
-   ambtshalve of op vordering van de [officier van justitie] anders beveelt.
-3. De voorlezing van de stukken kan, tenzij de [officier van justitie] of de 
+   ambtshalve of op vordering van de district attorney anders beveelt.
+3. De voorlezing van de stukken kan, tenzij de district attorney of de 
    verdachte zich daar op redelijke gronden tegen verzet, worden vervangen door 
    een mondelinge mededeling van de korte inhoud door de voorzitter.
-4. De voorlezing van de stukken kan, tenzij de [officier van justitie] of de 
+4. De voorlezing van de stukken kan, tenzij de district attorney of de 
    verdachte zich daar op redelijke gronden tegen verzet, worden vervangen door 
    een mondelinge mededeling van de korte inhoud door de voorzitter.
 ```
@@ -791,7 +791,7 @@ De [officier van justitie] draagt de zaak voor.
 #####Artikel 302 | Vragen aan spreekgerechtigde
 ```
 De voorzitter en de rechters kunnen de spreekgerechtigde vragen over zijn 
-verklaring stellen. Nadere vragen van de officier van justitie en de 
+verklaring stellen. Nadere vragen van de district attorney en de 
 verdachte worden door tussenkomst van de voorzitter gesteld.
 ```
 
@@ -799,12 +799,12 @@ verdachte worden door tussenkomst van de voorzitter gesteld.
 ```
 1. Nadat de ondervraging van de verdachte heeft plaatsgehad, de aanwezige 
    getuigen en deskundigen zijn gehoord en het spreekrecht is uitgeoefend, 
-   kan de [officier van justitie] het woord voeren; hij legt zijn vordering 
+   kan de district attorney het woord voeren; hij legt zijn vordering 
    na voorlezing aan de rechtbank over. De vordering omschrijft de straf 
    en maatregel, indien oplegging daarvan wordt geëist; zij vermeldt in 
    dat geval tevens welk strafbaar feit zou zijn begaan.
 2. De verdachte kan hierop antwoorden.
-3. De [officier van justitie] kan daarna andermaal het woord voeren.
+3. De district attorney kan daarna andermaal het woord voeren.
 4. Aan de verdachte wordt op straffe van nietigheid het recht gelaten om 
    het laatst te spreken.   
 ```
@@ -927,7 +927,7 @@ maatregel, op het feit gesteld.
 #####Artikel 362 | Uitspraak van vonnis
 ```
 1. Het vonnis wordt uitgesproken in een openbare zitting der rechtbank. 
-   De [officier van justitie] en de verdachte zijn hierbij aanwezig.
+   De district attorney en de verdachte zijn hierbij aanwezig.
 2. De uitspraak geschiedt zo mogelijk door de voorzitter of door een 
    der rechters die over de zaak heeft geoordeeld.   
 ```
