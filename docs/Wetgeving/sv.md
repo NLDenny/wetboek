@@ -666,11 +666,13 @@ verkrijgen, waarvan niet gezegd kan worden dat zij in vrijheid zijn afgelegd.
    zou zijn begaan.   
 ```
 
+<!--
 #####Artikel 265 | Dagvaardingstermijn
 ```
 Tussen de dag waarop de dagvaarding aan de verdachte is betekend en die 
 der terechtzitting moet een termijn van ten minste drie dagen verlopen.   
 ```
+-->
 
 #####Artikel 266 | Intrekking dagvaarding
 ```
