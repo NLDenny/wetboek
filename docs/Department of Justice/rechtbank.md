@@ -60,6 +60,6 @@ Daarom is de verloop van een strafzitting hieronder weergegeven:
 ### Rechtszalen
 
 De rechtbank beschikt over één rechtszaal.   
-
+Hieronder is een illustratie van de rechtszaal weergegeven:
 
 ![Image title](../img/rechtszaal.webp){ align=left }
