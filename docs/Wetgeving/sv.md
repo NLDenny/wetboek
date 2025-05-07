@@ -543,8 +543,7 @@ van strafvorderlijke beslissingen.
 ```
 Met de opsporing van strafbare feiten zijn belast:
 a. de district attorney;
-b. de ambtenaren van politie, bedoeld in artikel 2, onder a, van de 
-   Politiewet 2012.
+b. de ambtenaren van politie.
 ```
 
 #####Artikel 148 | Taak DA bij opsporing
