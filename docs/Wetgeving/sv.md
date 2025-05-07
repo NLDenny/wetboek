@@ -362,8 +362,7 @@ ander voor zover zulks noodzakelijk is voor de vaststelling van zijn identiteit.
 
 #####Artikel 55c | Vaststellen identiteit verdachte
 ```
-1. De ambtenaren, bedoeld in artikel 141, en de ambtenaren van politie, bedoeld 
-   in artikel 2, onder b, van de Politiewet 2012, stellen de identiteit van de 
+1. De ambtenaren, bedoeld in artikel 141, stellen de identiteit van de 
    aangehouden verdachte vast op de wijze, bedoeld in artikel 27a, eerste lid, 
    eerste en tweede volzin.
 2. De ambtenaren, bedoeld in het eerste lid, nemen met het oog op het 
