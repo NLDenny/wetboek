@@ -30,7 +30,7 @@
 ```
 1. Voor het binnentreden in een woning zonder toestemming van de bewoner is een 
    schriftelijke machtiging vereist. De machtiging wordt zo mogelijk getoond.  
-2. Onze [FUNCTIE] stelt het model van deze machtiging vast.
+2. Onze Chief of Justice stelt het model van deze machtiging vast.
 3. Een schriftelijke machtiging als bedoeld in het eerste lid is niet vereist, 
    indien ter voorkoming of bestrijding van ernstig en onmiddellijk gevaar 
    voor de veiligheid van personen of goederen terstond in de woning moet 
@@ -39,9 +39,8 @@
 
 #####<span style="color: #fc631e;">Artikel 3 | Bevoegdheid tot machtiging</span>
 ```
-1. Bevoegd tot het geven van een machtiging tot binnentreden zijn:
-   a. [?];
-   b. [?].  
+1. Bevoegd tot het geven van een machtiging tot binnentreden is:
+   a. district attorney.
 2. Degene die bevoegd is een machtiging te geven, gaat daartoe slechts over, 
    indien het doel waartoe wordt binnengetreden het binnentreden zonder 
    toestemming van de bewoner redelijkerwijs vereist.   
