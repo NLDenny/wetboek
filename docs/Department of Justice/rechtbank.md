@@ -31,7 +31,7 @@ Daarom is de verloop van een strafzitting hieronder weergegeven:
 &ensp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; De rechter legt aan de verdachte uit dat hij ook tijdens de zitting niet tot <br>
 &ensp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; antwoorden verplicht is. <br>   
 &ensp; &nbsp; &nbsp; &nbsp; 3. __Tenlastelegging__ <br />
-&ensp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; De [FUNCTIE] leest de tenlastelegging voor. Hierin wordt vertelt voor welke <br>
+&ensp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; De district attorney leest de tenlastelegging voor. Hierin wordt vertelt voor welke <br>
 &ensp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; strafbare feiten de verdachte wordt aangeklaagd. <br>      
 &ensp; &nbsp; &nbsp; &nbsp; 4. __Onderzoek door rechter__ <br />
 &ensp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; De rechter zal de verdachte verschillende vragen gaan stellen. Bij <br>
@@ -45,7 +45,7 @@ Daarom is de verloop van een strafzitting hieronder weergegeven:
 &ensp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; voert de verdediging van de verdachte aan. Hierbij kan de advocaat <br>
 &ensp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; reageren op het requisitoir. <br>   
 &ensp; &nbsp; &nbsp; &nbsp; 7. __Reactie pleidooi__ <br />
-&ensp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Er vindt vervolgens een tweede ronde plaats. De [FUNCTIE] mag reageren <br>
+&ensp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Er vindt vervolgens een tweede ronde plaats. De district attorney mag reageren <br>
 &ensp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; op het pleidooi van de advocaat. <br>  
 &ensp; &nbsp; &nbsp; &nbsp; 8. __Reactie advocaat__ <br />
 &ensp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Vervolgens mag ook de advocaat van de verdachte hier weer op reageren. <br>  
