@@ -38,7 +38,7 @@ Daarom is de verloop van een strafzitting hieronder weergegeven:
 &ensp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; aanwezigheid van getuigen, deskundige of familie krijgen zij de <br>
 &ensp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; mogelijkheid om te spreken. <br>    
 &ensp; &nbsp; &nbsp; &nbsp; 5. __Requisitoir + strafeis__ <br />
-&ensp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; De [FUNCTIE] zal zijn visie geven op de zaak. Dit wordt het requisitoir <br>
+&ensp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; De district attorney zal zijn visie geven op de zaak. Dit wordt het requisitoir <br>
 &ensp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; genoemd. Na afloop van het requisitoir volgt altijd de strafeis. <br>  
 &ensp; &nbsp; &nbsp; &nbsp; 6. __Pleidooi advocaat__ <br />
 &ensp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Vervolgens is het woord aan de advocaat van de verdachte. De advocaat <br>
