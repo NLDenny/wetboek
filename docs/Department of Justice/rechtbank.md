@@ -61,7 +61,5 @@ Daarom is de verloop van een strafzitting hieronder weergegeven:
 
 De rechtbank beschikt over één rechtszaal.   
 
-<figure markdown="span">
-  ![Image title](../img/rechtszaal.webp){ width="300" }
-  <figcaption>Rechtszaal - Paleto Bay</figcaption>
-</figure>
+
+![Image title](../img/rechtszaal.webp){ align=left }
