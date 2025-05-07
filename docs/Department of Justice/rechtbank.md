@@ -28,43 +28,42 @@ Daarom is de verloop van een strafzitting hieronder weergegeven:
 &ensp; &nbsp; &nbsp; &nbsp; Vervolgens vertelt de rechter wie er nog meer in de rechtszaal aanwezig zijn <br> 
 &ensp; &nbsp; &nbsp; &nbsp; (getuigen, deskundigen, familie etc). <br>    
 &ensp; &nbsp; &nbsp; &nbsp; 2. __Mededeling cautie aan verdachte__ <br />
-&ensp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; De rechter legt aan de verdachte uit dat hij ook tijdens de zitting niet tot <br>
-&ensp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; antwoorden verplicht is. <br>   
+&ensp; &nbsp; &nbsp; &nbsp; De rechter legt aan de verdachte uit dat hij ook tijdens de zitting niet tot <br>
+&ensp; &nbsp; &nbsp; &nbsp; antwoorden verplicht is. <br>   
 &ensp; &nbsp; &nbsp; &nbsp; 3. __Tenlastelegging__ <br />
-&ensp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; De district attorney leest de tenlastelegging voor. Hierin wordt vertelt voor welke <br>
-&ensp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; strafbare feiten de verdachte wordt aangeklaagd. <br>      
+&ensp; &nbsp; &nbsp; &nbsp; De district attorney leest de tenlastelegging voor. Hierin wordt vertelt voor welke <br>
+&ensp; &nbsp; &nbsp; &nbsp; strafbare feiten de verdachte wordt aangeklaagd. <br>      
 &ensp; &nbsp; &nbsp; &nbsp; 4. __Onderzoek door rechter__ <br />
-&ensp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; De rechter zal de verdachte verschillende vragen gaan stellen. Bij <br>
-&ensp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; aanwezigheid van getuigen, deskundige of familie krijgen zij de <br>
-&ensp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; mogelijkheid om te spreken. <br>    
+&ensp; &nbsp; &nbsp; &nbsp; De rechter zal de verdachte verschillende vragen gaan stellen. Bij <br>
+&ensp; &nbsp; &nbsp; &nbsp; aanwezigheid van getuigen, deskundige of familie krijgen zij de <br>
+&ensp; &nbsp; &nbsp; &nbsp; mogelijkheid om te spreken. <br>    
 &ensp; &nbsp; &nbsp; &nbsp; 5. __Requisitoir + strafeis__ <br />
-&ensp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; De district attorney zal zijn visie geven op de zaak. Dit wordt het requisitoir <br>
-&ensp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; genoemd. Na afloop van het requisitoir volgt altijd de strafeis. <br>  
+&ensp; &nbsp; &nbsp; &nbsp; De district attorney zal zijn visie geven op de zaak. Dit wordt het requisitoir <br>
+&ensp; &nbsp; &nbsp; &nbsp; genoemd. Na afloop van het requisitoir volgt altijd de strafeis. <br>  
 &ensp; &nbsp; &nbsp; &nbsp; 6. __Pleidooi advocaat__ <br />
-&ensp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Vervolgens is het woord aan de advocaat van de verdachte. De advocaat <br>
-&ensp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; voert de verdediging van de verdachte aan. Hierbij kan de advocaat <br>
-&ensp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; reageren op het requisitoir. <br>   
+&ensp; &nbsp; &nbsp; &nbsp; Vervolgens is het woord aan de advocaat van de verdachte. De advocaat <br>
+&ensp; &nbsp; &nbsp; &nbsp; voert de verdediging van de verdachte aan. Hierbij kan de advocaat <br>
+&ensp; &nbsp; &nbsp; &nbsp; reageren op het requisitoir. <br>   
 &ensp; &nbsp; &nbsp; &nbsp; 7. __Reactie pleidooi__ <br />
-&ensp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Er vindt vervolgens een tweede ronde plaats. De district attorney mag reageren <br>
-&ensp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; op het pleidooi van de advocaat. <br>  
+&ensp; &nbsp; &nbsp; &nbsp; Er vindt vervolgens een tweede ronde plaats. De district attorney mag reageren <br>
+&ensp; &nbsp; &nbsp; &nbsp; op het pleidooi van de advocaat. <br>  
 &ensp; &nbsp; &nbsp; &nbsp; 8. __Reactie advocaat__ <br />
-&ensp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Vervolgens mag ook de advocaat van de verdachte hier weer op reageren. <br>  
+&ensp; &nbsp; &nbsp; &nbsp; Vervolgens mag ook de advocaat van de verdachte hier weer op reageren. <br>  
 &ensp; &nbsp; &nbsp; &nbsp; 9. __Laatste woord verdachte__ <br />
-&ensp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Het laatste woord is altijd voor de verdachte. De verdachte kan hierin <br>
-&ensp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; spijt betuigen of zijn zienswijze op de zaak naar voren brengen. <br>  
+&ensp; &nbsp; &nbsp; &nbsp; Het laatste woord is altijd voor de verdachte. De verdachte kan hierin <br>
+&ensp; &nbsp; &nbsp; &nbsp; spijt betuigen of zijn zienswijze op de zaak naar voren brengen. <br>  
 &ensp; &nbsp; &nbsp; &nbsp; 10. __Vonnis__ <br />
-&ensp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Als laatst sluit de rechter het onderzoek ter terechtzitting. Het kan zijn <br>
-&ensp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; dat een rechter direct uitspraak doet. In complexe zaken zou het vonnis op <br>
-&ensp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; een later moment worden uitgesproken.  
+&ensp; &nbsp; &nbsp; &nbsp; Als laatst sluit de rechter het onderzoek ter terechtzitting. Het kan zijn <br>
+&ensp; &nbsp; &nbsp; &nbsp; dat een rechter direct uitspraak doet. In complexe zaken zou het vonnis op <br>
+&ensp; &nbsp; &nbsp; &nbsp; een later moment worden uitgesproken.  
 
 ### Rechtszalen
 
-De rechtbank beschikt over één rechtszaal. 
-Hieronder is een illustratie van deze rechtszaal weergegeven.
-<br />
-<br />
+De rechtbank beschikt over één rechtszaal.   
+Hieronder is een illustratie van   
+deze rechtszaal weergegeven.
 
 <figure markdown="span">
-  ![Image title](../img/rechtszaal.webp){ width="500" }
+  ![Image title](../img/rechtszaal.webp){ width="500" align=left}
   <figcaption>Rechtszaal - Paleto Bay</figcaption>
 </figure>
