@@ -2,7 +2,7 @@
 
 ### § 1 | Binnentreden in woningen in het algemeen
 
-#####<span style="color: #fc631e;">Artikel 1 | Legitimatieplicht</span>
+#####<span style="color: #85A79D;">Artikel 1 | Legitimatieplicht</span>
 ```
 1. Degene die bij of krachtens de wet belast is met de opsporing van strafbare 
    feiten of enig ander onderzoek, met de uitvoering van een wettelijk 
@@ -26,7 +26,7 @@
 
 ### § 1 | Binnentreden in woningen zonder toestemming van de bewoner
 
-#####<span style="color: #fc631e;">Artikel 2 | Schriftelijke machtiging</span>
+#####<span style="color: #85A79D;">Artikel 2 | Schriftelijke machtiging</span>
 ```
 1. Voor het binnentreden in een woning zonder toestemming van de bewoner is een 
    schriftelijke machtiging vereist. De machtiging wordt zo mogelijk getoond.  
@@ -37,7 +37,7 @@
    worden binnengetreden.   
 ```   
 
-#####<span style="color: #fc631e;">Artikel 3 | Bevoegdheid tot machtiging</span>
+#####<span style="color: #85A79D;">Artikel 3 | Bevoegdheid tot machtiging</span>
 ```
 1. Bevoegd tot het geven van een machtiging tot binnentreden is:
    a. district attorney.
@@ -46,21 +46,21 @@
    toestemming van de bewoner redelijkerwijs vereist.   
 ```  
 
-#####<span style="color: #fc631e;">Artikel 4 | Gemachtigde</span>
+#####<span style="color: #85A79D;">Artikel 4 | Gemachtigde</span>
 ```
 De machtiging kan uitsluitend worden gegeven aan degene die bij of krachtens 
 de wet bevoegd is verklaard zonder toestemming van de bewoners in een woning 
 binnen te treden. 
 ```  
 
-#####<span style="color: #fc631e;">Artikel 5 | Reikwijdte machtiging</span>
+#####<span style="color: #85A79D;">Artikel 5 | Reikwijdte machtiging</span>
 ```
 De machtiging wordt gegeven voor het binnentreden in één in de machtiging 
 te noemen woning. Zo nodig kan in de machtiging worden bepaald dat zij 
 tevens geldt voor ten hoogste drie andere afzonderlijk te noemen woningen.
 ```  
 
-#####<span style="color: #fc631e;">Artikel 6 | Inhoud machtiging</span>
+#####<span style="color: #85A79D;">Artikel 6 | Inhoud machtiging</span>
 ```
 1. De machtiging is ondertekend en vermeldt:
    a. de naam en de hoedanigheid van degene die de machtiging heeft gegeven;
@@ -73,7 +73,7 @@ tevens geldt voor ten hoogste drie andere afzonderlijk te noemen woningen.
    waarop zij is gegeven. 
 ```  
 
-#####<span style="color: #fc631e;">Artikel 7 | Binnentreden 's nachts</span>
+#####<span style="color: #85A79D;">Artikel 7 | Binnentreden 's nachts</span>
 ```
 1. Tussen middernacht en 6 uur ’s morgens kan slechts zonder toestemming van de 
    bewoner worden binnengetreden, voor zover dit dringend noodzakelijk is en, 
@@ -84,7 +84,7 @@ tevens geldt voor ten hoogste drie andere afzonderlijk te noemen woningen.
    binnengetreden, de machtiging dit uitdrukkelijk bepaalt.
 ```  
 
-#####<span style="color: #fc631e;">Artikel 8 | Metgezel</span>
+#####<span style="color: #85A79D;">Artikel 8 | Metgezel</span>
 ```
 1. Degene die de machtiging heeft gegeven, kan degene die bevoegd is binnen 
    te treden, vergezellen.
@@ -94,7 +94,7 @@ tevens geldt voor ten hoogste drie andere afzonderlijk te noemen woningen.
    machtiging wordt binnengetreden, de machtiging dit uitdrukkelijk bepaalt.
 ```
 
-#####<span style="color: #fc631e;">Artikel 9 | Toegang verschaffen</span>
+#####<span style="color: #85A79D;">Artikel 9 | Toegang verschaffen</span>
 ```
 Degene die bevoegd is zonder toestemming van de bewoner binnen te treden, kan 
 zich de toegang tot of de doorgang in de woning verschaffen, voor zover het 
