@@ -4,18 +4,18 @@
 
 #### TITEL I. Strafvordering in het algemeen
 
-#####Artikel 1 | Legaliteitsbeginsel
+#####<span style="color: #85A79D;">Artikel 1 | Legaliteitsbeginsel</span>
 ```
 Strafvordering heeft alleen plaats op de wijze bij de wet voorzien.
 ```
 
-#####Artikel 2 | Relatieve competentie
+#####<span style="color: #85A79D;">Artikel 2 | Relatieve competentie</span>
 ```
 Van de rechtbanken zijn gelijkelijk bevoegd:
 die binnen welker rechtsgebied het feit is begaan.
 ```
 
-#####Artikel 9 | Vervolging door DA
+#####<span style="color: #85A79D;">Artikel 9 | Vervolging door DA</span>
 ```
 De district attorney is belast met de vervolging van strafbare 
 feiten waarvan de rechtbank Paleto Bay kennisneemt.
@@ -23,7 +23,7 @@ feiten waarvan de rechtbank Paleto Bay kennisneemt.
 
 #### TITEL II. De verdachte
 
-#####Artikel 27 | Verdachte
+#####<span style="color: #85A79D;">Artikel 27 | Verdachte</span>
 ```
 1. Als verdachte wordt vóórdat de vervolging is aangevangen, aangemerkt degene 
    te wiens aanzien uit feiten of omstandigheden een redelijk vermoeden van 
@@ -34,7 +34,7 @@ feiten waarvan de rechtbank Paleto Bay kennisneemt.
    bevoegd zich te laten bijstaan door een tolk.
 ```
 
-#####Artikel 27a | Vaststellen identiteit
+#####<span style="color: #85A79D;">Artikel 27a | Vaststellen identiteit</span>
 ```
 1. De verdachte wordt ten behoeve van het vaststellen van zijn identiteit 
    gevraagd naar zijn naam, voornamen en geboortedatum, Het vaststellen van 
@@ -52,7 +52,7 @@ feiten waarvan de rechtbank Paleto Bay kennisneemt.
    artikel 1 van de Wet op de identificatieplicht.
 ```
 
-#####Artikel 27c | Mededelen van rechten aan verdachte
+#####<span style="color: #85A79D;">Artikel 27c | Mededelen van rechten aan verdachte</span>
 ```
 1. Aan de verdachte wordt bij zijn staandehouding of aanhouding 
    medegedeeld ter zake van welk strafbaar feit hij als verdachte is 
@@ -82,14 +82,14 @@ feiten waarvan de rechtbank Paleto Bay kennisneemt.
    rechten.    
 ```
 
-#####Artikel 27cb | Plaats van verhoor
+#####<span style="color: #85A79D;">Artikel 27cb | Plaats van verhoor</span>
 ```
 Het verhoor van een aangehouden verdachte vindt zoveel mogelijk plaats op een 
 plaats die is bestemd voor het verhoren van verdachten of op een andere door 
 de district attorney aangewezen plaats van verhoor.  
 ```
 
-#####Artikel 27d | Getuige of verdachte
+#####<span style="color: #85A79D;">Artikel 27d | Getuige of verdachte</span>
 ```
 1. De opsporingsambtenaar die een persoon uitnodigt om een verklaring af te 
    leggen, deelt daarbij mee of deze als getuige of als verdachte wordt 
@@ -101,7 +101,7 @@ de district attorney aangewezen plaats van verhoor.
    persoon de in artikel 27c, eerste en tweede lid, genoemde mededelingen.
 ```
 
-#####Artikel 27e | Informeren naasten
+#####<span style="color: #85A79D;">Artikel 27e | Informeren naasten</span>
 ```
 1. Op verzoek van de aangehouden verdachte geeft de opsporingsambtenaar
    die beveelt dat de verdachte wordt opgehouden voor 
@@ -118,7 +118,7 @@ de district attorney aangewezen plaats van verhoor.
    worden in het proces-verbaal vermeld.   
 ```
 
-#####Artikel 28 | Bijstand door raadsman
+#####<span style="color: #85A79D;">Artikel 28 | Bijstand door raadsman</span>
 ```
 1. De verdachte heeft het recht om zich, overeenkomstig de bepalingen van dit 
    wetboek, te doen bijstaan door een raadsman.
@@ -133,7 +133,7 @@ de district attorney aangewezen plaats van verhoor.
    van een tolk. De raadsman is verantwoordelijk voor het oproepen van een tolk.
 ```
 
-#####Artikel 28a | Afstand van rechtsbijstand
+#####<span style="color: #85A79D;">Artikel 28a | Afstand van rechtsbijstand</span>
 ```
 1. De verdachte kan vrijwillig en ondubbelzinnig afstand doen van het recht op 
    rechtsbijstand, bedoeld in artikel 28, eerste lid, tenzij in dit wetboek 
@@ -144,14 +144,14 @@ de district attorney aangewezen plaats van verhoor.
    terugkomen.
 ```
 
-#####Artikel 28c | Overleg met raadsman vóór verhoor
+#####<span style="color: #85A79D;">Artikel 28c | Overleg met raadsman vóór verhoor</span>
 ```
 De aangehouden verdachte wordt de gelegenheid verschaft om voorafgaand aan het 
 eerste verhoor gedurende een termijn van ten hoogste een half uur met hem een 
 onderhoud te hebben. 
 ```
 
-#####Artikel 28d | Bijwonen verhoor door raadsman
+#####<span style="color: #85A79D;">Artikel 28d | Bijwonen verhoor door raadsman</span>
 ```
 1. Op verzoek van de aangehouden verdachte en de verdachte die is uitgenodigd 
    om op een plaats van verhoor te verschijnen om te worden verhoord, kan de 
@@ -169,7 +169,7 @@ onderhoud te hebben.
    verzoek geldt voor de duur van het desbetreffende verhoor.
 ```
 
-#####Artikel 29 | Verklaringsvrijheid en zwijgrecht
+#####<span style="color: #85A79D;">Artikel 29 | Verklaringsvrijheid en zwijgrecht</span>
 ```
 1. In alle gevallen waarin iemand als verdachte wordt gehoord, onthoudt de 
    verhorende rechter of ambtenaar zich van alles wat de strekking heeft een 
@@ -180,7 +180,7 @@ onderhoud te hebben.
    verplicht. Deze mededeling wordt in het proces-verbaal opgenomen.   
 ```
 
-#####Artikel 29b | Tolk
+#####<span style="color: #85A79D;">Artikel 29b | Tolk</span>
 ```
 1. In alle gevallen waarin een verdachte die de Nederlandse taal niet of 
    onvoldoende beheerst wordt gehoord, wordt de bijstand van een tolk 
@@ -191,7 +191,7 @@ onderhoud te hebben.
    schriftelijk.  
 ```
 
-#####Artikel 29c | Vaststellen identiteit bij verhoor
+#####<span style="color: #85A79D;">Artikel 29c | Vaststellen identiteit bij verhoor</span>
 ```
 1. In alle gevallen waarin de verdachte wordt gehoord of een verhoor bijwoont, 
    stelt de rechterlijk ambtenaar de identiteit van de verdachte vast op de 
@@ -205,7 +205,7 @@ onderhoud te hebben.
    aan het nemen van zijn vingerafdrukken.
 ```
 
-#####Artikel 29e | Horen van verdachte
+#####<span style="color: #85A79D;">Artikel 29e | Horen van verdachte</span>
 ```
 1. Het gerecht dat tot eenige beslissing in de zaak is geroepen, is bevoegd 
    den verdachte in de gelegenheid te stellen om te worden gehoord.
@@ -215,7 +215,7 @@ onderhoud te hebben.
 
 #### TITEL IIA. Kennisneming van processtukken
 
-#####Artikel 30 | Kennisneming processtukken
+#####<span style="color: #85A79D;">Artikel 30 | Kennisneming processtukken</span>
 ```
 1. De kennisneming van de processtukken wordt de verdachte op diens verzoek 
    tijdens het voorbereidende onderzoek verleend door de district attorney. 
@@ -228,7 +228,7 @@ onderhoud te hebben.
 
 #### TITEL III. De raadsman
 
-#####Artikel 37 | Toelating als raadslieden
+#####<span style="color: #85A79D;">Artikel 37 | Toelating als raadslieden</span>
 ```
 1. In beginsel kan een ieder als raadsman worden toegelaten, mits deze persoon 
    voldoet aan de daartoe gestelde voorwaarden bij of krachtens de wet.
@@ -244,21 +244,21 @@ onderhoud te hebben.
 ```
 
 <!--
-#####Artikel 37 | Toelating als raadslieden
+#####<span style="color: #85A79D;">Artikel 37 | Toelating als raadslieden
 ```
 Als raadslieden worden toegelaten in Los Santos op het tableau van de 
 Nederlandse orde van advocaten ingeschreven advocaten. 
 ```
 -->
 
-#####Artikel 38 | Keuze raadsman
+#####<span style="color: #85A79D;">Artikel 38 | Keuze raadsman</span>
 ```
 De verdachte is te allen tijde bevoegd een of meer raadslieden te kiezen. 
 ```
 
 #### TITEL IIIA. Het slachtoffer
 
-#####Artikel 51a | Begripsbepaling
+#####<span style="color: #85A79D;">Artikel 51a | Begripsbepaling</span>
 ```
 In deze titel wordt verstaan onder:
 a. Slachtoffer:
@@ -271,7 +271,7 @@ a. Slachtoffer:
       rechtstreeks veroorzaakt is door een strafbaar feit.   
 ```
 
-#####Artikel 51ac | Informeren over voortgang strafzaak
+#####<span style="color: #85A79D;">Artikel 51ac | Informeren over voortgang strafzaak</span>
 ```
 De district attorney draagt er zorg voor dat het slachtoffer onverwijld 
 in kennis wordt gesteld van zijn recht om voldoende informatie te ontvangen 
@@ -288,7 +288,7 @@ in kennis gesteld van zijn recht om informatie te ontvangen over:
    g. de einduitspraak in de strafzaak tegen de verdachte.
 ```
 
-#####Artikel 51c | Bijstand en vertegenwoordiging
+#####<span style="color: #85A79D;">Artikel 51c | Bijstand en vertegenwoordiging</span>
 ```
 1. Het slachtoffer kan zich doen bijstaan tijdens het voorbereidende onderzoek 
    en op de terechtzitting.
@@ -302,7 +302,7 @@ in kennis gesteld van zijn recht om informatie te ontvangen over:
    wordt gemotiveerd.   
 ```
 
-#####Artikel 51e | Spreekrecht
+#####<span style="color: #85A79D;">Artikel 51e | Spreekrecht</span>
 ```
 1. Het spreekrecht kan worden uitgeoefend indien het tenlastegelegde feit een 
    misdrijf betreft waarop naar de wettelijke omschrijving een lange 
@@ -315,14 +315,14 @@ in kennis gesteld van zijn recht om informatie te ontvangen over:
 
 #### TITEL IV. Eenige bijzondere dwangmiddelen
 
-#####Artikel 52 | Staande houden
+#####<span style="color: #85A79D;">Artikel 52 | Staande houden</span>
 ```
 Iedere opsporingsambtenaar is bevoegd de identiteit van de verdachte vast te 
 stellen op de wijze, bedoeld in artikel 27a, eerste lid, eerste volzin, en 
 hem daartoe staande te houden.
 ```
 
-#####Artikel 53 | Aanhouding bij heterdaad
+#####<span style="color: #85A79D;">Artikel 53 | Aanhouding bij heterdaad</span>
 ```
 1. In geval van ontdekking op heterdaad van een strafbaar feit is een ieder 
    bevoegd de verdachte aan te houden.
@@ -335,13 +335,13 @@ hem daartoe staande te houden.
    lid en maakt zo nodig een kennisgeving van inbeslagneming op.
 ```
 
-#####Artikel 54 | Aanhouding buiten heterdaad
+#####<span style="color: #85A79D;">Artikel 54 | Aanhouding buiten heterdaad</span>
 ```
 Buiten het geval van ontdekking op heterdaad is de opsporingsambtenaar 
 bevoegd de verdachte van een misdrijf, aan te houden.
 ```
 
-#####Artikel 55 | Betreding plaats ter aanhouding
+#####<span style="color: #85A79D;">Artikel 55 | Betreding plaats ter aanhouding</span>
 ```
 1. In geval van ontdekking op heeter daad van een misdrijf kan ieder, ter 
    aanhouding van den verdachte, elke plaats betreden, met uitzondering 
@@ -351,7 +351,7 @@ bevoegd de verdachte van een misdrijf, aan te houden.
    betreden.   
 ```
 
-#####Artikel 55b | Bevoegdheden bij aanhouding
+#####<span style="color: #85A79D;">Artikel 55b | Bevoegdheden bij aanhouding</span>
 ```
 De bij of krachtens artikel 141 aangewezen ambtenaren, belast met de 
 opsporing van strafbare feiten, zijn bevoegd een staande gehouden of 
@@ -360,7 +360,7 @@ die hij bij zich draagt of met zich mee voert te onderzoeken, een en
 ander voor zover zulks noodzakelijk is voor de vaststelling van zijn identiteit.
 ```
 
-#####Artikel 55c | Vaststellen identiteit verdachte
+#####<span style="color: #85A79D;">Artikel 55c | Vaststellen identiteit verdachte</span>
 ```
 1. De ambtenaren, bedoeld in artikel 141, stellen de identiteit van de 
    aangehouden verdachte vast op de wijze, bedoeld in artikel 27a, eerste lid, 
@@ -374,7 +374,7 @@ ander voor zover zulks noodzakelijk is voor de vaststelling van zijn identiteit.
    dit wetboek verwerkte vingerafdrukken.   
 ```
 
-#####Artikel 55d | Middelenonderzoek
+#####<span style="color: #85A79D;">Artikel 55d | Middelenonderzoek</span>
 ```
 1. De opsporingsambtenaren, bedoeld in artikel 141, onder a en b, 
    kunnen in het belang van het onderzoek bevelen dat een aangehouden verdachte 
@@ -400,14 +400,14 @@ ander voor zover zulks noodzakelijk is voor de vaststelling van zijn identiteit.
    bedoeld in het eerste lid.   
 ```
 
-#####Artikel 95 | Inbeslagneming bij aanhouden of staande houden
+#####<span style="color: #85A79D;">Artikel 95 | Inbeslagneming bij aanhouden of staande houden</span>
 ```
 De opsporingsambtenaar die de verdachte staande houdt of aanhoudt, kan de 
 voor inbeslagneming vatbare voorwerpen die de verdachte met zich voert, in 
 beslag nemen.  
 ```
 
-#####Artikel 96 | Inbeslagnemingsbevoegdheid opsporingsambtenaar
+#####<span style="color: #85A79D;">Artikel 96 | Inbeslagnemingsbevoegdheid opsporingsambtenaar</span>
 ```
 1. In geval van ontdekking op heterdaad van een strafbaar feit is de 
    opsporingsambtenaar bevoegd de daarvoor vatbare voorwerpen in beslag te 
@@ -420,7 +420,7 @@ beslag nemen.
    personen die zich ter plaatse bevinden beperken.
 ```
 
-#####Artikel 96b | Doorzoeking vervoermiddel
+#####<span style="color: #85A79D;">Artikel 96b | Doorzoeking vervoermiddel</span>
 ```
 1. In geval van ontdekking op heterdaad van een strafbaar feit of in geval van 
    verdenking van een misdrijf waarop een lange gevangenisstraf is gesteld, is 
@@ -435,7 +435,7 @@ beslag nemen.
       plaats overbrengen of door de bestuurder laten overbrengen. 
 ```
 
-#####Artikel 96c | Doorzoeking van plaatsen
+#####<span style="color: #85A79D;">Artikel 96c | Doorzoeking van plaatsen</span>
 ```
 In geval van ontdekking op heterdaad van een strafbaar feit of in geval van 
 verdenking van een misdrijf waarop een lange gevangenisstraf is gesteld, 
@@ -443,7 +443,7 @@ kan de district attorney ter inbeslagneming elke plaats, met
 uitzondering van een woning zonder toestemming van de bewoner, doorzoeken.
 ```
 
-#####Artikel 97 | Doorzoeking zonder toestemming bewoner
+#####<span style="color: #85A79D;">Artikel 97 | Doorzoeking zonder toestemming bewoner</span>
 ```
 In geval van ontdekking op heterdaad van een strafbaar feit of in geval van 
 verdenking van een misdrijf waarop een lange gevangenisstraf is gesteld, 
@@ -451,7 +451,7 @@ kan de district attorney, bij dringende noodzakelijkheid, ter
 inbeslagneming een woning zonder toestemming van de bewoner doorzoeken.
 ```
 
-#####Artikel 99a | Recht op bijstand raadsman
+#####<span style="color: #85A79D;">Artikel 99a | Recht op bijstand raadsman</span>
 ```
 De verdachte is bevoegd zich tijdens het doorzoeken van plaatsen door zijn 
 raadsman te doen bijstaan, zonder dat de doorzoeking daardoor mag worden 
@@ -460,7 +460,7 @@ opgehouden.
 
 <!-- #### TITEL IVA. Bijzondere bevoegdheden tot opsporing
 
-#####Artikel 126g | Stelselmatig volgen en kijkoperatie
+#####<span style="color: #85A79D;">Artikel 126g | Stelselmatig volgen en kijkoperatie
 
 1. In geval van verdenking van een misdrijf, kan de district attorney
    in het belang van het onderzoek bevelen dat een opsporingsambtenaar 
@@ -500,13 +500,13 @@ opgehouden.
 
 #### TITEL VI. Beteekenis van sommige in het wetboek voorkomende uitdrukkingen
 
-#####Artikel 127 | Opsporingsambtenaar
+#####<span style="color: #85A79D;">Artikel 127 | Opsporingsambtenaar</span>
 ```
 Onder opsporingsambtenaren worden verstaan alle personen met de opsporing van 
 het strafbare feit belast.
 ```
 
-#####Artikel 128 | Ontdekking op heterdaad
+#####<span style="color: #85A79D;">Artikel 128 | Ontdekking op heterdaad</span>
 ```
 1. Ontdekking op heeter daad heeft plaats, wanneer het strafbare feit ontdekt 
    wordt, terwijl het begaan wordt of terstond nadat het begaan is.
@@ -514,7 +514,7 @@ het strafbare feit belast.
    dan kort na het feit dier ontdekking.
 ```
 
-#####Artikel 129 | Misdrijf 
+#####<span style="color: #85A79D;">Artikel 129 | Misdrijf</span>
 ```
 Waar van misdrijf in het algemeen of van enig misdrijf in het bijzonder 
 gesproken wordt, wordt daaronder medeplichtigheid aan, poging tot en 
@@ -522,13 +522,13 @@ voorbereiding van dat misdrijf begrepen, voorzover niet uit enige bepaling
 het tegendeel volgt.
 ```
 
-#####Artikel 132 | Voorbereidend onderzoek 
+#####<span style="color: #85A79D;">Artikel 132 | Voorbereidend onderzoek</span> 
 ```
 Onder het voorbereidende onderzoek wordt verstaan het onderzoek hetwelk 
 aan de behandeling ter terechtzitting voorafgaat.
 ```
 
-#####Artikel 132a | Opsporing
+#####<span style="color: #85A79D;">Artikel 132a | Opsporing</span>
 ```
 Onder opsporing wordt verstaan het onderzoek in verband met strafbare 
 feiten onder gezag van de district attorney met als doel het nemen 
@@ -539,14 +539,14 @@ van strafvorderlijke beslissingen.
 
 #### TITEL I. Het opsporingsonderzoek
 
-#####Artikel 141 | Ambtenaren met algemene opsporingsbevoegdheid 
+#####<span style="color: #85A79D;">Artikel 141 | Ambtenaren met algemene opsporingsbevoegdheid</span>
 ```
 Met de opsporing van strafbare feiten zijn belast:
 a. de district attorney;
 b. de ambtenaren van politie.
 ```
 
-#####Artikel 148 | Taak DA bij opsporing
+#####<span style="color: #85A79D;">Artikel 148 | Taak DA bij opsporing</span>
 ```
 1. De district attorney is belast met de opsporing van de strafbare 
    feiten waarvan de rechtbank Paleto Bay, kennisneemt.
@@ -557,14 +557,14 @@ b. de ambtenaren van politie.
    van wetenschap.
 ```
 
-#####Artikel 149 | Opsporingsonderzoek
+#####<span style="color: #85A79D;">Artikel 149 | Opsporingsonderzoek</span>
 ```
 Wanneer de district attorney kennis heeft gekregen van een strafbaar 
 feit met welks vervolging hij is belast, stelt hij het noodige 
 opsporingsonderzoek in.
 ```
 
-#####Artikel 149a | Samenstelling processtukken
+#####<span style="color: #85A79D;">Artikel 149a | Samenstelling processtukken</span>
 ```
 1. De district attorney is tijdens het opsporingsonderzoek 
    verantwoordelijk voor de samenstelling van de processtukken.
@@ -573,14 +573,14 @@ opsporingsonderzoek in.
    van belang kunnen zijn.   
 ```
 
-#####Artikel 152 | Opmaken proces-verbaal
+#####<span style="color: #85A79D;">Artikel 152 | Opmaken proces-verbaal</span>
 ```
 De ambtenaren, met de opsporing van strafbare feiten belast, maken ten 
 spoedigste proces-verbaal op van het door hen opgespoorde strafbare feit 
 of van hetgeen door hen tot opsporing is verricht of bevonden. 
 ```
 
-#####Artikel 153 | Op ambtseed & Ondertekening
+#####<span style="color: #85A79D;">Artikel 153 | Op ambtseed & Ondertekening</span>
 ```
 1. Het proces-verbaal wordt door hen opgemaakt op hun ambtseed.
 2. Het wordt door hen persoonlijk opgemaakt, gedagtekend en ondertekend; 
@@ -588,13 +588,13 @@ of van hetgeen door hen tot opsporing is verricht of bevonden.
    de redenen van wetenschap. 
 ```
 
-#####Artikel 161 | Bevoegdheid tot aangifte
+#####<span style="color: #85A79D;">Artikel 161 | Bevoegdheid tot aangifte</span>
 ```
 Ieder die kennis draagt van een begaan strafbaar feit is bevoegd daarvan 
 aangifte of klachte te doen.
 ```
 
-#####Artikel 163 | Wijze van aangifte
+#####<span style="color: #85A79D;">Artikel 163 | Wijze van aangifte</span>
 ```
 De aangifte van eenig strafbaar feit geschiedt mondeling of schriftelijk 
 bij den bevoegden ambtenaar, hetzij door den aangever in persoon, hetzij 
@@ -602,7 +602,7 @@ door een ander, daartoe door hem van eene bijzondere schriftelijke
 volmacht voorzien.
 ```
 
-#####Artikel 164 | Klachtdelicten
+#####<span style="color: #85A79D;">Artikel 164 | Klachtdelicten</span>
 ```
 Bij strafbare feiten alleen op klachte vervolgbaar, geschiedt deze klachte 
 mondeling of schriftelijk bij den bevoegden ambtenaar, hetzij door den tot 
@@ -611,7 +611,7 @@ van eene bijzondere schriftelijke volmacht voorzien. De klachte bestaat in
 eene aangifte met verzoek tot vervolging.
 ```
 
-#####Artikel 167 | Opportuniteitsbeginsel
+#####<span style="color: #85A79D;">Artikel 167 | Opportuniteitsbeginsel</span>
 ```
 1. Indien naar aanleiding van het ingestelde opsporingsonderzoek de politie 
    van oordeel is dat vervolging moet plaats hebben, door het uitvaardigen 
@@ -623,7 +623,7 @@ eene aangifte met verzoek tot vervolging.
    termijn uitstellen. 
 ```
 
-#####Artikel 173 | Verklaringsvrijheid
+#####<span style="color: #85A79D;">Artikel 173 | Verklaringsvrijheid</span>
 ```
 Geene vragen worden gedaan welke de strekking hebben verklaringen te 
 verkrijgen, waarvan niet gezegd kan worden dat zij in vrijheid zijn afgelegd.
@@ -631,7 +631,7 @@ verkrijgen, waarvan niet gezegd kan worden dat zij in vrijheid zijn afgelegd.
 
 #### TITEL V. Aanhangig maken der zaak ter terechtzitting
 
-#####Artikel 258 | Dagvaarding
+#####<span style="color: #85A79D;">Artikel 258 | Dagvaarding</span>
 ```
 1. De zaak wordt ter terechtzitting aanhangig gemaakt door eene dagvaarding 
    vanwege den district attorney aan den verdachte beteekend; het 
@@ -656,7 +656,7 @@ verkrijgen, waarvan niet gezegd kan worden dat zij in vrijheid zijn afgelegd.
    spreekrecht gebruik kunnen maken.      
 ```
 
-#####Artikel 261 | Tenlastelegging
+#####<span style="color: #85A79D;">Artikel 261 | Tenlastelegging</span>
 ```
 1. De dagvaarding behelst een opgave van het feit dat ten laste wordt gelegd, 
    met vermelding omstreeks welke tijd en waar ter plaatse het begaan zou zijn; 
@@ -667,14 +667,14 @@ verkrijgen, waarvan niet gezegd kan worden dat zij in vrijheid zijn afgelegd.
 ```
 
 <!--
-#####Artikel 265 | Dagvaardingstermijn
+#####<span style="color: #85A79D;">Artikel 265 | Dagvaardingstermijn
 ```
 Tussen de dag waarop de dagvaarding aan de verdachte is betekend en die 
 der terechtzitting moet een termijn van ten minste drie dagen verlopen.   
 ```
 -->
 
-#####Artikel 266 | Intrekking dagvaarding
+#####<span style="color: #85A79D;">Artikel 266 | Intrekking dagvaarding</span>
 ```
 1. Zolang het onderzoek op de terechtzitting nog niet is aangevangen, 
    kan de district attorney de dagvaarding intrekken. Hij doet 
@@ -687,7 +687,7 @@ der terechtzitting moet een termijn van ten minste drie dagen verlopen.
 
 #### TITEL VI. Behandeling van de zaak door de rechtbank
 
-#####Artikel 268 | Behandeling door meervoudige kamer
+#####<span style="color: #85A79D;">Artikel 268 | Behandeling door meervoudige kamer</span>
 ```
 1. Strafzaken worden behandeld en beslist door een meervoudige kamer, behoudens 
    in de wet genoemde uitzonderingen.
@@ -695,7 +695,7 @@ der terechtzitting moet een termijn van ten minste drie dagen verlopen.
    plaats.   
 ```
 
-#####Artikel 269 | Zitting openbaar of behandeling met gesloten deuren
+#####<span style="color: #85A79D;">Artikel 269 | Zitting openbaar of behandeling met gesloten deuren</span>
 ```
 1. Het onderzoek ter terechtzitting geschiedt in het openbaar. Vanaf het 
    uitroepen van de zaak kan de rechtbank gehele of gedeeltelijke 
@@ -711,13 +711,13 @@ der terechtzitting moet een termijn van ten minste drie dagen verlopen.
    bijzondere toegang verlenen.    
 ```
 
-#####Artikel 270 | Uitroepen zaak
+#####<span style="color: #85A79D;">Artikel 270 | Uitroepen zaak</span>
 ```
 De voorzitter begint het onderzoek door het doen uitroepen van de zaak tegen 
 de verdachte.
 ```
 
-#####Artikel 271 | Verklaring in vrijheid afgelegd & Praesumptio innocentiae
+#####<span style="color: #85A79D;">Artikel 271 | Verklaring in vrijheid afgelegd & Praesumptio innocentiae</span>
 ```
 1. De voorzitter draagt zorg dat geen vragen worden gesteld, welke de strekking 
    hebben verklaringen te verkrijgen, waarvan niet kan worden gezegd dat zij in 
@@ -726,7 +726,7 @@ de verdachte.
    van enige overtuiging omtrent schuld of onschuld van de verdachte.    
 ```
 
-#####Artikel 272 | Leiding onderzoek
+#####<span style="color: #85A79D;">Artikel 272 | Leiding onderzoek</span>
 ```
 1. De voorzitter heeft de leiding van het onderzoek op de terechtzitting en 
    geeft daartoe de nodige bevelen. 
@@ -739,7 +739,7 @@ de verdachte.
    taken en bevoegdheden uit die aan de voorzitter zijn toegekend.
 ```
 
-#####Artikel 273 | Aanvang onderzoek
+#####<span style="color: #85A79D;">Artikel 273 | Aanvang onderzoek</span>
 ```
 1. De voorzitter begint het onderzoek tegen de verdachte door de identiteit 
    van de verdachte vast te stellen op de wijze, bedoeld in artikel 27a, 
@@ -755,7 +755,7 @@ de verdachte.
    behandeling van de zaak wordt op tegenspraak voortgezet.  
 ```
 
-#####Artikel 277 | Onafgebroken onderzoek
+#####<span style="color: #85A79D;">Artikel 277 | Onafgebroken onderzoek</span>
 ```
 1. Het onderzoek wordt onafgebroken voortgezet.
 2. Onderbrekingen van het onderzoek kunnen echter wegens de uitgebreidheid 
@@ -763,7 +763,7 @@ de verdachte.
    bevolen.  
 ```
 
-#####Artikel 281 | Schorsing voor (on)bepaalde tijd
+#####<span style="color: #85A79D;">Artikel 281 | Schorsing voor (on)bepaalde tijd</span>
 ```
 1. Indien het belang van het onderzoek dit vordert, beveelt de rechtbank de 
    schorsing van het onderzoek voor bepaalde of onbepaalde tijd. 
@@ -771,12 +771,12 @@ de verdachte.
    bepalen tijdstip worden verlengd.  
 ```
 
-#####Artikel 284 | Voordragen zaak
+#####<span style="color: #85A79D;">Artikel 284 | Voordragen zaak</span>
 ```
 De district attorney draagt de zaak voor.
 ```
 
-#####Artikel 286 | Ondervraging verdachte
+#####<span style="color: #85A79D;">Artikel 286 | Ondervraging verdachte</span>
 ```
 1. De voorzitter ondervraagt de verdachte.
 2. Is er meer dan één verdachte, dan bepaalt de voorzitter in welke volgorde de 
@@ -790,7 +790,7 @@ De district attorney draagt de zaak voor.
    verklaring op eigen wetenschap berust.
 ```
 
-#####Artikel 301 | Voorlezing van stukken
+#####<span style="color: #85A79D;">Artikel 301 | Voorlezing van stukken</span>
 ```
 1. Processen-verbaal of andere stukken worden op last van de voorzitter, 
    wanneer een van de rechters of de district attorney dit verlangt, 
@@ -805,14 +805,14 @@ De district attorney draagt de zaak voor.
    een mondelinge mededeling van de korte inhoud door de voorzitter.
 ```
 
-#####Artikel 302 | Vragen aan spreekgerechtigde
+#####<span style="color: #85A79D;">Artikel 302 | Vragen aan spreekgerechtigde</span>
 ```
 De voorzitter en de rechters kunnen de spreekgerechtigde vragen over zijn 
 verklaring stellen. Nadere vragen van de district attorney en de 
 verdachte worden door tussenkomst van de voorzitter gesteld.
 ```
 
-#####Artikel 311 | Requisitoir
+#####<span style="color: #85A79D;">Artikel 311 | Requisitoir</span>
 ```
 1. Nadat de ondervraging van de verdachte heeft plaatsgehad, de aanwezige 
    getuigen en deskundigen zijn gehoord en het spreekrecht is uitgeoefend, 
@@ -826,7 +826,7 @@ verdachte worden door tussenkomst van de voorzitter gesteld.
    het laatst te spreken.   
 ```
 
-#####Artikel 338 | Onmiddellijkheidsbeginsel
+#####<span style="color: #85A79D;">Artikel 338 | Onmiddellijkheidsbeginsel</span>
 ```
 Het bewijs dat de verdachte het telastegelegde feit heeft begaan, kan door 
 den rechter slechts worden aangenomen, indien hij daarvan uit het onderzoek 
@@ -834,7 +834,7 @@ op de terechtzitting door den inhoud van wettige bewijsmiddelen de
 overtuiging heeft bekomen.  
 ```
 
-#####Artikel 339 | Bewijsmiddelen
+#####<span style="color: #85A79D;">Artikel 339 | Bewijsmiddelen</span>
 ```
 1. Als wettige bewijsmiddelen worden alleen erkend:
    1° eigen waarneming van den rechter;
@@ -845,13 +845,13 @@ overtuiging heeft bekomen.
 2. Feiten of omstandigheden van algemeene bekendheid behoeven geen bewijs.   
 ```
 
-#####Artikel 340 | Eigen waarneming rechter
+#####<span style="color: #85A79D;">Artikel 340 | Eigen waarneming rechter</span>
 ```
 Onder eigen waarneming van den rechter wordt verstaan die welke bij het 
 onderzoek op de terechtzitting door hem persoonlijk is geschied.
 ```
 
-#####Artikel 341 | Verklaring verdachte
+#####<span style="color: #85A79D;">Artikel 341 | Verklaring verdachte</span>
 ```
 1. Onder verklaring van den verdachte wordt verstaan zijne bij het onderzoek op 
    de terechtzitting gedane opgave van feiten of omstandigheden, hem uit eigen 
@@ -865,7 +865,7 @@ onderzoek op de terechtzitting door hem persoonlijk is geschied.
    verdachte.
 ```
 
-#####Artikel 344 | Schriftelijk bescheiden 
+#####<span style="color: #85A79D;">Artikel 344 | Schriftelijk bescheiden</span> 
 ```
 1. Onder schriftelijke bescheiden worden verstaan:
    1° beslissingen in den wettelijken vorm opgemaakt door colleges of personen 
@@ -888,7 +888,7 @@ onderzoek op de terechtzitting door hem persoonlijk is geschied.
    opsporingsambtenaar.   
 ```
 
-#####Artikel 345 | Sluiting onderzoek en tijdstip uitspraak
+#####<span style="color: #85A79D;">Artikel 345 | Sluiting onderzoek en tijdstip uitspraak</span>
 ```
 1. Na afloop van het onderzoek wordt dit door den voorzitter gesloten verklaard 
    en wordt hetzij aanstonds de uitspraak gedaan, hetzij door den voorzitter 
@@ -904,14 +904,14 @@ onderzoek op de terechtzitting door hem persoonlijk is geschied.
    bestaande telastelegging door hetzelfde college opnieuw onderzocht.  
 ```
 
-#####Artikel 351 | Oplegging van straf of maatregel
+#####<span style="color: #85A79D;">Artikel 351 | Oplegging van straf of maatregel</span>
 ```
 Acht de rechtbank het telastegelegde feit bewezen, het te zijn een strafbaar 
 feit en den verdachte deswege strafbaar, dan legt zij op de straf of den 
 maatregel, op het feit gesteld.
 ```
 
-#####Artikel 352 | Vrijspraak en ontslag van alle rechtsvervolging
+#####<span style="color: #85A79D;">Artikel 352 | Vrijspraak en ontslag van alle rechtsvervolging</span>
 ```
 1. Acht de rechtbank niet bewezen dat de verdachte het hem telastegelegde 
    feit heeft begaan, dan spreekt zij hem vrij.
@@ -923,7 +923,7 @@ maatregel, op het feit gesteld.
    indien de wettelijke voorwaarden daarvoor zijn vervuld.
 ```
 
-#####Artikel 359a | Meeweging verzuim
+#####<span style="color: #85A79D;">Artikel 359a | Meeweging verzuim</span>
 ```
 1. De rechtbank kan, indien blijkt dat bij het voorbereidend onderzoek vormen 
    zijn verzuimd die niet meer kunnen worden hersteld en de rechtsgevolgen 
@@ -941,7 +941,7 @@ maatregel, op het feit gesteld.
    het nadeel dat daardoor wordt veroorzaakt.      
 ```
 
-#####Artikel 362 | Uitspraak van vonnis
+#####<span style="color: #85A79D;">Artikel 362 | Uitspraak van vonnis</span>
 ```
 1. Het vonnis wordt uitgesproken in een openbare zitting der rechtbank. 
    De district attorney en de verdachte zijn hierbij aanwezig.
@@ -953,7 +953,7 @@ maatregel, op het feit gesteld.
 
 #### TITEL II. Hooger beroep van uitspraken
 
-#####Artikel 404 | Hoger beroep
+#####<span style="color: #85A79D;">Artikel 404 | Hoger beroep</span>
 ```
 Het is niet mogelijk om tegen de door de rechtbank genomen 
 beslissing in hoger beroep te gaan.
