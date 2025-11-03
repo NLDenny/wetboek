@@ -47,7 +47,7 @@ extra:
       link: https://discord.gg/igniteroleplay
   generator: false    
 copyright: |
-  &copy; 2023-2025 <a href="https://www.igniteroleplay.nl/"  target="_blank" rel="noopener">Ignite Roleplay</a>
+  &copy; 2023-2025 <a href="https://www.igniteroleplay.nl/"  target="_blank" rel="noopener">90s Roleplay</a>
 markdown_extensions:
   - pymdownx.highlight:
       anchor_linenums: true
