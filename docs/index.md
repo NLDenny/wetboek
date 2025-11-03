@@ -1,8 +1,8 @@
 # Roxwood County 
 
-<span style="color: #fc631e;">__Geachte lezer__</span>,
+<span style="color: #85A79D;">__Geachte lezer__</span>,
 
-![Image title](img/roxwood.webp){ align=right }
+![Image title](img/logo.webp){ align=right }
 
 Hartelijk welkom op deze pagina, samengesteld door het Department of Justice.
 Op dit platform vindt u alle informatie die relevant is voor u als inwoner van Roxwood. 
