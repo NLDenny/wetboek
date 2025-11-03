@@ -2,7 +2,7 @@
 
 ### § 1 | Algemene bepalingen
 
-#####<span style="color: #fc631e;">Artikel 1 | Begripsbepaling</span>
+#####<span style="color: #85A79D;">Artikel 1 | Begripsbepaling</span>
 ```
 In deze wet wordt verstaan onder:
 1° vuurwapen: een voorwerp bestemd of geschikt om projectielen of stoffen door 
@@ -27,7 +27,7 @@ In deze wet wordt verstaan onder:
 7° overdragen: het aan een ander doen overgaan van de feitelijke macht.
 ```
 
-#####<span style="color: #fc631e;">Artikel 2 | Categorieën wapens & munitie</span>
+#####<span style="color: #85A79D;">Artikel 2 | Categorieën wapens & munitie</span>
 ```
 1. Wapens in de zin van deze wet zijn de hieronder vermelde of 
    overeenkomstig dit artikellid aangewezen voorwerpen, onderverdeeld 
@@ -110,7 +110,7 @@ In deze wet wordt verstaan onder:
          6° 9mm.
 ```
 
-#####<span style="color: #fc631e;">Artikel 3 | Onderdelen en hulpstukken</span>
+#####<span style="color: #85A79D;">Artikel 3 | Onderdelen en hulpstukken</span>
 ```
 1. De bepalingen betreffende wapens zijn mede van toepassing op hulpstukken die 
    specifiek bestemd zijn voor die wapens, de essentiële onderdelen van 
@@ -119,13 +119,13 @@ In deze wet wordt verstaan onder:
    die munitie, voorzover geschikt om munitie van te maken.
 ```
 
-#####<span style="color: #fc631e;">Artikel 6 | Beperkingen/voorschriften</span>
+#####<span style="color: #85A79D;">Artikel 6 | Beperkingen/voorschriften</span>
 ```
 De in deze wet genoemde vergunningen kunnen onder beperking worden verleend. 
 Voorts kunnen er voorschriften aan worden verbonden.
 ```
 
-#####<span style="color: #fc631e;">Artikel 7 | Weigering</span>
+#####<span style="color: #85A79D;">Artikel 7 | Weigering</span>
 ```
 1. De in deze wet genoemde vergunningen worden geweigerd indien:
    a. de aanvrager niet de noodzakelijke gegevens heeft overlegd;
@@ -152,7 +152,7 @@ Voorts kunnen er voorschriften aan worden verbonden.
 
 ### § 3 | Bepalingen voor wapens van categorie I
 
-#####<span style="color: #fc631e;">Artikel 13 | Categorie I</span>
+#####<span style="color: #85A79D;">Artikel 13 | Categorie I</span>
 ```
 1. Het is verboden een wapen van categorie I te vervaardigen, te transformeren, 
    voor derden te herstellen, over te dragen, voorhanden te hebben, te dragen, 
@@ -167,7 +167,7 @@ Voorts kunnen er voorschriften aan worden verbonden.
 
 ### § 5 | Vervoer van wapens en munitie van de categorieën II en III
 
-#####<span style="color: #fc631e;">Artikel 22 | Vervoer categorie II en III</span>
+#####<span style="color: #85A79D;">Artikel 22 | Vervoer categorie II en III</span>
 ```
 1. Het is verboden een wapen of munitie van de categorieën II en III te 
    vervoeren.
@@ -184,7 +184,7 @@ Voorts kunnen er voorschriften aan worden verbonden.
 
 ### § 6 | Voorhanden hebben en dragen van wapens en munitie van de categorieën II, III en IV
 
-#####<span style="color: #fc631e;">Artikel 26 | Voorhanden hebben categorie II en III</span>
+#####<span style="color: #85A79D;">Artikel 26 | Voorhanden hebben categorie II en III</span>
 ```
 1. Het is verboden een wapen of munitie van de categorieën II en III voorhanden 
    te hebben.
@@ -199,7 +199,7 @@ Voorts kunnen er voorschriften aan worden verbonden.
     - Categorie III munitie, [STRAFMAAT]
 ```
 
-#####<span style="color: #fc631e;">Artikel 27 | Dragen categorie II, III en IV</span>
+#####<span style="color: #85A79D;">Artikel 27 | Dragen categorie II, III en IV</span>
 ```
 1. Het is verboden een wapen van de categorieën II, III en IV te dragen.
 2. Het is verboden munitie van de categorieën II en III te dragen.
@@ -217,7 +217,7 @@ Voorts kunnen er voorschriften aan worden verbonden.
 
 ### § 7 | Overdracht en verkrijging van wapens en munitie van de categorieën II, III en IV
 
-#####<span style="color: #fc631e;">Artikel 31 | Overdragen categorie II en III</span>
+#####<span style="color: #85A79D;">Artikel 31 | Overdragen categorie II en III</span>
 ```
 1. Het is verboden een wapen of munitie van de categorieën II en III over 
    te dragen.
@@ -230,14 +230,14 @@ Voorts kunnen er voorschriften aan worden verbonden.
 
 ### § 11A | Opsporing
 
-#####<span style="color: #fc631e;">Artikel 49 | Doorzoeking</span>
+#####<span style="color: #85A79D;">Artikel 49 | Doorzoeking</span>
 ```
 De opsporingsambtenaren kunnen te allen tijde op plaatsen waar zij 
 redelijkerwijs kunnen vermoeden dat wapens of munitie aanwezig zijn, 
 ter inbeslagneming doorzoeking doen.
 ```
 
-#####<span style="color: #fc631e;">Artikel 50 | Openen verpakking</span>
+#####<span style="color: #85A79D;">Artikel 50 | Openen verpakking</span>
 ```
 1. De opsporingsambtenaren zijn bevoegd te vorderen dat de verpakking van 
    goederen, met inbegrip van reisbagage, wordt geopend, indien daartoe 
@@ -250,7 +250,7 @@ ter inbeslagneming doorzoeking doen.
    tegen bepaalde personen, indien daartoe jegens hen aanleiding bestaat.       
 ```
 
-#####<span style="color: #fc631e;">Artikel 51 | Onderzoek vervoermiddelen</span>
+#####<span style="color: #85A79D;">Artikel 51 | Onderzoek vervoermiddelen</span>
 ```
 1. De opsporingsambtenaren zijn bevoegd vervoermiddelen te onderzoeken indien 
    daartoe redelijkerwijs aanleiding bestaat op grond van:
@@ -268,7 +268,7 @@ ter inbeslagneming doorzoeking doen.
    verlenen.   
 ```
 
-#####<span style="color: #fc631e;">Artikel 52 | Inbeslagneming & Onderzoek kleding</span>
+#####<span style="color: #85A79D;">Artikel 52 | Inbeslagneming & Onderzoek kleding</span>
 ```
 1. De opsporingsambtenaren zijn te allen tijde bevoegd tot inbeslagneming van 
    daarvoor vatbare voorwerpen. Zij kunnen daartoe hun uitlevering vorderen.
