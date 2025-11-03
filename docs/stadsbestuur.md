@@ -19,7 +19,7 @@ _De volgende personen maken op dit moment deel uit van het stadsbestuur:_
 
 <div class="grid cards" markdown>
 
--   <span style="color: #f87c24;">__Mayor__</span> : GEZOCHT
+-   <span style="color: #85A79D;">__Mayor__</span> : GEZOCHT
 
     ---
 
@@ -32,7 +32,7 @@ _De volgende personen maken op dit moment deel uit van het stadsbestuur:_
 
 <div class="grid cards" markdown>
 
--   <span style="color: #f87c24;">__Chief of Staff__</span> : GEZOCHT
+-   <span style="color: #85A79D;">__Chief of Staff__</span> : GEZOCHT
 
     ---
 
@@ -40,7 +40,7 @@ _De volgende personen maken op dit moment deel uit van het stadsbestuur:_
 
     _De Chief of Staff geeft sturing aan de korpsleidingen binnen Roxwood. Hierbij heeft de Chief of Staff een adviserende rol._
 
--   <span style="color: #f87c24;">__Chief of Bar__</span> : GEZOCHT
+-   <span style="color: #85A79D;">__Chief of Bar__</span> : GEZOCHT
 
     ---
 
