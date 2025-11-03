@@ -1,4 +1,4 @@
-<h1 style="color: #ffffff;">Roxwood County</h1>
+<h1 style="color: #85A79D;">**Roxwood County**</h1>
 
 <span style="color: #85A79D;">__Geachte lezer__</span>,
 
