@@ -44,10 +44,10 @@ theme:
 extra:
   social:
     - icon: fontawesome/brands/discord
-      link: https://discord.gg/
+      link: https://discord.gg/urhThdfAKm
   generator: false    
 copyright: |
-  &copy; 2025 <a href="https://www.google.nl/"  target="_blank" rel="noopener">90s Roleplay</a>
+  &copy; 2025 <a href="https://discord.gg/urhThdfAKm"  target="_blank" rel="noopener">90s Roleplay</a>
 markdown_extensions:
   - pymdownx.highlight:
       anchor_linenums: true
