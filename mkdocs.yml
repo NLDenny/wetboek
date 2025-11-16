@@ -72,7 +72,7 @@ nav:
     - Uitleg DOJ: Department of Justice/doj.md
     - Rechtbank: Department of Justice/rechtbank.md
     - Sanctienormen: Department of Justice/sanctienormen.md
-    - Vergunningen: Department of Justice/vergunningen.md
+    # - Vergunningen: Department of Justice/vergunningen.md
   - Wetgeving:    
     - Wetboek van Strafrecht: Wetgeving/sr.md
     - Wetboek van Strafvordering: Wetgeving/sv.md
