@@ -133,7 +133,6 @@ R 395 | Gevaar of hinder veroorzaken met stilstaand voertuig | €280,-
 R 397 (a t/m i) | Foutief parkeren | €200,-
 R 486 | Voorrangsvoertuig niet voor laten gaan | €450,-
 R 536 c | Geen helm dragen op een motorfiets | €260,-
-R 545 | Gebruik van mobiele telefoon tijdens het rijden | €300,-
 R 549 a | Niet stoppen bij stopbord | €170,-
 R 601 | Niet doorgaan bij groen licht | €130,-
 R 602 | Niet stoppen voor rood licht | €300,- 
