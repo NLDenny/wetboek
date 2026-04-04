@@ -1,9 +1,9 @@
-<h1 style="color: #85A79D;">Roxwood County</h1>
+<h1 style="color: #85A79D;">Los Santos</h1>
 
 <span style="color: #85A79D;">__Geachte lezer__</span>,
 
 Hartelijk welkom op deze pagina, samengesteld door het Department of Justice.
-Op dit platform vindt u alle informatie die relevant is voor u als inwoner van Roxwood. 
+Op dit platform vindt u alle informatie die relevant is voor u als inwoner van Los Santos. 
 Denk hierbij aan de werking van het Department of Justice totaan alle actuele wet- en regelgeving. 
 Het is belangrijk om goed op de hoogte te zijn van de actuele regels en wetten, want iedereen wordt geacht de wet te kennen.
 

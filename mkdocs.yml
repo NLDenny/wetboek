@@ -1,4 +1,4 @@
-site_name: Roxwood County
+site_name: Los Santos
 theme:
   name: material
   features:
@@ -42,12 +42,12 @@ theme:
   favicon: img/logo.png
   logo: img/logo.webp    
 extra:
-  social:
-    - icon: fontawesome/brands/discord
-      link: https://discord.gg/urhThdfAKm
+  # social:
+  #   - icon: fontawesome/brands/discord
+  #     link: https://discord.gg/urhThdfAKm
   generator: false    
 copyright: |
-  &copy; 2025 <a href="https://discord.gg/urhThdfAKm"  target="_blank" rel="noopener">90s Roleplay</a>
+  <em>Qui Pro Domina Justitia Sequitur</em>
 markdown_extensions:
   - pymdownx.highlight:
       anchor_linenums: true
