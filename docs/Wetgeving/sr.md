@@ -42,7 +42,7 @@ bepalen dat geen straf of maatregel zal worden opgelegd.
 
 #####<span style="color: #85A79D;">Artikel 10 | Duur gevangenisstraf</span>
 ```
-1. De gevangenisstraf is tijdelijk.
+1. De gevangenisstraf is levenslang of tijdelijk.
 2. De duur van de tijdelijke gevangenisstraf is ten minste 10 maanden 
    en ten hoogste 120 maanden.
 ```
