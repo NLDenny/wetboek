@@ -8,54 +8,68 @@
   --md-accent-fg-color--dark:  #90030C;
 }
 
-/* 90s CRT/retro scherm overlay zonder kleuren te beïnvloeden */
-body {
-    position: relative;
-    z-index: 0;
-}
-
-/* Scanlines / lichte ruis */
+/* Basale overlay voor scanlines */
 body::after {
-    content: '';
-    pointer-events: none;
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    z-index: 9999;
-
-    background:
-        repeating-linear-gradient(
-            to bottom,
-            rgba(0,0,0,0.02) 0,
-            rgba(0,0,0,0.02) 1px,
-            transparent 1px,
-            transparent 3px
-        ),
-        radial-gradient(circle at center, rgba(255,255,255,0.03), transparent 70%);
-}
-
-/* Lichte vignettering aan de randen */
-body::before {
     content: '';
     pointer-events: none;
     position: fixed;
     top: 0; left: 0;
     width: 100%; height: 100%;
+    z-index: 9999;
+    background:
+        repeating-linear-gradient(to bottom, rgba(0,0,0,0.02) 0, rgba(0,0,0,0.02) 1px, transparent 1px, transparent 3px),
+        radial-gradient(circle at center, rgba(255,255,255,0.03), transparent 70%);
+}
+
+/* Vignet */
+body::before {
+    content: '';
+    pointer-events: none;
+    position: fixed;
+    top:0; left:0;
+    width:100%; height:100%;
     background: radial-gradient(circle, rgba(0,0,0,0) 70%, rgba(0,0,0,0.15) 100%);
     z-index: 9998;
 }
 
-/* Optioneel: subtiele chromatische aberratie / RGB-verschoven lijnen */
-@keyframes chroma {
-    0%, 100% { transform: translate(0,0); }
-    25% { transform: translate(2px, -2px); }
-    50% { transform: translate(-2px, 2px); }
-    75% { transform: translate(2px, 2px); }
-}
-
+/* Chromatische aberratie met pseudo-elementen */
 body > * {
     position: relative;
-    animation: chroma 3s infinite linear;
+    z-index: 1;
+}
+
+/* Maak drie kopieën van de content: rood, groen, blauw */
+body > *::before,
+body > *::after {
+    content: '';
+    position: absolute;
+    top: 0; left: 0;
+    width: 100%; height: 100%;
+    pointer-events: none;
+    z-index: 2;
+}
+
+/* Rood kanaal */
+body > *::before {
+    background: inherit;
+    mix-blend-mode: screen;
+    filter: drop-shadow(4px 0 red);
+    animation: chroma-extreme 2s infinite alternate;
+}
+
+/* Blauw kanaal */
+body > *::after {
+    background: inherit;
+    mix-blend-mode: screen;
+    filter: drop-shadow(-4px 0 blue);
+    animation: chroma-extreme 2s infinite alternate-reverse;
+}
+
+/* Animatie voor glitch-effect */
+@keyframes chroma-extreme {
+    0% { transform: translate(0,0); }
+    25% { transform: translate(6px, -6px); }
+    50% { transform: translate(-6px, 6px); }
+    75% { transform: translate(6px, 6px); }
+    100% { transform: translate(0,0); }
 }
