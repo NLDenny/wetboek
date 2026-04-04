@@ -1,5 +1,11 @@
 <h1 style="color: #85A79D;">Los Santos</h1>
 
+???+ info "Wijzigingen per 24 maart 2025"
+
+    - [Uitleg DOJ](Department of Justice/doj) toegevoegd.
+    - [Rechtbank](Department of Justice/rechtbank) herzien.
+    - [Sanctienormen](Department of Justice/sanctienormen) herzien.
+
 <span style="color: #85A79D;">__Geachte lezer__</span>,
 
 Hartelijk welkom op deze pagina, samengesteld door het Department of Justice.
@@ -9,9 +15,4 @@ Het is belangrijk om goed op de hoogte te zijn van de actuele regels en wetten, 
 
 Mochten er onjuistheden worden geconstateerd neem dan contact op met de Chief of Justice.
 
-<img src="img/home.webp" alt="Image title" style="display:inline-block; margin-bottom:0;" />
-!!! info "Wijzigingen per 24 maart 2025"
-
-    - [Uitleg DOJ](Department of Justice/doj) toegevoegd.
-    - [Rechtbank](Department of Justice/rechtbank) herzien.
-    - [Sanctienormen](Department of Justice/sanctienormen) herzien.
+![Image title](img/home.webp)
