@@ -67,7 +67,7 @@ Het CBR is belast met de volgende taken:
 1. Het is een ieder verboden zich zodanig te gedragen dat gevaar op de weg 
    wordt veroorzaakt of kan worden veroorzaakt of dat het verkeer op de weg 
    wordt gehinderd of kan worden gehinderd.
-2. Met [STRAFMAAT] wordt gestraft hij die handelt in strijd met het 
+2. Met [SANCTIENORM] wordt gestraft hij die handelt in strijd met het 
    eerste lid.      
 ```
 
@@ -95,7 +95,7 @@ Het CBR is belast met de volgende taken:
 2. Bij de toepassing van het eerste lid wordt mede in aanmerking genomen de 
    mate waarin de verdachte verkeerde in de toestand, bedoeld in artikel 8, 
    eerste, tweede, derde, vierde of vijfde lid.   
-3. Met [STRAFMAAT] wordt gestraft hij die handelt in strijd met het 
+3. Met [SANCTIENORM] wordt gestraft hij die handelt in strijd met het 
    eerste lid.      
 ```
 
@@ -107,7 +107,7 @@ Het CBR is belast met de volgende taken:
    letsel wordt toegebracht of zodanig lichamelijk letsel dat daaruit 
    tijdelijke ziekte of verhindering in de uitoefening van de normale 
    bezigheden ontstaat.
-2. Met [STRAFMAAT] wordt gestraft hij die handelt in strijd met het 
+2. Met [SANCTIENORM] wordt gestraft hij die handelt in strijd met het 
    eerste lid.      
 ```
 
@@ -127,7 +127,7 @@ Het CBR is belast met de volgende taken:
    degene die op de plaats van het ongeval behoorlijk de gelegenheid heeft 
    geboden tot vaststelling van zijn identiteit en, voor zover hij een 
    motorrijtuig bestuurde, tevens van de identiteit van dat motorrijtuig.   
-3. Met [STRAFMAAT] wordt gestraft hij die handelt in strijd met het 
+3. Met [SANCTIENORM] wordt gestraft hij die handelt in strijd met het 
    eerste lid.      
 ```
 
@@ -169,7 +169,7 @@ Het CBR is belast met de volgende taken:
    stellen grenswaarde. Die grenswaarde is gelijk aan de laagst meetbare 
    hoeveelheid van die stof of alcohol die niet op natuurlijke wijze in het 
    bloed aanwezig kan zijn.
-5. Met [STRAFMAAT] wordt gestraft hij die handelt in strijd met het 
+5. Met [SANCTIENORM] wordt gestraft hij die handelt in strijd met het 
    eerste, tweede, derde of vierde lid.              
 ```
 
@@ -184,7 +184,7 @@ Het CBR is belast met de volgende taken:
 3. Als deelnemer wordt beschouwd de bestuurder van een voertuig waarmee aan een 
    wedstrijd wordt deelgenomen, en de eigenaar of houder van een voertuig, die 
    daarmee aan een wedstrijd doet of laat deelnemen.
-4. Met [STRAFMAAT] wordt gestraft hij die handelt in strijd met het 
+4. Met [SANCTIENORM] wordt gestraft hij die handelt in strijd met het 
    eerste lid.      
 ```
 
@@ -192,7 +192,7 @@ Het CBR is belast met de volgende taken:
 ```
 1. Het is verboden opzettelijk wederrechtelijk een aan een ander toebehorend 
    motorrijtuig op de weg te gebruiken.
-2. Met [STRAFMAAT] wordt gestraft hij die handelt in strijd met het 
+2. Met [SANCTIENORM] wordt gestraft hij die handelt in strijd met het 
    eerste lid.      
 ```
 
@@ -226,7 +226,7 @@ te zijn opgegeven.
       motorrijtuig op de weg laat staan of daarmee over de weg laat rijden, 
       alsmede in het geval dat met dat motorrijtuig over de weg wordt gereden, 
       de bestuurder. 
-3. Met [STRAFMAAT] wordt gestraft hij die handelt in strijd met het 
+3. Met [SANCTIENORM] wordt gestraft hij die handelt in strijd met het 
    eerste lid.         
 ```
 -->
@@ -274,7 +274,7 @@ a. de in de artikelen 141 en 142 van het Wetboek van Strafvordering bedoelde
    c. een onderzoek van speeksel, ter vaststelling van een mogelijke 
       overtreding van artikel 8, vierde lid, alsmede
       de aanwijzingen die die persoon in dat kader geeft, op te volgen.
-3. Met [STRAFMAAT] wordt gestraft hij die handelt in strijd met het 
+3. Met [SANCTIENORM] wordt gestraft hij die handelt in strijd met het 
    eerste of tweede lid.         
 ```
 
@@ -307,7 +307,7 @@ a. de in de artikelen 141 en 142 van het Wetboek van Strafvordering bedoelde
    is verplicht aan dit bevel gevolg te geven en zijn medewerking te 
    verlenen. Hem wordt zoveel bloed afgenomen als voor het onderzoek 
    noodzakelijk is.
-7. Met [STRAFMAAT] wordt gestraft hij die handelt in strijd met het 
+7. Met [SANCTIENORM] wordt gestraft hij die handelt in strijd met het 
    tweede, vijfde of zesde lid.             
 ```
 -->
@@ -322,6 +322,6 @@ a. de in de artikelen 141 en 142 van het Wetboek van Strafvordering bedoelde
 2. Het eerste lid geldt niet, indien de eigenaar of houder niet heeft kunnen 
    vaststellen wie de bestuurder was en hem daarvan redelijkerwijs geen verwijt 
    kan worden gemaakt.
-3. Met [STRAFMAAT] wordt gestraft hij die handelt in strijd met het 
+3. Met [SANCTIENORM] wordt gestraft hij die handelt in strijd met het 
    eerste lid.      
 ```

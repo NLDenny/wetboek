@@ -161,7 +161,7 @@ Voorts kunnen er voorschriften aan worden verbonden.
    van een wapenvergunning, tenzij de houder handelt in strijd met
    de beperkingen dan wel voorschriften die op grond van artikel 6
    zijn vastgesteld. 
-3. Met [STRAFMAAT] wordt gestraft hij die handelt in strijd met het 
+3. Met [SANCTIENORM] wordt gestraft hij die handelt in strijd met het 
    eerste lid.
 ```
 
@@ -176,10 +176,10 @@ Voorts kunnen er voorschriften aan worden verbonden.
    de beperkingen dan wel voorschriften die op grond van artikel 6
    zijn vastgesteld.  
 3. Hij die handelt in strijd met het eerste lid wordt gestraft met:
-    - Categorie II wapen, [STRAFMAAT]
-    - Categorie II munitie, [STRAFMAAT]
-    - Categorie III wapen, [STRAFMAAT]
-    - Categorie III munitie, [STRAFMAAT]
+    - Categorie II wapen, [SANCTIENORM]
+    - Categorie II munitie, [SANCTIENORM]
+    - Categorie III wapen, [SANCTIENORM]
+    - Categorie III munitie, [SANCTIENORM]
 ```
 
 ### § 6 | Voorhanden hebben en dragen van wapens en munitie van de categorieën II, III en IV
@@ -193,10 +193,10 @@ Voorts kunnen er voorschriften aan worden verbonden.
    de beperkingen dan wel voorschriften die op grond van artikel 6
    zijn vastgesteld. 
 3. Hij die handelt in strijd met het eerste lid wordt gestraft met:
-    - Categorie II wapen, [STRAFMAAT]
-    - Categorie II munitie, [STRAFMAAT]
-    - Categorie III wapen, [STRAFMAAT]
-    - Categorie III munitie, [STRAFMAAT]
+    - Categorie II wapen, [SANCTIENORM]
+    - Categorie II munitie, [SANCTIENORM]
+    - Categorie III wapen, [SANCTIENORM]
+    - Categorie III munitie, [SANCTIENORM]
 ```
 
 #####<span style="color: #85A79D;">Artikel 27 | Dragen categorie II, III en IV</span>
@@ -208,11 +208,11 @@ Voorts kunnen er voorschriften aan worden verbonden.
    met de beperkingen dan wel voorschriften die op grond van artikel 6 
    zijn vastgesteld. 
 4. Hij die handelt in strijd met het eerste of tweede lid wordt gestraft met:
-    - Categorie II wapen, [STRAFMAAT]
-    - Categorie II munitie, [STRAFMAAT]
-    - Categorie III wapen, [STRAFMAAT]
-    - Categorie III munitie, [STRAFMAAT]
-    - Categorie IV wapen, [STRAFMAAT]
+    - Categorie II wapen, [SANCTIENORM]
+    - Categorie II munitie, [SANCTIENORM]
+    - Categorie III wapen, [SANCTIENORM]
+    - Categorie III munitie, [SANCTIENORM]
+    - Categorie IV wapen, [SANCTIENORM]
 ```
 
 ### § 7 | Overdracht en verkrijging van wapens en munitie van de categorieën II, III en IV
@@ -222,10 +222,10 @@ Voorts kunnen er voorschriften aan worden verbonden.
 1. Het is verboden een wapen of munitie van de categorieën II en III over 
    te dragen.
 2. Hij die handelt in strijd met het eerste lid wordt gestraft met:
-    - Categorie II wapen, [STRAFMAAT]
-    - Categorie II munitie, [STRAFMAAT]
-    - Categorie III wapen, [STRAFMAAT]
-    - Categorie III munitie, [STRAFMAAT]
+    - Categorie II wapen, [SANCTIENORM]
+    - Categorie II munitie, [SANCTIENORM]
+    - Categorie III wapen, [SANCTIENORM]
+    - Categorie III munitie, [SANCTIENORM]
 ```
 
 ### § 11A | Opsporing

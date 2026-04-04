@@ -54,24 +54,24 @@ D. te vervaardigen.
 ```
 Hij die handelt in strijd met het in artikel 2 gegeven verbod, wordt 
 gestraft met:
-   - Vervoeren/bijdragen t/m 20 G, [SANCTIENORM](../../Department%20of%20Justice/sanctienormen)
-   - Vervoeren/bijdragen 21 t/m 199 G, [STRAFMAAT]
-   - Vervoeren/bijdragen 200 t/m 999 G, [STRAFMAAT]
-   - Vervoeren/bijdragen 1 of meer KG, [STRAFMAAT]
-   - Telen/bewerken/verwerken, [STRAFMAAT]
-   - Verkoop/handel, [STRAFMAAT]
+   - Vervoeren/bijdragen t/m 20 G, [SANCTIENORM]
+   - Vervoeren/bijdragen 21 t/m 199 G, [SANCTIENORM]
+   - Vervoeren/bijdragen 200 t/m 999 G, [SANCTIENORM]
+   - Vervoeren/bijdragen 1 of meer KG, [SANCTIENORM]
+   - Telen/bewerken/verwerken, [SANCTIENORM]
+   - Verkoop/handel, [SANCTIENORM]
 ```
 
 #####<span style="color: #85A79D;">Artikel 11 | Strafbepaling Lijst II</span>
 ```
 Hij die handelt in strijd met een in artikel 3 gegeven verbod, wordt 
 gestraft met met:
-   - Vervoeren/bijdragen t/m 20 G, [STRAFMAAT]
-   - Vervoeren/bijdragen 21 t/m 199 G, [STRAFMAAT]
-   - Vervoeren/bijdragen 200 t/m 999 G, [STRAFMAAT]
-   - Vervoeren/bijdragen 1 of meer KG, [STRAFMAAT]
-   - Telen/bewerken/verwerken, [STRAFMAAT]
-   - Verkoop/handel, [STRAFMAAT]
+   - Vervoeren/bijdragen t/m 20 G, [SANCTIENORM]
+   - Vervoeren/bijdragen 21 t/m 199 G, [SANCTIENORM]
+   - Vervoeren/bijdragen 200 t/m 999 G, [SANCTIENORM]
+   - Vervoeren/bijdragen 1 of meer KG, [SANCTIENORM]
+   - Telen/bewerken/verwerken, [SANCTIENORM]
+   - Verkoop/handel, [SANCTIENORM]
 ```
 <!--
 ####<span style="color: #85A79D;">Lijst I</span>
