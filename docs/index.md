@@ -9,8 +9,7 @@ Het is belangrijk om goed op de hoogte te zijn van de actuele regels en wetten, 
 
 Mochten er onjuistheden worden geconstateerd neem dan contact op met de Chief of Justice.
 
-![Image title](img/home.webp)
-
+<img src="img/home.webp" alt="Image title" style="display:inline-block; margin-bottom:0;" />
 !!! info "Wijzigingen per 24 maart 2025"
 
     - [Uitleg DOJ](Department of Justice/doj) toegevoegd.
