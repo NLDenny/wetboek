@@ -25,6 +25,6 @@
 #####<span style="color: #85A79D;">Artikel 2</span>
 ```
 1. Degene die handelt in strijd met artikel 1, eerste lid, wordt gestraft met 
-   [STRAFMAAT].
+   [SANCTIENORM].
 2. Het in het eerste lid strafbaar gestelde feit is een overtreding.
 ```

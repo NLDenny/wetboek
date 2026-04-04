@@ -54,24 +54,24 @@ D. te vervaardigen.
 ```
 Hij die handelt in strijd met het in artikel 2 gegeven verbod, wordt 
 gestraft met:
-   - Vervoeren/bijdragen t/m 20 G, [SANCTIENORM](../../Department%20of%20Justice/sanctienormen)
-   - Vervoeren/bijdragen 21 t/m 199 G, [STRAFMAAT]
-   - Vervoeren/bijdragen 200 t/m 999 G, [STRAFMAAT]
-   - Vervoeren/bijdragen 1 of meer KG, [STRAFMAAT]
-   - Telen/bewerken/verwerken, [STRAFMAAT]
-   - Verkoop/handel, [STRAFMAAT]
+   - Vervoeren/bijdragen t/m 20 G, [SANCTIENORM]
+   - Vervoeren/bijdragen 21 t/m 199 G, [SANCTIENORM]
+   - Vervoeren/bijdragen 200 t/m 999 G, [SANCTIENORM]
+   - Vervoeren/bijdragen 1 of meer KG, [SANCTIENORM]
+   - Telen/bewerken/verwerken, [SANCTIENORM]
+   - Verkoop/handel, [SANCTIENORM]
 ```
 
 #####<span style="color: #85A79D;">Artikel 11 | Strafbepaling Lijst II</span>
 ```
 Hij die handelt in strijd met een in artikel 3 gegeven verbod, wordt 
 gestraft met met:
-   - Vervoeren/bijdragen t/m 20 G, [STRAFMAAT]
-   - Vervoeren/bijdragen 21 t/m 199 G, [STRAFMAAT]
-   - Vervoeren/bijdragen 200 t/m 999 G, [STRAFMAAT]
-   - Vervoeren/bijdragen 1 of meer KG, [STRAFMAAT]
-   - Telen/bewerken/verwerken, [STRAFMAAT]
-   - Verkoop/handel, [STRAFMAAT]
+   - Vervoeren/bijdragen t/m 20 G, [SANCTIENORM]
+   - Vervoeren/bijdragen 21 t/m 199 G, [SANCTIENORM]
+   - Vervoeren/bijdragen 200 t/m 999 G, [SANCTIENORM]
+   - Vervoeren/bijdragen 1 of meer KG, [SANCTIENORM]
+   - Telen/bewerken/verwerken, [SANCTIENORM]
+   - Verkoop/handel, [SANCTIENORM]
 ```
 <!--
 ####<span style="color: #85A79D;">Lijst I</span>
@@ -96,19 +96,34 @@ oxycodon| - |  |
 ####<span style="color: #85A79D;">Lijst I</span>
 |Naam|Nadere omschrijving|
 |:---|:-----|
-Coca Bladeren | Bladeren van planten van het geslacht Erythroxylon
-Coca Mix | *Geen omschrijving*
-Coca Pasta | *Geen omschrijving*
+Coca blad | Bladeren van planten van het geslacht Erythroxylon
+Coca blend | *Geen omschrijving*
+Coca pasta| *Geen omschrijving*
 Cocaïne | (-)-3-beta-benzoyloxytropaan-2-beta-carbonzure methylester
+Meth
+Meth (-)
+Meth (+)
+Meth (++)
 
 ####<span style="color: #85A79D;">Lijst II</span>
 |Naam|Nadere omschrijving|
 |:---|:-----|
-Wiet(zak) B.B. | Bosbes
-Wiet(zak) L.H. | Lemon Haze
-Wiet(zak) O.G. | Ocean Grown
-Wiet(zak) P.H. | Purple Haze
-Wiet(zak) W.W. | Witte Weduwe
+Wiet Top (OG Kush)
+Wiet (OG Kush)
+Joint (OG Kush)
+Wiet Brick (OG Kush)
+Wiet Top (Purple Haze)
+Wiet (Purple Haze)
+Joint (Purple Haze)
+Wiet Brick (Purple Haze)
+Wiet Top (White widow)
+Wiet (White widow)
+Joint (White widow)
+Wiet Brick (White widow)
+Wiet Top (Blue dream)
+Wiet (Blue dream)
+Joint (Blue dream)
+Wiet Brick (Blue dream)
 
 
 <!-- ??? question "Hoe werkt het gedoogbeleid?"

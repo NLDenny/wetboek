@@ -411,7 +411,7 @@ instructies bevatten omtrent het gebruik van geweld.
 ```
 Hij die in het openbaar, mondeling of bij geschrift of afbeelding, tot 
 enig strafbaar feit of tot gewelddadig optreden tegen het openbaar gezag 
-opruit, wordt gestraft met [STRAFMAAT].
+opruit, wordt gestraft met [SANCTIENORM].
 ```
 
 <!-- UITGEZET WEGENS KANS NIHIL IN RP SERVER
@@ -422,7 +422,7 @@ gewelddadig optreden tegen het openbaar gezag wordt opgeruid, verspreidt,
 openlijk tentoonstelt of aanslaat of, om verspreid, openlijk tentoongesteld 
 of aangeslagen te worden, in voorraad heeft, wordt, indien hij weet of 
 ernstige reden heeft te vermoeden dat in het geschrift of de afbeelding 
-zodanige opruiing voorkomt, gestraft met [STRAFMAAT].
+zodanige opruiing voorkomt, gestraft met [SANCTIENORM].
 ```
 -->
 
@@ -431,7 +431,7 @@ zodanige opruiing voorkomt, gestraft met [STRAFMAAT].
 ```
 Hij die in het openbaar, mondeling of bij geschrift of afbeelding, aanbiedt 
 inlichtingen, gelegenheid of middelen te verschaffen om enig strafbaar feit 
-te plegen, wordt gestraft met [STRAFMAAT].
+te plegen, wordt gestraft met [SANCTIENORM].
 ```
 -->
 
@@ -440,7 +440,7 @@ te plegen, wordt gestraft met [STRAFMAAT].
 1. Hij die in de woning of het besloten lokaal of erf, bij een ander in 
    gebruik, wederrechtelijk binnendringt of, wederrechtelijk aldaar 
    vertoevende, zich niet op de vordering van of vanwege de rechthebbende 
-   aanstonds verwijdert, wordt gestraft met [STRAFMAAT].
+   aanstonds verwijdert, wordt gestraft met [SANCTIENORM].
 2. Hij die zich de toegang heeft verschaft door middel van braak of inklimming, 
    van valse sleutels, van een valse order of een vals kostuum, of die, zonder 
    voorkennis van de rechthebbende en anders dan ten gevolge van vergissing 
@@ -453,7 +453,7 @@ te plegen, wordt gestraft met [STRAFMAAT].
 1. Hij die in een voor de openbare dienst bestemd lokaal wederrechtelijk 
    binnendringt, of, wederrechtelijk aldaar vertoevende, zich niet op de 
    vordering van de bevoegde ambtenaar aanstonds verwijdert, wordt 
-   gestraft met [STRAFMAAT].
+   gestraft met [SANCTIENORM].
 2. Hij die zich de toegang heeft verschaft door middel van braak of 
    inklimming, van valse sleutels, van een valse order of een vals 
    kostuum, of die zonder voorkennis van de bevoegde ambtenaar en anders 
@@ -465,7 +465,7 @@ te plegen, wordt gestraft met [STRAFMAAT].
 #####<span style="color: #85A79D;">Artikel 140 | Deelneming aan criminele organisatie</span>
 ```
 1. Deelneming aan een organisatie die tot oogmerk heeft het plegen van 
-   misdrijven, wordt gestraft met [STRAFMAAT].
+   misdrijven, wordt gestraft met [SANCTIENORM].
 2. Ten aanzien van de oprichters, leiders of bestuurders kunnen de 
    gevangenisstraffen met een derde worden verhoogd.
 3. Onder deelneming als omschreven in het eerste lid wordt mede begrepen 
@@ -477,7 +477,7 @@ te plegen, wordt gestraft met [STRAFMAAT].
 #####<span style="color: #85A79D;">Artikel 141 | Openlijke geweldpleging</span>
 ```
 1. Zij die openlijk in vereniging geweld plegen tegen personen of goederen, 
-   worden gestraft met [STRAFMAAT].
+   worden gestraft met [SANCTIENORM].
 2. Artikel 81 blijft buiten toepassing.   
 ```
 
@@ -485,14 +485,14 @@ te plegen, wordt gestraft met [STRAFMAAT].
 ```
 Hij die opzettelijk gelegenheid, middelen of inlichtingen verschaft tot het 
 plegen van geweld tegen personen of goederen wordt gestraft met 
-[STRAFMAAT].
+[SANCTIENORM].
 ```
 
 #####<span style="color: #85A79D;">Artikel 142 | Vals alarm</span>
 ```
 Hij die opzettelijk, zonder dat daartoe de noodzaak aanwezig is, gebruik 
 maakt van een alarmnummer voor publieke diensten wordt gestraft met 
-[STRAFMAAT].
+[SANCTIENORM].
 ```
 
 #####<span style="color: #85A79D;">Artikel 142a | Valse bom</span>
@@ -500,7 +500,7 @@ maakt van een alarmnummer voor publieke diensten wordt gestraft met
 1. Hij die een voorwerp verzendt of op een al dan niet voor het publiek 
    toegankelijke plaats achterlaat of plaatst, met het oogmerk een ander 
    ten onrechte te doen geloven dat daardoor een ontploffing kan worden 
-   teweeggebracht, wordt gestraft met [STRAFMAAT].
+   teweeggebracht, wordt gestraft met [SANCTIENORM].
 2. Met dezelfde straf wordt gestraft hij die gegevens doorgeeft met het 
    oogmerk een ander ten onrechte te doen geloven dat op een al dan niet 
    voor het publiek toegankelijke plaats een voorwerp aanwezig is 
@@ -511,7 +511,7 @@ maakt van een alarmnummer voor publieke diensten wordt gestraft met
 ```
 Hij die opzettelijk een graf schendt of enig op een begraafplaats opgericht 
 gedenkteken opzettelijk en wederrechtelijk vernielt of beschadigt, wordt 
-gestraft met [STRAFMAAT].
+gestraft met [SANCTIENORM].
 ```
 
 #####<span style="color: #85A79D;">Artikel 151 | Doen verdwijnen van lijk</span>
@@ -519,7 +519,7 @@ gestraft met [STRAFMAAT].
 Hij die een lijk begraaft, verbrandt, vernietigt, verbergt, wegvoert of 
 wegmaakt, met het oogmerk om het feit of de oorzaak van het overlijden, 
 dan wel van het dood ter wereld komen te verhelen, wordt gestraft met 
-[STRAFMAAT].
+[SANCTIENORM].
 ```
 
 #### TITEL VII. Misdrijven waardoor de algemene veiligheid van personen of goederen wordt in <br /> gevaar gebracht
@@ -527,7 +527,7 @@ dan wel van het dood ter wereld komen te verhelen, wordt gestraft met
 #####<span style="color: #85A79D;">Artikel 157 | Opzettelijk brand of ontploffing veroorzaken</span>
 ```
 Hij die opzettelijk brand sticht of een ontploffing teweegbrengt, wordt 
-gestraft met [STRAFMAAT], indien daarvan gemeen gevaar voor goederen te 
+gestraft met [SANCTIENORM], indien daarvan gemeen gevaar voor goederen te 
 duchten is of indien daarvan levensgevaar of gevaar voor zwaar 
 lichamelijk letsel voor een ander te duchten is.
 ```
@@ -535,7 +535,7 @@ lichamelijk letsel voor een ander te duchten is.
 #####<span style="color: #85A79D;">Artikel 158 | Culpoos brand of ontploffing veroorzaken</span>
 ```
 Hij aan wiens schuld brand of ontploffing te wijten is, 
-wordt gestraft met [STRAFMAAT], indien daarvan gemeen gevaar voor goederen 
+wordt gestraft met [SANCTIENORM], indien daarvan gemeen gevaar voor goederen 
 te duchten is of indien daarvan levensgevaar of gevaar voor zwaar 
 lichamelijk letsel voor een ander ontstaat.
 ```
@@ -544,7 +544,7 @@ lichamelijk letsel voor een ander ontstaat.
 
 #####<span style="color: #85A79D;">Artikel 177 | Omkoping ambtenaar</span>
 ```
-1. Met [STRAFMAAT] wordt gestraft: 
+1. Met [SANCTIENORM] wordt gestraft: 
    1° hij die een ambtenaar een gift of belofte doet dan wel een dienst 
       verleent of aanbiedt met het oogmerk om hem te bewegen in zijn 
       bediening iets te doen of na te laten;
@@ -565,7 +565,7 @@ lichamelijk letsel voor een ander ontstaat.
 Hij die door geweld of enige andere feitelijkheid of bedreiging met geweld 
 of enige andere feitelijkheid een ambtenaar dwingt tot het volvoeren van 
 een ambtsverrichting of het nalaten van een rechtmatige ambtsverrichting, 
-wordt gestraft met [STRAFMAAT].
+wordt gestraft met [SANCTIENORM].
 ```
 
 #####<span style="color: #85A79D;">Artikel 180 | Wederspannigheid</span>
@@ -573,7 +573,7 @@ wordt gestraft met [STRAFMAAT].
 Hij die zich met geweld of bedreiging met geweld verzet tegen een ambtenaar 
 werkzaam in de rechtmatige uitoefening van zijn bediening, of tegen personen 
 die hem daarbij krachtens wettelijke verplichting of op zijn verzoek bijstand 
-verlenen, wordt als schuldig aan wederspannigheid gestraft met [STRAFMAAT].
+verlenen, wordt als schuldig aan wederspannigheid gestraft met [SANCTIENORM].
 ```
 
 #####<span style="color: #85A79D;">Artikel 184 | Niet voldoen aan ambtelijk bevel</span>
@@ -584,7 +584,7 @@ verlenen, wordt als schuldig aan wederspannigheid gestraft met [STRAFMAAT].
    het opsporen of onderzoeken van strafbare feiten, alsmede hij die 
    opzettelijk enige handeling, door een van die ambtenaren ondernomen ter 
    uitvoering van enig wettelijk voorschrift, belet, belemmert of verijdelt, 
-   wordt gestraft met [STRAFMAAT].
+   wordt gestraft met [SANCTIENORM].
 2. Met de in het eerste gedeelte van het vorige lid bedoelde ambtenaar wordt 
    gelijkgesteld ieder die, krachtens wettelijk voorschrift, voortdurend of 
    tijdelijk met enige openbare dienst is belast.
@@ -596,7 +596,7 @@ verlenen, wordt als schuldig aan wederspannigheid gestraft met [STRAFMAAT].
 Hij die bij een terechtzitting of ter plaatse waar een ambtenaar in het 
 openbaar in de rechtmatige uitoefening van zijn bediening werkzaam is, 
 opschudding veroorzaakt en na het door of vanwege het bevoegd gezag gegeven 
-bevel zich niet verwijdert, wordt gestraft met [STRAFMAAT].
+bevel zich niet verwijdert, wordt gestraft met [SANCTIENORM].
 ```
 -->
 
@@ -605,18 +605,18 @@ bevel zich niet verwijdert, wordt gestraft met [STRAFMAAT].
 Hij die opzettelijk bij gelegenheid van een volksoploop zich niet 
 onmiddellijk verwijdert na het derde door of vanwege het bevoegd gezag 
 gegeven bevel, wordt, als schuldig aan deelneming aan samenscholing, 
-gestraft met [STRAFMAAT].
+gestraft met [SANCTIENORM].
 ```
 
 #####<span style="color: #85A79D;">Artikel 188 | Valse aangifte of klacht</span>
 ```
 Hij die aangifte of klacht doet dat een strafbaar feit gepleegd is, 
-wetende dat het niet gepleegd is, wordt gestraft met [STRAFMAAT].
+wetende dat het niet gepleegd is, wordt gestraft met [SANCTIENORM].
 ```
 
 #####<span style="color: #85A79D;">Artikel 189 | Hulp aan dader na misdrijf</span>
 ```
-1. Met [STRAFMAAT] wordt gestraft:
+1. Met [SANCTIENORM] wordt gestraft:
    1° hij die opzettelijk iemand die schuldig is aan of verdachte is van 
       enig misdrijf, verbergt of hem behulpzaam is in het ontkomen aan de 
       nasporing van of aanhouding door de ambtenaren van het DOJ of politie;
@@ -637,14 +637,14 @@ wetende dat het niet gepleegd is, wordt gestraft met [STRAFMAAT].
 #####<span style="color: #85A79D;">Artikel 190 | Beletten van lijkschouwing</span>
 ```
 Hij die opzettelijk een gerechtelijke lijkschouwing belet, belemmert of 
-verijdelt, wordt gestraft met [STRAFMAAT].
+verijdelt, wordt gestraft met [SANCTIENORM].
 ```
 
 #####<span style="color: #85A79D;">Artikel 191 | Bevrijding van gedetineerde</span>
 ```
 Hij die opzettelijk iemand, op openbaar gezag of krachtens rechterlijke 
 uitspraak of beschikking van de vrijheid beroofd, bevrijdt of bij zijn 
-zelfbevrijding behulpzaam is, wordt gestraft met [STRAFMAAT].
+zelfbevrijding behulpzaam is, wordt gestraft met [SANCTIENORM].
 ```
 
 <!-- UITGEZET WEGENS KANS NIHIL IN RP SERVER
@@ -656,7 +656,7 @@ zelfbevrijding behulpzaam is, wordt gestraft met [STRAFMAAT].
    onder ede vordert of daaraan rechtsgevolgen verbindt, mondeling of 
    schriftelijk, persoonlijk of door een bijzonder daartoe gemachtigde, 
    opzettelijk een valse verklaring onder ede aflegt, wordt gestraft met 
-   [STRAFMAAT]
+   [SANCTIENORM]
 2. Met de eed staat gelijk de belofte of bevestiging die krachtens de wet 
    voor de eed in de plaats treedt.
 ```
@@ -670,7 +670,7 @@ zelfbevrijding behulpzaam is, wordt gestraft met [STRAFMAAT].
    dienen, valselijk opmaakt of vervalst, met het oogmerk om het als 
    echt en onvervalst te gebruiken of door anderen te doen gebruiken, 
    wordt als schuldig aan valsheid in geschrift gestraft, met 
-   [STRAFMAAT].
+   [SANCTIENORM].
 2. Met dezelfde straf wordt gestraft hij die opzettelijk gebruik maakt 
    van het valse of vervalste geschrift als ware het echt en onvervalst 
    dan wel opzettelijk zodanig geschrift aflevert of voorhanden heeft, 
@@ -688,7 +688,7 @@ zelfbevrijding behulpzaam is, wordt gestraft met [STRAFMAAT].
    verstrekken dan wel een zodanig geschrift dat aan hem of een ander 
    verstrekt is, ter beschikking stelt van een derde met het oogmerk 
    het door deze te doen gebruiken als ware het aan hem verstrekt, 
-   wordt gestraft met [STRAFMAAT].
+   wordt gestraft met [SANCTIENORM].
 2. Met dezelfde straf wordt gestraft hij die een reisdocument of een 
    identiteitsbewijs als bedoeld in het eerste lid aflevert of voorhanden 
    heeft waarvan hij weet of redelijkerwijs moet vermoeden dat het vals 
@@ -733,7 +733,7 @@ aan laster, gestraft met gevangenisstraf van ten hoogste [AANTAL] maanden.
    of afbeelding, hetzij iemand, in zijn tegenwoordigheid mondeling of door 
    feitelijkheden, hetzij door een toegezonden of aangeboden geschrift of 
    afbeelding, aangedaan, wordt, als eenvoudige belediging, gestraft met 
-   [STRAFMAAT].
+   [SANCTIENORM].
 2. Niet als eenvoudige belediging strafbaar zijn gedragingen die ertoe 
    strekken een oordeel te geven over de behartiging van openbare belangen, 
    en die er niet op zijn gericht ook in ander opzicht of zwaarder te grieven 
@@ -751,7 +751,7 @@ klacht van hem tegen wie het misdrijf is gepleegd.
 #####<span style="color: #85A79D;">Artikel 282 | Opzettelijke vrijheidsberoving</span>
 ```
 1. Hij die opzettelijk iemand wederrechtelijk van de vrijheid berooft 
-   of beroofd houdt, wordt gestraft met [STRAFMAAT].
+   of beroofd houdt, wordt gestraft met [SANCTIENORM].
 2. De in dit artikel bepaalde straffen zijn ook van toepassing op hem die 
    opzettelijk tot de wederrechtelijke vrijheidsberoving een plaats 
    verschaft.   
@@ -762,13 +762,13 @@ klacht van hem tegen wie het misdrijf is gepleegd.
 1. Hij die opzettelijk iemand wederrechtelijk van de vrijheid berooft 
    of beroofd houdt met het oogmerk een ander te dwingen iets te doen of 
    niet te doen wordt als schuldig aan gijzeling gestraft met 
-   [STRAFMAAT].
+   [SANCTIENORM].
 2. Het tweede lid van artikel 282 is toepasselijk.   
 ```
 
 #####<span style="color: #85A79D;">Artikel 284 | Dwang</span>
 ```
-1. Met [STRAFMAAT] wordt gestraft:
+1. Met [SANCTIENORM] wordt gestraft:
    1° hij die een ander door geweld of enige andere feitelijkheid of 
       door bedreiging met geweld of enige andere feitelijkheid, gericht 
       hetzij tegen die ander hetzij tegen derden, wederrechtelijk dwingt 
@@ -788,7 +788,7 @@ klacht van hem tegen wie het misdrijf is gepleegd.
    de verlening van diensten ontstaat, met verkrachting, met feitelijke 
    aanranding van de eerbaarheid, met enig misdrijf tegen het leven gericht, 
    met gijzeling, met zware mishandeling of met brandstichting, wordt 
-   gestraft met [STRAFMAAT].
+   gestraft met [SANCTIENORM].
 2. Indien het feit, omschreven in het eerste lid wordt 
    gepleegd tegen een persoon in diens hoedanigheid van ambtenaar van 
    politie wordt de op het feit gestelde gevangenisstraf met een 
@@ -800,7 +800,7 @@ klacht van hem tegen wie het misdrijf is gepleegd.
 1. Hij, die wederrechtelijk stelselmatig opzettelijk inbreuk maakt op eens 
    anders persoonlijke levenssfeer met het oogmerk die ander te dwingen 
    iets te doen, niet te doen of te dulden dan wel vrees aan te jagen wordt, 
-   als schuldig aan belaging, gestraft met [STRAFMAAT].
+   als schuldig aan belaging, gestraft met [SANCTIENORM].
 2. Vervolging vindt niet plaats dan op klacht van hem tegen wie 
    het misdrijf is begaan.       
 ```
@@ -813,7 +813,7 @@ klacht van hem tegen wie het misdrijf is gepleegd.
    oogmerk om die ander vrees aan te jagen dan wel aan te laten jagen, 
    ernstige overlast aan te doen dan wel aan te laten doen of hem in 
    de uitoefening van zijn ambt of beroep ernstig te hinderen dan wel 
-   ernstig te laten hinderen, wordt gestraft met [STRAFMAAT].
+   ernstig te laten hinderen, wordt gestraft met [SANCTIENORM].
 2. Indien het feit, omschreven in het eerste lid, wordt gepleegd tegen 
    een persoon in diens hoedanigheid van ambtenaar van politie wordt de 
    op het feit gestelde gevangenisstraf met een derde verhoogd.   
@@ -825,7 +825,7 @@ klacht van hem tegen wie het misdrijf is gepleegd.
 #####<span style="color: #85A79D;">Artikel 287 | Doodslag</span>
 ```
 Hij die opzettelijk een ander van het leven berooft, wordt, als schuldig 
-aan doodslag, gestraft met [STRAFMAAT].
+aan doodslag, gestraft met [SANCTIENORM].
 ```
 
 #####<span style="color: #85A79D;">Artikel 288 | Gekwalificeerde doodslag</span>
@@ -834,20 +834,20 @@ Doodslag gevolgd, vergezeld of voorafgegaan van een strafbaar feit en gepleegd
 met het oogmerk om de uitvoering van dat feit voor te bereiden of gemakkelijk 
 te maken, of om, bij betrapping op heter daad, aan zichzelf of andere 
 deelnemers aan dat feit hetzij straffeloosheid hetzij het bezit van het 
-wederrechtelijk verkregene te verzekeren, wordt gestraft met [STRAFMAAT].
+wederrechtelijk verkregene te verzekeren, wordt gestraft met [SANCTIENORM].
 ```
 
 #####<span style="color: #85A79D;">Artikel 289 | Moord</span>
 ```
 Hij die opzettelijk en met voorbedachten rade een ander van het leven berooft, 
-wordt, als schuldig aan moord, gestraft met [STRAFMAAT].
+wordt, als schuldig aan moord, gestraft met [SANCTIENORM].
 ```
 
 #### TITEL XX. Mishandeling
 
 #####<span style="color: #85A79D;">Artikel 300 | Mishandeling</span>
 ```
-1. Mishandeling wordt gestraft met [STRAFMAAT].
+1. Mishandeling wordt gestraft met [SANCTIENORM].
 2. Met mishandeling wordt gelijkgesteld opzettelijke benadeling van 
    de gezondheid.
 3. Poging tot dit misdrijf is niet strafbaar.
@@ -857,21 +857,21 @@ wordt, als schuldig aan moord, gestraft met [STRAFMAAT].
 #####Artikel 301 | Mishandeling met voorbedachten rade 
 ```
 Mishandeling gepleegd met voorbedachten rade wordt gestraft met 
-[STRAFMAAT].
+[SANCTIENORM].
 ```
 -->
 
 #####<span style="color: #85A79D;">Artikel 302 | Zware mishandeling</span>
 ```
 Hij die aan een ander opzettelijk zwaar lichamelijk letsel toebrengt, 
-wordt, als schuldig aan zware mishandeling, gestraft met [STRAFMAAT].
+wordt, als schuldig aan zware mishandeling, gestraft met [SANCTIENORM].
 ```
 
 <!-- UITGEZET WEGENS KANS NIHIL IN RP SERVER
 #####Artikel 303 | Zware mishandeling met voorbedachten rade
 ```
 Zware mishandeling gepleegd met voorbedachten rade wordt gestraft met 
-[STRAFMAAT].
+[SANCTIENORM].
 ```
 -->
 
@@ -888,7 +888,7 @@ Zware mishandeling gepleegd met voorbedachten rade wordt gestraft met
 #####<span style="color: #85A79D;">Artikel 307 | Dood door schuld</span>
 ```
 1. Hij aan wiens schuld de dood van een ander te wijten is, wordt gestraft met 
-   [STRAFMAAT].
+   [SANCTIENORM].
 2. Indien de schuld bestaat in roekeloosheid, wordt de op het feit gestelde 
    gevangenisstraf met een derde verhoogd.         
 ```
@@ -898,7 +898,7 @@ Zware mishandeling gepleegd met voorbedachten rade wordt gestraft met
 1. Hij aan wiens schuld te wijten is dat een ander zwaar lichamelijk letsel 
    bekomt of zodanig lichamelijk letsel dat daaruit tijdelijke ziekte of 
    verhindering in de uitoefening van zijn ambts- of beroepsbezigheden 
-   ontstaat, wordt gestraft met [STRAFMAAT].
+   ontstaat, wordt gestraft met [SANCTIENORM].
 2. Indien de schuld bestaat in roekeloosheid, wordt de op het feit gestelde 
    gevangenisstraf met een derde verhoogd.   
 ```
@@ -918,12 +918,12 @@ openbaarmaking van zijn uitspraak gelasten.
 ```
 Hij die enig goed dat geheel of ten dele aan een ander toebehoort wegneemt, 
 met het oogmerk om het zich wederrechtelijk toe te eigenen, wordt, als 
-schuldig aan diefstal, gestraft met [STRAFMAAT].
+schuldig aan diefstal, gestraft met [SANCTIENORM].
 ```
 
 #####<span style="color: #85A79D;">Artikel 311 | Gekwalificeerde diefstal</span>
 ```
-Met [STRAFMAAT] wordt gestraft:
+Met [SANCTIENORM] wordt gestraft:
    1° diefstal in een woning of op een besloten erf waarop een woning staat, 
       door iemand die zich aldaar buiten weten of tegen de wil van de 
       rechthebbende bevindt;
@@ -938,7 +938,7 @@ Met [STRAFMAAT] wordt gestraft:
 
 #####<span style="color: #85A79D;">Artikel 312 | Diefstal met geweldpleging</span>
 ```
-1. Met [STRAFMAAT] wordt gestraft 
+1. Met [SANCTIENORM] wordt gestraft 
    diefstal, voorafgegaan, vergezeld of gevolgd van geweld of bedreiging 
    met geweld tegen personen, gepleegd met het oogmerk om die diefstal 
    voor te bereiden of gemakkelijk te maken, of om, bij betrapping op 
@@ -966,7 +966,7 @@ Met [STRAFMAAT] wordt gestraft:
    deze of aan een derde toebehoort, hetzij tot het aangaan van een 
    schuld of het teniet doen van een inschuld, hetzij tot het ter 
    beschikking stellen van gegevens, wordt, als schuldig aan afpersing, 
-   gestraft met [STRAFMAAT].
+   gestraft met [SANCTIENORM].
 2. Met dezelfde straf wordt gestraft hij die de dwang, bedoeld in het 
    eerste lid, uitoefent door de bedreiging dat gegevens die door middel 
    van een geautomatiseerd werk zijn opgeslagen, onbruikbaar of 
@@ -984,7 +984,7 @@ Met [STRAFMAAT] wordt gestraft:
    geheel of ten dele aan deze of aan een derde toebehoort, hetzij tot 
    het aangaan van een schuld of het teniet doen van een inschuld, 
    hetzij tot het ter beschikking stellen van gegevens, wordt als schuldig 
-   aan afdreiging, gestraft met [STRAFMAAT].
+   aan afdreiging, gestraft met [SANCTIENORM].
 2. Dit misdrijf wordt niet vervolgd dan op klacht van hem tegen wie het 
    gepleegd is.
 ```
@@ -997,7 +997,7 @@ Met [STRAFMAAT] wordt gestraft:
 ```
 Hij die opzettelijk enig goed dat geheel of ten dele aan een ander toebehoort 
 en dat hij anders dan door misdrijf onder zich heeft, wederrechtelijk zich 
-toeëigent, wordt, als schuldig aan verduistering, gestraft met [STRAFMAAT].
+toeëigent, wordt, als schuldig aan verduistering, gestraft met [SANCTIENORM].
 ```
 
 
@@ -1011,7 +1011,7 @@ hetzij door listige kunstgrepen, hetzij door een samenweefsel van
 verdichtsels, iemand beweegt tot de afgifte van enig goed, tot het verlenen 
 van een dienst, tot het ter beschikking stellen van gegevens, tot het aangaan 
 van een schuld of tot het teniet doen van een inschuld, wordt, als schuldig 
-aan oplichting, gestraft met [STRAFMAAT].
+aan oplichting, gestraft met [SANCTIENORM].
 ```
 
 
@@ -1019,7 +1019,7 @@ aan oplichting, gestraft met [STRAFMAAT].
 ```
 Hij die een beroep of een gewoonte maakt van het kopen van goederen met het 
 oogmerk om zonder volledige betaling zich of een ander de beschikking over 
-die goederen te verzekeren, wordt gestraft met [STRAFMAAT].
+die goederen te verzekeren, wordt gestraft met [SANCTIENORM].
 ```
 -->
 
@@ -1029,7 +1029,7 @@ die goederen te verzekeren, wordt gestraft met [STRAFMAAT].
 ```
 1. Hij die opzettelijk en wederrechtelijk enig goed dat geheel of ten dele aan 
    een ander toebehoort, vernielt, beschadigt, onbruikbaar maakt of wegmaakt, 
-   wordt gestraft met [STRAFMAAT].
+   wordt gestraft met [SANCTIENORM].
 2. Met dezelfde straf wordt gestraft hij die opzettelijk en wederrechtelijk 
    een dier dat geheel of ten dele aan een ander toebehoort, doodt, beschadigt, 
    onbruikbaar maakt of wegmaakt.
@@ -1039,7 +1039,7 @@ die goederen te verzekeren, wordt gestraft met [STRAFMAAT].
 
 #####<span style="color: #85A79D;">Artikel 416 | Opzetheling</span>
 ```
-1. Als schuldig aan opzetheling wordt gestraft met [STRAFMAAT]:
+1. Als schuldig aan opzetheling wordt gestraft met [SANCTIENORM]:
    a. hij die een goed verwerft, voorhanden heeft of overdraagt, dan wel een 
       persoonlijk recht op of een zakelijk recht ten aanzien van een goed 
       vestigt of overdraagt, terwijl hij ten tijde van de verwerving of het 
@@ -1057,13 +1057,13 @@ die goederen te verzekeren, wordt gestraft met [STRAFMAAT].
 #####Artikel 417 | Gewoonteheling
 ```
 Hij die van het plegen van opzetheling een gewoonte maakt, wordt gestraft met 
-[STRAFMAAT].
+[SANCTIENORM].
 ```
 -->
 
 #####<span style="color: #85A79D;">Artikel 417bis | Schuldheling</span>
 ```
-1. Als schuldig aan schuldheling wordt gestraft met [STRAFMAAT]:
+1. Als schuldig aan schuldheling wordt gestraft met [SANCTIENORM]:
    a. hij die een goed verwerft, voorhanden heeft of overdraagt, dan wel een 
       persoonlijk recht op of zakelijk recht ten aanzien van een goed vestigt 
       of overdraagt, terwijl hij ten tijde van de verwerving of het voorhanden 
@@ -1082,7 +1082,7 @@ Hij die van het plegen van opzetheling een gewoonte maakt, wordt gestraft met
 
 #####<span style="color: #85A79D;">Artikel 420bis | Witwassen</span>
 ```
-1. Als schuldig aan witwassen wordt gestraft met [STRAFMAAT]:
+1. Als schuldig aan witwassen wordt gestraft met [SANCTIENORM]:
    a. hij die van een voorwerp de werkelijke aard, de herkomst, de vindplaats, 
       de vervreemding of de verplaatsing verbergt of verhult, dan wel verbergt 
       of verhult wie de rechthebbende op een voorwerp is of het voorhanden 
@@ -1099,12 +1099,12 @@ Hij die van het plegen van opzetheling een gewoonte maakt, wordt gestraft met
 ```
 Witwassen dat enkel bestaat uit het verwerven of voorhanden hebben van een 
 voorwerp dat onmiddellijk afkomstig is uit enig eigen misdrijf wordt als 
-eenvoudig witwassen gestraft met [STRAFMAAT].
+eenvoudig witwassen gestraft met [SANCTIENORM].
 ```
 
 #####Artikel 420quater | Schuldwitwassen
 ```
-1. Als schuldig aan schuldwitwassen wordt gestraft met [STRAFMAAT]:
+1. Als schuldig aan schuldwitwassen wordt gestraft met [SANCTIENORM]:
    a. hij die van een voorwerp de werkelijke aard, de herkomst, de vindplaats, 
       de vervreemding of de verplaatsing verbergt of verhult, dan wel verbergt 
       of verhult wie de rechthebbende op een voorwerp is of het voorhanden 
@@ -1121,7 +1121,7 @@ eenvoudig witwassen gestraft met [STRAFMAAT].
 ```
 Schuldwitwassen dat enkel bestaat uit het verwerven of voorhanden hebben van 
 een voorwerp dat onmiddellijk afkomstig is uit enig eigen misdrijf wordt als 
-eenvoudig schuldwitwassen gestraft met [STRAFMAAT].
+eenvoudig schuldwitwassen gestraft met [SANCTIENORM].
 ```
 -->
 
@@ -1134,7 +1134,7 @@ eenvoudig schuldwitwassen gestraft met [STRAFMAAT].
 Hij die op of aan de openbare weg of op enige voor het publiek toegankelijke 
 plaats tegen personen of goederen enige baldadigheid pleegt waardoor gevaar 
 of nadeel kan worden teweeggebracht, wordt, als schuldig aan straatschenderij, 
-gestraft met [STRAFMAAT].
+gestraft met [SANCTIENORM].
 ```
 
 #####<span style="color: #85A79D;">Artikel 426 | Gevaarzetting in dronkenschap</span>
@@ -1143,7 +1143,7 @@ Hij die, terwijl hij in staat van dronkenschap verkeert, hetzij in het openbaar
 het verkeer belemmert of de orde verstoort, hetzij eens anders veiligheid 
 bedreigt, hetzij enige handeling verricht waarbij, tot voorkoming van gevaar 
 voor leven of gezondheid van derden, bijzondere omzichtigheid of voorzorgen 
-worden vereist, wordt gestraft met [STRAFMAAT].
+worden vereist, wordt gestraft met [SANCTIENORM].
 ```
 
 #####<span style="color: #85A79D;">Artikel 426bis | Hinderlijk volgen</span>
@@ -1151,7 +1151,7 @@ worden vereist, wordt gestraft met [STRAFMAAT].
 Hij die wederrechtelijk op de openbare weg een ander in zijn vrijheid van 
 beweging belemmert of met een of meer anderen zich aan een ander tegen 
 diens uitdrukkelijk verklaarde wil blijft opdringen of hem op hinderlijke 
-wijze blijft volgen, wordt gestraft met [STRAFMAAT].
+wijze blijft volgen, wordt gestraft met [SANCTIENORM].
 ```
 
 #####<span style="color: #85A79D;">Artikel 426ter | Belemmeren hulpverlener</span>
@@ -1159,14 +1159,14 @@ wijze blijft volgen, wordt gestraft met [STRAFMAAT].
 Hij die wederrechterlijk een hulpverlener gedurende de uitoefening van zijn 
 beroep in zijn vrijheid van beweging belemmert of met een of meer anderen 
 zich aan hem tegen zijn uitdrukkelijk verklaarde wil blijft opdringen of hem 
-op hinderlijke wijze blijft volgen wordt gestraft met [STRAFMAAT].
+op hinderlijke wijze blijft volgen wordt gestraft met [SANCTIENORM].
 ```
 
 #### TITEL II. Overtredingen betreffende de openbare orde
 
 #####<span style="color: #85A79D;">Artikel 435 | Valse naam</span>
 ```
-Met [STRAFMAAT] wordt gestraft:
+Met [SANCTIENORM] wordt gestraft:
    1° hij die, door het bevoegd gezag naar zijn identificerende 
       persoonsgegevens gevraagd, een valse naam, voornaam, geboortedatum, 
       geboorteplaats, adres waarop hij in de basisregistratie personen 
@@ -1178,7 +1178,7 @@ Met [STRAFMAAT] wordt gestraft:
 #####<span style="color: #85A79D;">Artikel 443 | Overtreding noodverordening</span>
 ```
 Hij die een algemeen voorschrift van de Mayor uitgevaardigd en afgekondigd, 
-overtreedt, wordt gestraft met [STRAFMAAT].
+overtreedt, wordt gestraft met [SANCTIENORM].
 ```
 
 #####<span style="color: #85A79D;">Artikel 447e | Identificatieplicht</span>
@@ -1187,7 +1187,7 @@ Hij die niet voldoet aan de verplichting om een identiteitsbewijs ter inzage
 aan te bieden of medewerking te verlenen aan het nemen van een of meer 
 vingerafdrukken, hem opgelegd krachtens de Wet op de identificatieplicht, het 
 Wetboek van Strafvordering, het Wetboek van Strafrecht, wordt gestraft met
-[STRAFMAAT].
+[SANCTIENORM].
 ```
 
 <!-- UITGEZET WEGENS KANS NIHIL IN RP SERVER
@@ -1199,7 +1199,7 @@ Hij die, getuige van het ogenblikkelijk levensgevaar waarin een ander verkeert,
 nalaat deze die hulp te verlenen of te verschaffen die hij hem, zonder gevaar 
 voor zichzelf of anderen redelijkerwijs te kunnen duchten, verlenen of 
 verschaffen kan, wordt, indien de dood van de hulpbehoevende volgt, gestraft 
-met [STRAFMAAT].
+met [SANCTIENORM].
 ```
 -->
 
@@ -1208,7 +1208,7 @@ met [STRAFMAAT].
 #####<span style="color: #85A79D;">Artikel 453 | Openbare dronkenschap</span>
 ```
 Hij die zich in kennelijke staat van dronkenschap op de openbare weg bevindt, 
-wordt gestraft met [STRAFMAAT].
+wordt gestraft met [SANCTIENORM].
 ```
 
 #### TITEL VII. Overtredingen betreffende de veldpolitie
@@ -1217,5 +1217,5 @@ wordt gestraft met [STRAFMAAT].
 ```
 Hij die, zonder daartoe gerechtigd te zijn, zich op eens anders grond waarvan 
 de toegang op een voor hem blijkbare wijze door de rechthebbende is verboden, 
-bevindt of daar vee laat lopen, wordt gestraft met [STRAFMAAT].
+bevindt of daar vee laat lopen, wordt gestraft met [SANCTIENORM].
 ```

@@ -34,13 +34,12 @@ In deze wet wordt verstaan onder:
    in de volgende categorieën. 
 
       Categorie I
-         1° switchblade;
-         2° mes (uitzondering op jachtmessen);
-         3° machete;
-         4° strijdbijl;
-         5° hakbijl;
-         6° boksbeugel;
-         7° geluiddemper voor vuurwapens.
+         1° mes (uitzondering op jachtmessen);
+         2° dolk;
+         3° stiletto;
+         4° boksbeugel;
+         5° machete;
+         6° geluiddemper voor vuurwapens.
 
       Categorie II
          1° vuurwapens die niet onder een van de andere categorieën vallen;
@@ -55,26 +54,13 @@ In deze wet wordt verstaan onder:
          1° voorwerpen waarmee door een elektrische stroomstoot personen 
             weerloos kunnen worden gemaakt of pijn kan worden toegebracht, 
             met uitzondering van medische hulpmiddelen;
-         2° Double action revolver;
-         3° Navy revolver;
-         4° Revolver;
-         5° Revolver MK2;
-         6° Pistol;
-         7° Pistol MK2;
-         8° Combat pistool;
-         9° Ceramic pistool;
-         10° SNS pistol;
-         11° SNS pistol;
-         12° SNS pistol MK2;
-         13° Vintage pistol;
-         14° AP pistool;
-         15° Heavy pistol;
-         16° Pistol .50;
-         17° Perico Pistol.
+         2° .38 Revolver;
+         3° .38 NubNose Revolver;
+         4° .38 NubNose Revolver 2;
+         5° .44 Magnum.
 
       Categorie IV
-         1° nightstick;
-         2° Voorwerpen waarvan, gelet op hun aard of de omstandigheden 
+         1° Voorwerpen waarvan, gelet op hun aard of de omstandigheden 
             waaronder zij worden aangetroffen, redelijkerwijs kan worden 
             aangenomen dat zij zijn bestemd om letsel aan personen toe 
             te brengen of te dreigen en die niet onder een van de andere 
@@ -93,21 +79,14 @@ In deze wet wordt verstaan onder:
             worden doorboord, munitie voorzien van een projectiel met brandsas 
             of met een explosieve lading, alsmede de voor deze munitie bestemde 
             projectielen;
-         3° .22 Long rifle;
-         4° .50 BMG;
-         5° 12 Gauge;
-         6° 40mm Explosive;
-         7° 5.56x45;
-         8° 7.62x39;
-         9° 7.62x51.
+         3° 12 Gauge;
+         4° 12 Gauge Non Lethal.
 
       Categorie III
-         1° .45 ACP;
-         2° .38 LC;
-         3° .44 Magnum;
-         4° .50 AE;
-         5° .50 Ball;
-         6° 9mm.
+         1° .38 LC;
+         2° .44 Magnum;
+         3° .45 ACP;
+         4° 9mm.
 ```
 
 #####<span style="color: #85A79D;">Artikel 3 | Onderdelen en hulpstukken</span>
@@ -161,7 +140,7 @@ Voorts kunnen er voorschriften aan worden verbonden.
    van een wapenvergunning, tenzij de houder handelt in strijd met
    de beperkingen dan wel voorschriften die op grond van artikel 6
    zijn vastgesteld. 
-3. Met [STRAFMAAT] wordt gestraft hij die handelt in strijd met het 
+3. Met [SANCTIENORM] wordt gestraft hij die handelt in strijd met het 
    eerste lid.
 ```
 
@@ -176,10 +155,10 @@ Voorts kunnen er voorschriften aan worden verbonden.
    de beperkingen dan wel voorschriften die op grond van artikel 6
    zijn vastgesteld.  
 3. Hij die handelt in strijd met het eerste lid wordt gestraft met:
-    - Categorie II wapen, [STRAFMAAT]
-    - Categorie II munitie, [STRAFMAAT]
-    - Categorie III wapen, [STRAFMAAT]
-    - Categorie III munitie, [STRAFMAAT]
+    - Categorie II wapen, [SANCTIENORM]
+    - Categorie II munitie, [SANCTIENORM]
+    - Categorie III wapen, [SANCTIENORM]
+    - Categorie III munitie, [SANCTIENORM]
 ```
 
 ### § 6 | Voorhanden hebben en dragen van wapens en munitie van de categorieën II, III en IV
@@ -193,10 +172,10 @@ Voorts kunnen er voorschriften aan worden verbonden.
    de beperkingen dan wel voorschriften die op grond van artikel 6
    zijn vastgesteld. 
 3. Hij die handelt in strijd met het eerste lid wordt gestraft met:
-    - Categorie II wapen, [STRAFMAAT]
-    - Categorie II munitie, [STRAFMAAT]
-    - Categorie III wapen, [STRAFMAAT]
-    - Categorie III munitie, [STRAFMAAT]
+    - Categorie II wapen, [SANCTIENORM]
+    - Categorie II munitie, [SANCTIENORM]
+    - Categorie III wapen, [SANCTIENORM]
+    - Categorie III munitie, [SANCTIENORM]
 ```
 
 #####<span style="color: #85A79D;">Artikel 27 | Dragen categorie II, III en IV</span>
@@ -208,11 +187,11 @@ Voorts kunnen er voorschriften aan worden verbonden.
    met de beperkingen dan wel voorschriften die op grond van artikel 6 
    zijn vastgesteld. 
 4. Hij die handelt in strijd met het eerste of tweede lid wordt gestraft met:
-    - Categorie II wapen, [STRAFMAAT]
-    - Categorie II munitie, [STRAFMAAT]
-    - Categorie III wapen, [STRAFMAAT]
-    - Categorie III munitie, [STRAFMAAT]
-    - Categorie IV wapen, [STRAFMAAT]
+    - Categorie II wapen, [SANCTIENORM]
+    - Categorie II munitie, [SANCTIENORM]
+    - Categorie III wapen, [SANCTIENORM]
+    - Categorie III munitie, [SANCTIENORM]
+    - Categorie IV wapen, [SANCTIENORM]
 ```
 
 ### § 7 | Overdracht en verkrijging van wapens en munitie van de categorieën II, III en IV
@@ -222,10 +201,10 @@ Voorts kunnen er voorschriften aan worden verbonden.
 1. Het is verboden een wapen of munitie van de categorieën II en III over 
    te dragen.
 2. Hij die handelt in strijd met het eerste lid wordt gestraft met:
-    - Categorie II wapen, [STRAFMAAT]
-    - Categorie II munitie, [STRAFMAAT]
-    - Categorie III wapen, [STRAFMAAT]
-    - Categorie III munitie, [STRAFMAAT]
+    - Categorie II wapen, [SANCTIENORM]
+    - Categorie II munitie, [SANCTIENORM]
+    - Categorie III wapen, [SANCTIENORM]
+    - Categorie III munitie, [SANCTIENORM]
 ```
 
 ### § 11A | Opsporing
