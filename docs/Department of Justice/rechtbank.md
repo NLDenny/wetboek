@@ -2,7 +2,7 @@
 
 ![Image title](../img/stadskantoor.webp){ align=right }
 
-De rechtbank is gevestigd in de City Hall te Rockford Hills. 
+De rechtbank is gevestigd in het stadhuis te Rockford Hills. 
 Het gebouw beschikt over één rechtszaal.
 In de rechtbank worden alleen strafzittingen behandeld.
 In de meeste gevallen is het mogelijk om een zitting bij te wonen. 

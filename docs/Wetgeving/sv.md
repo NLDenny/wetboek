@@ -18,7 +18,7 @@ die binnen welker rechtsgebied het feit is begaan.
 #####<span style="color: #85A79D;">Artikel 9 | Vervolging door DA</span>
 ```
 De district attorney is belast met de vervolging van strafbare 
-feiten waarvan de rechtbank Paleto Bay kennisneemt.
+feiten waarvan de rechtbank Rockford Hills kennisneemt.
 ```
 
 #### TITEL II. De verdachte
@@ -549,7 +549,7 @@ b. de ambtenaren van politie.
 #####<span style="color: #85A79D;">Artikel 148 | Taak DA bij opsporing</span>
 ```
 1. De district attorney is belast met de opsporing van de strafbare 
-   feiten waarvan de rechtbank Paleto Bay, kennisneemt.
+   feiten waarvan de rechtbank Rockford Hills, kennisneemt.
 2. Hij geeft daartoe bevelen aan de overige personen met de opsporing belast.
 3. Zoo de opsporing door hem persoonlijk geschiedt, doet hij van zijne 
    bevinding blijken bij proces-verbaal opgemaakt op zijn ambtseed; daarbij 
