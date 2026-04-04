@@ -100,6 +100,7 @@ Coca blad | Bladeren van planten van het geslacht Erythroxylon
 Coca blend | *Geen omschrijving*
 Coca pasta| *Geen omschrijving*
 Cocaïne | (-)-3-beta-benzoyloxytropaan-2-beta-carbonzure methylester
+Coke Pakket | (-)-3-beta-benzoyloxytropaan-2-beta-carbonzure methylester
 Meth
 Meth (-)
 Meth (+)
