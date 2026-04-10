@@ -18,7 +18,7 @@ Wgbk - Wet gedeeltelijk verbod gezichtsbedekkende kleding
 |Artikel|Feit|Sanctienorm|Bedrag
 |:----|:----|:------|-:|
 [Art. 131 Sr](../../Wetgeving/sr/#artikel-131-opruiing) | Opruiing | 10 uur TS | €350,-
-[Art. 138 Sr](../../Wetgeving/sr/#artikel-138-huisvredebreuk) | Huisvredebreuk | 12 maanden GS | €650,-
+[Art. 138 Sr](../../Wetgeving/sr/#artikel-138-huisvredebreuk) | Huisvredebreuk | 12 maanden GS | €480,-
 [Art. 139 Sr](../../Wetgeving/sr/#artikel-139-lokaalvredebreuk) | Lokaalvredebreuk | 10 uur TS | €280,-
 [Art. 140 Sr](../../Wetgeving/sr/#artikel-140-deelneming-aan-criminele-organisatie) | Deelneming aan criminele organisatie | 20 maanden GS | €1.250,-
 [Art. 141 Sr](../../Wetgeving/sr/#artikel-141-openlijke-geweldpleging) | Openlijke geweldpleging | 10 maanden GS | €560,-
@@ -41,23 +41,23 @@ Wgbk - Wet gedeeltelijk verbod gezichtsbedekkende kleding
 [Art. 225 Sr](../../Wetgeving/sr/#artikel-225-valsheid-in-geschrift) | Valsheid in geschrift | 10 maanden GS | €520,-
 [Art. 231 Sr](../../Wetgeving/sr/#artikel-231-vals-reisdocument-of-identiteitskaart) | Vals reisdocument of identiteitskaart | 10 maanden GS | €700,- 
 [Art. 266 Sr](../../Wetgeving/sr/#artikel-266-eenvoudige-belediging) | Eenvoudige belediging | 10 uur TS | €350,-
-[Art. 282 Sr](../../Wetgeving/sr/#artikel-282-opzettelijke-vrijheidsberoving) | Opzettelijke vrijheidsberoving | 18 maanden GS | €1.100,-
-[Art. 282A Sr](../../Wetgeving/sr/#artikel-282A-gijzeling) | Gijzeling | 22 maanden GS | €1.250,- 
+[Art. 282 Sr](../../Wetgeving/sr/#artikel-282-opzettelijke-vrijheidsberoving) | Opzettelijke vrijheidsberoving | 18 maanden GS | €900,-
+[Art. 282A Sr](../../Wetgeving/sr/#artikel-282A-gijzeling) | Gijzeling | 22 maanden GS | €1.050,- 
 [Art. 284 Sr](../../Wetgeving/sr/#artikel-284-dwang) | Dwang | 15 maanden GS | €650,-
 [Art. 285 Sr](../../Wetgeving/sr/#artikel-285-bedreiging-met-ernstig-misdrijf) | Bedreiging | 15 maanden GS | €650,-
 [Art. 285B Sr](../../Wetgeving/sr/#artikel-285B-staling) | Stalking | 10 uur TS | €410,-
-[Art. 287 Sr](../../Wetgeving/sr/#artikel-287-doodslag) | Doodslag | 40 maanden GS | €7.450,-
-[Art. 288 Sr](../../Wetgeving/sr/#artikel-288-gekwalificeerde-doodslag) | Gekwalificeerde doodslag | 43 maanden GS | €7.750,-
-[Art. 289 Sr](../../Wetgeving/sr/#artikel-289-moord) | Moord | 55 maanden GS | €8.950,-
+[Art. 287 Sr](../../Wetgeving/sr/#artikel-287-doodslag) | Doodslag | 25 maanden GS | €3.250,-
+[Art. 288 Sr](../../Wetgeving/sr/#artikel-288-gekwalificeerde-doodslag) | Gekwalificeerde doodslag | 30 maanden GS | €3.550,-
+[Art. 289 Sr](../../Wetgeving/sr/#artikel-289-moord) | Moord | 35 maanden GS | €3.850,-
 [Art. 300 Sr](../../Wetgeving/sr/#artikel-300-mishandeling) | Mishandeling | 18 uur TS | €680,-
 [Art. 304 Sr](../../Wetgeving/sr/#artikel-304-strafverzwarende-omstandigheden) | Mishandeling ambt. | 24 uur TS | €905,-
 [Art. 302 Sr](../../Wetgeving/sr/#artikel-302-zware-mishandeling) | Zware mishandeling | 15 maanden GS | €1.000,-
 [Art. 304 Sr](../../Wetgeving/sr/#artikel-304-strafverzwarende-omstandigheden) | Zware mishandeling ambt. | 20 maanden GS | €1.300,-
-[Art. 307 Sr](../../Wetgeving/sr/#artikel-307-dood-door-schuld) | Dood door schuld | 30 maanden GS | €1.450,- 
+[Art. 307 Sr](../../Wetgeving/sr/#artikel-307-dood-door-schuld) | Dood door schuld | 22 maanden GS | €1.450,- 
 [Art. 308 Sr](../../Wetgeving/sr/#artikel-308-zwaar-lichamelijk-letsel-door-schuld) | Zwaar lichamelijk letsel door schuld | 15 maanden GS | €780,-
 [Art. 310 Sr](../../Wetgeving/sr/#artikel-310-diefstal) | Diefstal | 15 uur TS | €540,-
-[Art. 311 Sr](../../Wetgeving/sr/#artikel-311-gekwalificeerde-diefstal) | Gekwalificeerde diefstal | 10 maanden GS | €960,-
-[Art. 312 Sr](../../Wetgeving/sr/#artikel-312-diefstal-met-geweldpleging) | Diefstal met geweldpleging | 15 maanden GS | €1.300,-
+[Art. 311 Sr](../../Wetgeving/sr/#artikel-311-gekwalificeerde-diefstal) | Gekwalificeerde diefstal | 10 maanden GS | €660,-
+[Art. 312 Sr](../../Wetgeving/sr/#artikel-312-diefstal-met-geweldpleging) | Diefstal met geweldpleging | 15 maanden GS | €980,-
 [Art. 317 Sr](../../Wetgeving/sr/#artikel-317-afpersing) | Afpersing | 15 uur TS | €500,-
 [Art. 350 Sr](../../Wetgeving/sr/#artikel-350-beschadiging-goederendieren) | Vernieling | 10 uur TS | €320,- 
 [Art. 416 Sr](../../Wetgeving/sr/#artikel-416-opzetheling) | Opzetheling | 15 uur TS | €560,-
@@ -66,7 +66,7 @@ Wgbk - Wet gedeeltelijk verbod gezichtsbedekkende kleding
 [Art. 424 Sr](../../Wetgeving/sr/#artikel-424-straatschenderij) | Baldadigheid | Boete | €340,- 
 [Art. 426 Sr](../../Wetgeving/sr/#artikel-426-gevaarzetting-in-dronkenschap) | Gevaarzetting in dronkenschap | Boete | €410,-
 [Art. 426bis Sr](../../Wetgeving/sr/#artikel-426bis-hinderlijk-volgen) | Hinderlijk volgen | Boete | €370,- 
-[Art. 426ter Sr](../../Wetgeving/sr/#artikel-426ter-belemmeren-hulpverlener) | Belemmeren hulpverlener | Boete | €880,- 
+[Art. 426ter Sr](../../Wetgeving/sr/#artikel-426ter-belemmeren-hulpverlener) | Belemmeren hulpverlener | Boete | €680,- 
 [Art. 435 Sr](../../Wetgeving/sr/#artikel-435-valse-naam) | Valse naam | Boete | €610,- 
 [Art. 443 Sr](../../Wetgeving/sr/#artikel-443-overtreding-noodverordening) | Overtreding noodverordening | Boete | €730,- 
 [Art. 447e Sr](../../Wetgeving/sr/#artikel-447e-identificatieplicht) | Identificatieplicht | Boete | €380,-
@@ -76,50 +76,50 @@ Wgbk - Wet gedeeltelijk verbod gezichtsbedekkende kleding
 #####Opiumwet
 |Artikel|Feit|Sanctienorm|Bedrag
 |:----|:----|:------|-:|
-[Art. 2 Opw](../../Wetgeving/opw/#artikel-2-verbodsbepaling-lijst-i) | Lijst I Vervoeren/bijdragen t/m 20 G | 10 uur TS | €750,-
-[Art. 2 Opw](../../Wetgeving/opw/#artikel-2-verbodsbepaling-lijst-i) | Lijst I Vervoeren/bijdragen 21 t/m 199 G | 15 maanden GS | €1.950,-
-[Art. 2 Opw](../../Wetgeving/opw/#artikel-2-verbodsbepaling-lijst-i) | Lijst I Vervoeren/bijdragen 200 t/m 999 G | 20 maanden GS | €4.030,-
-[Art. 2 Opw](../../Wetgeving/opw/#artikel-2-verbodsbepaling-lijst-i) | Lijst I Vervoeren/bijdragen 1 of meer KG | 25 maanden GS | €8.340,-
+[Art. 2 Opw](../../Wetgeving/opw/#artikel-2-verbodsbepaling-lijst-i) | Lijst I Vervoeren/bijdragen t/m 20 G | 10 uur TS | €450,-
+[Art. 2 Opw](../../Wetgeving/opw/#artikel-2-verbodsbepaling-lijst-i) | Lijst I Vervoeren/bijdragen 21 t/m 199 G | 15 maanden GS | €1.650,-
+[Art. 2 Opw](../../Wetgeving/opw/#artikel-2-verbodsbepaling-lijst-i) | Lijst I Vervoeren/bijdragen 200 t/m 999 G | 20 maanden GS | €2.630,-
+[Art. 2 Opw](../../Wetgeving/opw/#artikel-2-verbodsbepaling-lijst-i) | Lijst I Vervoeren/bijdragen 1 of meer KG | 25 maanden GS | €3.540,-
 [Art. 2 Opw](../../Wetgeving/opw/#artikel-2-verbodsbepaling-lijst-i) | Lijst I Telen/bewerken/verwerken | 20 maanden GS | €2.680,-
-[Art. 2 Opw](../../Wetgeving/opw/#artikel-2-verbodsbepaling-lijst-i) | Lijst I Verkoop/handel | 13 maanden GS | €1.280,-
+[Art. 2 Opw](../../Wetgeving/opw/#artikel-2-verbodsbepaling-lijst-i) | Lijst I Verkoop/handel | 13 maanden GS | €980,-
 [Art. 3 Opw](../../Wetgeving/opw/#artikel-3-verbodsbepaling-lijst-ii) | Lijst II Vervoeren/bijdragen t/m 20 G | Boete | €380,-
 [Art. 3 Opw](../../Wetgeving/opw/#artikel-3-verbodsbepaling-lijst-ii) | Lijst II Vervoeren/bijdragen 21 t/m 199 G | 18 uur TS | €1.250,-
 [Art. 3 Opw](../../Wetgeving/opw/#artikel-3-verbodsbepaling-lijst-ii) | Lijst II Vervoeren/bijdragen 200 t/m 999 G | 25 uur TS | €1.715,-
-[Art. 3 Opw](../../Wetgeving/opw/#artikel-3-verbodsbepaling-lijst-ii) | Lijst II Vervoeren/bijdragen 1 of meer KG | 15 maanden GS | €2.240,-
+[Art. 3 Opw](../../Wetgeving/opw/#artikel-3-verbodsbepaling-lijst-ii) | Lijst II Vervoeren/bijdragen 1 of meer KG | 15 maanden GS | €1.980,-
 [Art. 3 Opw](../../Wetgeving/opw/#artikel-3-verbodsbepaling-lijst-ii) | Lijst II Telen/bewerken/verwerken | 20 maanden GS | €1.800,-
-[Art. 3 Opw](../../Wetgeving/opw/#artikel-3-verbodsbepaling-lijst-ii) | Lijst II Verkoop/handel | 10 maanden GS | €980,-
+[Art. 3 Opw](../../Wetgeving/opw/#artikel-3-verbodsbepaling-lijst-ii) | Lijst II Verkoop/handel | 10 maanden GS | €680,-
 
 #####Wet wapens en munitie
 |Artikel|Feit|Sanctienorm|Bedrag
 |:----|:----|:------|-:|
-[Art. 13 WWM](../../Wetgeving/wwm/#artikel-13-categorie-i) | Volledig verbod Cat. I wapen | Boete | €1.300,-
-[Art. 22 WWM](../../Wetgeving/wwm/#artikel-22-vervoer-categorie-ii-en-iii) | Vervoeren wapen Cat. II | 24 maanden GS | €4.750,-
-[Art. 22 WWM](../../Wetgeving/wwm/#artikel-22-vervoer-categorie-ii-en-iii) | Vervoeren munitie Cat. II | 15 maanden GS | €1.950,-
-[Art. 22 WWM](../../Wetgeving/wwm/#artikel-22-vervoer-categorie-ii-en-iii) | Vervoeren wapen Cat. III | 19 maanden GS | €3.690,-
-[Art. 22 WWM](../../Wetgeving/wwm/#artikel-22-vervoer-categorie-ii-en-iii) | Vervoeren munitie Cat. III | 10 maanden GS | €1.450,-
-[Art. 26 WWM](../../Wetgeving/wwm/#artikel-26-voorhanden-hebben-categorie-ii-en-iii) | Voorhanden hebben wapen Cat. II | 21 maanden GS | €3.800,-
-[Art. 26 WWM](../../Wetgeving/wwm/#artikel-26-voorhanden-hebben-categorie-ii-en-iii) | Voorhanden hebben munitie Cat. II | 12 maanden GS | €1.560,-
-[Art. 26 WWM](../../Wetgeving/wwm/#artikel-26-voorhanden-hebben-categorie-ii-en-iii) | Voorhanden hebben wapen Cat. III | 16 maanden GS | €2.950,-
-[Art. 26 WWM](../../Wetgeving/wwm/#artikel-26-voorhanden-hebben-categorie-ii-en-iii) | Voorhanden hebben munitie Cat. III | 10 maanden GS | €1.160,-
-[Art. 27 WWM](../../Wetgeving/wwm/#artikel-27-dragen-categorie-ii-iii-en-iv) | Dragen wapen Cat. II | 28 maanden GS | €5.460,-
-[Art. 27 WWM](../../Wetgeving/wwm/#artikel-27-dragen-categorie-ii-iii-en-iv) | Dragen munitie Cat. II | 19 maanden GS | €2.240,-
-[Art. 27 WWM](../../Wetgeving/wwm/#artikel-27-dragen-categorie-ii-iii-en-iv) | Dragen wapen Cat. III | 23 maanden GS | €4.240,-
-[Art. 27 WWM](../../Wetgeving/wwm/#artikel-27-dragen-categorie-ii-iii-en-iv) | Dragen munitie Cat. III | 14 maanden GS | €1.670,-
-[Art. 27 WWM](../../Wetgeving/wwm/#artikel-27-dragen-categorie-ii-iii-en-iv) | Dragen wapen Cat. IV | Boete | €620,-
-[Art. 31 WWM](../../Wetgeving/wwm/#artikel-31-overdragen-categorie-ii-en-iii) | Overdragen wapen Cat. II| 35 maanden GS | €6.280,-
-[Art. 31 WWM](../../Wetgeving/wwm/#artikel-31-overdragen-categorie-ii-en-iii) | Overdragen munitie Cat. II| 15 maanden GS | €2.570,-
-[Art. 31 WWM](../../Wetgeving/wwm/#artikel-31-overdragen-categorie-ii-en-iii) | Overdragen wapen Cat. III | 30 maanden GS | €4.880,-
-[Art. 31 WWM](../../Wetgeving/wwm/#artikel-31-overdragen-categorie-ii-en-iii) | Overdragen munitie Cat. III | 10 maanden GS | €1.920,-
+[Art. 13 WWM](../../Wetgeving/wwm/#artikel-13-categorie-i) | Volledig verbod Cat. I wapen | Boete | €510,-
+[Art. 22 WWM](../../Wetgeving/wwm/#artikel-22-vervoer-categorie-ii-en-iii) | Vervoeren wapen Cat. II | 26 maanden GS | €3.500-
+[Art. 22 WWM](../../Wetgeving/wwm/#artikel-22-vervoer-categorie-ii-en-iii) | Vervoeren munitie Cat. II | 10 maanden GS | €1.100,-
+[Art. 22 WWM](../../Wetgeving/wwm/#artikel-22-vervoer-categorie-ii-en-iii) | Vervoeren wapen Cat. III | 21 maanden GS | €2.690,-
+[Art. 22 WWM](../../Wetgeving/wwm/#artikel-22-vervoer-categorie-ii-en-iii) | Vervoeren munitie Cat. III | 10 maanden GS | €800,-
+[Art. 26 WWM](../../Wetgeving/wwm/#artikel-26-voorhanden-hebben-categorie-ii-en-iii) | Voorhanden hebben wapen Cat. II | 24 maanden GS | €3.400,-
+[Art. 26 WWM](../../Wetgeving/wwm/#artikel-26-voorhanden-hebben-categorie-ii-en-iii) | Voorhanden hebben munitie Cat. II | 8 maanden GS | €1.000,-
+[Art. 26 WWM](../../Wetgeving/wwm/#artikel-26-voorhanden-hebben-categorie-ii-en-iii) | Voorhanden hebben wapen Cat. III | 19 maanden GS | €2.490,-
+[Art. 26 WWM](../../Wetgeving/wwm/#artikel-26-voorhanden-hebben-categorie-ii-en-iii) | Voorhanden hebben munitie Cat. III | 10 maanden GS | €700,-
+[Art. 27 WWM](../../Wetgeving/wwm/#artikel-27-dragen-categorie-ii-iii-en-iv) | Dragen wapen Cat. II | 28 maanden GS | €3.600,-
+[Art. 27 WWM](../../Wetgeving/wwm/#artikel-27-dragen-categorie-ii-iii-en-iv) | Dragen munitie Cat. II | 12 maanden GS | €1.200,-
+[Art. 27 WWM](../../Wetgeving/wwm/#artikel-27-dragen-categorie-ii-iii-en-iv) | Dragen wapen Cat. III | 23 maanden GS | €2.890,-
+[Art. 27 WWM](../../Wetgeving/wwm/#artikel-27-dragen-categorie-ii-iii-en-iv) | Dragen munitie Cat. III | 10 maanden GS | €900,-
+[Art. 27 WWM](../../Wetgeving/wwm/#artikel-27-dragen-categorie-ii-iii-en-iv) | Dragen wapen Cat. IV | Boete | €490,-
+[Art. 31 WWM](../../Wetgeving/wwm/#artikel-31-overdragen-categorie-ii-en-iii) | Overdragen wapen Cat. II| 30 maanden GS | €3.800,-
+[Art. 31 WWM](../../Wetgeving/wwm/#artikel-31-overdragen-categorie-ii-en-iii) | Overdragen munitie Cat. II| 15 maanden GS | €1.380,-
+[Art. 31 WWM](../../Wetgeving/wwm/#artikel-31-overdragen-categorie-ii-en-iii) | Overdragen wapen Cat. III | 24 maanden GS | €2.980,-
+[Art. 31 WWM](../../Wetgeving/wwm/#artikel-31-overdragen-categorie-ii-en-iii) | Overdragen munitie Cat. III | 10 maanden GS | €1.090,-
 
 #####Wegenverkeerswet
 |Artikel|Feit|Sanctienorm|Bedrag
 |:----|:----|:------|-:|
-[Art. 5 WVW](../../Wetgeving/wvw/#artikel-5-gevaarhinder) | Roekeloos rijgedrag | Boete | €980,-
-[Art. 5a WVW](../../Wetgeving/wvw/#artikel-5a-levensgevaar-of-gevaar-voor-zwaar-lichamelijk-letsel) | Levensgevaar of gevaar voor zwaar lichamelijk letsel | Boete | €1.310,-
-[Art. 6 WVW](../../Wetgeving/wvw/#artikel-6-veroorzaken-verkeersongeval) | Veroorzaken verkeersongeval | 10 maanden GS | €1.880,-
-[Art. 7 WVW](../../Wetgeving/wvw/#artikel-7-verlaten-plaats-ongeval) | Verlaten plaats ongeval | 15 maanden GS | €2.250,-
-[Art. 8 WVW](../../Wetgeving/wvw/#artikel-8-besturen-onder-invloed) | Rijden onder invloed | 12 maanden GS | €2.180,-
-[Art. 10 WVW](../../Wetgeving/wvw/#artikel-10-wedstrijdverbod) | Straatrace | 15 uur TS | €950,-
+[Art. 5 WVW](../../Wetgeving/wvw/#artikel-5-gevaarhinder) | Roekeloos rijgedrag | Boete | €580,-
+[Art. 5a WVW](../../Wetgeving/wvw/#artikel-5a-levensgevaar-of-gevaar-voor-zwaar-lichamelijk-letsel) | Levensgevaar of gevaar voor zwaar lichamelijk letsel | Boete | €1.010,-
+[Art. 6 WVW](../../Wetgeving/wvw/#artikel-6-veroorzaken-verkeersongeval) | Veroorzaken verkeersongeval | 10 maanden GS | €980,-
+[Art. 7 WVW](../../Wetgeving/wvw/#artikel-7-verlaten-plaats-ongeval) | Verlaten plaats ongeval | 15 maanden GS | €1.400,-
+[Art. 8 WVW](../../Wetgeving/wvw/#artikel-8-besturen-onder-invloed) | Rijden onder invloed | 12 maanden GS | €1.400,-
+[Art. 10 WVW](../../Wetgeving/wvw/#artikel-10-wedstrijdverbod) | Straatrace | 15 uur TS | €750,-
 [Art. 11 WVW](../../Wetgeving/wvw/#artikel-11-joyriding) | Joyriding | 10 uur TS | €450,-
 [Art. 165 WVW](../../Wetgeving/wvw/#artikel-165-bekendmaking-naam-bestuurder) | Bekendmaking naam bestuurder misdrijf | 15 maanden GS | €890,-
 
