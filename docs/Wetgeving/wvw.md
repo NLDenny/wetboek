@@ -1,4 +1,4 @@
-# Wegenverkeerswet 1994
+# Wegenverkeerswet
 
 #### HOOFDSTUK 1. Algemene bepalingen
 

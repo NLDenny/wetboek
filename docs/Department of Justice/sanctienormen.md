@@ -10,7 +10,7 @@ TS - Taakstraf
 Sr - Wetboek van Strafrecht  
 Opw - Opiumwet  
 WWM - Wet wapens en munitie  
-WVW - Wegenverkeerswet 1994  
+WVW - Wegenverkeerswet  
 Wgbk - Wet gedeeltelijk verbod gezichtsbedekkende kleding
 ```  
 

@@ -9,7 +9,7 @@
    1° een geldig identiteitskaart;
    2° een geldig rijbewijs dat is afgegeven op basis van de Wegenverkeerswet, 
       een geldig rijbewijs als bedoeld in artikel 107 van de 
-      Wegenverkeerswet 1994.
+      Wegenverkeerswet.
 2. Onze Chief of Justice kan, al dan niet voor een 
    bepaald tijdvak, andere dan de in het eerste lid bedoelde documenten 
    aanwijzen ter vaststelling van de identiteit van personen.   
