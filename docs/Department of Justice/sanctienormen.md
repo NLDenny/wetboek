@@ -161,6 +161,7 @@ F 120 b| Overlast veroorzaken | $240,-
 [Art. 22C Sr](../../Wetgeving/sr/#artikel-22c-taakstraf) | Taakstraf | 40 uren
 
 #####Omrekenformule TS naar GS
+```
 Indien een verdachte zowel is veroordeeld tot een gevangenisstraf als tot een taakstraf, wordt de taakstraf omgerekend naar een aanvullende gevangenisstraf volgens de vastgestelde omrekenformule.  
 De formule is:
 $G = \frac{Taakstraf}{4}$
@@ -171,3 +172,4 @@ $G$ de gevangenisstraf in maanden.
 Bijvoorbeeld: bij $T = 20$ uur taakstraf geldt:
 $G = \frac{20}{4} = 5$
 Dit betekent 5 maanden gevangenisstraf.
+```
