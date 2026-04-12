@@ -158,4 +158,13 @@ F 120 b| Overlast veroorzaken | $240,-
 |Artikel|Soort straf|Maximale duur
 |:----|:----|:------|
 [Art. 10 Sr](../../Wetgeving/sr/#artikel-10-duur-gevangenisstraf) | Gevangenisstraf | 100 maanden
-[Art. 22c Sr](../../Wetgeving/sr/#artikel-22c-taakstraf) | Taakstraf | 40 uren
+[Art. 22C Sr](../../Wetgeving/sr/#artikel-22c-taakstraf) | Taakstraf | 40 uren
+
+
+De gevangenisstraf $J$ wordt berekend uit de taakstraf $T$ door deze te delen door 4, omdat dit zorgt voor een vaste en gebalanceerde verhouding binnen het strafsysteem.
+De formule is:
+$J = \frac{T}{4}$
+Waarbij $T$ de taakstraf in uren is en $J$ de gevangenisstraf in dagen (of een andere vooraf gedefinieerde eenheid, afhankelijk van de serverinstelling).
+Bijvoorbeeld: bij $T = 20$ uur taakstraf geldt:
+$J = \frac{20}{4} = 5$
+Dit betekent 5 dagen (of eenheden) gevangenisstraf.
