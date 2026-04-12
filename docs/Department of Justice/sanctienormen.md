@@ -153,3 +153,9 @@ F 116 a| Bezit inbrekerswerktuig | $310,-
 F 120 a| Klimmen en klauteren | $190,-
 F 120 b| Overlast veroorzaken | $240,-
 [Art. 2 Wgbk](../../Wetgeving/Overig/wgvgk/#artikel-1) | Gezichtsbedekking dragen | $390,-
+
+#####Maximale duur
+|Artikel|Soort straf|Maximale duur
+|:----|:----|:------|
+[Art. 10 Sr](../../Wetgeving/sr/#artikel-10-duur-gevangenisstraf) | Gevangenisstraf | 100 maanden
+[Art. 22c Sr](../../Wetgeving/sr/#artikel-22c-taakstraf) | Taakstraf | 40 uren
