@@ -166,6 +166,6 @@ De formule is:
 $Gevangenisstraf = \frac{Taakstraf}{4}$
 
 **Bijvoorbeeld**:  
-Bij $Taakstraf = 20$ uur taakstraf geldt:
-$Gevangenisstraf = \frac{20}{4} = 5$
+Bij $Taakstraf = 20$ uur geldt:
+$Gevangenisstraf = \frac{20}{4} = 5$  
 Dit betekent 5 maanden extra gevangenisstraf bovenop de reeds opgelegde gevangenisstraf.
