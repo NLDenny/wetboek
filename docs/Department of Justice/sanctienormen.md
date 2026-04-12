@@ -163,11 +163,9 @@ F 120 b| Overlast veroorzaken | $240,-
 #####Omrekenformule TS naar GS
 Indien een verdachte zowel is veroordeeld tot een gevangenisstraf als tot een taakstraf, wordt de taakstraf omgerekend naar een aanvullende gevangenisstraf volgens de vastgestelde omrekenformule.  
 De formule is:
-$G = \frac{Taakstraf}{4}$
+$Gevangenisstraf = \frac{Taakstraf}{4}$
 
-$T$ de taakstraf in uren   
-$G$ de gevangenisstraf in maanden.
-
-Bijvoorbeeld: bij $T = 20$ uur taakstraf geldt:
-$G = \frac{20}{4} = 5$
+**Bijvoorbeeld**:  
+Bij $Taakstraf = 20$ uur taakstraf geldt:
+$Gevangenisstraf = \frac{20}{4} = 5$
 Dit betekent 5 maanden extra gevangenisstraf bovenop de reeds opgelegde gevangenisstraf.
