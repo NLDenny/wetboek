@@ -76,7 +76,7 @@ Wgbk - Wet gedeeltelijk verbod gezichtsbedekkende kleding
 #####Opiumwet
 |Artikel|Feit|Sanctienorm|Bedrag
 |:----|:----|:------|-:|
-[Art. 2 Opw](../../Wetgeving/opw/#artikel-2-verbodsbepaling-lijst-i) | Lijst I Vervoeren/bijdragen t/m 20 G | 10 uur TS | $450,-
+<!-- [Art. 2 Opw](../../Wetgeving/opw/#artikel-2-verbodsbepaling-lijst-i) | Lijst I Vervoeren/bijdragen t/m 20 G | 10 uur TS | $450,-
 [Art. 2 Opw](../../Wetgeving/opw/#artikel-2-verbodsbepaling-lijst-i) | Lijst I Vervoeren/bijdragen 21 t/m 199 G | 15 maanden GS | $1.650,-
 [Art. 2 Opw](../../Wetgeving/opw/#artikel-2-verbodsbepaling-lijst-i) | Lijst I Vervoeren/bijdragen 200 t/m 999 G | 20 maanden GS | $2.630,-
 [Art. 2 Opw](../../Wetgeving/opw/#artikel-2-verbodsbepaling-lijst-i) | Lijst I Vervoeren/bijdragen 1 of meer KG | 25 maanden GS | $3.540,-
@@ -87,7 +87,16 @@ Wgbk - Wet gedeeltelijk verbod gezichtsbedekkende kleding
 [Art. 3 Opw](../../Wetgeving/opw/#artikel-3-verbodsbepaling-lijst-ii) | Lijst II Vervoeren/bijdragen 200 t/m 999 G | 25 uur TS | $1.715,-
 [Art. 3 Opw](../../Wetgeving/opw/#artikel-3-verbodsbepaling-lijst-ii) | Lijst II Vervoeren/bijdragen 1 of meer KG | 15 maanden GS | $1.980,-
 [Art. 3 Opw](../../Wetgeving/opw/#artikel-3-verbodsbepaling-lijst-ii) | Lijst II Telen/bewerken/verwerken | 20 maanden GS | $1.800,-
-[Art. 3 Opw](../../Wetgeving/opw/#artikel-3-verbodsbepaling-lijst-ii) | Lijst II Verkoop/handel | 10 maanden GS | $680,-
+[Art. 3 Opw](../../Wetgeving/opw/#artikel-3-verbodsbepaling-lijst-ii) | Lijst II Verkoop/handel | 10 maanden GS | $680,- -->
+
+[Art. 2 Opw](../../Wetgeving/opw/#artikel-2-verbodsbepaling-lijst-i) | Lijst I Vervoeren/bijdragen t/m 20 G | 10 uur TS | $450,-
+[Art. 2 Opw](../../Wetgeving/opw/#artikel-2-verbodsbepaling-lijst-i) | Lijst I Vervoeren/bijdragen 21 t/m 999 G | 20 maanden GS | $2.630,-
+[Art. 2 Opw](../../Wetgeving/opw/#artikel-2-verbodsbepaling-lijst-i) | Lijst I Vervoeren/bijdragen 1 of meer KG | 25 maanden GS | $3.540,-
+[Art. 2 Opw](../../Wetgeving/opw/#artikel-2-verbodsbepaling-lijst-i) | Lijst I Telen/bewerken/verwerken/verkoop/handel | 20 maanden GS | $2.680,-
+[Art. 3 Opw](../../Wetgeving/opw/#artikel-3-verbodsbepaling-lijst-ii) | Lijst II Vervoeren/bijdragen t/m 20 G | Boete | $380,-
+[Art. 3 Opw](../../Wetgeving/opw/#artikel-3-verbodsbepaling-lijst-ii) | Lijst II Vervoeren/bijdragen 21 t/m 999 G | 25 uur TS | $1.715,-
+[Art. 3 Opw](../../Wetgeving/opw/#artikel-3-verbodsbepaling-lijst-ii) | Lijst II Vervoeren/bijdragen 1 of meer KG | 15 maanden GS | $1.980,-
+[Art. 3 Opw](../../Wetgeving/opw/#artikel-3-verbodsbepaling-lijst-ii) | Lijst II Telen/bewerken/verwerken/verkoop/handel | 20 maanden GS | $1.800,-
 
 #####Wet wapens en munitie
 |Artikel|Feit|Sanctienorm|Bedrag
@@ -138,12 +147,10 @@ R 601 | Niet doorgaan bij groen licht | $130,-
 R 602 | Niet stoppen voor rood licht | $300,- 
 R 617 b | Overschrijden doorgetrokken streep | $210,-
 R 628 b | Niet opvolgen stopteken politie | $510,-
-- | Snelheidsoverschrijding 4 t/m 15 km/h | $440,-
-- | Snelheidsoverschrijding 16 t/m 20 km/h | $490,-
-- | Snelheidsoverschrijding 21 t/m 30 km/h | $550,-
-- | Snelheidsoverschrijding 31 t/m 40 km/h | $615,-
-- | Snelheidsoverschrijding 41 tot 49 km/h | $690,-
-- | Snelheidsoverschrijding 50 of meer km/h | $780,-
+- | Snelheidsoverschrijding 5 t/m 15 km/h | $440,-
+- | Snelheidsoverschrijding 16 t/m 30 km/h | $490,-
+- | Snelheidsoverschrijding 31 t/m 49 km/h | $550,-
+- | Snelheidsoverschrijding 50 of meer km/h | $680,-
 
 #####Overige overtredingen
 |Feitcode|Feit|Bedrag|
@@ -168,4 +175,4 @@ $Gevangenisstraf = \frac{Taakstraf}{4}$
 **Bijvoorbeeld**:  
 Bij $Taakstraf = 15$ uur geldt:
 $Gevangenisstraf = \frac{15}{4} = 3.75$  
-Afgerond betekent dit 4 maanden extra gevangenisstraf bovenop de reeds opgelegde gevangenisstraf.
+Afgerond betekent dit 4 maanden. Deze 4 maanden worden bovenop de gevangenisstraf opgeteld.
