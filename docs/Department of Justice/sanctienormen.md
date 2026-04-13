@@ -76,6 +76,15 @@ Wgbk - Wet gedeeltelijk verbod gezichtsbedekkende kleding
 #####Opiumwet
 |Artikel|Feit|Sanctienorm|Bedrag
 |:----|:----|:------|-:|
+[Art. 2 Opw](../../Wetgeving/opw/#artikel-2-verbodsbepaling-lijst-i) | Lijst I Vervoeren/bijdragen t/m 20 G | 10 uur TS | $450,-
+[Art. 2 Opw](../../Wetgeving/opw/#artikel-2-verbodsbepaling-lijst-i) | Lijst I Vervoeren/bijdragen 21 t/m 999 G | 20 maanden GS | $2.630,-
+[Art. 2 Opw](../../Wetgeving/opw/#artikel-2-verbodsbepaling-lijst-i) | Lijst I Vervoeren/bijdragen 1 of meer KG | 25 maanden GS | $3.540,-
+[Art. 2 Opw](../../Wetgeving/opw/#artikel-2-verbodsbepaling-lijst-i) | Lijst I Telen/bewerken/verwerken/verkoop/handel | 20 maanden GS | $2.680,-
+[Art. 3 Opw](../../Wetgeving/opw/#artikel-3-verbodsbepaling-lijst-ii) | Lijst II Vervoeren/bijdragen t/m 20 G | Boete | $380,-
+[Art. 3 Opw](../../Wetgeving/opw/#artikel-3-verbodsbepaling-lijst-ii) | Lijst II Vervoeren/bijdragen 21 t/m 999 G | 25 uur TS | $1.715,-
+[Art. 3 Opw](../../Wetgeving/opw/#artikel-3-verbodsbepaling-lijst-ii) | Lijst II Vervoeren/bijdragen 1 of meer KG | 15 maanden GS | $1.980,-
+[Art. 3 Opw](../../Wetgeving/opw/#artikel-3-verbodsbepaling-lijst-ii) | Lijst II Telen/bewerken/verwerken/verkoop/handel | 20 maanden GS | $1.800,-
+
 <!-- [Art. 2 Opw](../../Wetgeving/opw/#artikel-2-verbodsbepaling-lijst-i) | Lijst I Vervoeren/bijdragen t/m 20 G | 10 uur TS | $450,-
 [Art. 2 Opw](../../Wetgeving/opw/#artikel-2-verbodsbepaling-lijst-i) | Lijst I Vervoeren/bijdragen 21 t/m 199 G | 15 maanden GS | $1.650,-
 [Art. 2 Opw](../../Wetgeving/opw/#artikel-2-verbodsbepaling-lijst-i) | Lijst I Vervoeren/bijdragen 200 t/m 999 G | 20 maanden GS | $2.630,-
@@ -88,15 +97,6 @@ Wgbk - Wet gedeeltelijk verbod gezichtsbedekkende kleding
 [Art. 3 Opw](../../Wetgeving/opw/#artikel-3-verbodsbepaling-lijst-ii) | Lijst II Vervoeren/bijdragen 1 of meer KG | 15 maanden GS | $1.980,-
 [Art. 3 Opw](../../Wetgeving/opw/#artikel-3-verbodsbepaling-lijst-ii) | Lijst II Telen/bewerken/verwerken | 20 maanden GS | $1.800,-
 [Art. 3 Opw](../../Wetgeving/opw/#artikel-3-verbodsbepaling-lijst-ii) | Lijst II Verkoop/handel | 10 maanden GS | $680,- -->
-
-[Art. 2 Opw](../../Wetgeving/opw/#artikel-2-verbodsbepaling-lijst-i) | Lijst I Vervoeren/bijdragen t/m 20 G | 10 uur TS | $450,-
-[Art. 2 Opw](../../Wetgeving/opw/#artikel-2-verbodsbepaling-lijst-i) | Lijst I Vervoeren/bijdragen 21 t/m 999 G | 20 maanden GS | $2.630,-
-[Art. 2 Opw](../../Wetgeving/opw/#artikel-2-verbodsbepaling-lijst-i) | Lijst I Vervoeren/bijdragen 1 of meer KG | 25 maanden GS | $3.540,-
-[Art. 2 Opw](../../Wetgeving/opw/#artikel-2-verbodsbepaling-lijst-i) | Lijst I Telen/bewerken/verwerken/verkoop/handel | 20 maanden GS | $2.680,-
-[Art. 3 Opw](../../Wetgeving/opw/#artikel-3-verbodsbepaling-lijst-ii) | Lijst II Vervoeren/bijdragen t/m 20 G | Boete | $380,-
-[Art. 3 Opw](../../Wetgeving/opw/#artikel-3-verbodsbepaling-lijst-ii) | Lijst II Vervoeren/bijdragen 21 t/m 999 G | 25 uur TS | $1.715,-
-[Art. 3 Opw](../../Wetgeving/opw/#artikel-3-verbodsbepaling-lijst-ii) | Lijst II Vervoeren/bijdragen 1 of meer KG | 15 maanden GS | $1.980,-
-[Art. 3 Opw](../../Wetgeving/opw/#artikel-3-verbodsbepaling-lijst-ii) | Lijst II Telen/bewerken/verwerken/verkoop/handel | 20 maanden GS | $1.800,-
 
 #####Wet wapens en munitie
 |Artikel|Feit|Sanctienorm|Bedrag
