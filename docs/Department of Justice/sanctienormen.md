@@ -25,7 +25,6 @@ Wgbk - Wet gedeeltelijk verbod gezichtsbedekkende kleding
 [Art. 141a Sr](../../Wetgeving/sr/#artikel-141a-gelegenheid-verschaffen-tot-plegen-van-geweld) | Gelegenheid verschaffen tot plegen van geweld | 10 maanden GS | $420,-
 [Art. 142 Sr](../../Wetgeving/sr/#artikel-142-vals-alarm) | Vals alarm | 15 uur TS | $310,-
 [Art. 142a Sr](../../Wetgeving/sr/#artikel-142a-valse-bom) | Valse bom | 16 maanden GS | $850,-
-<!-- [Art. 149 Sr](../../Wetgeving/sr/#artikel-149-grafschennis) | Grafschennis | 10 uur TS | $320,- -->
 [Art. 151 Sr](../../Wetgeving/sr/#artikel-151-doen-verdwijnen-van-lijk) | Doen verdwijnen van lijk | 15 maanden GS | $980,- 
 [Art. 157 Sr](../../Wetgeving/sr/#artikel-157-opzettelijk-brank-of-ontploffing-veroorzaken) | Opzettelijk brand of ontploffing veroorzaken | 15 maanden GS | $740,- 
 [Art. 158 Sr](../../Wetgeving/sr/#artikel-158-culpoos-brand-of-ontploffing-veroorzaken) | Culpoos brand of ontploffing veroorzaken | 10 maanden GS | $410,- 
@@ -36,16 +35,13 @@ Wgbk - Wet gedeeltelijk verbod gezichtsbedekkende kleding
 [Art. 186 Sr](../../Wetgeving/sr/#artikel-186-samenscholing) | Samenscholing | 10 uur TS | $195,-
 [Art. 188 Sr](../../Wetgeving/sr/#artikel-188-valse-aangifte-of-klacht) | Valse aangifte of klacht | 15 uur TS | $560,- 
 [Art. 189 Sr](../../Wetgeving/sr/#artikel-189-hulp-aan-dader-na-misdrijf) | Hulp aan dader na misdrijf | 12 maanden GS | $640,-
-<!-- [Art. 190 Sr](../../Wetgeving/sr/#artikel-190-beletten-van-lijkschouwing) | Beletten van lijkschouwing | 10 uur TS | $410,-  -->
 [Art. 191 Sr](../../Wetgeving/sr/#artikel-191-bevrijding-van-gedetineerde) | Bevrijding van gedetineerde | 25 maanden GS | $1.250,-
 [Art. 225 Sr](../../Wetgeving/sr/#artikel-225-valsheid-in-geschrift) | Valsheid in geschrift | 10 maanden GS | $520,-
 [Art. 231 Sr](../../Wetgeving/sr/#artikel-231-vals-reisdocument-of-identiteitskaart) | Vals reisdocument of identiteitskaart | 10 maanden GS | $700,- 
 [Art. 266 Sr](../../Wetgeving/sr/#artikel-266-eenvoudige-belediging) | Eenvoudige belediging | 10 uur TS | $350,-
 [Art. 282 Sr](../../Wetgeving/sr/#artikel-282-opzettelijke-vrijheidsberoving) | Opzettelijke vrijheidsberoving | 18 maanden GS | $900,-
-<!-- [Art. 282A Sr](../../Wetgeving/sr/#artikel-282A-gijzeling) | Gijzeling | 22 maanden GS | $1.050,-  -->
 [Art. 284 Sr](../../Wetgeving/sr/#artikel-284-dwang) | Dwang | 15 maanden GS | $650,-
 [Art. 285 Sr](../../Wetgeving/sr/#artikel-285-bedreiging-met-ernstig-misdrijf) | Bedreiging | 15 maanden GS | $650,-
-<!-- [Art. 285B Sr](../../Wetgeving/sr/#artikel-285B-staling) | Stalking | 10 uur TS | $410,- -->
 [Art. 287 Sr](../../Wetgeving/sr/#artikel-287-doodslag) | Doodslag | 25 maanden GS | $3.250,-
 [Art. 288 Sr](../../Wetgeving/sr/#artikel-288-gekwalificeerde-doodslag) | Gekwalificeerde doodslag | 30 maanden GS | $3.550,-
 [Art. 289 Sr](../../Wetgeving/sr/#artikel-289-moord) | Moord | 35 maanden GS | $3.850,-
@@ -64,14 +60,20 @@ Wgbk - Wet gedeeltelijk verbod gezichtsbedekkende kleding
 [Art. 417bis Sr](../../Wetgeving/sr/#artikel-417bis-schuldheling) | Schuldheling | 10 uur TS | $440,-
 [Art. 420bis Sr](../../Wetgeving/sr/#artikel-420bis-witwassen) | Witwassen | 15 maanden GS | $1.340,-
 [Art. 424 Sr](../../Wetgeving/sr/#artikel-424-straatschenderij) | Baldadigheid | Boete | $340,- 
-<!-- [Art. 426 Sr](../../Wetgeving/sr/#artikel-426-gevaarzetting-in-dronkenschap) | Gevaarzetting in dronkenschap | Boete | $410,- -->
 [Art. 426bis Sr](../../Wetgeving/sr/#artikel-426bis-hinderlijk-volgen) | Hinderlijk volgen | Boete | $370,- 
 [Art. 426ter Sr](../../Wetgeving/sr/#artikel-426ter-belemmeren-hulpverlener) | Belemmeren hulpverlener | Boete | $680,- 
 [Art. 435 Sr](../../Wetgeving/sr/#artikel-435-valse-naam) | Valse naam | Boete | $610,- 
 [Art. 443 Sr](../../Wetgeving/sr/#artikel-443-overtreding-noodverordening) | Overtreding noodverordening | Boete | $730,- 
 [Art. 447e Sr](../../Wetgeving/sr/#artikel-447e-identificatieplicht) | Identificatieplicht | Boete | $380,-
-<!-- [Art. 453 Sr](../../Wetgeving/sr/#artikel-453-openbare-dronkenschap) | Openbare dronkenschap | Boete | $240,-  -->
 [Art. 461 Sr](../../Wetgeving/sr/#artikel-461-verboden-toegang-voor-onbevoegden) | Verboden toegang voor onbevoegden | Boete | $310,- 
+
+<!-- [Art. 149 Sr](../../Wetgeving/sr/#artikel-149-grafschennis) | Grafschennis | 10 uur TS | $320,- -->
+<!-- [Art. 190 Sr](../../Wetgeving/sr/#artikel-190-beletten-van-lijkschouwing) | Beletten van lijkschouwing | 10 uur TS | $410,-  -->
+<!-- [Art. 282A Sr](../../Wetgeving/sr/#artikel-282A-gijzeling) | Gijzeling | 22 maanden GS | $1.050,-  -->
+<!-- [Art. 285B Sr](../../Wetgeving/sr/#artikel-285B-staling) | Stalking | 10 uur TS | $410,- -->
+<!-- [Art. 426 Sr](../../Wetgeving/sr/#artikel-426-gevaarzetting-in-dronkenschap) | Gevaarzetting in dronkenschap | Boete | $410,- -->
+<!-- [Art. 453 Sr](../../Wetgeving/sr/#artikel-453-openbare-dronkenschap) | Openbare dronkenschap | Boete | $240,-  -->
+
 
 #####Opiumwet
 |Artikel|Feit|Sanctienorm|Bedrag
@@ -157,9 +159,10 @@ R 628 b | Niet opvolgen stopteken politie | $510,-
 |:----|:----|-:|
 D 515| Valse gegevens opgeven | $480,-
 F 116 a| Bezit inbrekerswerktuig | $310,-
-<!-- F 120 a| Klimmen en klauteren | $190,- -->
 F 120 b| Overlast veroorzaken | $240,-
 [Art. 2 Wgbk](../../Wetgeving/Overig/wgvgk/#artikel-1) | Gezichtsbedekking dragen | $390,-
+
+<!-- F 120 a| Klimmen en klauteren | $190,- -->
 
 #####Maximale duur
 |Artikel|Soort straf|Maximale duur
