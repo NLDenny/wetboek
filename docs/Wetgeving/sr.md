@@ -507,12 +507,12 @@ maakt van een alarmnummer voor publieke diensten wordt gestraft met
    waardoor een ontploffing kan worden teweeggebracht.
 ```
 
-#####<span style="color: #85A79D;">Artikel 149 | Grafschennis</span>
+<!-- #####<span style="color: #85A79D;">Artikel 149 | Grafschennis</span>
 ```
 Hij die opzettelijk een graf schendt of enig op een begraafplaats opgericht 
 gedenkteken opzettelijk en wederrechtelijk vernielt of beschadigt, wordt 
 gestraft met [SANCTIENORM].
-```
+``` -->
 
 #####<span style="color: #85A79D;">Artikel 151 | Doen verdwijnen van lijk</span>
 ```
@@ -634,11 +634,11 @@ wetende dat het niet gepleegd is, wordt gestraft met [SANCTIENORM].
       inlichtingen aan derden die inbeslagneming belet, belemmert of verijdelt.
 ```
 
-#####<span style="color: #85A79D;">Artikel 190 | Beletten van lijkschouwing</span>
+<!-- #####<span style="color: #85A79D;">Artikel 190 | Beletten van lijkschouwing</span>
 ```
 Hij die opzettelijk een gerechtelijke lijkschouwing belet, belemmert of 
 verijdelt, wordt gestraft met [SANCTIENORM].
-```
+``` -->
 
 #####<span style="color: #85A79D;">Artikel 191 | Bevrijding van gedetineerde</span>
 ```
@@ -757,14 +757,14 @@ klacht van hem tegen wie het misdrijf is gepleegd.
    verschaft.   
 ```
 
-#####<span style="color: #85A79D;">Artikel 282a | Gijzeling</span>
+<!-- #####<span style="color: #85A79D;">Artikel 282a | Gijzeling</span>
 ```
 1. Hij die opzettelijk iemand wederrechtelijk van de vrijheid berooft 
    of beroofd houdt met het oogmerk een ander te dwingen iets te doen of 
    niet te doen wordt als schuldig aan gijzeling gestraft met 
    [SANCTIENORM].
 2. Het tweede lid van artikel 282 is toepasselijk.   
-```
+``` -->
 
 #####<span style="color: #85A79D;">Artikel 284 | Dwang</span>
 ```
@@ -795,7 +795,7 @@ klacht van hem tegen wie het misdrijf is gepleegd.
    derde verhoogd.          
 ```
 
-#####<span style="color: #85A79D;">Artikel 285b | Stalking</span>
+<!-- #####<span style="color: #85A79D;">Artikel 285b | Stalking</span>
 ```
 1. Hij, die wederrechtelijk stelselmatig opzettelijk inbreuk maakt op eens 
    anders persoonlijke levenssfeer met het oogmerk die ander te dwingen 
@@ -803,7 +803,7 @@ klacht van hem tegen wie het misdrijf is gepleegd.
    als schuldig aan belaging, gestraft met [SANCTIENORM].
 2. Vervolging vindt niet plaats dan op klacht van hem tegen wie 
    het misdrijf is begaan.       
-```
+``` -->
 
 <!-- UITGEZET WEGENS KANS NIHIL IN RP SERVER
 #####Artikel 285d | Doxing
@@ -1137,14 +1137,14 @@ of nadeel kan worden teweeggebracht, wordt, als schuldig aan straatschenderij,
 gestraft met [SANCTIENORM].
 ```
 
-#####<span style="color: #85A79D;">Artikel 426 | Gevaarzetting in dronkenschap</span>
+<!-- #####<span style="color: #85A79D;">Artikel 426 | Gevaarzetting in dronkenschap</span>
 ```
 Hij die, terwijl hij in staat van dronkenschap verkeert, hetzij in het openbaar 
 het verkeer belemmert of de orde verstoort, hetzij eens anders veiligheid 
 bedreigt, hetzij enige handeling verricht waarbij, tot voorkoming van gevaar 
 voor leven of gezondheid van derden, bijzondere omzichtigheid of voorzorgen 
 worden vereist, wordt gestraft met [SANCTIENORM].
-```
+``` -->
 
 #####<span style="color: #85A79D;">Artikel 426bis | Hinderlijk volgen</span>
 ```
@@ -1203,13 +1203,13 @@ met [SANCTIENORM].
 ```
 -->
 
-#### TITEL VI. Overtredingen betreffende de zeden
+<!-- #### TITEL VI. Overtredingen betreffende de zeden
 
 #####<span style="color: #85A79D;">Artikel 453 | Openbare dronkenschap</span>
 ```
 Hij die zich in kennelijke staat van dronkenschap op de openbare weg bevindt, 
 wordt gestraft met [SANCTIENORM].
-```
+``` -->
 
 #### TITEL VII. Overtredingen betreffende de veldpolitie
 
