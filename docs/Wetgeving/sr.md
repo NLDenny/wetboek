@@ -56,74 +56,6 @@ bepalen dat geen straf of maatregel zal worden opgelegd.
 2. De taakstraf duurt ten hoogste 40 uren.
 ```
 
-<!-- NIET VAN TOEPASSING IGNITE
-#####<span style="color: #85A79D;">Artikel 23 | Geldboete. Categorieën</span>
-```
-1. Hij die tot een geldboete is veroordeeld, betaalt het vastgestelde bedrag 
-   binnen de door Onze Minister van Justitie en Veiligheid te stellen termijn 
-   aan de staat.
-2. Het bedrag van de geldboete is ten minste €3.
-3. De geldboete die voor een strafbaar feit ten hoogste kan worden opgelegd, 
-   is gelijk aan het bedrag van de categorie die voor dat feit is bepaald.
-4. Er zijn zes categorieën:
-   de eerste categorie, €515;
-   de tweede categorie, €5.150;
-   de derde categorie, €10.300;
-   de vierde categorie, €25.750;
-   de vijfde categorie, €103.000;
-   de zesde categorie, €1.030.000. 
-5. Voor een overtreding, onderscheidenlijk een misdrijf, waarop geen geldboete 
-   is gesteld, kan een geldboete worden opgelegd tot ten hoogste het bedrag 
-   van de eerste, onderscheidenlijk de derde categorie.
-```
-
-#####<span style="color: #85A79D;">Artikel 24 | Draagkrachtbeginsel</span>
-```
-Bij de vaststelling van de geldboete wordt rekening gehouden met de draagkracht 
-van de verdachte in de mate waarin dat nodig is met het oog op een passende 
-bestraffing van de verdachte zonder dat deze in zijn inkomen en vermogen 
-onevenredig wordt getroffen.
-```
-
-<!-- #####Artikel 33 | Verbeurdverklaring
-
-1. Verbeurdverklaring kan worden uitgesproken bij veroordeling wegens enig 
-   strafbaar feit.
-2. Artikel 24 is van overeenkomstige toepassing.
-
-
-#####Artikel 33a | Vatbaar voor verbeurdverklaring
-
-1. Vatbaar voor verbeurdverklaring zijn:
-    a. voorwerpen die aan de veroordeelde toebehoren of die hij geheel of ten 
-       dele ten eigen bate kan aanwenden en die geheel of grotendeels door 
-       middel van of uit de baten van het strafbare feit zijn verkregen;
-    b. voorwerpen met betrekking tot welke het feit is begaan;
-    c. voorwerpen met behulp van welke het feit is begaan;
-2. Voorwerpen als bedoeld in het eerste lid onder a tot en met c die niet aan 
-   de veroordeelde toebehoren kunnen alleen verbeurd worden verklaard indien:
-    a. degene aan wie zij toebehoren bekend was met hun verkrijging door middel 
-       van het strafbare feit of met het gebruik of de bestemming in verband 
-       daarmede, dan wel die verkrijging, dat gebruik of die bestemming 
-       redelijkerwijs had kunnen vermoeden, of
-    b. niet is kunnen worden vastgesteld aan wie zij toebehoren.
-3. Onder voorwerpen worden verstaan alle zaken en alle vermogensrechten.     
-
-
-#####Artikel 33c | Compensatie
-
-1. Bij de verbeurdverklaring van voorwerpen kan de rechter voor het geval 
-   waarin de verbeurd verklaarde voorwerpen meer zouden opbrengen dan 
-   een in de uitspraak vastgesteld bedrag, bevelen dat het verschil 
-   wordt vergoed.
-2. De rechter kent een vergoeding, als bedoeld in het eerste lid, of een 
-   geldelijke tegemoetkoming toe wanneer dit nodig is om te voorkomen dat 
-   de verdachte, of een ander aan wie de verbeurd verklaarde voorwerpen 
-   toebehoren, onevenredig zou worden getroffen.
-3. De rechter bepaalt aan wie het bedrag van de vergoeding of tegemoetkoming 
-   wordt uitbetaald; zulks laat ieders recht op dit bedrag onverlet.   
-  -->
-
 #####<span style="color: #85A79D;">Artikel 36e | Ontneming wederrechterlijk verkregen voordeel</span>
 ```
 1. Op vordering van het Department of Justice (DOJ) kan bij een afzonderlijke 
@@ -181,19 +113,6 @@ gedrongen.
    was gelegen.    
 ```
 
-<!-- MOEILIJK UITVOERBAAR RP SERVER
-#####<span style="color: #85A79D;">Artikel 43a | Recidive</span>
-```
-De op een misdrijf gestelde tijdelijke gevangenisstraf of hechtenis kan, 
-onverminderd artikel 10, met een derde worden verhoogd indien tijdens het 
-plegen van het misdrijf nog geen vijf jaren zijn verlopen sedert een vroegere 
-veroordeling van de schuldige tot gevangenisstraf wegens een daaraan 
-soortgelijk misdrijf in kracht van gewijsde is gegaan. De termijn van vijf 
-jaren wordt verlengd met de tijd waarin de veroordeelde rechtens zijn vrijheid 
-is ontnomen.   
-```
--->
-
 #####<span style="color: #85A79D;">Artikel 44 | Ambtenaren</span>
 ```
 Indien een ambtenaar door het begaan van een strafbaar feit een bijzondere 
@@ -227,17 +146,6 @@ worden verhoogd.
    voltooide misdrijf.
 4. Onder voorwerpen worden verstaan alle zaken en alle vermogensrechten.   
 ```
-
-<!-- NIET VAN TOEPASSING RP
-#####<span style="color: #85A79D;">Artikel 46a | Poging om ander tot misdrijf te bewegen</span>
-```
-Poging om een ander door een der in artikel 47, eerste lid onder 2e, vermelde 
-middelen te bewegen om een misdrijf te begaan, is strafbaar, met dien 
-verstande dat geen zwaardere straf wordt uitgesproken dan ter zake van poging 
-tot het misdrijf of, indien zodanige poging niet strafbaar is, terzake van het 
-misdrijf zelf kan worden opgelegd.
-```
--->
 
 #####<span style="color: #85A79D;">Artikel 46b | Niet voltooide voorbereiding/poging</span>
 ```
@@ -394,15 +302,6 @@ Onder valse sleutels worden begrepen alle tot opening van het slot
 niet bestemde werktuigen.
 ```
 
-<!--
-#####<span style="color: #85A79D;">Artikel 90novies | Begripsbepaling geweldsinstructie politie</span>
-```
-Onder geweldsinstructie wordt verstaan de bij of krachtens de Politiewet 2012 
-gegeven algemeen verbindende voorschriften die tot de ambtenaar gerichte 
-instructies bevatten omtrent het gebruik van geweld.
-```
--->
-
 ### TWEEDE BOEK | Misdrijven
 
 #### TITEL V. Misdrijven tegen de openbare orde
@@ -413,27 +312,6 @@ Hij die in het openbaar, mondeling of bij geschrift of afbeelding, tot
 enig strafbaar feit of tot gewelddadig optreden tegen het openbaar gezag 
 opruit, wordt gestraft met [SANCTIENORM].
 ```
-
-<!-- UITGEZET WEGENS KANS NIHIL IN RP SERVER
-#####Artikel 132 | Verspreiding opruiend geschrift
-```
-Hij die een geschrift of afbeelding waarin tot enig strafbaar feit of tot 
-gewelddadig optreden tegen het openbaar gezag wordt opgeruid, verspreidt, 
-openlijk tentoonstelt of aanslaat of, om verspreid, openlijk tentoongesteld 
-of aangeslagen te worden, in voorraad heeft, wordt, indien hij weet of 
-ernstige reden heeft te vermoeden dat in het geschrift of de afbeelding 
-zodanige opruiing voorkomt, gestraft met [SANCTIENORM].
-```
--->
-
-<!-- UITGEZET WEGENS KANS NIHIL IN RP SERVER
-#####Artikel 133 | Aanbod tot medeplichtigheid
-```
-Hij die in het openbaar, mondeling of bij geschrift of afbeelding, aanbiedt 
-inlichtingen, gelegenheid of middelen te verschaffen om enig strafbaar feit 
-te plegen, wordt gestraft met [SANCTIENORM].
-```
--->
 
 #####<span style="color: #85A79D;">Artikel 138 | Huisvredebreuk</span>
 ```
@@ -506,13 +384,6 @@ maakt van een alarmnummer voor publieke diensten wordt gestraft met
    voor het publiek toegankelijke plaats een voorwerp aanwezig is 
    waardoor een ontploffing kan worden teweeggebracht.
 ```
-
-<!-- #####<span style="color: #85A79D;">Artikel 149 | Grafschennis</span>
-```
-Hij die opzettelijk een graf schendt of enig op een begraafplaats opgericht 
-gedenkteken opzettelijk en wederrechtelijk vernielt of beschadigt, wordt 
-gestraft met [SANCTIENORM].
-``` -->
 
 #####<span style="color: #85A79D;">Artikel 151 | Doen verdwijnen van lijk</span>
 ```
@@ -590,16 +461,6 @@ verlenen, wordt als schuldig aan wederspannigheid gestraft met [SANCTIENORM].
    tijdelijk met enige openbare dienst is belast.
 ```
 
-<!--
-#####<span style="color: #85A79D;">Artikel 185 | Bemoeien terechtzitting en ambtshandeling</span>
-```
-Hij die bij een terechtzitting of ter plaatse waar een ambtenaar in het 
-openbaar in de rechtmatige uitoefening van zijn bediening werkzaam is, 
-opschudding veroorzaakt en na het door of vanwege het bevoegd gezag gegeven 
-bevel zich niet verwijdert, wordt gestraft met [SANCTIENORM].
-```
--->
-
 #####<span style="color: #85A79D;">Artikel 186 | Samenscholing</span>
 ```
 Hij die opzettelijk bij gelegenheid van een volksoploop zich niet 
@@ -634,33 +495,12 @@ wetende dat het niet gepleegd is, wordt gestraft met [SANCTIENORM].
       inlichtingen aan derden die inbeslagneming belet, belemmert of verijdelt.
 ```
 
-<!-- #####<span style="color: #85A79D;">Artikel 190 | Beletten van lijkschouwing</span>
-```
-Hij die opzettelijk een gerechtelijke lijkschouwing belet, belemmert of 
-verijdelt, wordt gestraft met [SANCTIENORM].
-``` -->
-
 #####<span style="color: #85A79D;">Artikel 191 | Bevrijding van gedetineerde</span>
 ```
 Hij die opzettelijk iemand, op openbaar gezag of krachtens rechterlijke 
 uitspraak of beschikking van de vrijheid beroofd, bevrijdt of bij zijn 
 zelfbevrijding behulpzaam is, wordt gestraft met [SANCTIENORM].
 ```
-
-<!-- UITGEZET WEGENS KANS NIHIL IN RP SERVER
-#### TITEL IX. Meineed
-
-#####Artikel 207 | Meineed
-```
-1. Hij die in de gevallen waarin een wettelijk voorschrift een verklaring 
-   onder ede vordert of daaraan rechtsgevolgen verbindt, mondeling of 
-   schriftelijk, persoonlijk of door een bijzonder daartoe gemachtigde, 
-   opzettelijk een valse verklaring onder ede aflegt, wordt gestraft met 
-   [SANCTIENORM]
-2. Met de eed staat gelijk de belofte of bevestiging die krachtens de wet 
-   voor de eed in de plaats treedt.
-```
--->
 
 #### TITEL XII. Valsheid met geschriften, gegevens en biometrische kenmerken
 
@@ -702,30 +542,6 @@ zelfbevrijding behulpzaam is, wordt gestraft met [SANCTIENORM].
 
 #### TITEL XVI. Belediging
 
-<!-- #####Artikel 261 | Smaad(schrift)
-
-1. Hij die opzettelijk iemands eer of goede naam aanrandt, door 
-   telastlegging van een bepaald feit, met het kennelijke doel om 
-   daaraan ruchtbaarheid te geven, wordt, als schuldig aan smaad, 
-   gestraft met gevangenisstraf van ten hoogste [AANTAL] maanden.
-2. Indien dit geschiedt door middel van geschriften of afbeeldingen, 
-   verspreid, openlijk tentoongesteld of aangeslagen, of door 
-   geschriften waarvan de inhoud openlijk ten gehore wordt gebracht, 
-   wordt de dader, als schuldig aan smaadschrift, gestraft met 
-   gevangenisstraf van ten hoogste [AANTAL] maanden.
-3. Noch smaad, noch smaadschrift bestaat voor zover de dader heeft 
-   gehandeld tot noodzakelijke verdediging, of te goeder trouw heeft 
-   kunnen aannemen dat het te last gelegde waar was en dat het algemeen 
-   belang de telastlegging eiste.    
-
-
-#####Artikel 262 | Laster
-
-Hij die het misdrijf van smaad of smaadschrift pleegt, wetende dat het 
-te last gelegde feit in strijd met de waarheid is, wordt, als schuldig 
-aan laster, gestraft met gevangenisstraf van ten hoogste [AANTAL] maanden.
- -->
-
 #####<span style="color: #85A79D;">Artikel 266 | Eenvoudige belediging</span>
 ```
 1. Elke opzettelijke belediging die niet het karakter van smaad of 
@@ -757,15 +573,6 @@ klacht van hem tegen wie het misdrijf is gepleegd.
    verschaft.   
 ```
 
-<!-- #####<span style="color: #85A79D;">Artikel 282a | Gijzeling</span>
-```
-1. Hij die opzettelijk iemand wederrechtelijk van de vrijheid berooft 
-   of beroofd houdt met het oogmerk een ander te dwingen iets te doen of 
-   niet te doen wordt als schuldig aan gijzeling gestraft met 
-   [SANCTIENORM].
-2. Het tweede lid van artikel 282 is toepasselijk.   
-``` -->
-
 #####<span style="color: #85A79D;">Artikel 284 | Dwang</span> 
 ```
 1. Met [SANCTIENORM] wordt gestraft:
@@ -794,31 +601,6 @@ klacht van hem tegen wie het misdrijf is gepleegd.
    politie wordt de op het feit gestelde gevangenisstraf met een 
    derde verhoogd.          
 ```
-
-<!-- #####<span style="color: #85A79D;">Artikel 285b | Stalking</span>
-```
-1. Hij, die wederrechtelijk stelselmatig opzettelijk inbreuk maakt op eens 
-   anders persoonlijke levenssfeer met het oogmerk die ander te dwingen 
-   iets te doen, niet te doen of te dulden dan wel vrees aan te jagen wordt, 
-   als schuldig aan belaging, gestraft met [SANCTIENORM].
-2. Vervolging vindt niet plaats dan op klacht van hem tegen wie 
-   het misdrijf is begaan.       
-``` -->
-
-<!-- UITGEZET WEGENS KANS NIHIL IN RP SERVER
-#####Artikel 285d | Doxing
-```
-1. Degene die zich persoonsgegevens van een ander of een derde verschaft, 
-   deze gegevens verspreidt of anderszins ter beschikking stelt met het 
-   oogmerk om die ander vrees aan te jagen dan wel aan te laten jagen, 
-   ernstige overlast aan te doen dan wel aan te laten doen of hem in 
-   de uitoefening van zijn ambt of beroep ernstig te hinderen dan wel 
-   ernstig te laten hinderen, wordt gestraft met [SANCTIENORM].
-2. Indien het feit, omschreven in het eerste lid, wordt gepleegd tegen 
-   een persoon in diens hoedanigheid van ambtenaar van politie wordt de 
-   op het feit gestelde gevangenisstraf met een derde verhoogd.   
-```
--->
 
 #### TITEL XIX. Misdrijven tegen het leven gericht
 
@@ -853,27 +635,11 @@ wordt, als schuldig aan moord, gestraft met [SANCTIENORM].
 3. Poging tot dit misdrijf is niet strafbaar.
 ```
 
-<!-- UITGEZET WEGENS KANS NIHIL IN RP SERVER
-#####Artikel 301 | Mishandeling met voorbedachten rade 
-```
-Mishandeling gepleegd met voorbedachten rade wordt gestraft met 
-[SANCTIENORM].
-```
--->
-
 #####<span style="color: #85A79D;">Artikel 302 | Zware mishandeling</span>
 ```
 Hij die aan een ander opzettelijk zwaar lichamelijk letsel toebrengt, 
 wordt, als schuldig aan zware mishandeling, gestraft met [SANCTIENORM].
 ```
-
-<!-- UITGEZET WEGENS KANS NIHIL IN RP SERVER
-#####Artikel 303 | Zware mishandeling met voorbedachten rade
-```
-Zware mishandeling gepleegd met voorbedachten rade wordt gestraft met 
-[SANCTIENORM].
-```
--->
 
 #####<span style="color: #85A79D;">Artikel 304 | Strafverzwarende omstandigheden</span>
 ```
@@ -975,54 +741,6 @@ Met [SANCTIENORM] wordt gestraft:
    dit misdrijf van toepassing.
 ```
 
-<!-- Smaad, smaadschrift gebeurt bijna nooit in RP.
-#####Artikel 318 | Afdreiging
-```
-1. Hij die, met het oogmerk om zich of een ander wederrechtelijk te 
-   bevoordelen, door bedreiging met smaad, smaadschrift of openbaring 
-   van een geheim iemand dwingt hetzij tot de afgifte van enig goed dat 
-   geheel of ten dele aan deze of aan een derde toebehoort, hetzij tot 
-   het aangaan van een schuld of het teniet doen van een inschuld, 
-   hetzij tot het ter beschikking stellen van gegevens, wordt als schuldig 
-   aan afdreiging, gestraft met [SANCTIENORM].
-2. Dit misdrijf wordt niet vervolgd dan op klacht van hem tegen wie het 
-   gepleegd is.
-```
--->
-
-<!-- UITGEZET WEGENS KANS NIHIL IN RP SERVER
-#### TITEL XXIV. Verduistering
-
-#####Artikel 321 | Verduistering
-```
-Hij die opzettelijk enig goed dat geheel of ten dele aan een ander toebehoort 
-en dat hij anders dan door misdrijf onder zich heeft, wederrechtelijk zich 
-toeëigent, wordt, als schuldig aan verduistering, gestraft met [SANCTIENORM].
-```
-
-
-#### TITEL XXV. Bedrog
-
-#####Artikel 326 | Oplichting
-```
-Hij die, met het oogmerk om zich of een ander wederrechtelijk te bevoordelen, 
-hetzij door het aannemen van een valse naam of van een valse hoedanigheid, 
-hetzij door listige kunstgrepen, hetzij door een samenweefsel van 
-verdichtsels, iemand beweegt tot de afgifte van enig goed, tot het verlenen 
-van een dienst, tot het ter beschikking stellen van gegevens, tot het aangaan 
-van een schuld of tot het teniet doen van een inschuld, wordt, als schuldig 
-aan oplichting, gestraft met [SANCTIENORM].
-```
-
-
-#####Artikel 326a | Flessentrekkerij
-```
-Hij die een beroep of een gewoonte maakt van het kopen van goederen met het 
-oogmerk om zonder volledige betaling zich of een ander de beschikking over 
-die goederen te verzekeren, wordt gestraft met [SANCTIENORM].
-```
--->
-
 #### TITEL XXVII. Vernieling of beschadiging
 
 #####<span style="color: #85A79D;">Artikel 350 | Beschadiging goederen/dieren</span>
@@ -1052,14 +770,6 @@ die goederen te verzekeren, wordt gestraft met [SANCTIENORM].
 2. Met dezelfde straf wordt gestraft hij die opzettelijk uit de opbrengst van 
    enig door misdrijf verkregen goed voordeel trekt.        
 ```
-
-<!-- UITGEZET WEGENS KANS NIHIL IN RP SERVER
-#####Artikel 417 | Gewoonteheling
-```
-Hij die van het plegen van opzetheling een gewoonte maakt, wordt gestraft met 
-[SANCTIENORM].
-```
--->
 
 #####<span style="color: #85A79D;">Artikel 417bis | Schuldheling</span>
 ```
@@ -1094,37 +804,6 @@ Hij die van het plegen van opzetheling een gewoonte maakt, wordt gestraft met
 2. Onder voorwerpen worden verstaan alle zaken en alle vermogensrechten.      
 ```
 
-<!-- UITGEZET WEGENS KANS NIHIL IN RP SERVER
-#####Artikel 420bis.1 | Eenvoudig witwassen
-```
-Witwassen dat enkel bestaat uit het verwerven of voorhanden hebben van een 
-voorwerp dat onmiddellijk afkomstig is uit enig eigen misdrijf wordt als 
-eenvoudig witwassen gestraft met [SANCTIENORM].
-```
-
-#####Artikel 420quater | Schuldwitwassen
-```
-1. Als schuldig aan schuldwitwassen wordt gestraft met [SANCTIENORM]:
-   a. hij die van een voorwerp de werkelijke aard, de herkomst, de vindplaats, 
-      de vervreemding of de verplaatsing verbergt of verhult, dan wel verbergt 
-      of verhult wie de rechthebbende op een voorwerp is of het voorhanden 
-      heeft, terwijl hij redelijkerwijs moet vermoeden dat het voorwerp – 
-      onmiddellijk of middellijk – afkomstig is uit enig misdrijf;
-   b. hij die een voorwerp verwerft, voorhanden heeft, overdraagt of omzet of 
-      van een voorwerp gebruik maakt, terwijl hij redelijkerwijs moet vermoeden 
-      dat het voorwerp – onmiddellijk of middellijk – afkomstig is uit enig 
-      misdrijf.   
-2. Onder voorwerpen worden verstaan alle zaken en alle vermogensrechten.      
-```
-
-#####Artikel 420quater.1 | Eenvoudig schuldwitwassen
-```
-Schuldwitwassen dat enkel bestaat uit het verwerven of voorhanden hebben van 
-een voorwerp dat onmiddellijk afkomstig is uit enig eigen misdrijf wordt als 
-eenvoudig schuldwitwassen gestraft met [SANCTIENORM].
-```
--->
-
 ### DERDE BOEK | Overtredingen
 
 #### TITEL I. Overtredingen betreffende de algemene veiligheid van personen en goederen
@@ -1136,15 +815,6 @@ plaats tegen personen of goederen enige baldadigheid pleegt waardoor gevaar
 of nadeel kan worden teweeggebracht, wordt, als schuldig aan straatschenderij, 
 gestraft met [SANCTIENORM].
 ```
-
-<!-- #####<span style="color: #85A79D;">Artikel 426 | Gevaarzetting in dronkenschap</span>
-```
-Hij die, terwijl hij in staat van dronkenschap verkeert, hetzij in het openbaar 
-het verkeer belemmert of de orde verstoort, hetzij eens anders veiligheid 
-bedreigt, hetzij enige handeling verricht waarbij, tot voorkoming van gevaar 
-voor leven of gezondheid van derden, bijzondere omzichtigheid of voorzorgen 
-worden vereist, wordt gestraft met [SANCTIENORM].
-``` -->
 
 #####<span style="color: #85A79D;">Artikel 426bis | Hinderlijk volgen</span>
 ```
@@ -1189,27 +859,6 @@ vingerafdrukken, hem opgelegd krachtens de Wet op de identificatieplicht, het
 Wetboek van Strafvordering, het Wetboek van Strafrecht, wordt gestraft met
 [SANCTIENORM].
 ```
-
-<!-- UITGEZET WEGENS KANS NIHIL IN RP SERVER
-#### TITEL V. Overtreding betreffende hulpbehoevenden
-
-#####Artikel 450 | Nalaten hulpverlening bij levensgevaar
-```
-Hij die, getuige van het ogenblikkelijk levensgevaar waarin een ander verkeert, 
-nalaat deze die hulp te verlenen of te verschaffen die hij hem, zonder gevaar 
-voor zichzelf of anderen redelijkerwijs te kunnen duchten, verlenen of 
-verschaffen kan, wordt, indien de dood van de hulpbehoevende volgt, gestraft 
-met [SANCTIENORM].
-```
--->
-
-<!-- #### TITEL VI. Overtredingen betreffende de zeden
-
-#####<span style="color: #85A79D;">Artikel 453 | Openbare dronkenschap</span>
-```
-Hij die zich in kennelijke staat van dronkenschap op de openbare weg bevindt, 
-wordt gestraft met [SANCTIENORM].
-``` -->
 
 #### TITEL VII. Overtredingen betreffende de veldpolitie
 
