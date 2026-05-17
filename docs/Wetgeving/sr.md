@@ -766,12 +766,12 @@ klacht van hem tegen wie het misdrijf is gepleegd.
 2. Het tweede lid van artikel 282 is toepasselijk.   
 ``` -->
 
-#####<span style="color: #85A79D;">Artikel 284 | Dwang</span>
+#####<span style="color: #85A79D;">Artikel 284 | Dwang</span> 
 ```
 1. Met [SANCTIENORM] wordt gestraft:
    1° hij die een ander door geweld of enige andere feitelijkheid of 
       door bedreiging met geweld of enige andere feitelijkheid, gericht 
-      hetzij tegen die ander hetzij tegen derden, wederrechtelijk dwingt 
+      hetzij tegen die ander hetzij tegen derden, wederrechtelijk dwingt  
       iets te doen, niet te doen of te dulden;
    2° hij die een ander door bedreiging met smaad of smaadschrift dwingt 
       iets te doen, niet te doen of te dulden.
