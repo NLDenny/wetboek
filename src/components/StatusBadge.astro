@@ -1,0 +1,32 @@
+---
+interface Props {
+  status: 'open' | 'closed';
+  label: string;
+}
+
+const { status, label } = Astro.props;
+---
+
+<span class={`status-badge status-badge--${status}`}>{label}</span>
+
+<style>
+  .status-badge {
+    font-weight: 700;
+  }
+
+  .status-badge--open {
+    color: #168e02;
+  }
+
+  .status-badge--closed {
+    color: #8e0205;
+  }
+
+  [data-theme="dark"] .status-badge--open {
+    color: #4fd142;
+  }
+
+  [data-theme="dark"] .status-badge--closed {
+    color: #ff6b63;
+  }
+</style>

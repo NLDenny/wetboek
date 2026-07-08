@@ -1,0 +1,102 @@
+---
+// Tijdelijke, hardcoded nav — wordt in Fase 3 vervangen door een boom die
+// wordt afgeleid uit de content collections (title/navLabel/order/draft),
+// zodat een pagina die bestaat nooit meer "vergeten" kan worden in de nav.
+const navGroups = [
+  {
+    label: 'Department of Justice',
+    items: [
+      { href: '/department-of-justice/doj/', label: 'Uitleg DOJ' },
+      { href: '/department-of-justice/rechtbank/', label: 'Rechtbank' },
+      { href: '/department-of-justice/sanctienormen/', label: 'Sanctienormen' },
+      { href: '/department-of-justice/vergunningen/', label: 'Vergunningen' },
+    ],
+  },
+  {
+    label: 'Wetgeving',
+    items: [
+      { href: '/wetgeving/sr/', label: 'Wetboek van Strafrecht' },
+      { href: '/wetgeving/sv/', label: 'Wetboek van Strafvordering' },
+      { href: '/wetgeving/opw/', label: 'Opiumwet' },
+      { href: '/wetgeving/wwm/', label: 'Wet wapens en munitie' },
+      { href: '/wetgeving/wvw/', label: 'Wegenverkeerswet' },
+      { href: '/wetgeving/polw2012/', label: 'Politiewet 2012' },
+      { href: '/wetgeving/ambts/', label: 'Ambtsinstructie' },
+    ],
+  },
+  {
+    label: 'Overig',
+    items: [
+      { href: '/wetgeving/overig/wgvgk/', label: 'Wet gedeeltelijk verbod gezichtsbedekkende kleding' },
+      { href: '/wetgeving/overig/wid/', label: 'Wet op de identificatieplicht' },
+      { href: '/wetgeving/overig/awbi/', label: 'Algemene wet op het binnentreden' },
+    ],
+  },
+];
+
+interface Props {
+  currentPath?: string;
+}
+
+const { currentPath = '' } = Astro.props;
+---
+
+<nav class="sidebar" aria-label="Hoofdnavigatie">
+  <a class="sidebar__link sidebar__link--top" href="/" aria-current={currentPath === '/' ? 'page' : undefined}>Home</a>
+  <a class="sidebar__link sidebar__link--top" href="/stadsbestuur/" aria-current={currentPath === '/stadsbestuur/' ? 'page' : undefined}>Stadsbestuur</a>
+
+  {navGroups.map((group) => (
+    <div class="sidebar__group">
+      <p class="sidebar__group-label">{group.label}</p>
+      {group.items.map((item) => (
+        <a class="sidebar__link" href={item.href} aria-current={currentPath === item.href ? 'page' : undefined}>
+          {item.label}
+        </a>
+      ))}
+    </div>
+  ))}
+</nav>
+
+<style>
+  .sidebar {
+    display: flex;
+    flex-direction: column;
+    gap: 0.25rem;
+    font-size: 0.9rem;
+  }
+
+  .sidebar__group {
+    margin-top: 1.25rem;
+  }
+
+  .sidebar__group-label {
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    font-size: 0.72rem;
+    color: var(--color-text-muted);
+    margin: 0 0 0.4rem;
+  }
+
+  .sidebar__link {
+    display: block;
+    padding: 0.3rem 0.5rem;
+    border-radius: 4px;
+    text-decoration: none;
+    color: var(--color-text);
+  }
+
+  .sidebar__link:hover {
+    background: var(--color-bg-alt);
+    color: var(--color-link);
+  }
+
+  .sidebar__link[aria-current="page"] {
+    color: var(--color-gold-dark);
+    font-weight: 700;
+    background: var(--color-bg-alt);
+  }
+
+  .sidebar__link--top {
+    font-weight: 700;
+  }
+</style>

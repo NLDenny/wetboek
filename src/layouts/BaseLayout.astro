@@ -1,0 +1,71 @@
+---
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+import Sidebar from '../components/Sidebar.astro';
+import '../styles/global.css';
+
+interface Props {
+  title: string;
+  description?: string;
+}
+
+const { title, description = 'Wetboek van Los Santos — Department of Justice' } = Astro.props;
+const currentPath = Astro.url.pathname;
+---
+
+<!doctype html>
+<html lang="nl">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="icon" href="/favicon.svg" />
+    <meta name="description" content={description} />
+    <title>{title} | Los Santos</title>
+    <script is:inline>
+      (function () {
+        var stored = localStorage.getItem('wetboek-theme');
+        var theme = stored === 'dark' ? 'dark' : 'light';
+        document.documentElement.setAttribute('data-theme', theme);
+      })();
+    </script>
+  </head>
+  <body>
+    <Header />
+    <div class="shell">
+      <aside class="shell__sidebar">
+        <Sidebar currentPath={currentPath} />
+      </aside>
+      <main class="shell__content">
+        <slot />
+      </main>
+    </div>
+    <Footer />
+  </body>
+</html>
+
+<style>
+  .shell {
+    max-width: 76rem;
+    margin: 0 auto;
+    padding: 2rem 1.25rem;
+    display: grid;
+    grid-template-columns: 16rem 1fr;
+    gap: 2.5rem;
+    align-items: start;
+  }
+
+  .shell__sidebar {
+    position: sticky;
+    top: calc(var(--header-height) + 1.5rem);
+  }
+
+  @media (max-width: 60rem) {
+    .shell {
+      grid-template-columns: 1fr;
+    }
+
+    .shell__sidebar {
+      position: static;
+    }
+  }
+</style>

@@ -1,0 +1,54 @@
+---
+title: Stadsbestuur
+order: 1
+---
+
+import { Image } from 'astro:assets';
+import RoleCard from '../../components/RoleCard.astro';
+import CardGrid from '../../components/CardGrid.astro';
+import StatusBadge from '../../components/StatusBadge.astro';
+import beachImage from '../../assets/img/beach.webp';
+import mayorImage from '../../assets/img/mayor.webp';
+import chiefofstaffImage from '../../assets/img/chiefofstaff.webp';
+import chiefofbarImage from '../../assets/img/chiefofbar.webp';
+
+<Image src={beachImage} alt="Los Santos" width={280} class="float-right" />
+
+Maandelijks zijn er verkiezingen voor het dagelijks bestuur van Los Santos.
+Iedere bewoner kan zich verkiesbaar stellen als Mayor.
+De Mayor kiest vervolgens een Chief of Staff en een Chief of Bar om samen de stad een maand lang te besturen.
+Zodra de kandidaatstelling is geopend is het voor een ieder mogelijk om zich verkiesbaar te stellen.
+Na een bepaalde periode sluit de kandidaatstelling en zullen de verkiezingen openen.
+Iedere inwoner van Los Santos mag vervolgens op een van de kandidaten stemmen.
+
+---
+
+**Huidige status**:
+_Kandidaatstelling_: <StatusBadge status="open" label="GEOPEND" />
+_Verkiezingen_: <StatusBadge status="closed" label="GESLOTEN" />
+
+_De volgende personen maken op dit moment deel uit van het stadsbestuur:_
+
+<CardGrid>
+  <RoleCard
+    name="Mayor"
+    image={mayorImage}
+    vacant
+    description="De Mayor is onderdeel van het dagelijks bestuur van Los Santos. De mayor kan aanpassingen doen aan alle wet- en regelgeving. Ook gaat de mayor over vergunningen, bedrijfsaanvragen en subsidies. Maandelijks wordt er een nieuwe Mayor verkozen. Een Mayor kan miximaal twee aaneengesloten maanden worden verkozen."
+  />
+</CardGrid>
+
+<CardGrid>
+  <RoleCard
+    name="Chief of Staff"
+    image={chiefofstaffImage}
+    vacant
+    description="De Chief of Staff geeft sturing aan de korpsleidingen binnen Los Santos. Hierbij heeft de Chief of Staff een adviserende rol."
+  />
+  <RoleCard
+    name="Chief of Bar"
+    image={chiefofbarImage}
+    vacant
+    description="De Chief of Bar maakt deel uit van de rechterlijke macht. Tijdens rechtszaken fungeert de Chief of Bar als rechter."
+  />
+</CardGrid>

@@ -1,0 +1,77 @@
+---
+title: Vergunningen
+order: 4
+---
+
+import { Image } from 'astro:assets';
+import StepList from '../../components/StepList.astro';
+import wapenvergunningImage from '../../assets/img/wapenvergunning.webp';
+
+export const aanvraagStappen = [
+  {
+    title: 'Aanvraag bij Chief of Justice',
+    description:
+      'Als je aan de eisen voldoet voor het aanvragen van een wapenvergunning kan je een afspraak maken bij de Chief of Justice.',
+  },
+  {
+    title: 'Controle randvoorwaarden',
+    description:
+      'Tijdens deze afspraak wordt er gecontroleerd of je aan alle randvoorwaarden voldoet. Zo moet je een geldig identiteitsbewijs kunnen overhandigen en mag je de afgelopen vier maanden niet zijn veroordeeld.',
+  },
+  {
+    title: 'Inhoudelijke behandeling',
+    description:
+      'Tijdens de inhoudelijke behandeling kan je toelichten waarvoor jij een wapenvergunning nodig hebt. Vermeld hierbij ook om welk type wapen het gaat. Een wapenvergunning wordt altijd onder beperking verleend, daarbij zijn meerdere voorschriften aan de vergunning verbonden.',
+  },
+  {
+    title: 'Beslissing',
+    description:
+      'Uiteindelijk volgt er een beslissing op de aanvraag. Een aanvraag zal worden geweigerd als er niet aan alle randvoorwaarden is voldaan. Daarnaast moet het wapen aan de aanvrager kunnen worden toevertrouwd en moet er geen vrees zijn voor misbruik van het wapen.',
+  },
+  {
+    title: 'Uitgifte',
+    description:
+      'Tot slot volgt de uitgifte van de wapenvergunning. Er zal worden medegedeeld onder welke beperkingen de vergunning wordt verleend en welke voorschriften van kracht zijn.',
+  },
+];
+
+<Image src={wapenvergunningImage} alt="Wapenvergunning" width={280} class="float-right" />
+
+Vergunningsaanvragen verlopen via het [Department of Justice](/department-of-justice/doj/).
+De Chief of Justice kan verschillende soorten vergunningen afgeven.
+Vergunningen die onder andere door het Department of Justice worden afgegegeven zijn wapenvergunningen.
+
+---
+
+### Wapenvergunning
+
+Veel verschillende wapens zijn strafbaar gesteld volgens de [Wet wapens en munitie](/wetgeving/wwm/#artikel-2-categorieen-wapens-munitie).
+Om te mogen jagen is het __niet noodzakelijk__ om een wapenvergunning te bezitten, aangezien een jachtgeweer en kruisboog niet onder de Wet wapen en munitie vallen.
+Het is echter wel strafbaar om je jachtuitrusting voor andere doeleinden te gebruiken (categorie IV onder 4°).
+
+#### Verkrijgen van een wapenvergunning
+Een wapenvergunning krijg je niet zomaar, er moet een legitieme reden zijn voor het aanvragen van een wapenvergunning.
+Daarnaast mag er geen vrees bestaan voor het misbruik van het wapen. De aanvraag verloopt op de volgende wijze:
+
+<StepList steps={aanvraagStappen} />
+
+#### Misbruik wapen
+Zoals hierboven omschreven staat wordt een wapenvergunning altijd onder beperkingen verleend.
+Daarnaast zijn er voorschriften aan de vergunning verbonden.
+Mocht je bijvoorbeeld het wapen gebruiken om een misdrijf te plegen levert dit alsnog een strafbaar feit op.
+In de voorschriften van de vergunning is namelijk opgenomen dat een wapen niet voor een misdrijf gebruikt mag worden.
+Je bent dan alsnog strafbaar, omdat in de [delictomschrijving](/wetgeving/wwm/#artikel-27-dragen-categorie-ii-iii-en-iv) het volgende is opgenomen:
+_'Tenzij de houder handelt in strijd met de beperkingen dan wel voorschriften die op grond van artikel 6 zijn vastgesteld.'_
+
+Houd er daarnaast rekening mee dat het [overdragen](/wetgeving/wwm/#artikel-31-overdragen-categorie-ii-en-iii) van een wapen __altijd__ strafbaar is.
+Op het overdragen van een wapen is namelijk geen uitzondering gemaakt voor vergunninghouders.
+
+#### Intrekken van een wapenvergunning
+Er zijn verschillende [gronden](/wetgeving/wwm/#artikel-7-weigering) om een wapenvergunning in te trekken.
+Dit kan een van de volgende gronden zijn:
+
+- _Bij de aanvraag zijn er onjuiste gegevens verstrekt._
+- _Er aanwijzingen zijn dat aan de houder een wapen niet langer kan worden toevertrouwd._
+- _Er misbruik is gemaakt van het wapen._
+- _Schenden beperkingen danwel voorschriften van de vergunning._
+- _Bij een veroordeling voor een misdrijf._

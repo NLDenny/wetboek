@@ -1,0 +1,73 @@
+---
+// Toont uitsluitend h1-h4 (BOEK/TITEL/HOOFDSTUK/§-niveaus). h5 ("Artikel N")
+// wordt bewust nooit getoond: elk wetsartikel is in alle brondocumenten
+// altijd exact h5, dus dit is de regel die de vroegere, onleesbaar lange
+// MkDocs-inhoudsopgave (83-84 items per grote wet) oplost.
+interface Heading {
+  depth: number;
+  slug: string;
+  text: string;
+}
+
+interface Props {
+  headings: Heading[];
+}
+
+const { headings } = Astro.props;
+const visible = headings.filter((h) => h.depth >= 2 && h.depth <= 4);
+---
+
+{visible.length > 0 && (
+  <nav class="toc" aria-label="Inhoudsopgave">
+    <p class="toc__label">Inhoudsopgave</p>
+    <ul class="toc__list">
+      {visible.map((heading) => (
+        <li class={`toc__item toc__item--depth-${heading.depth}`}>
+          <a href={`#${heading.slug}`}>{heading.text}</a>
+        </li>
+      ))}
+    </ul>
+  </nav>
+)}
+
+<style>
+  .toc {
+    font-size: 0.85rem;
+  }
+
+  .toc__label {
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    font-size: 0.72rem;
+    color: var(--color-text-muted);
+    margin: 0 0 0.5rem;
+  }
+
+  .toc__list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    gap: 0.15rem;
+  }
+
+  .toc__item a {
+    text-decoration: none;
+    color: var(--color-text-muted);
+    display: block;
+    padding: 0.15rem 0;
+  }
+
+  .toc__item a:hover {
+    color: var(--color-link);
+  }
+
+  .toc__item--depth-3 {
+    padding-left: 0.75rem;
+  }
+
+  .toc__item--depth-4 {
+    padding-left: 1.5rem;
+  }
+</style>

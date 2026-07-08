@@ -172,3 +172,8 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Node / Astro
+node_modules/
+.astro/
+npm-debug.log*

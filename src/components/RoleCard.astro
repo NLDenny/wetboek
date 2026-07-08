@@ -1,0 +1,77 @@
+---
+import { Image } from 'astro:assets';
+import type { ImageMetadata } from 'astro';
+
+interface Props {
+  name: string;
+  image: ImageMetadata;
+  vacant?: boolean;
+  description?: string;
+}
+
+const { name, image, vacant = false, description } = Astro.props;
+---
+
+<div class="role-card">
+  <div class="role-card__header">
+    <span class="role-card__name">{name}</span>
+    {vacant && <span class="role-card__vacant">GEZOCHT</span>}
+  </div>
+  <hr class="role-card__divider" />
+  <div class="role-card__body">
+    <Image class="role-card__image" src={image} alt={name} width={120} height={120} />
+    {description && <p class="role-card__description">{description}</p>}
+  </div>
+</div>
+
+<style>
+  .role-card {
+    border: 1px solid var(--color-border);
+    border-radius: 6px;
+    padding: 1rem 1.25rem;
+    background: var(--color-surface);
+  }
+
+  .role-card__header {
+    display: flex;
+    align-items: baseline;
+    gap: 0.5rem;
+    flex-wrap: wrap;
+  }
+
+  .role-card__name {
+    font-weight: 700;
+    color: var(--color-link);
+  }
+
+  .role-card__vacant {
+    font-size: 0.75rem;
+    letter-spacing: 0.04em;
+    color: var(--color-text-muted);
+  }
+
+  .role-card__divider {
+    border: none;
+    border-top: 1px solid var(--color-border);
+    margin: 0.6rem 0;
+  }
+
+  .role-card__body {
+    display: flex;
+    gap: 1rem;
+    align-items: flex-start;
+  }
+
+  .role-card__image {
+    border-radius: 4px;
+    float: right;
+    shape-outside: margin-box;
+  }
+
+  .role-card__description {
+    margin: 0;
+    font-style: italic;
+    color: var(--color-text-muted);
+    font-size: 0.9rem;
+  }
+</style>
