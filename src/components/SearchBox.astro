@@ -136,20 +136,32 @@
       }
 
       const search = await pf.search(term);
-      const results = await Promise.all(search.results.slice(0, 8).map((r) => r.data()));
+      const pages = await Promise.all(search.results.slice(0, 8).map((r) => r.data()));
+
+      // Pagefind splits each page into sub_results per section (anchored
+      // to the nearest heading, e.g. #artikel-131-opruiing). Jump straight
+      // to the best-matching section instead of just the page's top.
+      const items = pages.map((page) => {
+        const best = page.sub_results && page.sub_results.length > 0 ? page.sub_results[0] : null;
+        return {
+          url: best ? best.url : page.url,
+          title: (page.meta && page.meta.title) || page.url,
+          excerpt: best ? best.excerpt : page.excerpt,
+        };
+      });
 
       resultsEl.hidden = false;
-      if (results.length === 0) {
+      if (items.length === 0) {
         resultsEl.innerHTML = '<p class="search__empty">Geen resultaten gevonden.</p>';
         return;
       }
 
-      resultsEl.innerHTML = results
+      resultsEl.innerHTML = items
         .map(
-          (r) => `
-            <a class="search__result" href="${r.url}">
-              <span class="search__result-title">${(r.meta && r.meta.title) || r.url}</span>
-              <p class="search__result-excerpt">${r.excerpt}</p>
+          (item) => `
+            <a class="search__result" href="${item.url}">
+              <span class="search__result-title">${item.title}</span>
+              <p class="search__result-excerpt">${item.excerpt}</p>
             </a>
           `
         )
