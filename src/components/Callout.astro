@@ -30,6 +30,10 @@ const { title } = Astro.props;
 
   .callout__body {
     margin-top: 0.5rem;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 1.25rem;
   }
 
   .callout__body :global(p:first-child) {
@@ -38,5 +42,15 @@ const { title } = Astro.props;
 
   .callout__body :global(p:last-child) {
     margin-bottom: 0;
+  }
+
+  .callout__body :global(ul) {
+    flex: 1 1 12rem;
+    margin: 0;
+  }
+
+  .callout__body :global(img) {
+    flex-shrink: 0;
+    border-radius: 4px;
   }
 </style>
