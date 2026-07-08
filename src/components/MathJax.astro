@@ -1,0 +1,14 @@
+---
+// Scoped to individual pages that use $..$ math notation (only
+// sanctienormen.mdx today) rather than loaded site-wide.
+---
+
+<script is:inline>
+  window.MathJax = {
+    tex: {
+      inlineMath: [['$', '$']],
+      displayMath: [['$$', '$$']],
+    },
+  };
+</script>
+<script is:inline src="https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js"></script>

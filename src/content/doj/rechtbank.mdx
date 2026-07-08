@@ -1,0 +1,93 @@
+---
+title: Rechtbank
+order: 2
+---
+
+import { Image } from 'astro:assets';
+import StepList from '../../components/StepList.astro';
+import stadskantoorImage from '../../assets/img/stadskantoor.webp';
+import rechtszaalImage from '../../assets/img/rechtszaal.webp';
+
+export const strafzaakStappen = [
+  {
+    title: 'Controle persoonsgegevens + mededeling aanwezigen',
+    description:
+      'Rechter opent de zitting en neemt de persoonsgegevens van de verdachte door. Vervolgens vertelt de rechter wie er nog meer in de rechtszaal aanwezig zijn (getuigen, deskundigen, familie etc).',
+  },
+  {
+    title: 'Mededeling cautie aan verdachte',
+    description:
+      'De rechter legt aan de verdachte uit dat hij ook tijdens de zitting niet tot antwoorden verplicht is.',
+  },
+  {
+    title: 'Tenlastelegging',
+    description:
+      'De district attorney leest de tenlastelegging voor. Hierin wordt vertelt voor welke strafbare feiten de verdachte wordt aangeklaagd.',
+  },
+  {
+    title: 'Onderzoek door rechter',
+    description:
+      'De rechter zal de verdachte verschillende vragen gaan stellen. Bij aanwezigheid van getuigen, deskundige of familie krijgen zij de mogelijkheid om te spreken.',
+  },
+  {
+    title: 'Requisitoir + strafeis',
+    description:
+      'De district attorney zal zijn visie geven op de zaak. Dit wordt het requisitoir genoemd. Na afloop van het requisitoir volgt altijd de strafeis.',
+  },
+  {
+    title: 'Pleidooi advocaat',
+    description:
+      'Vervolgens is het woord aan de advocaat van de verdachte. De advocaat voert de verdediging van de verdachte aan. Hierbij kan de advocaat reageren op het requisitoir.',
+  },
+  {
+    title: 'Reactie pleidooi',
+    description: 'Er vindt vervolgens een tweede ronde plaats. De district attorney mag reageren op het pleidooi van de advocaat.',
+  },
+  {
+    title: 'Reactie advocaat',
+    description: 'Vervolgens mag ook de advocaat van de verdachte hier weer op reageren.',
+  },
+  {
+    title: 'Laatste woord verdachte',
+    description:
+      'Het laatste woord is altijd voor de verdachte. De verdachte kan hierin spijt betuigen of zijn zienswijze op de zaak naar voren brengen.',
+  },
+  {
+    title: 'Vonnis',
+    description:
+      'Als laatst sluit de rechter het onderzoek ter terechtzitting. Het kan zijn dat een rechter direct uitspraak doet. In complexe zaken zou het vonnis op een later moment worden uitgesproken.',
+  },
+];
+
+<Image src={stadskantoorImage} alt="Stadhuis" width={280} class="float-right" />
+
+De rechtbank is gevestigd in het stadhuis te Rockford Hills.
+Het gebouw beschikt over één rechtszaal.
+In de rechtbank worden alleen strafzittingen behandeld.
+In de meeste gevallen is het mogelijk om een zitting bij te wonen.
+Bekijk hieronder de bezoekersinformatie voor het bijwonen van een rechtszaak.
+
+---
+
+## Bezoekersinformatie
+Bij grote belangstelling kan het voorkomen dat er geen plek meer is op de publieke tribune.
+Helaas kunt u de zitting dan niet bijwonen. Mocht u naar de rechtbank komen houd dan
+rekening met de volgende zaken:
+
+- _Minimale leeftijd voor het bijwonen van een strafzitting is 16 jaar._
+- _Neem altijd een geldig identiteitsbewijs of rijbewijs mee._
+- _U kunt bij binnenkomst worden gefouilleerd._
+- _Het dragen van gezichtsbedekkende kleding is verboden._
+
+### Werking strafzaak
+Een strafzitting verloopt altijd via een vast patroon. Het is handig om te weten wat u kunt verwachten voordat u een zitting bijwoont.
+Daarom is de verloop van een strafzitting hieronder weergegeven:
+
+<StepList steps={strafzaakStappen} />
+
+### Rechtszalen
+
+De rechtbank beschikt over één rechtszaal.
+Hieronder is een illustratie van de rechtszaal weergegeven:
+
+<Image src={rechtszaalImage} alt="Rechtszaal" width={500} class="float-left" />
