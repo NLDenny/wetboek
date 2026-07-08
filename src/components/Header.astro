@@ -1,13 +1,18 @@
 ---
+import { Image } from 'astro:assets';
 import ThemeToggle from './ThemeToggle.astro';
 import SearchBox from './SearchBox.astro';
+import dojSeal from '../assets/img/doj-seal.png';
 ---
 
 <header class="site-header">
   <div class="site-header__inner">
     <a class="site-header__brand" href="/">
-      <span class="site-header__title">Los Santos</span>
-      <span class="site-header__subtitle">Department of Justice</span>
+      <Image src={dojSeal} alt="" width={40} height={40} class="site-header__seal" />
+      <span class="site-header__brand-text">
+        <span class="site-header__title">Los Santos</span>
+        <span class="site-header__subtitle">Department of Justice</span>
+      </span>
     </a>
     <nav class="site-header__actions">
       <SearchBox />
@@ -39,10 +44,21 @@ import SearchBox from './SearchBox.astro';
 
   .site-header__brand {
     display: flex;
-    flex-direction: column;
-    line-height: 1.1;
+    align-items: center;
+    gap: 0.6rem;
     text-decoration: none;
     color: var(--color-header-text);
+  }
+
+  .site-header__seal {
+    flex-shrink: 0;
+    display: block;
+  }
+
+  .site-header__brand-text {
+    display: flex;
+    flex-direction: column;
+    line-height: 1.1;
   }
 
   .site-header__title {
