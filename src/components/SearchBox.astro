@@ -1,0 +1,171 @@
+---
+---
+
+<div class="search" data-search>
+  <input
+    type="search"
+    class="search__input"
+    placeholder="Zoeken..."
+    aria-label="Doorzoek het wetboek"
+    data-search-input
+  />
+  <div class="search__results" data-search-results hidden></div>
+</div>
+
+<style>
+  .search {
+    position: relative;
+    width: 16rem;
+  }
+
+  .search__input {
+    width: 100%;
+    padding: 0.4rem 0.6rem;
+    border-radius: 4px;
+    border: 1px solid rgba(255, 255, 255, 0.4);
+    background: rgba(255, 255, 255, 0.08);
+    color: var(--color-header-text);
+    font-size: 0.9rem;
+  }
+
+  .search__input::placeholder {
+    color: rgba(255, 255, 255, 0.6);
+  }
+
+  .search__input:focus {
+    outline: 2px solid var(--color-gold-light);
+    outline-offset: 1px;
+  }
+
+  .search__results {
+    position: absolute;
+    top: calc(100% + 0.5rem);
+    right: 0;
+    width: 22rem;
+    max-width: 90vw;
+    max-height: 70vh;
+    overflow-y: auto;
+    background: var(--color-surface);
+    border: 1px solid var(--color-border);
+    border-radius: 6px;
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.25);
+    padding: 0.5rem;
+    z-index: 20;
+  }
+
+  /* :global() below: these elements are injected at runtime via
+     innerHTML (see the inline script), so they never receive Astro's
+     scoped data-astro-cid attribute and regular scoped rules would
+     silently not match them. */
+  :global(.search__result) {
+    display: block;
+    padding: 0.5rem 0.6rem;
+    border-radius: 4px;
+    text-decoration: none;
+    color: var(--color-text);
+  }
+
+  :global(.search__result:hover) {
+    background: var(--color-bg-alt);
+  }
+
+  :global(.search__result-title) {
+    font-weight: 700;
+    color: var(--color-link);
+    font-size: 0.9rem;
+  }
+
+  :global(.search__result-excerpt) {
+    font-size: 0.82rem;
+    color: var(--color-text-muted);
+    margin: 0.15rem 0 0;
+  }
+
+  :global(.search__result-excerpt mark) {
+    background: var(--color-gold-light);
+    color: var(--color-navy-dark);
+    padding: 0 0.1em;
+    border-radius: 2px;
+  }
+
+  :global(.search__empty) {
+    padding: 0.5rem 0.6rem;
+    font-size: 0.85rem;
+    color: var(--color-text-muted);
+  }
+</style>
+
+<script is:inline>
+  // Plain JS, loaded inline (not processed by Vite): the dynamic
+  // import() of /pagefind/pagefind.js is a runtime-only file that only
+  // exists in the built site, and Vite's module-preload wrapping around
+  // dynamic imports in bundled scripts breaks on it (ReferenceError:
+  // __VITE_PRELOAD__ is not defined).
+  (function () {
+    const root = document.querySelector('[data-search]');
+    const input = root && root.querySelector('[data-search-input]');
+    const resultsEl = root && root.querySelector('[data-search-results]');
+    if (!root || !input || !resultsEl) return;
+
+    let pagefind = null;
+    let debounceTimer;
+
+    async function ensurePagefind() {
+      if (pagefind) return pagefind;
+      try {
+        pagefind = await import('/pagefind/pagefind.js');
+        await pagefind.init();
+      } catch {
+        pagefind = null;
+      }
+      return pagefind;
+    }
+
+    async function runSearch(term) {
+      if (!term) {
+        resultsEl.hidden = true;
+        resultsEl.innerHTML = '';
+        return;
+      }
+
+      const pf = await ensurePagefind();
+      if (!pf) {
+        resultsEl.hidden = false;
+        resultsEl.innerHTML = '<p class="search__empty">Zoeken is alleen beschikbaar in de productie-build.</p>';
+        return;
+      }
+
+      const search = await pf.search(term);
+      const results = await Promise.all(search.results.slice(0, 8).map((r) => r.data()));
+
+      resultsEl.hidden = false;
+      if (results.length === 0) {
+        resultsEl.innerHTML = '<p class="search__empty">Geen resultaten gevonden.</p>';
+        return;
+      }
+
+      resultsEl.innerHTML = results
+        .map(
+          (r) => `
+            <a class="search__result" href="${r.url}">
+              <span class="search__result-title">${(r.meta && r.meta.title) || r.url}</span>
+              <p class="search__result-excerpt">${r.excerpt}</p>
+            </a>
+          `
+        )
+        .join('');
+    }
+
+    input.addEventListener('input', () => {
+      clearTimeout(debounceTimer);
+      const term = input.value.trim();
+      debounceTimer = setTimeout(() => runSearch(term), 150);
+    });
+
+    document.addEventListener('click', (event) => {
+      if (!root.contains(event.target)) {
+        resultsEl.hidden = true;
+      }
+    });
+  })();
+</script>
