@@ -1,21 +1,118 @@
 ---
+import { Image } from 'astro:assets';
+import dojSeal from '../assets/img/doj-seal.png';
 ---
 
 <footer class="site-footer">
-  <p><em>Fiat Justitia - Laat recht geschieden</em></p>
+  <div class="site-footer__inner">
+    <div class="site-footer__contact">
+      <div class="site-footer__item">
+        <svg class="site-footer__icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" aria-hidden="true">
+          <path d="M3 6.5h18v11H3z" />
+          <path d="M3 7l9 6 9-6" />
+        </svg>
+        <p>
+          <strong>Department of Justice</strong><br />
+          Stadhuis, Rockford Hills<br />
+          Los Santos
+        </p>
+      </div>
+      <div class="site-footer__item">
+        <svg class="site-footer__icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" aria-hidden="true">
+          <path d="M6.5 3h3l1.5 4-2 1.5a12 12 0 0 0 6.5 6.5l1.5-2 4 1.5v3a2 2 0 0 1-2.2 2A18 18 0 0 1 4.5 5.2 2 2 0 0 1 6.5 3Z" />
+        </svg>
+        <p>
+          <strong>Contact het Department</strong><br />
+          Tel: 010-1901
+        </p>
+      </div>
+    </div>
+
+    <a class="site-footer__brand" href="/">
+      <Image src={dojSeal} alt="" width={44} height={44} />
+      <span>Department<br />of Justice</span>
+    </a>
+  </div>
+
+  <div class="site-footer__bottom">
+    <em>Fiat Justitia — Laat recht geschieden</em>
+  </div>
 </footer>
 
 <style>
   .site-footer {
     background: var(--color-navy-dark);
     color: var(--color-gold-light);
-    text-align: center;
-    padding: 1.5rem 1rem;
-    font-size: 0.85rem;
+    border-top: 2px solid var(--color-gold);
     margin-top: 3rem;
   }
 
-  .site-footer p {
+  .site-footer__inner {
+    max-width: 76rem;
+    margin: 0 auto;
+    padding: 2rem 1.25rem;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    justify-content: space-between;
+    gap: 2rem;
+  }
+
+  .site-footer__contact {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2rem;
+  }
+
+  .site-footer__item {
+    display: flex;
+    align-items: flex-start;
+    gap: 0.6rem;
+  }
+
+  .site-footer__item p {
     margin: 0;
+    font-size: 0.85rem;
+    line-height: 1.5;
+    color: #E7EBEE;
+  }
+
+  .site-footer__item strong {
+    color: var(--color-gold-light);
+  }
+
+  .site-footer__icon {
+    width: 1.1rem;
+    height: 1.1rem;
+    flex-shrink: 0;
+    margin-top: 0.2rem;
+    color: var(--color-gold);
+  }
+
+  .site-footer__brand {
+    display: flex;
+    align-items: center;
+    gap: 0.65rem;
+    text-decoration: none;
+    color: #ffffff;
+    font-family: var(--font-heading);
+    font-weight: 700;
+    font-size: 1rem;
+    line-height: 1.2;
+    text-transform: uppercase;
+    letter-spacing: 0.03em;
+  }
+
+  .site-footer__bottom {
+    text-align: center;
+    padding: 1rem 1.25rem 1.5rem;
+    border-top: 1px solid rgba(255, 255, 255, 0.1);
+    font-size: 0.85rem;
+  }
+
+  @media (max-width: 40rem) {
+    .site-footer__inner {
+      flex-direction: column;
+    }
   }
 </style>
