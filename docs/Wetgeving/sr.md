@@ -4,7 +4,7 @@
 
 #### TITEL I. Omvang van de werking van de strafwet
 
-#####<span style="color: #85A79D;">Artikel 1 | Legaliteitsbeginsel. Verandering in wetgeving</span>
+#####<span style="color: #A67C3D;">Artikel 1 | Legaliteitsbeginsel. Verandering in wetgeving</span>
 ```
 1. Geen feit is strafbaar dan uit kracht van een daaraan voorafgegane 
    wettelijke strafbepaling.
@@ -12,7 +12,7 @@
    worden de voor de verdachte gunstigste bepalingen toegepast.
 ```
 
-#####<span style="color: #85A79D;">Artikel 2 | Territorialiteitsbeginsel</span>
+#####<span style="color: #A67C3D;">Artikel 2 | Territorialiteitsbeginsel</span>
 ```
 De strafwet is toepasselijk op ieder die zich in de stad aan enig strafbaar 
 feit schuldig maakt.
@@ -20,7 +20,7 @@ feit schuldig maakt.
 
 #### TITEL II. Straffen
 
-#####<span style="color: #85A79D;">Artikel 9 | Hoofd- en bijkomende straffen</span>
+#####<span style="color: #A67C3D;">Artikel 9 | Hoofd- en bijkomende straffen</span>
 ```
 1. De straffen zijn:
     a. hoofdstraffen:
@@ -32,7 +32,7 @@ feit schuldig maakt.
      2° openbaarmaking van de rechterlijke uitspraak
 ```
 
-#####<span style="color: #85A79D;">Artikel 9a | Rechterlijk pardon</span>
+#####<span style="color: #A67C3D;">Artikel 9a | Rechterlijk pardon</span>
 ```
 Indien de rechter dit raadzaam acht in verband met de geringe ernst van het 
 feit, de persoonlijkheid van de dader of de omstandigheden waaronder het feit 
@@ -40,14 +40,14 @@ is begaan, dan wel die zich nadien hebben voorgedaan, kan hij in het vonnis
 bepalen dat geen straf of maatregel zal worden opgelegd.
 ```
 
-#####<span style="color: #85A79D;">Artikel 10 | Duur gevangenisstraf</span>
+#####<span style="color: #A67C3D;">Artikel 10 | Duur gevangenisstraf</span>
 ```
 1. De gevangenisstraf is levenslang of tijdelijk.
 2. De duur van de tijdelijke gevangenisstraf is ten minste 10 maanden 
    en ten hoogste 100 maanden.
 ```
 
-#####<span style="color: #85A79D;">Artikel 22c | Taakstraf</span>
+#####<span style="color: #A67C3D;">Artikel 22c | Taakstraf</span>
 ```
 1. Een taakstraf bestaat uit het verrichten van onbetaalde arbeid. 
    Het vonnis dan wel de strafbeschikking vermeldt het aantal uren 
@@ -56,7 +56,7 @@ bepalen dat geen straf of maatregel zal worden opgelegd.
 2. De taakstraf duurt ten hoogste 40 uren.
 ```
 
-#####<span style="color: #85A79D;">Artikel 36e | Ontneming wederrechterlijk verkregen voordeel</span>
+#####<span style="color: #A67C3D;">Artikel 36e | Ontneming wederrechterlijk verkregen voordeel</span>
 ```
 1. Op vordering van het Department of Justice (DOJ) kan bij een afzonderlijke 
    rechterlijke beslissing aan degene die is veroordeeld wegens een 
@@ -72,20 +72,20 @@ bepalen dat geen straf of maatregel zal worden opgelegd.
 
 #### TITEL III. Uitsluiting en verhoging van strafbaarheid
 
-#####<span style="color: #85A79D;">Artikel 39 | Ontoerekeningsvatbaarheid</span>
+#####<span style="color: #A67C3D;">Artikel 39 | Ontoerekeningsvatbaarheid</span>
 ```
 Niet strafbaar is hij die een feit begaat, dat hem wegens de psychische 
 stoornis, psychogeriatrische aandoening of verstandelijke handicap niet 
 kan worden toegerekend.
 ```
 
-#####<span style="color: #85A79D;">Artikel 40 | Overmacht</span>
+#####<span style="color: #A67C3D;">Artikel 40 | Overmacht</span>
 ```
 Niet strafbaar is hij die een feit begaat waartoe hij door overmacht is 
 gedrongen.
 ```
 
-#####<span style="color: #85A79D;">Artikel 41 | Noodweer (exces)</span>
+#####<span style="color: #A67C3D;">Artikel 41 | Noodweer (exces)</span>
 ```
 1. Niet strafbaar is hij die een feit begaat, geboden door de 
    noodzakelijke verdediging van eigen of eens anders lijf, 
@@ -95,7 +95,7 @@ gedrongen.
    gemoedsbeweging, door de aanranding veroorzaakt.    
 ```
 
-#####<span style="color: #85A79D;">Artikel 42 | Wettelijk voorschrift</span>
+#####<span style="color: #A67C3D;">Artikel 42 | Wettelijk voorschrift</span>
 ```
 1. Niet strafbaar is hij die een feit begaat ter uitvoering van een wettelijk 
    voorschrift.
@@ -103,7 +103,7 @@ gedrongen.
    taak en in overeenstemming met zijn geweldsinstructie geweld gebruikt.   
 ```
 
-#####<span style="color: #85A79D;">Artikel 43 | (Onbevoegd) ambtelijk bevel</span>
+#####<span style="color: #A67C3D;">Artikel 43 | (Onbevoegd) ambtelijk bevel</span>
 ```
 1. Niet strafbaar is hij die een feit begaat ter uitvoering van een ambtelijk 
    bevel, gegeven door het daartoe bevoegde gezag.
@@ -113,7 +113,7 @@ gedrongen.
    was gelegen.    
 ```
 
-#####<span style="color: #85A79D;">Artikel 44 | Ambtenaren</span>
+#####<span style="color: #A67C3D;">Artikel 44 | Ambtenaren</span>
 ```
 Indien een ambtenaar door het begaan van een strafbaar feit een bijzondere 
 ambtsplicht schendt of bij het begaan van een strafbaar feit gebruik maakt 
@@ -124,7 +124,7 @@ worden verhoogd.
 
 #### TITEL IV. Poging en voorbereiding
 
-#####<span style="color: #85A79D;">Artikel 45 | Poging tot misdrijf</span>
+#####<span style="color: #A67C3D;">Artikel 45 | Poging tot misdrijf</span>
 ```
 1. Poging tot misdrijf is strafbaar, wanneer het voornemen van de dader zich 
    door een begin van uitvoering heeft geopenbaard.
@@ -134,7 +134,7 @@ worden verhoogd.
    misdrijf.
 ```
 
-#####<span style="color: #85A79D;">Artikel 46 | Voorbereiding van misdrijf</span>
+#####<span style="color: #A67C3D;">Artikel 46 | Voorbereiding van misdrijf</span>
 ```
 1. Voorbereiding van een misdrijf is strafbaar, wanneer de dader opzettelijk 
    voorwerpen, stoffen, informatiedragers, ruimten of vervoermiddelen bestemd 
@@ -147,7 +147,7 @@ worden verhoogd.
 4. Onder voorwerpen worden verstaan alle zaken en alle vermogensrechten.   
 ```
 
-#####<span style="color: #85A79D;">Artikel 46b | Niet voltooide voorbereiding/poging</span>
+#####<span style="color: #A67C3D;">Artikel 46b | Niet voltooide voorbereiding/poging</span>
 ```
 Voorbereiding noch poging bestaat indien het misdrijf niet is voltooid 
 tengevolge van omstandigheden van de wil van de dader afhankelijk.
@@ -155,7 +155,7 @@ tengevolge van omstandigheden van de wil van de dader afhankelijk.
 
 #### TITEL V. Deelneming aan strafbare feiten
 
-#####<span style="color: #85A79D;">Artikel 47 | Daders</span>
+#####<span style="color: #A67C3D;">Artikel 47 | Daders</span>
 ```
 1. Als daders van een strafbaar feit worden gestraft:
    1° zij die het feit plegen, doen plegen of medeplegen;
@@ -166,7 +166,7 @@ tengevolge van omstandigheden van de wil van de dader afhankelijk.
    zij opzettelijk hebben uitgelokt, benevens hun gevolgen.     
 ```
 
-#####<span style="color: #85A79D;">Artikel 48 | Medeplichtigheid</span>
+#####<span style="color: #A67C3D;">Artikel 48 | Medeplichtigheid</span>
 ```
 Als medeplichtigen van een misdrijf worden gestraft:
    1° zij die opzettelijk behulpzaam zijn bij het plegen van het misdrijf;
@@ -174,7 +174,7 @@ Als medeplichtigen van een misdrijf worden gestraft:
       het plegen van het misdrijf.   
 ```
 
-#####<span style="color: #85A79D;">Artikel 49 | Strafbepaling bij medeplichtigheid</span>
+#####<span style="color: #A67C3D;">Artikel 49 | Strafbepaling bij medeplichtigheid</span>
 ```
 1. Het maximum van de hoofdstraffen op het misdrijf gesteld wordt bij 
    medeplichtigheid met een derde verminderd.
@@ -185,7 +185,7 @@ Als medeplichtigen van een misdrijf worden gestraft:
    benevens hun gevolgen.
 ```
 
-#####<span style="color: #85A79D;">Artikel 50 | Persoonlijke omstandigheden</span>
+#####<span style="color: #A67C3D;">Artikel 50 | Persoonlijke omstandigheden</span>
 ```
 De persoonlijke omstandigheden waardoor de strafbaarheid uitgesloten, 
 verminderd of verhoogd wordt, komen bij de toepassing van de strafwet 
@@ -193,14 +193,14 @@ alleen in aanmerking ten aanzien van die dader of medeplichtige wie
 zij persoonlijk betreffen.
 ```
 
-#####<span style="color: #85A79D;">Artikel 52 | Medeplichtigheid aan overtreding</span>
+#####<span style="color: #A67C3D;">Artikel 52 | Medeplichtigheid aan overtreding</span>
 ```
 Medeplichtigheid aan overtreding is niet strafbaar.
 ```
 
 #### TITEL VI. Samenloop van strafbare feiten
 
-#####<span style="color: #85A79D;">Artikel 55 | Eendaadse samenloop</span>
+#####<span style="color: #A67C3D;">Artikel 55 | Eendaadse samenloop</span>
 ```
 1. Valt een feit in meer dan één strafbepaling, dan wordt slechts één van 
    die bepalingen toegepast, bij verschil die waarbij de zwaarste hoofdstraf 
@@ -209,7 +209,7 @@ Medeplichtigheid aan overtreding is niet strafbaar.
    strafbepaling bestaat, komt deze alleen in aanmerking.
 ```
 
-#####<span style="color: #85A79D;">Artikel 56 | Voortgezette handeling</span>
+#####<span style="color: #A67C3D;">Artikel 56 | Voortgezette handeling</span>
 ```
 Staan meerdere feiten, ofschoon elk op zichzelf misdrijf of overtreding 
 opleverende, in zodanig verband dat zij moeten worden beschouwd als één 
@@ -219,13 +219,13 @@ bij verschil die waarbij de zwaarste hoofdstraf is gesteld.
 
 #### TITEL VII. Indiening en intrekking van klacht bij misdrijven alleen op klacht vervolgbaar
 
-#####<span style="color: #85A79D;">Artikel 64 | Klachtgerechtigde</span>
+#####<span style="color: #A67C3D;">Artikel 64 | Klachtgerechtigde</span>
 ```
 Inzake een misdrijf dat alleen op klacht wordt vervolgd, is degene tegen wie
 het feit is begaan, tot de klacht gerechtigd.
 ```
 
-#####<span style="color: #85A79D;">Artikel 67 | Intrekking</span>
+#####<span style="color: #A67C3D;">Artikel 67 | Intrekking</span>
 ```
 Hij die de klacht indient, blijft gedurende acht dagen na de dag der 
 indiening bevoegd deze in te trekken.
@@ -233,7 +233,7 @@ indiening bevoegd deze in te trekken.
 
 #### TITEL VIII. Verval van het recht tot strafvordering en van de straf
 
-#####<span style="color: #85A79D;">Artikel 68 | Ne bis in idem</span>
+#####<span style="color: #A67C3D;">Artikel 68 | Ne bis in idem</span>
 ```
 1. Behoudens de gevallen waarin rechterlijke uitspraken voor herziening vatbaar 
    zijn, kan niemand andermaal worden vervolgd wegens een feit waarover te 
@@ -247,14 +247,14 @@ indiening bevoegd deze in te trekken.
       uitvoering, gratie of verjaring der straf.
 ```
 
-#####<span style="color: #85A79D;">Artikel 69 | Dood van verdachte</span>
+#####<span style="color: #A67C3D;">Artikel 69 | Dood van verdachte</span>
 ```
 Het recht tot strafvordering vervalt door de dood van de verdachte.
 ```
 
 #### TITEL IX. Betekenis van sommige in het wetboek voorkomende uitdrukkingen
 
-#####<span style="color: #85A79D;">Artikel 78 | Misdrijf</span>
+#####<span style="color: #A67C3D;">Artikel 78 | Misdrijf</span>
 ```
 Waar van misdrijf in het algemeen of van enig misdrijf in het bijzonder 
 gesproken wordt, wordt daaronder medeplichtigheid aan, poging tot en 
@@ -262,25 +262,25 @@ voorbereiding van dat misdrijf begrepen, voorzover niet uit enige
 bepaling het tegendeel volgt.
 ```
 
-#####<span style="color: #85A79D;">Artikel 78b | Strafbeschikking</span>
+#####<span style="color: #A67C3D;">Artikel 78b | Strafbeschikking</span>
 ```
 Waar van veroordeling wordt gesproken wordt daaronder een strafbeschikking 
 begrepen, voorzover niet uit enige bepaling het tegendeel volgt.
 ```
 
-#####<span style="color: #85A79D;">Artikel 80 | Samenspanning</span>
+#####<span style="color: #A67C3D;">Artikel 80 | Samenspanning</span>
 ```
 Samenspanning bestaat zodra twee of meer personen overeengekomen zijn om 
 het misdrijf te plegen.
 ```
 
-#####<span style="color: #85A79D;">Artikel 81 | Plegen van geweld</span>
+#####<span style="color: #A67C3D;">Artikel 81 | Plegen van geweld</span>
 ```
 Met het plegen van geweld wordt gelijkgesteld het brengen in een staat 
 van bewusteloosheid of onmacht.
 ```
 
-#####<span style="color: #85A79D;">Artikel 82 | Zwaar lichamelijk letsel</span>
+#####<span style="color: #A67C3D;">Artikel 82 | Zwaar lichamelijk letsel</span>
 ```
 1. Onder zwaar lichamelijk letsel worden begrepen: ziekte die geen uitzicht 
    op volkomen genezing overlaat, voortdurende ongeschiktheid tot uitoefening 
@@ -290,13 +290,13 @@ van bewusteloosheid of onmacht.
    verstandelijke vermogens die langer dan vier weken geduurd heeft.
 ```
 
-#####<span style="color: #85A79D;">Artikel 89 | Inklimming</span>
+#####<span style="color: #A67C3D;">Artikel 89 | Inklimming</span>
 ```
 Onder inklimming wordt begrepen ondergraving, alsmede het overschrijden 
 van sloten of grachten tot afsluiting dienende.
 ```
 
-#####<span style="color: #85A79D;">Artikel 90 | Valse sleutels</span>
+#####<span style="color: #A67C3D;">Artikel 90 | Valse sleutels</span>
 ```
 Onder valse sleutels worden begrepen alle tot opening van het slot 
 niet bestemde werktuigen.
@@ -306,14 +306,14 @@ niet bestemde werktuigen.
 
 #### TITEL V. Misdrijven tegen de openbare orde
 
-#####<span style="color: #85A79D;">Artikel 131 | Opruiing</span>
+#####<span style="color: #A67C3D;">Artikel 131 | Opruiing</span>
 ```
 Hij die in het openbaar, mondeling of bij geschrift of afbeelding, tot 
 enig strafbaar feit of tot gewelddadig optreden tegen het openbaar gezag 
 opruit, wordt gestraft met [SANCTIENORM].
 ```
 
-#####<span style="color: #85A79D;">Artikel 138 | Huisvredebreuk</span>
+#####<span style="color: #A67C3D;">Artikel 138 | Huisvredebreuk</span>
 ```
 1. Hij die in de woning of het besloten lokaal of erf, bij een ander in 
    gebruik, wederrechtelijk binnendringt of, wederrechtelijk aldaar 
@@ -326,7 +326,7 @@ opruit, wordt gestraft met [SANCTIENORM].
    tijd, wordt geacht te zijn binnengedrongen.
 ```
 
-#####<span style="color: #85A79D;">Artikel 139 | Lokaalvredebreuk</span>
+#####<span style="color: #A67C3D;">Artikel 139 | Lokaalvredebreuk</span>
 ```
 1. Hij die in een voor de openbare dienst bestemd lokaal wederrechtelijk 
    binnendringt, of, wederrechtelijk aldaar vertoevende, zich niet op de 
@@ -340,7 +340,7 @@ opruit, wordt gestraft met [SANCTIENORM].
    binnengedrongen.
 ```
 
-#####<span style="color: #85A79D;">Artikel 140 | Deelneming aan criminele organisatie</span>
+#####<span style="color: #A67C3D;">Artikel 140 | Deelneming aan criminele organisatie</span>
 ```
 1. Deelneming aan een organisatie die tot oogmerk heeft het plegen van 
    misdrijven, wordt gestraft met [SANCTIENORM].
@@ -352,28 +352,28 @@ opruit, wordt gestraft met [SANCTIENORM].
    organisatie.
 ```
 
-#####<span style="color: #85A79D;">Artikel 141 | Openlijke geweldpleging</span>
+#####<span style="color: #A67C3D;">Artikel 141 | Openlijke geweldpleging</span>
 ```
 1. Zij die openlijk in vereniging geweld plegen tegen personen of goederen, 
    worden gestraft met [SANCTIENORM].
 2. Artikel 81 blijft buiten toepassing.   
 ```
 
-#####<span style="color: #85A79D;">Artikel 141a | Gelegenheid verschaffen tot plegen van geweld</span>
+#####<span style="color: #A67C3D;">Artikel 141a | Gelegenheid verschaffen tot plegen van geweld</span>
 ```
 Hij die opzettelijk gelegenheid, middelen of inlichtingen verschaft tot het 
 plegen van geweld tegen personen of goederen wordt gestraft met 
 [SANCTIENORM].
 ```
 
-#####<span style="color: #85A79D;">Artikel 142 | Vals alarm</span>
+#####<span style="color: #A67C3D;">Artikel 142 | Vals alarm</span>
 ```
 Hij die opzettelijk, zonder dat daartoe de noodzaak aanwezig is, gebruik 
 maakt van een alarmnummer voor publieke diensten wordt gestraft met 
 [SANCTIENORM].
 ```
 
-#####<span style="color: #85A79D;">Artikel 142a | Valse bom</span>
+#####<span style="color: #A67C3D;">Artikel 142a | Valse bom</span>
 ```
 1. Hij die een voorwerp verzendt of op een al dan niet voor het publiek 
    toegankelijke plaats achterlaat of plaatst, met het oogmerk een ander 
@@ -385,7 +385,7 @@ maakt van een alarmnummer voor publieke diensten wordt gestraft met
    waardoor een ontploffing kan worden teweeggebracht.
 ```
 
-#####<span style="color: #85A79D;">Artikel 151 | Doen verdwijnen van lijk</span>
+#####<span style="color: #A67C3D;">Artikel 151 | Doen verdwijnen van lijk</span>
 ```
 Hij die een lijk begraaft, verbrandt, vernietigt, verbergt, wegvoert of 
 wegmaakt, met het oogmerk om het feit of de oorzaak van het overlijden, 
@@ -395,7 +395,7 @@ dan wel van het dood ter wereld komen te verhelen, wordt gestraft met
 
 #### TITEL VII. Misdrijven waardoor de algemene veiligheid van personen of goederen wordt in <br /> gevaar gebracht
 
-#####<span style="color: #85A79D;">Artikel 157 | Opzettelijk brand of ontploffing veroorzaken</span>
+#####<span style="color: #A67C3D;">Artikel 157 | Opzettelijk brand of ontploffing veroorzaken</span>
 ```
 Hij die opzettelijk brand sticht of een ontploffing teweegbrengt, wordt 
 gestraft met [SANCTIENORM], indien daarvan gemeen gevaar voor goederen te 
@@ -403,7 +403,7 @@ duchten is of indien daarvan levensgevaar of gevaar voor zwaar
 lichamelijk letsel voor een ander te duchten is.
 ```
 
-#####<span style="color: #85A79D;">Artikel 158 | Culpoos brand of ontploffing veroorzaken</span>
+#####<span style="color: #A67C3D;">Artikel 158 | Culpoos brand of ontploffing veroorzaken</span>
 ```
 Hij aan wiens schuld brand of ontploffing te wijten is, 
 wordt gestraft met [SANCTIENORM], indien daarvan gemeen gevaar voor goederen 
@@ -413,7 +413,7 @@ lichamelijk letsel voor een ander ontstaat.
 
 #### TITEL VIII. Misdrijven tegen het openbaar gezag
 
-#####<span style="color: #85A79D;">Artikel 177 | Omkoping ambtenaar</span>
+#####<span style="color: #A67C3D;">Artikel 177 | Omkoping ambtenaar</span>
 ```
 1. Met [SANCTIENORM] wordt gestraft: 
    1° hij die een ambtenaar een gift of belofte doet dan wel een dienst 
@@ -431,7 +431,7 @@ lichamelijk letsel voor een ander ontstaat.
    ontzet.   
 ```
 
-#####<span style="color: #85A79D;">Artikel 179 | Ambtsdwang</span>
+#####<span style="color: #A67C3D;">Artikel 179 | Ambtsdwang</span>
 ```
 Hij die door geweld of enige andere feitelijkheid of bedreiging met geweld 
 of enige andere feitelijkheid een ambtenaar dwingt tot het volvoeren van 
@@ -439,7 +439,7 @@ een ambtsverrichting of het nalaten van een rechtmatige ambtsverrichting,
 wordt gestraft met [SANCTIENORM].
 ```
 
-#####<span style="color: #85A79D;">Artikel 180 | Wederspannigheid</span>
+#####<span style="color: #A67C3D;">Artikel 180 | Wederspannigheid</span>
 ```
 Hij die zich met geweld of bedreiging met geweld verzet tegen een ambtenaar 
 werkzaam in de rechtmatige uitoefening van zijn bediening, of tegen personen 
@@ -447,7 +447,7 @@ die hem daarbij krachtens wettelijke verplichting of op zijn verzoek bijstand
 verlenen, wordt als schuldig aan wederspannigheid gestraft met [SANCTIENORM].
 ```
 
-#####<span style="color: #85A79D;">Artikel 184 | Niet voldoen aan ambtelijk bevel</span>
+#####<span style="color: #A67C3D;">Artikel 184 | Niet voldoen aan ambtelijk bevel</span>
 ```
 1. Hij die opzettelijk niet voldoet aan een bevel of een vordering, krachtens 
    wettelijk voorschrift gedaan door een ambtenaar met de uitoefening van enig 
@@ -461,7 +461,7 @@ verlenen, wordt als schuldig aan wederspannigheid gestraft met [SANCTIENORM].
    tijdelijk met enige openbare dienst is belast.
 ```
 
-#####<span style="color: #85A79D;">Artikel 186 | Samenscholing</span>
+#####<span style="color: #A67C3D;">Artikel 186 | Samenscholing</span>
 ```
 Hij die opzettelijk bij gelegenheid van een volksoploop zich niet 
 onmiddellijk verwijdert na het derde door of vanwege het bevoegd gezag 
@@ -469,13 +469,13 @@ gegeven bevel, wordt, als schuldig aan deelneming aan samenscholing,
 gestraft met [SANCTIENORM].
 ```
 
-#####<span style="color: #85A79D;">Artikel 188 | Valse aangifte of klacht</span>
+#####<span style="color: #A67C3D;">Artikel 188 | Valse aangifte of klacht</span>
 ```
 Hij die aangifte of klacht doet dat een strafbaar feit gepleegd is, 
 wetende dat het niet gepleegd is, wordt gestraft met [SANCTIENORM].
 ```
 
-#####<span style="color: #85A79D;">Artikel 189 | Hulp aan dader na misdrijf</span>
+#####<span style="color: #A67C3D;">Artikel 189 | Hulp aan dader na misdrijf</span>
 ```
 1. Met [SANCTIENORM] wordt gestraft:
    1° hij die opzettelijk iemand die schuldig is aan of verdachte is van 
@@ -495,7 +495,7 @@ wetende dat het niet gepleegd is, wordt gestraft met [SANCTIENORM].
       inlichtingen aan derden die inbeslagneming belet, belemmert of verijdelt.
 ```
 
-#####<span style="color: #85A79D;">Artikel 191 | Bevrijding van gedetineerde</span>
+#####<span style="color: #A67C3D;">Artikel 191 | Bevrijding van gedetineerde</span>
 ```
 Hij die opzettelijk iemand, op openbaar gezag of krachtens rechterlijke 
 uitspraak of beschikking van de vrijheid beroofd, bevrijdt of bij zijn 
@@ -504,7 +504,7 @@ zelfbevrijding behulpzaam is, wordt gestraft met [SANCTIENORM].
 
 #### TITEL XII. Valsheid met geschriften, gegevens en biometrische kenmerken
 
-#####<span style="color: #85A79D;">Artikel 225 | Valsheid in geschrift</span>
+#####<span style="color: #A67C3D;">Artikel 225 | Valsheid in geschrift</span>
 ```
 1. Hij die een geschrift dat bestemd is om tot bewijs van enig feit te 
    dienen, valselijk opmaakt of vervalst, met het oogmerk om het als 
@@ -518,7 +518,7 @@ zelfbevrijding behulpzaam is, wordt gestraft met [SANCTIENORM].
    bestemd is voor zodanig gebruik.  
 ```
 
-#####<span style="color: #85A79D;">Artikel 231 | Vals reisdocument of identiteitskaart</span>
+#####<span style="color: #A67C3D;">Artikel 231 | Vals reisdocument of identiteitskaart</span>
 ```
 1. Hij die een reisdocument, een identiteitsbewijs als bedoeld in 
    artikel 1 van de Wet op de identificatieplicht of een ander 
@@ -542,7 +542,7 @@ zelfbevrijding behulpzaam is, wordt gestraft met [SANCTIENORM].
 
 #### TITEL XVI. Belediging
 
-#####<span style="color: #85A79D;">Artikel 266 | Eenvoudige belediging</span>
+#####<span style="color: #A67C3D;">Artikel 266 | Eenvoudige belediging</span>
 ```
 1. Elke opzettelijke belediging die niet het karakter van smaad of 
    smaadschrift draagt, hetzij in het openbaar mondeling of bij geschrift 
@@ -556,7 +556,7 @@ zelfbevrijding behulpzaam is, wordt gestraft met [SANCTIENORM].
    dan uit die strekking voortvloeit.   
 ```
 
-#####<span style="color: #85A79D;">Artikel 269 | Belediging als regel klachtdelict</span>
+#####<span style="color: #A67C3D;">Artikel 269 | Belediging als regel klachtdelict</span>
 ```
 Belediging, strafbaar krachtens deze titel, wordt niet vervolgd dan op 
 klacht van hem tegen wie het misdrijf is gepleegd. 
@@ -564,7 +564,7 @@ klacht van hem tegen wie het misdrijf is gepleegd.
 
 #### TITEL XVIII. Misdrijven tegen de persoonlijke vrijheid
 
-#####<span style="color: #85A79D;">Artikel 282 | Opzettelijke vrijheidsberoving</span>
+#####<span style="color: #A67C3D;">Artikel 282 | Opzettelijke vrijheidsberoving</span>
 ```
 1. Hij die opzettelijk iemand wederrechtelijk van de vrijheid berooft 
    of beroofd houdt, wordt gestraft met [SANCTIENORM].
@@ -573,7 +573,7 @@ klacht van hem tegen wie het misdrijf is gepleegd.
    verschaft.   
 ```
 
-#####<span style="color: #85A79D;">Artikel 284 | Dwang</span> 
+#####<span style="color: #A67C3D;">Artikel 284 | Dwang</span> 
 ```
 1. Met [SANCTIENORM] wordt gestraft:
    1° hij die een ander door geweld of enige andere feitelijkheid of 
@@ -586,7 +586,7 @@ klacht van hem tegen wie het misdrijf is gepleegd.
    dan op klacht van hem tegen wie het gepleegd is.
 ```
 
-#####<span style="color: #85A79D;">Artikel 285 | Bedreiging met ernstig misdrijf</span>
+#####<span style="color: #A67C3D;">Artikel 285 | Bedreiging met ernstig misdrijf</span>
 ```
 1. Bedreiging met openlijk in vereniging geweld plegen tegen personen 
    of goederen, met geweld tegen een internationaal beschermd persoon 
@@ -604,13 +604,13 @@ klacht van hem tegen wie het misdrijf is gepleegd.
 
 #### TITEL XIX. Misdrijven tegen het leven gericht
 
-#####<span style="color: #85A79D;">Artikel 287 | Doodslag</span>
+#####<span style="color: #A67C3D;">Artikel 287 | Doodslag</span>
 ```
 Hij die opzettelijk een ander van het leven berooft, wordt, als schuldig 
 aan doodslag, gestraft met [SANCTIENORM].
 ```
 
-#####<span style="color: #85A79D;">Artikel 288 | Gekwalificeerde doodslag</span>
+#####<span style="color: #A67C3D;">Artikel 288 | Gekwalificeerde doodslag</span>
 ```
 Doodslag gevolgd, vergezeld of voorafgegaan van een strafbaar feit en gepleegd 
 met het oogmerk om de uitvoering van dat feit voor te bereiden of gemakkelijk 
@@ -619,7 +619,7 @@ deelnemers aan dat feit hetzij straffeloosheid hetzij het bezit van het
 wederrechtelijk verkregene te verzekeren, wordt gestraft met [SANCTIENORM].
 ```
 
-#####<span style="color: #85A79D;">Artikel 289 | Moord</span>
+#####<span style="color: #A67C3D;">Artikel 289 | Moord</span>
 ```
 Hij die opzettelijk en met voorbedachten rade een ander van het leven berooft, 
 wordt, als schuldig aan moord, gestraft met [SANCTIENORM].
@@ -627,7 +627,7 @@ wordt, als schuldig aan moord, gestraft met [SANCTIENORM].
 
 #### TITEL XX. Mishandeling
 
-#####<span style="color: #85A79D;">Artikel 300 | Mishandeling</span>
+#####<span style="color: #A67C3D;">Artikel 300 | Mishandeling</span>
 ```
 1. Mishandeling wordt gestraft met [SANCTIENORM].
 2. Met mishandeling wordt gelijkgesteld opzettelijke benadeling van 
@@ -635,13 +635,13 @@ wordt, als schuldig aan moord, gestraft met [SANCTIENORM].
 3. Poging tot dit misdrijf is niet strafbaar.
 ```
 
-#####<span style="color: #85A79D;">Artikel 302 | Zware mishandeling</span>
+#####<span style="color: #A67C3D;">Artikel 302 | Zware mishandeling</span>
 ```
 Hij die aan een ander opzettelijk zwaar lichamelijk letsel toebrengt, 
 wordt, als schuldig aan zware mishandeling, gestraft met [SANCTIENORM].
 ```
 
-#####<span style="color: #85A79D;">Artikel 304 | Strafverzwarende omstandigheden</span>
+#####<span style="color: #A67C3D;">Artikel 304 | Strafverzwarende omstandigheden</span>
 ```
 1. De in de artikelen 300-302 bepaalde gevangenisstraffen kunnen met een 
    derde worden verhoogd:
@@ -651,7 +651,7 @@ wordt, als schuldig aan zware mishandeling, gestraft met [SANCTIENORM].
 
 #### TITEL XXI. Veroorzaken van de dood of van lichamelijk letsel door schuld
 
-#####<span style="color: #85A79D;">Artikel 307 | Dood door schuld</span>
+#####<span style="color: #A67C3D;">Artikel 307 | Dood door schuld</span>
 ```
 1. Hij aan wiens schuld de dood van een ander te wijten is, wordt gestraft met 
    [SANCTIENORM].
@@ -659,7 +659,7 @@ wordt, als schuldig aan zware mishandeling, gestraft met [SANCTIENORM].
    gevangenisstraf met een derde verhoogd.         
 ```
 
-#####<span style="color: #85A79D;">Artikel 308 | Zwaar lichamelijk letsel door schuld</span>
+#####<span style="color: #A67C3D;">Artikel 308 | Zwaar lichamelijk letsel door schuld</span>
 ```
 1. Hij aan wiens schuld te wijten is dat een ander zwaar lichamelijk letsel 
    bekomt of zodanig lichamelijk letsel dat daaruit tijdelijke ziekte of 
@@ -669,7 +669,7 @@ wordt, als schuldig aan zware mishandeling, gestraft met [SANCTIENORM].
    gevangenisstraf met een derde verhoogd.   
 ```
 
-#####<span style="color: #85A79D;">Artikel 309 | In uitoefening ambt of beroep</span>
+#####<span style="color: #A67C3D;">Artikel 309 | In uitoefening ambt of beroep</span>
 ```
 Indien de in deze titel omschreven misdrijven worden gepleegd in de 
 uitoefening van enig ambt of beroep, kan de gevangenisstraf met een derde 
@@ -680,14 +680,14 @@ openbaarmaking van zijn uitspraak gelasten.
 
 #### TITEL XXII. Diefstal en stroperij
 
-#####<span style="color: #85A79D;">Artikel 310 | Diefstal</span>
+#####<span style="color: #A67C3D;">Artikel 310 | Diefstal</span>
 ```
 Hij die enig goed dat geheel of ten dele aan een ander toebehoort wegneemt, 
 met het oogmerk om het zich wederrechtelijk toe te eigenen, wordt, als 
 schuldig aan diefstal, gestraft met [SANCTIENORM].
 ```
 
-#####<span style="color: #85A79D;">Artikel 311 | Gekwalificeerde diefstal</span>
+#####<span style="color: #A67C3D;">Artikel 311 | Gekwalificeerde diefstal</span>
 ```
 Met [SANCTIENORM] wordt gestraft:
    1° diefstal in een woning of op een besloten erf waarop een woning staat, 
@@ -702,7 +702,7 @@ Met [SANCTIENORM] wordt gestraft:
       of door een samenweefsel van verdichtsels.
 ```
 
-#####<span style="color: #85A79D;">Artikel 312 | Diefstal met geweldpleging</span>
+#####<span style="color: #A67C3D;">Artikel 312 | Diefstal met geweldpleging</span>
 ```
 1. Met [SANCTIENORM] wordt gestraft 
    diefstal, voorafgegaan, vergezeld of gevolgd van geweld of bedreiging 
@@ -724,7 +724,7 @@ Met [SANCTIENORM] wordt gestraft:
 
 #### TITEL XXIII. Afpersing 
 
-#####<span style="color: #85A79D;">Artikel 317 | Afpersing</span>
+#####<span style="color: #A67C3D;">Artikel 317 | Afpersing</span>
 ```
 1. Hij die, met het oogmerk om zich of een ander wederrechtelijk te 
    bevoordelen, door geweld of bedreiging met geweld iemand dwingt 
@@ -743,7 +743,7 @@ Met [SANCTIENORM] wordt gestraft:
 
 #### TITEL XXVII. Vernieling of beschadiging
 
-#####<span style="color: #85A79D;">Artikel 350 | Beschadiging goederen/dieren</span>
+#####<span style="color: #A67C3D;">Artikel 350 | Beschadiging goederen/dieren</span>
 ```
 1. Hij die opzettelijk en wederrechtelijk enig goed dat geheel of ten dele aan 
    een ander toebehoort, vernielt, beschadigt, onbruikbaar maakt of wegmaakt, 
@@ -755,7 +755,7 @@ Met [SANCTIENORM] wordt gestraft:
 
 #### TITEL XXX. Begunstiging
 
-#####<span style="color: #85A79D;">Artikel 416 | Opzetheling</span>
+#####<span style="color: #A67C3D;">Artikel 416 | Opzetheling</span>
 ```
 1. Als schuldig aan opzetheling wordt gestraft met [SANCTIENORM]:
    a. hij die een goed verwerft, voorhanden heeft of overdraagt, dan wel een 
@@ -771,7 +771,7 @@ Met [SANCTIENORM] wordt gestraft:
    enig door misdrijf verkregen goed voordeel trekt.        
 ```
 
-#####<span style="color: #85A79D;">Artikel 417bis | Schuldheling</span>
+#####<span style="color: #A67C3D;">Artikel 417bis | Schuldheling</span>
 ```
 1. Als schuldig aan schuldheling wordt gestraft met [SANCTIENORM]:
    a. hij die een goed verwerft, voorhanden heeft of overdraagt, dan wel een 
@@ -790,7 +790,7 @@ Met [SANCTIENORM] wordt gestraft:
 
 #### TITEL XXXA. Witwassen
 
-#####<span style="color: #85A79D;">Artikel 420bis | Witwassen</span>
+#####<span style="color: #A67C3D;">Artikel 420bis | Witwassen</span>
 ```
 1. Als schuldig aan witwassen wordt gestraft met [SANCTIENORM]:
    a. hij die van een voorwerp de werkelijke aard, de herkomst, de vindplaats, 
@@ -808,7 +808,7 @@ Met [SANCTIENORM] wordt gestraft:
 
 #### TITEL I. Overtredingen betreffende de algemene veiligheid van personen en goederen
 
-#####<span style="color: #85A79D;">Artikel 424 | Straatschenderij</span>
+#####<span style="color: #A67C3D;">Artikel 424 | Straatschenderij</span>
 ```
 Hij die op of aan de openbare weg of op enige voor het publiek toegankelijke 
 plaats tegen personen of goederen enige baldadigheid pleegt waardoor gevaar 
@@ -816,7 +816,7 @@ of nadeel kan worden teweeggebracht, wordt, als schuldig aan straatschenderij,
 gestraft met [SANCTIENORM].
 ```
 
-#####<span style="color: #85A79D;">Artikel 426bis | Hinderlijk volgen</span>
+#####<span style="color: #A67C3D;">Artikel 426bis | Hinderlijk volgen</span>
 ```
 Hij die wederrechtelijk op de openbare weg een ander in zijn vrijheid van 
 beweging belemmert of met een of meer anderen zich aan een ander tegen 
@@ -824,7 +824,7 @@ diens uitdrukkelijk verklaarde wil blijft opdringen of hem op hinderlijke
 wijze blijft volgen, wordt gestraft met [SANCTIENORM].
 ```
 
-#####<span style="color: #85A79D;">Artikel 426ter | Belemmeren hulpverlener</span>
+#####<span style="color: #A67C3D;">Artikel 426ter | Belemmeren hulpverlener</span>
 ```
 Hij die wederrechterlijk een hulpverlener gedurende de uitoefening van zijn 
 beroep in zijn vrijheid van beweging belemmert of met een of meer anderen 
@@ -834,7 +834,7 @@ op hinderlijke wijze blijft volgen wordt gestraft met [SANCTIENORM].
 
 #### TITEL II. Overtredingen betreffende de openbare orde
 
-#####<span style="color: #85A79D;">Artikel 435 | Valse naam</span>
+#####<span style="color: #A67C3D;">Artikel 435 | Valse naam</span>
 ```
 Met [SANCTIENORM] wordt gestraft:
    1° hij die, door het bevoegd gezag naar zijn identificerende 
@@ -845,13 +845,13 @@ Met [SANCTIENORM] wordt gestraft:
 
 #### TITEL III. Overtredingen betreffende het openbaar gezag
 
-#####<span style="color: #85A79D;">Artikel 443 | Overtreding noodverordening</span>
+#####<span style="color: #A67C3D;">Artikel 443 | Overtreding noodverordening</span>
 ```
 Hij die een algemeen voorschrift van de Mayor uitgevaardigd en afgekondigd, 
 overtreedt, wordt gestraft met [SANCTIENORM].
 ```
 
-#####<span style="color: #85A79D;">Artikel 447e | Identificatieplicht</span>
+#####<span style="color: #A67C3D;">Artikel 447e | Identificatieplicht</span>
 ```
 Hij die niet voldoet aan de verplichting om een identiteitsbewijs ter inzage 
 aan te bieden of medewerking te verlenen aan het nemen van een of meer 
@@ -862,7 +862,7 @@ Wetboek van Strafvordering, het Wetboek van Strafrecht, wordt gestraft met
 
 #### TITEL VII. Overtredingen betreffende de veldpolitie
 
-#####<span style="color: #85A79D;">Artikel 461 | Verboden toegang voor onbevoegden</span>
+#####<span style="color: #A67C3D;">Artikel 461 | Verboden toegang voor onbevoegden</span>
 ```
 Hij die, zonder daartoe gerechtigd te zijn, zich op eens anders grond waarvan 
 de toegang op een voor hem blijkbare wijze door de rechthebbende is verboden, 

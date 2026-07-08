@@ -1,4 +1,4 @@
-<h1 style="color: #85A79D;">Los Santos</h1>
+<h1 style="color: #A67C3D;">Los Santos</h1>
 
 ???+ info "Wijzigingen per 24 maart 2025"
 
@@ -6,7 +6,7 @@
     - [Rechtbank](Department of Justice/rechtbank) herzien.
     - [Sanctienormen](Department of Justice/sanctienormen) herzien.
 
-<span style="color: #85A79D;">__Geachte lezer__</span>,
+<span style="color: #A67C3D;">__Geachte lezer__</span>,
 
 Hartelijk welkom op deze pagina, samengesteld door het Department of Justice.
 Op dit platform vindt u alle informatie die relevant is voor u als inwoner van Los Santos. 

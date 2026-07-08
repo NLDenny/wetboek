@@ -1,15 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Serif:wght@400;700&display=swap');
+
 /* =========================
    Material color overrides
    ========================= */
 
 :root > * {
-  --md-primary-fg-color:        #85A79D;
-  --md-primary-fg-color--light: #ECB7B7;
-  --md-primary-fg-color--dark:  #90030C;
+  --md-primary-fg-color:        #1B3A5C;
+  --md-primary-fg-color--light: #35577D;
+  --md-primary-fg-color--dark:  #0D1F30;
 
-  --md-accent-fg-color:         #85A79D;
-  --md-accent-fg-color--light:  #ECB7B7;
-  --md-accent-fg-color--dark:   #90030C;
+  --md-accent-fg-color:         #A67C3D;
+  --md-accent-fg-color--light:  #C79F5B;
+  --md-accent-fg-color--dark:   #7C5B27;
+}
+
+
+/* =========================
+   Official document accents
+   ========================= */
+
+.md-typeset h1,
+.md-typeset h2,
+.md-typeset h3,
+.md-typeset h4,
+.md-typeset h5,
+.md-typeset h6 {
+  font-family: "PT Serif", Georgia, serif;
+}
+
+.md-header {
+  border-bottom: 2px solid var(--md-accent-fg-color);
 }
 
 
@@ -27,8 +47,8 @@ html::after {
 
   background: repeating-linear-gradient(
     to bottom,
-    rgba(0,0,0,0.08) 0px,
-    rgba(0,0,0,0.08) 1px,
+    rgba(0,0,0,0.025) 0px,
+    rgba(0,0,0,0.025) 1px,
     transparent 1px,
     transparent 4px
   );
@@ -46,6 +66,6 @@ html::before {
   background: radial-gradient(
     circle at center,
     rgba(0,0,0,0) 55%,
-    rgba(0,0,0,0.45) 100%
+    rgba(0,0,0,0.12) 100%
   );
 }

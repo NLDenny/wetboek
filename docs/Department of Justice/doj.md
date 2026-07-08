@@ -24,7 +24,7 @@ _De volgende personen maken op dit moment deel uit van het Department of Justice
 
 <div class="grid cards" markdown>
 
--   <span style="color: #f87c24;">__Chief of Justice__</span> : GEZOCHT
+-   <span style="color: #A67C3D;">__Chief of Justice__</span> : GEZOCHT
 
     ---
 
@@ -37,7 +37,7 @@ _De volgende personen maken op dit moment deel uit van het Department of Justice
 
 <div class="grid cards" markdown>
 
--   <span style="color: #f87c24;">__Rechter__</span> : GEZOCHT
+-   <span style="color: #A67C3D;">__Rechter__</span> : GEZOCHT
 
     ---
 
@@ -45,7 +45,7 @@ _De volgende personen maken op dit moment deel uit van het Department of Justice
 
     _ _
 
--   <span style="color: #f87c24;">__Rechter__</span> : GEZOCHT
+-   <span style="color: #A67C3D;">__Rechter__</span> : GEZOCHT
 
     ---
 
@@ -58,7 +58,7 @@ _De volgende personen maken op dit moment deel uit van het Department of Justice
 
 <div class="grid cards" markdown>
 
--   <span style="color: #f87c24;">__Rechter__</span> : GEZOCHT
+-   <span style="color: #A67C3D;">__Rechter__</span> : GEZOCHT
 
     ---
 
@@ -66,7 +66,7 @@ _De volgende personen maken op dit moment deel uit van het Department of Justice
 
     _ _
 
--   <span style="color: #f87c24;">__Rechter__</span> : GEZOCHT
+-   <span style="color: #A67C3D;">__Rechter__</span> : GEZOCHT
 
     ---
 
