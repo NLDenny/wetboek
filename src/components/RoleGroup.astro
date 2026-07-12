@@ -1,0 +1,41 @@
+---
+interface Props {
+  title: string;
+  description?: string;
+}
+
+const { title, description } = Astro.props;
+---
+
+<div class="role-group">
+  <p class="role-group__title">{title}</p>
+  {description && <p class="role-group__description">{description}</p>}
+  <slot />
+</div>
+
+<style>
+  .role-group {
+    border: 1px solid var(--color-border);
+    border-radius: 6px;
+    padding: 1.25rem;
+    background: var(--color-bg-alt);
+    margin: 1.5rem 0;
+  }
+
+  .role-group__title {
+    font-weight: 700;
+    font-size: 1.05rem;
+    color: var(--color-link);
+    margin: 0 0 0.4rem;
+  }
+
+  .role-group__description {
+    font-style: italic;
+    color: var(--color-text-muted);
+    margin: 0 0 1rem;
+  }
+
+  .role-group :global(.card-grid) {
+    margin: 0;
+  }
+</style>

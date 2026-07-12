@@ -6,6 +6,7 @@ order: 1
 import { Image } from 'astro:assets';
 import RoleCard from '../../components/RoleCard.astro';
 import CardGrid from '../../components/CardGrid.astro';
+import RoleGroup from '../../components/RoleGroup.astro';
 import dojImage from '../../assets/img/doj-seal.png';
 import mayorImage from '../../assets/img/mayor.webp';
 import rechterImage from '../../assets/img/rechter.webp';
@@ -41,12 +42,14 @@ _De volgende personen maken op dit moment deel uit van het Department of Justice
   />
 </CardGrid>
 
-<CardGrid>
-  <RoleCard name="Rechter" image={rechterImage} vacant />
-  <RoleCard name="Rechter" image={rechterImage} vacant />
-</CardGrid>
-
-<CardGrid>
-  <RoleCard name="Rechter" image={rechterImage} vacant />
-  <RoleCard name="Rechter" image={rechterImage} vacant />
-</CardGrid>
+<RoleGroup
+  title="Rechters"
+  description="Rechters zijn tijdens strafzaken verantwoordelijk voor het handhaven van de rechtsorde, het beoordelen van bewijsmateriaal en het opleggen van passende straffen."
+>
+  <CardGrid>
+    <RoleCard name="Rechter" image={rechterImage} vacant />
+    <RoleCard name="Rechter" image={rechterImage} vacant />
+    <RoleCard name="Rechter" image={rechterImage} vacant />
+    <RoleCard name="Rechter" image={rechterImage} vacant />
+  </CardGrid>
+</RoleGroup>
