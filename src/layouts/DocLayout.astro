@@ -46,7 +46,7 @@ const hasToc = headings.some((h) => h.depth >= 2 && h.depth <= 4);
 
   .doc__toc {
     position: sticky;
-    top: calc(var(--header-height) + 1.5rem);
+    top: calc(var(--header-height) + var(--banner-offset) + 1.5rem);
   }
 
   .doc__article :global(h5) {
@@ -54,6 +54,52 @@ const hasToc = headings.some((h) => h.depth >= 2 && h.depth <= 4);
     font-size: 1.05rem;
     margin-top: 2.25rem;
     margin-bottom: 0.5rem;
+  }
+
+  .doc__article :global(.permalink-btn) {
+    position: relative;
+    top: 0.15em;
+    display: inline-flex;
+    margin-left: 0.4rem;
+    padding: 0.1rem;
+    border: none;
+    background: none;
+    color: var(--color-text-muted);
+    cursor: pointer;
+    opacity: 0;
+  }
+
+  .doc__article :global(.permalink-btn svg) {
+    width: 0.85em;
+    height: 0.85em;
+  }
+
+  .doc__article :global(h5:hover .permalink-btn),
+  .doc__article :global(.permalink-btn:focus-visible) {
+    opacity: 1;
+  }
+
+  .doc__article :global(.permalink-btn:hover) {
+    color: var(--color-link);
+  }
+
+  .doc__article :global(.permalink-btn.is-copied) {
+    opacity: 1;
+    color: var(--color-link);
+  }
+
+  .doc__article :global(.permalink-btn.is-copied)::after {
+    content: 'Link gekopieerd';
+    position: absolute;
+    left: 0;
+    top: -1.6rem;
+    background: var(--color-navy);
+    color: #ffffff;
+    font-size: 0.7rem;
+    font-family: var(--font-body);
+    padding: 0.2rem 0.45rem;
+    border-radius: 4px;
+    white-space: nowrap;
   }
 
   .doc__article :global(h3),
@@ -91,3 +137,35 @@ const hasToc = headings.some((h) => h.depth >= 2 && h.depth <= 4);
     }
   }
 </style>
+
+<script>
+  // Every article in every wet is an h5 with an auto-slugified id
+  // (see src/lib/rehype-mkdocs-slugs.mjs), so a permalink button can be
+  // injected site-wide here without touching any of the MDX content files.
+  document.querySelectorAll('.doc__article h5[id]').forEach((heading) => {
+    const button = document.createElement('button');
+    button.type = 'button';
+    button.className = 'permalink-btn';
+    button.setAttribute('aria-label', 'Kopieer link naar dit artikel');
+    button.innerHTML =
+      '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">' +
+      '<path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path>' +
+      '<path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path>' +
+      '</svg>';
+
+    button.addEventListener('click', async () => {
+      const url = `${location.origin}${location.pathname}#${heading.id}`;
+      try {
+        await navigator.clipboard.writeText(url);
+      } catch {
+        // Clipboard API unavailable (e.g. insecure context); the hash
+        // below still gets updated so the URL bar reflects the article.
+      }
+      history.replaceState(null, '', `#${heading.id}`);
+      button.classList.add('is-copied');
+      setTimeout(() => button.classList.remove('is-copied'), 1500);
+    });
+
+    heading.appendChild(button);
+  });
+</script>
