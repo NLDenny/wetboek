@@ -66,6 +66,13 @@ const { title } = Astro.props;
     display: none;
   }
 
+  /* .callout__main *is* the <details> element, so its native [open]
+     attribute can drive the sibling aside via plain CSS -- no JS needed
+     to collapse the logo along with the text. */
+  .callout__main:not([open]) ~ .callout__aside {
+    display: none;
+  }
+
   .callout__aside :global(img) {
     display: block;
     border-radius: 4px;
