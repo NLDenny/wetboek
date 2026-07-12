@@ -1,7 +1,11 @@
 ---
+import { getImage } from 'astro:assets';
 import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
 import Sidebar from '../components/Sidebar.astro';
+import AnnouncementBanner from '../components/AnnouncementBanner.astro';
+import ArticlePreview from '../components/ArticlePreview.astro';
+import dojSeal from '../assets/img/doj-seal.png';
 import '../styles/global.css';
 
 interface Props {
@@ -11,6 +15,15 @@ interface Props {
 
 const { title, description = 'Wetboek van Los Santos — Department of Justice' } = Astro.props;
 const currentPath = Astro.url.pathname;
+const pageTitle = `${title} | Los Santos`;
+const canonicalUrl = new URL(Astro.url.pathname, Astro.site);
+// doj-seal.png is square (1200x1200), not the "ideal" 1.91:1 OG ratio, but
+// it's the only existing branded high-res asset -- Discord (the primary
+// share target for this FiveM RP community) scales square images fine
+// without cropping, so reusing it avoids needing a separately authored
+// landscape asset.
+const ogImage = await getImage({ src: dojSeal, width: 1200, height: 1200, format: 'png' });
+const ogImageUrl = new URL(ogImage.src, Astro.site).toString();
 ---
 
 <!doctype html>
@@ -20,7 +33,22 @@ const currentPath = Astro.url.pathname;
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <link rel="icon" type="image/png" href="/favicon.png" />
     <meta name="description" content={description} />
-    <title>{title} | Los Santos</title>
+    <link rel="canonical" href={canonicalUrl} />
+    <title>{pageTitle}</title>
+
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content="Wetboek van Los Santos" />
+    <meta property="og:title" content={pageTitle} />
+    <meta property="og:description" content={description} />
+    <meta property="og:url" content={canonicalUrl} />
+    <meta property="og:image" content={ogImageUrl} />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="1200" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content={pageTitle} />
+    <meta name="twitter:description" content={description} />
+    <meta name="twitter:image" content={ogImageUrl} />
+
     <script is:inline>
       (function () {
         var stored = localStorage.getItem('wetboek-theme');
@@ -30,6 +58,7 @@ const currentPath = Astro.url.pathname;
     </script>
   </head>
   <body>
+    <AnnouncementBanner />
     <Header />
     <div class="shell">
       <aside class="shell__sidebar">
@@ -40,6 +69,7 @@ const currentPath = Astro.url.pathname;
       </main>
     </div>
     <Footer />
+    <ArticlePreview />
   </body>
 </html>
 
@@ -58,7 +88,7 @@ const currentPath = Astro.url.pathname;
 
   .shell__sidebar {
     position: sticky;
-    top: calc(var(--header-height) + 1.5rem);
+    top: calc(var(--header-height) + var(--banner-offset) + 1.5rem);
   }
 
   @media (max-width: 60rem) {
@@ -67,7 +97,22 @@ const currentPath = Astro.url.pathname;
     }
 
     .shell__sidebar {
-      position: static;
+      display: none;
+      position: fixed;
+      top: calc(var(--header-height) + var(--banner-offset));
+      left: 0;
+      bottom: 0;
+      z-index: 15;
+      width: 16rem;
+      max-width: 85vw;
+      overflow-y: auto;
+      background: var(--color-bg);
+      padding: 1.25rem;
+      box-shadow: 4px 0 16px rgba(0, 0, 0, 0.25);
+    }
+
+    :global(body.nav-open) .shell__sidebar {
+      display: block;
     }
   }
 </style>

@@ -7,19 +7,34 @@ import dojSeal from '../assets/img/doj-seal.png';
 
 <header class="site-header">
   <div class="site-header__inner">
-    <a class="site-header__brand" href="/">
-      <Image src={dojSeal} alt="" width={40} height={40} class="site-header__seal" />
-      <span class="site-header__brand-text">
-        <span class="site-header__title">Los Santos</span>
-        <span class="site-header__subtitle">Department of Justice</span>
-      </span>
-    </a>
+    <div class="site-header__left">
+      <button
+        type="button"
+        class="nav-toggle"
+        data-nav-toggle
+        aria-expanded="false"
+        aria-controls="sidebar-nav"
+        aria-label="Menu"
+      >
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
+          <path d="M4 7h16M4 12h16M4 17h16" />
+        </svg>
+      </button>
+      <a class="site-header__brand" href="/">
+        <Image src={dojSeal} alt="" width={40} height={40} class="site-header__seal" />
+        <span class="site-header__brand-text">
+          <span class="site-header__title">Los Santos</span>
+          <span class="site-header__subtitle">Department of Justice</span>
+        </span>
+      </a>
+    </div>
     <nav class="site-header__actions">
       <SearchBox />
       <ThemeToggle />
     </nav>
   </div>
 </header>
+<div class="nav-backdrop" data-nav-backdrop></div>
 
 <style>
   .site-header {
@@ -27,7 +42,7 @@ import dojSeal from '../assets/img/doj-seal.png';
     border-bottom: 2px solid var(--color-gold);
     color: var(--color-header-text);
     position: sticky;
-    top: 0;
+    top: var(--banner-offset);
     z-index: 10;
   }
 
@@ -40,6 +55,48 @@ import dojSeal from '../assets/img/doj-seal.png';
     align-items: center;
     justify-content: space-between;
     gap: 1rem;
+  }
+
+  .site-header__left {
+    display: flex;
+    align-items: center;
+    gap: 0.6rem;
+  }
+
+  .nav-toggle {
+    display: none;
+    border: none;
+    background: none;
+    color: var(--color-header-text);
+    padding: 0.3rem;
+    cursor: pointer;
+  }
+
+  .nav-toggle svg {
+    display: block;
+    width: 1.4rem;
+    height: 1.4rem;
+  }
+
+  @media (max-width: 60rem) {
+    .nav-toggle {
+      display: inline-flex;
+    }
+  }
+
+  .nav-backdrop {
+    display: none;
+  }
+
+  @media (max-width: 60rem) {
+    :global(body.nav-open) .nav-backdrop {
+      display: block;
+      position: fixed;
+      inset: 0;
+      top: calc(var(--header-height) + var(--banner-offset));
+      background: rgba(0, 0, 0, 0.4);
+      z-index: 14;
+    }
   }
 
   .site-header__brand {
@@ -80,3 +137,34 @@ import dojSeal from '../assets/img/doj-seal.png';
     gap: 0.75rem;
   }
 </style>
+
+<script>
+  const toggle = document.querySelector<HTMLButtonElement>('[data-nav-toggle]');
+  const backdrop = document.querySelector<HTMLElement>('[data-nav-backdrop]');
+
+  function closeNav() {
+    document.body.classList.remove('nav-open');
+    toggle?.setAttribute('aria-expanded', 'false');
+  }
+
+  function openNav() {
+    document.body.classList.add('nav-open');
+    toggle?.setAttribute('aria-expanded', 'true');
+  }
+
+  toggle?.addEventListener('click', () => {
+    document.body.classList.contains('nav-open') ? closeNav() : openNav();
+  });
+
+  backdrop?.addEventListener('click', closeNav);
+
+  document.addEventListener('keydown', (event) => {
+    if (event.key === 'Escape') closeNav();
+  });
+
+  // Closing the nav when the viewport grows past the mobile breakpoint
+  // avoids a stray fixed-position sidebar lingering after a resize/rotate.
+  window.matchMedia('(min-width: 60rem)').addEventListener('change', (event) => {
+    if (event.matches) closeNav();
+  });
+</script>

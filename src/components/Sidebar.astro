@@ -9,7 +9,7 @@ const { currentPath = '' } = Astro.props;
 const navTree = await buildNavTree();
 ---
 
-<nav class="sidebar" aria-label="Hoofdnavigatie">
+<nav class="sidebar" id="sidebar-nav" aria-label="Hoofdnavigatie">
   <a class="sidebar__link sidebar__link--top" href="/" aria-current={currentPath === '/' ? 'page' : undefined}>Home</a>
   {navTree.top.map((item) => (
     <a class="sidebar__link sidebar__link--top" href={item.href} aria-current={currentPath === item.href ? 'page' : undefined}>
