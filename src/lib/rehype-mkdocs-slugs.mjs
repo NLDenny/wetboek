@@ -10,7 +10,7 @@ import { visit } from 'unist-util-visit';
 // rehypeHeadingIds runs (which skips headings that already have an id).
 const COMBINING_MARKS_RE = /[̀-ͯ]/g;
 
-function mkdocsSlug(text) {
+export function mkdocsSlug(text) {
   return text
     // python-markdown's default slugify strips accents via NFKD + ASCII
     // fold (e.g. "Categorieen" <- "Categorieën") before cleaning up.

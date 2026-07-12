@@ -1,0 +1,107 @@
+---
+---
+
+<div class="article-preview" data-article-preview role="tooltip" hidden>
+  <p class="article-preview__title" data-article-preview-title></p>
+  <p class="article-preview__excerpt" data-article-preview-excerpt></p>
+</div>
+
+<style>
+  .article-preview {
+    position: fixed;
+    z-index: 30;
+    max-width: 22rem;
+    background: var(--color-surface);
+    border: 1px solid var(--color-border);
+    border-radius: 6px;
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.25);
+    padding: 0.6rem 0.75rem;
+    font-size: 0.85rem;
+    line-height: 1.4;
+    pointer-events: none;
+  }
+
+  .article-preview__title {
+    margin: 0 0 0.25rem;
+    font-weight: 700;
+    color: var(--color-link);
+  }
+
+  .article-preview__excerpt {
+    margin: 0;
+    color: var(--color-text-muted);
+  }
+</style>
+
+<script>
+  type ArticleIndex = Record<string, { title: string; excerpt: string }>;
+
+  const tooltip = document.querySelector<HTMLElement>('[data-article-preview]');
+  const titleEl = tooltip?.querySelector<HTMLElement>('[data-article-preview-title]');
+  const excerptEl = tooltip?.querySelector<HTMLElement>('[data-article-preview-excerpt]');
+  const links = document.querySelectorAll<HTMLAnchorElement>('a[href*="/wetgeving/"][href*="#"]');
+
+  if (tooltip && titleEl && excerptEl && links.length > 0) {
+    let indexPromise: Promise<ArticleIndex | null> | null = null;
+    let showTimer: ReturnType<typeof setTimeout> | undefined;
+    let hideTimer: ReturnType<typeof setTimeout> | undefined;
+    let activeLink: HTMLAnchorElement | null = null;
+
+    function loadIndex() {
+      if (!indexPromise) {
+        indexPromise = fetch('/article-index.json')
+          .then((res) => (res.ok ? res.json() : null))
+          .catch(() => null);
+      }
+      return indexPromise;
+    }
+
+    function position(link: HTMLAnchorElement) {
+      const rect = link.getBoundingClientRect();
+      const maxLeft = window.innerWidth - tooltip!.offsetWidth - 16;
+      tooltip!.style.top = `${rect.bottom + 8}px`;
+      tooltip!.style.left = `${Math.max(16, Math.min(rect.left, maxLeft))}px`;
+    }
+
+    async function show(link: HTMLAnchorElement) {
+      const href = link.getAttribute('href');
+      if (!href) return;
+      const data = await loadIndex();
+      const entry = data?.[href];
+      if (!entry || activeLink !== link) return;
+      titleEl!.textContent = entry.title;
+      excerptEl!.textContent = entry.excerpt;
+      tooltip!.hidden = false;
+      position(link);
+    }
+
+    function scheduleShow(link: HTMLAnchorElement) {
+      clearTimeout(hideTimer);
+      clearTimeout(showTimer);
+      activeLink = link;
+      showTimer = setTimeout(() => show(link), 250);
+    }
+
+    function scheduleHide() {
+      clearTimeout(showTimer);
+      hideTimer = setTimeout(() => {
+        tooltip!.hidden = true;
+        activeLink = null;
+      }, 100);
+    }
+
+    links.forEach((link) => {
+      link.addEventListener('mouseenter', () => scheduleShow(link));
+      link.addEventListener('mouseleave', scheduleHide);
+      link.addEventListener('focus', () => scheduleShow(link));
+      link.addEventListener('blur', scheduleHide);
+    });
+
+    document.addEventListener('keydown', (event) => {
+      if (event.key === 'Escape') {
+        tooltip!.hidden = true;
+        activeLink = null;
+      }
+    });
+  }
+</script>
