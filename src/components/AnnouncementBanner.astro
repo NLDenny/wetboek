@@ -1,0 +1,104 @@
+---
+import { getEntry, render } from 'astro:content';
+
+const entry = await getEntry('banner', 'banner');
+const show = Boolean(entry?.data.enabled);
+const { Content } = show ? await render(entry!) : { Content: null };
+// entry.digest is Astro's built-in content hash (recomputed whenever the
+// MDX body changes) -- used as the dismiss key so editing the banner text
+// automatically un-dismisses it for visitors who closed the previous one.
+// Stored in sessionStorage (not localStorage), so closing it only lasts
+// for the current browser session -- a new tab/session shows it again.
+const bannerId = show ? entry!.digest : '';
+---
+
+{show && (
+  <div class="announcement-banner" role="alert" data-banner-id={bannerId}>
+    <div class="announcement-banner__inner">
+      <div class="announcement-banner__content"><Content /></div>
+      <button type="button" class="announcement-banner__close" data-banner-close aria-label="Melding sluiten">
+        ✕
+      </button>
+    </div>
+  </div>
+  <script is:inline>
+    (function () {
+      var banner = document.querySelector('[data-banner-id]');
+      if (!banner) return;
+      var id = banner.dataset.bannerId;
+
+      function setOffset() {
+        var height = banner.hidden ? 0 : banner.getBoundingClientRect().height;
+        document.documentElement.style.setProperty('--banner-offset', height + 'px');
+      }
+
+      try {
+        if (sessionStorage.getItem('wetboek-banner-dismissed') === id) {
+          banner.hidden = true;
+        }
+      } catch (e) {}
+
+      var closeBtn = banner.querySelector('[data-banner-close]');
+      if (closeBtn) closeBtn.addEventListener('click', function () {
+        try {
+          sessionStorage.setItem('wetboek-banner-dismissed', id);
+        } catch (e) {}
+        banner.hidden = true;
+        setOffset();
+      });
+
+      setOffset();
+      window.addEventListener('resize', setOffset);
+    })();
+  </script>
+)}
+
+<style>
+  .announcement-banner {
+    position: sticky;
+    top: 0;
+    z-index: 11;
+    background: var(--color-alert);
+    color: var(--color-alert-text);
+    border-bottom: 2px solid var(--color-gold);
+  }
+
+  .announcement-banner__inner {
+    position: relative;
+    max-width: 76rem;
+    margin: 0 auto;
+    padding: 0.6rem 2.75rem;
+    font-size: 0.9rem;
+    font-weight: 700;
+    text-align: center;
+  }
+
+  .announcement-banner__content :global(p) {
+    margin: 0;
+  }
+
+  .announcement-banner__content :global(a) {
+    color: inherit;
+    text-decoration: underline;
+  }
+
+  .announcement-banner__close {
+    position: absolute;
+    right: 0.75rem;
+    top: 50%;
+    transform: translateY(-50%);
+    border: none;
+    background: none;
+    color: inherit;
+    opacity: 0.75;
+    font-size: 0.9rem;
+    line-height: 1;
+    padding: 0.3rem;
+    cursor: pointer;
+  }
+
+  .announcement-banner__close:hover,
+  .announcement-banner__close:focus-visible {
+    opacity: 1;
+  }
+</style>

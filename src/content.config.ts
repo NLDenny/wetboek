@@ -24,4 +24,13 @@ const pages = defineCollection({
   schema: pageSchema,
 });
 
-export const collections = { wetgeving, doj, pages };
+const bannerSchema = z.object({
+  enabled: z.boolean().default(false),
+});
+
+const banner = defineCollection({
+  loader: glob({ pattern: '*.mdx', base: './src/content/banner' }),
+  schema: bannerSchema,
+});
+
+export const collections = { wetgeving, doj, pages, banner };

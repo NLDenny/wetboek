@@ -29,8 +29,9 @@ h1, h2, h3, h4, h5, h6 {
   color: var(--color-text);
   line-height: 1.25;
   /* Keeps anchor-linked headings (e.g. from sanctienormen's cross-refs)
-     from landing underneath the sticky header. */
-  scroll-margin-top: calc(var(--header-height) + 1rem);
+     from landing underneath the sticky header (and the announcement
+     banner, if one is visible -- see --banner-offset). */
+  scroll-margin-top: calc(var(--header-height) + var(--banner-offset) + 1rem);
 }
 
 a {
