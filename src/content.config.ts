@@ -7,6 +7,7 @@ const pageSchema = z.object({
   order: z.number().default(0),
   draft: z.boolean().default(false),
   description: z.string().optional(),
+  abbr: z.string().optional(),
 });
 
 const wetgeving = defineCollection({

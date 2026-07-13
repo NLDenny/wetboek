@@ -104,3 +104,67 @@ html::before {
     rgba(0, 0, 0, 0.12) 100%
   );
 }
+
+/* =========================
+   Print
+   Legal articles get printed/citeerd in-character (court sessions,
+   handouts), so the page chrome and CRT theming need to disappear in
+   favour of plain, readable, full-width text on paper.
+   ========================= */
+
+@media print {
+  /* Plain class selectors still match here even though these live in
+     Astro component-scoped <style> blocks elsewhere -- scoping adds an
+     attribute selector to the *rule*, not to the element's own class
+     attribute, so a global override still applies (same mechanism as
+     :global(body.nav-open) in BaseLayout.astro). */
+  .site-header,
+  .shell__sidebar,
+  .site-footer,
+  .announcement-banner,
+  .article-preview,
+  .doc__toc,
+  .nav-backdrop,
+  .permalink-btn {
+    display: none !important;
+  }
+
+  html::before,
+  html::after {
+    display: none !important;
+    content: none !important;
+  }
+
+  .shell {
+    grid-template-columns: 1fr !important;
+    max-width: none !important;
+    padding: 0 !important;
+  }
+
+  .doc {
+    grid-template-columns: 1fr !important;
+  }
+
+  /* Force dark-theme text/backgrounds to plain black-on-white -- browsers
+     already drop background-color by default when printing, but not
+     text color, so dark-mode text would otherwise be near-illegible on
+     paper. */
+  body,
+  .doc__article {
+    color: #1a1a1a !important;
+    background: #ffffff !important;
+  }
+
+  /* A manually-collapsed Callout should still print fully expanded.
+     Neither rule can be replaced by [open] (CSS can't set DOM
+     attributes): the first overrides the browser's own UA rule that
+     hides non-summary children of a closed <details>, the second
+     overrides Callout.astro's own sibling-hide rule for the aside. */
+  details:not([open]) > *:not(summary) {
+    display: block !important;
+  }
+
+  .callout__aside {
+    display: block !important;
+  }
+}

@@ -12,9 +12,10 @@ interface Props {
   title: string;
   description?: string;
   headings: Heading[];
+  abbr?: string;
 }
 
-const { title, description, headings } = Astro.props;
+const { title, description, headings, abbr } = Astro.props;
 const hasToc = headings.some((h) => h.depth >= 2 && h.depth <= 4);
 ---
 
@@ -111,6 +112,12 @@ const hasToc = headings.some((h) => h.depth >= 2 && h.depth <= 4);
     white-space: nowrap;
   }
 
+  /* .cite-btn reuses .permalink-btn's position/opacity/hover-reveal rules
+     above (combined selector), it only needs its own copied-state label. */
+  .doc__article :global(.cite-btn.is-copied)::after {
+    content: 'Citaat gekopieerd';
+  }
+
   .doc__article :global(h3),
   .doc__article :global(h4) {
     margin-top: 2.5rem;
@@ -150,7 +157,7 @@ const hasToc = headings.some((h) => h.depth >= 2 && h.depth <= 4);
   }
 </style>
 
-<script>
+<script define:vars={{ abbr }}>
   // Every article in every wet is an h5 with an auto-slugified id
   // (see src/lib/rehype-mkdocs-slugs.mjs), so a permalink button can be
   // injected site-wide here without touching any of the MDX content files.
@@ -179,5 +186,39 @@ const hasToc = headings.some((h) => h.depth >= 2 && h.depth <= 4);
     });
 
     heading.appendChild(button);
+
+    // Only wetgeving documents carry an `abbr` (e.g. "Sr") in their
+    // frontmatter, and only headings that actually follow the
+    // "Artikel <nr> | <titel>" convention have a number to cite -- both
+    // doj/pages content and any oddly-formatted heading silently get no
+    // citation button instead of a broken one.
+    const articleMatch = heading.textContent.match(/Artikel\s+(\S+)/i);
+    if (abbr && articleMatch) {
+      const citation = `Art. ${articleMatch[1]} ${abbr}`;
+      const citeButton = document.createElement('button');
+      citeButton.type = 'button';
+      citeButton.className = 'permalink-btn cite-btn';
+      citeButton.setAttribute('aria-label', 'Kopieer citaat van dit artikel');
+      citeButton.innerHTML =
+        '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">' +
+        '<path d="M9 18V9a3 3 0 0 1 3-3"></path>' +
+        '<path d="M6 12h3v6H6a3 3 0 0 1-3-3v-1a2 2 0 0 1 2-2Z"></path>' +
+        '<path d="M18 18V9a3 3 0 0 1 3-3"></path>' +
+        '<path d="M15 12h3v6h-3a3 3 0 0 1-3-3v-1a2 2 0 0 1 2-2Z"></path>' +
+        '</svg>';
+
+      citeButton.addEventListener('click', async () => {
+        try {
+          await navigator.clipboard.writeText(citation);
+        } catch {
+          // Clipboard API unavailable (e.g. insecure context) -- silently
+          // skip the confirmation state below rather than error.
+        }
+        citeButton.classList.add('is-copied');
+        setTimeout(() => citeButton.classList.remove('is-copied'), 1500);
+      });
+
+      heading.appendChild(citeButton);
+    }
   });
 </script>
