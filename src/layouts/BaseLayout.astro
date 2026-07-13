@@ -76,6 +76,7 @@ const ogImageUrl = new URL(ogImage.src, Astro.site).toString();
 <style>
   .shell {
     flex: 1 0 auto;
+    min-width: 0;
     width: 100%;
     max-width: 76rem;
     margin: 0 auto;
@@ -89,6 +90,17 @@ const ogImageUrl = new URL(ogImage.src, Astro.site).toString();
   .shell__sidebar {
     position: sticky;
     top: calc(var(--header-height) + var(--banner-offset) + 1.5rem);
+  }
+
+  /* min-width: 0 breaks the automatic-minimum-size chain: a wide inline
+     image deep inside .shell__content (e.g. the home page's photo) would
+     otherwise force this grid item -- and everything above it up to
+     <body> -- wider than the viewport, even though the image itself has
+     max-width: 100% (that CSS rule doesn't affect min-content sizing for
+     flex/grid items, only the final rendered size). Same root cause as
+     the header search box fix, just one layer further up the tree. */
+  .shell__content {
+    min-width: 0;
   }
 
   @media (max-width: 60rem) {

@@ -44,6 +44,15 @@ const hasToc = headings.some((h) => h.depth >= 2 && h.depth <= 4);
     grid-template-columns: 1fr;
   }
 
+  .doc__article {
+    /* Without this, a wide table's min-content (even with the
+       overflow-x: auto below) still counts toward this grid item's
+       automatic minimum size, forcing the whole page wider than the
+       viewport instead of letting the table scroll within its own box.
+       Same root cause as .shell/.shell__content in BaseLayout.astro. */
+    min-width: 0;
+  }
+
   .doc__toc {
     position: sticky;
     top: calc(var(--header-height) + var(--banner-offset) + 1.5rem);
@@ -110,6 +119,9 @@ const hasToc = headings.some((h) => h.depth >= 2 && h.depth <= 4);
   }
 
   .doc__article :global(table) {
+    display: block;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
     border-collapse: collapse;
     width: 100%;
     margin: 1rem 0;

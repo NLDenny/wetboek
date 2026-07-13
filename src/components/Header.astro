@@ -61,6 +61,7 @@ import dojSeal from '../assets/img/doj-seal.png';
     display: flex;
     align-items: center;
     gap: 0.6rem;
+    min-width: 0;
   }
 
   .nav-toggle {
@@ -135,6 +136,16 @@ import dojSeal from '../assets/img/doj-seal.png';
     display: flex;
     align-items: center;
     gap: 0.75rem;
+    min-width: 0;
+  }
+
+  @media (max-width: 60rem) {
+    /* Frees up horizontal room for the search input, which otherwise
+       gets squeezed to an unusably small width once the sidebar
+       collapses into the hamburger menu (see SearchBox.astro). */
+    .site-header__subtitle {
+      display: none;
+    }
   }
 </style>
 

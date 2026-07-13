@@ -16,11 +16,14 @@
 <style>
   .search {
     position: relative;
-    width: 16rem;
+    flex: 1 1 auto;
+    min-width: 0;
+    max-width: 16rem;
   }
 
   .search__input {
     width: 100%;
+    min-width: 0;
     padding: 0.4rem 3rem 0.4rem 0.6rem;
     border-radius: 4px;
     border: 1px solid rgba(255, 255, 255, 0.4);
@@ -71,6 +74,31 @@
     box-shadow: 0 8px 24px rgba(0, 0, 0, 0.25);
     padding: 0.5rem;
     z-index: 20;
+  }
+
+  @media (max-width: 60rem) {
+    .search__hint {
+      display: none;
+    }
+
+    .search__input {
+      padding-right: 0.6rem;
+    }
+
+    /* Anchoring to .search's own edge (right: 0) and sizing against the
+       viewport (max-width: 90vw) are two different reference frames that
+       disagree once .search isn't flush against the viewport's right edge
+       -- switching to fixed positioning keeps the panel on-screen. The
+       inline script below sets `top` explicitly since calc(100% + ...)
+       no longer resolves against .search once this is fixed. */
+    .search__results {
+      position: fixed;
+      top: var(--search-results-top, calc(100% + 0.5rem));
+      left: 1rem;
+      right: 1rem;
+      width: auto;
+      max-width: none;
+    }
   }
 
   /* :global() below: these elements are injected at runtime via
@@ -135,6 +163,16 @@
     let pagefind = null;
     let debounceTimer;
 
+    // Below 60rem, .search__results switches to `position: fixed` (see the
+    // media query above) so it can't overflow off-screen -- but that means
+    // `top: calc(100% + ...)` no longer resolves against .search, so it has
+    // to be set explicitly from the search box's actual position instead.
+    function positionResultsForMobile() {
+      if (!window.matchMedia('(max-width: 60rem)').matches) return;
+      const rect = root.getBoundingClientRect();
+      resultsEl.style.setProperty('--search-results-top', `${rect.bottom + 8}px`);
+    }
+
     async function ensurePagefind() {
       if (pagefind) return pagefind;
       try {
@@ -155,6 +193,7 @@
 
       const pf = await ensurePagefind();
       if (!pf) {
+        positionResultsForMobile();
         resultsEl.hidden = false;
         resultsEl.innerHTML = '<p class="search__empty">Zoeken is alleen beschikbaar in de productie-build.</p>';
         return;
@@ -175,6 +214,7 @@
         };
       });
 
+      positionResultsForMobile();
       resultsEl.hidden = false;
       if (items.length === 0) {
         resultsEl.innerHTML = '<p class="search__empty">Geen resultaten gevonden.</p>';
