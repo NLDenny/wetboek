@@ -221,4 +221,34 @@ const hasToc = headings.some((h) => h.depth >= 2 && h.depth <= 4);
       heading.appendChild(citeButton);
     }
   });
+
+  // Article text is authored as a numbered/lettered list per item (see
+  // src/lib/remark-unwrap-article-text.mjs), joined into one long logical
+  // line per item so the browser can word-wrap it naturally. But a plain
+  // wrap always restarts at column 0, so a wrapped "   a. ..." or "1. ..."
+  // item loses its marker indent on every line after the first. This gives
+  // each line its own CSS hanging indent -- sized to its own leading
+  // whitespace + marker -- so wrapped continuation text lines up under the
+  // marker's text instead of the left edge, at any viewport width.
+  const MARKER_RE = /^(\s*)((?:\d+\.|\d+°|[a-zA-Z]\.|-)\s)/;
+  document.querySelectorAll('.doc__article pre.astro-code > code').forEach((code) => {
+    // Shiki separates line spans with a literal newline text node; once a
+    // line becomes a block box below, that leftover newline would render
+    // as its own blank line (still preserved by the block's white-space:
+    // pre-wrap), so it has to go first.
+    Array.from(code.childNodes).forEach((node) => {
+      if (node.nodeType === Node.TEXT_NODE && node.textContent.trim() === '') {
+        node.remove();
+      }
+    });
+
+    code.querySelectorAll(':scope > span.line').forEach((line) => {
+      line.style.display = 'block';
+      const match = MARKER_RE.exec(line.textContent);
+      if (!match) return;
+      const width = match[1].length + match[2].length;
+      line.style.paddingLeft = `${width}ch`;
+      line.style.textIndent = `-${width}ch`;
+    });
+  });
 </script>
