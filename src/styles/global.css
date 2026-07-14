@@ -69,6 +69,14 @@ pre {
   border-radius: 4px;
   padding: 1rem;
   overflow-x: auto;
+  /* Article text is written as long unbroken lines inside fenced code
+     blocks (see e.g. src/content/wetgeving/sv.mdx) -- pre-wrap keeps the
+     source's intentional line breaks/indentation but also wraps long
+     lines to the container width, so reading an article no longer
+     requires horizontal scrolling. overflow-x: auto stays as a fallback
+     for the rare unbreakable long token. */
+  white-space: pre-wrap;
+  overflow-wrap: break-word;
 }
 
 /* =========================
